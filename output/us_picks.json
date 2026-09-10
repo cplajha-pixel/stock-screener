@@ -24,20 +24,54 @@
     "TMCI",
     "OSCR"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-10",
+    "entry_price": 14.045,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": -1.32,
+    "r_multiple": -0.24,
+    "remaining_frac": 1.0,
+    "last_close": 13.86,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-10",
+   "ticker": "OMER",
+   "name": "Omeros Corporation - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 19.62,
+   "stop_price": 18.6272,
+   "stop_pct": 5.06,
+   "reason": "3개월 +82.3% (후보 중 모멘텀 상위) · 급등 +130.6% 뒤 11일 횡보, 폭 9.0% · 거래량 급등기 대비 38% 로 감소 · 종가가 트리거가의 94.8% 위치",
+   "candidates": [
+    "RCEL",
+    "LIFE",
+    "TXG",
+    "IOVA",
+    "MNPR",
+    "OMER",
+    "PBF",
+    "FRD",
+    "OSCR",
+    "TMCI"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 1,
-  "triggered": 0,
+  "total": 2,
+  "triggered": 1,
   "not_triggered": 0,
   "closed": 0,
-  "open": 0,
-  "win_rate": null,
-  "avg_pnl_pct": null,
-  "avg_r": null,
-  "sum_pnl_pct": null
+  "open": 1,
+  "win_rate": 0.0,
+  "avg_pnl_pct": -1.32,
+  "avg_r": -0.24,
+  "sum_pnl_pct": -1.32
  },
- "generated_at": "2026-09-10T04:58:31Z"
+ "generated_at": "2026-09-10T21:28:23Z"
 }
