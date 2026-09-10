@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T04:58:32Z",
- "count": 21,
+ "generated_at": "2026-09-10T14:24:28Z",
+ "count": 22,
  "items": {
   "APH": {
    "ticker": "APH",
@@ -273,7 +273,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -460,7 +460,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8011,
+     "views": 8115,
      "comments": 0,
      "positive_pct": null
     },
@@ -496,7 +496,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 223,
+     "views": 224,
      "comments": 0,
      "positive_pct": null
     },
@@ -554,7 +554,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11439,
+     "views": 11456,
      "comments": 0,
      "positive_pct": null
     },
@@ -592,12 +592,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 611,
+     "views": 612,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "AVAH": {
    "ticker": "AVAH",
@@ -852,7 +852,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "BTGO": {
    "ticker": "BTGO",
@@ -1067,7 +1067,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 5,
+     "views": 6,
      "comments": 0,
      "positive_pct": null
     },
@@ -1160,7 +1160,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "CORT": {
    "ticker": "CORT",
@@ -1430,7 +1430,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "FRD": {
    "ticker": "FRD",
@@ -1620,12 +1620,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 8,
+     "views": 10,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1843,7 +1843,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 571,
+     "views": 575,
      "comments": 0,
      "positive_pct": null
     },
@@ -2001,7 +2001,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 514,
+     "views": 516,
      "comments": 0,
      "positive_pct": null
     },
@@ -2023,7 +2023,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "HTFL": {
    "ticker": "HTFL",
@@ -2264,7 +2264,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "IOVA": {
    "ticker": "IOVA",
@@ -2593,7 +2593,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "MNPR": {
    "ticker": "MNPR",
@@ -2808,12 +2808,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 8,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -2998,10 +2998,32 @@
    },
    "news": [
     {
+     "id": "210184",
+     "title": "(카더라) 중국 AI 칩 가격 급등…HBM 부족·수출 규제가 비용 끌어올려",
+     "title_en": "",
+     "summary": "로이터 통신은 소식통을 인용해,\n화웨이와 캄브리콘 등 중국 AI 칩 업체들이 전 세계적인 고대역폭 메모리(HBM) 품귀 현상에 미국의 수출 통제...",
+     "source": "로이터",
+     "time": "2026-09-10T06:24:36.222650Z",
+     "url": "https://www.saveticker.com/news/210184",
+     "tickers": [
+      "NVDA",
+      "AMD",
+      "MU",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 12063,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "209564",
-     "title": "[9보] 애플, 1,999달러짜리 여권 모양 아이폰 듀오로 폴더블폰 경쟁 합류",
-     "title_en": "UPDATE 8-Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
-     "summary": "Duolingo와 삼성의 반응, 애널리스트 논평, 종가, Micron 관련 세부 내용, 3·7·11~13·20~21문단 추가\n\n\nDuo는 7.6...",
+     "title": "[10보] 애플, 1,999달러짜리 여권 모양 아이폰 듀오로 폴더블폰 경쟁 합류",
+     "title_en": "UPDATE 9-Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
+     "summary": "14~15문단에 삼성 및 애널리스트 논평을 추가\n\n\n듀오는 7.6인치 화면으로 펼쳐지며 애플의 A20 프로 칩을 사용하고, 가격은 1,999달러...",
      "source": "reuters",
      "time": "2026-09-09T13:11:50.691177Z",
      "url": "https://www.saveticker.com/news/209564",
@@ -3012,7 +3034,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 329,
+     "views": 369,
      "comments": 0,
      "positive_pct": null
     },
@@ -3033,7 +3055,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11722,
+     "views": 11793,
      "comments": 0,
      "positive_pct": null
     },
@@ -3054,7 +3076,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 6835,
+     "views": 6837,
      "comments": 0,
      "positive_pct": null
     },
@@ -3076,7 +3098,7 @@
       "분석"
      ],
      "is_top": false,
-     "views": 11554,
+     "views": 11562,
      "comments": 0,
      "positive_pct": null
     },
@@ -3097,7 +3119,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 20388,
+     "views": 20396,
      "comments": 0,
      "positive_pct": null
     },
@@ -3118,7 +3140,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 13448,
+     "views": 13456,
      "comments": 0,
      "positive_pct": null
     },
@@ -3142,37 +3164,12 @@
       "정보"
      ],
      "is_top": true,
-     "views": 17102,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "204739",
-     "title": "[분석 기사] AI 반도체 병목, 수율·테스트·레이저로 이동",
-     "title_en": "",
-     "summary": "블룸버그 인텔리전스(BI)는 ‘세미콘 타이완 2026’ 현장 조사 결과,\nAI 반도체 제조 병목이 단기간에 해소되기보다는 2027년 하반기를 기...",
-     "source": "블룸버그",
-     "time": "2026-09-02T08:57:11.264775Z",
-     "url": "https://www.saveticker.com/news/204739",
-     "tickers": [
-      "COHR",
-      "MU",
-      "NVDA",
-      "MRVL",
-      "TSM",
-      "LITE",
-      "SKHY"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 13072,
+     "views": 17103,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "NHC": {
    "ticker": "NHC",
@@ -3349,7 +3346,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -3549,7 +3546,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2817,
+     "views": 2886,
      "comments": 0,
      "positive_pct": null
     },
@@ -3569,7 +3566,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 170,
+     "views": 172,
      "comments": 0,
      "positive_pct": null
     },
@@ -3692,7 +3689,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "PBF": {
    "ticker": "PBF",
@@ -4026,7 +4023,176 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
+  },
+  "PCLA": {
+   "ticker": "PCLA",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 2,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 2/9 (취약)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 544690000.0,
+      "operating_income": -601437000.0,
+      "net_income": -626312000.0,
+      "eps": -683.340001,
+      "operating_cash_flow": -544020000.0,
+      "free_cash_flow": -590017000.0,
+      "total_debt": 281558000.0,
+      "cash": 534889000.0,
+      "equity": 469948000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 784403000.0,
+      "operating_income": -447184000.0,
+      "net_income": -479921000.0,
+      "eps": -583.281376,
+      "operating_cash_flow": -242813000.0,
+      "free_cash_flow": -286838000.0,
+      "total_debt": 557183000.0,
+      "cash": 456775000.0,
+      "equity": 354790000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 559521000.0,
+      "operating_income": -628534000.0,
+      "net_income": -633956000.0,
+      "eps": -770.490827,
+      "operating_cash_flow": -739915000.0,
+      "free_cash_flow": -760392000.0,
+      "total_debt": 252071000.0,
+      "cash": 427967000.0,
+      "equity": 695991000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 682121000.0,
+      "operating_income": -16239000.0,
+      "net_income": -5180000.0,
+      "eps": -6.295614,
+      "operating_cash_flow": -115258000.0,
+      "free_cash_flow": -130705000.0,
+      "total_debt": 110738000.0,
+      "cash": 263100000.0,
+      "equity": 467920000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "RCEL": {
    "ticker": "RCEL",
@@ -4223,7 +4389,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 186,
+     "views": 187,
      "comments": 0,
      "positive_pct": null
     },
@@ -4240,7 +4406,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 5,
      "comments": 0,
      "positive_pct": null
     },
@@ -4257,7 +4423,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 15,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     },
@@ -4274,7 +4440,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 16,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     },
@@ -4291,12 +4457,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 8,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "TEAM": {
    "ticker": "TEAM",
@@ -4500,7 +4666,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 362,
+     "views": 365,
      "comments": 0,
      "positive_pct": null
     },
@@ -4640,7 +4806,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -4875,7 +5041,7 @@
       "실적"
      ],
      "is_top": false,
-     "views": 7429,
+     "views": 7430,
      "comments": 0,
      "positive_pct": null
     },
@@ -4926,7 +5092,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38026,
+     "views": 38030,
      "comments": 0,
      "positive_pct": null
     },
@@ -4997,7 +5163,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "TMCI": {
    "ticker": "TMCI",
@@ -5194,7 +5360,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 11,
+     "views": 12,
      "comments": 0,
      "positive_pct": null
     },
@@ -5211,12 +5377,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 5,
+     "views": 6,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "TXG": {
    "ticker": "TXG",
@@ -5420,7 +5586,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "URGN": {
    "ticker": "URGN",
@@ -5668,7 +5834,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 5,
      "comments": 0,
      "positive_pct": null
     },
@@ -5685,12 +5851,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 2,
+     "views": 3,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   },
   "ZBIO": {
    "ticker": "ZBIO",
@@ -5887,7 +6053,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 262,
+     "views": 263,
      "comments": 0,
      "positive_pct": null
     },
@@ -5904,7 +6070,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 5,
+     "views": 6,
      "comments": 0,
      "positive_pct": null
     },
@@ -5921,12 +6087,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 6,
+     "views": 7,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:58:32.488577+00:00"
+   "updated": "2026-09-10T14:24:28.256387+00:00"
   }
  },
  "market": "us"

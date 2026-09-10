@@ -1,12 +1,41 @@
 {
- "date": "2026-09-09",
- "generated_at": "2026-09-10T00:51:44Z",
- "asof_et": "2026-09-09 20:51",
+ "date": "2026-09-10",
+ "generated_at": "2026-09-10T14:24:28Z",
+ "asof_et": "2026-09-10 10:24",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 0,
- "items": []
+ "count": 1,
+ "items": [
+  {
+   "date": "2026-09-10",
+   "ticker": "PCLA",
+   "name": "PicoCELA Inc. - American Depositary Shares",
+   "exchange": "NASDAQ",
+   "setup": "ep",
+   "trigger_price": 9.18,
+   "stop_price": 8.262,
+   "stop_pct": 10.0,
+   "open": 9.0,
+   "high_so_far": 10.69,
+   "last": 9.4,
+   "prev_close": 7.42,
+   "gap_pct": 21.3,
+   "vol_est": 28848286,
+   "vol20": 341225,
+   "vol_mult": 84.5,
+   "minutes_elapsed": 55,
+   "triggered": true,
+   "adr20": 15.31,
+   "r1m": -18.6,
+   "r3m": 14.2,
+   "r6m": 186.5,
+   "dv20": 2775243,
+   "qty": 38,
+   "score": 14.2,
+   "asof_et": "2026-09-10 10:24"
+  }
+ ]
 }
