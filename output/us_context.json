@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T04:39:02Z",
- "count": 19,
+ "generated_at": "2026-09-10T04:58:32Z",
+ "count": 21,
  "items": {
   "APH": {
    "ticker": "APH",
@@ -273,7 +273,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -460,7 +460,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 7986,
+     "views": 8011,
      "comments": 0,
      "positive_pct": null
     },
@@ -597,7 +597,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "AVAH": {
    "ticker": "AVAH",
@@ -852,7 +852,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "BTGO": {
    "ticker": "BTGO",
@@ -1160,7 +1160,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "CORT": {
    "ticker": "CORT",
@@ -1430,7 +1430,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "FRD": {
    "ticker": "FRD",
@@ -1625,7 +1625,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2023,7 +2023,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "HTFL": {
    "ticker": "HTFL",
@@ -2264,7 +2264,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "IOVA": {
    "ticker": "IOVA",
@@ -2593,7 +2593,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "MNPR": {
    "ticker": "MNPR",
@@ -2813,7 +2813,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -3012,7 +3012,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 325,
+     "views": 329,
      "comments": 0,
      "positive_pct": null
     },
@@ -3033,7 +3033,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11721,
+     "views": 11722,
      "comments": 0,
      "positive_pct": null
     },
@@ -3054,7 +3054,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 6834,
+     "views": 6835,
      "comments": 0,
      "positive_pct": null
     },
@@ -3076,7 +3076,7 @@
       "분석"
      ],
      "is_top": false,
-     "views": 11553,
+     "views": 11554,
      "comments": 0,
      "positive_pct": null
     },
@@ -3118,7 +3118,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 13446,
+     "views": 13448,
      "comments": 0,
      "positive_pct": null
     },
@@ -3172,7 +3172,184 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
+  },
+  "NHC": {
+   "ticker": "NHC",
+   "name": "National HealthCare Corporation",
+   "sector": "Healthcare",
+   "industry": "Medical Care Facilities",
+   "market_cap": 3558895360,
+   "description": "National HealthCare Corporation engages in the operation of services to skilled nursing facilities, assisted and independent living facilities, homecare and hospice agencies, and health hospitals. It operates through two segments: Inpatient and Homecare and Hospice Services. The company's skilled nursing facilities offer licensed therapy services, nutrition services, social services, activities, and housekeeping and laundry services, as well as medical services prescribed by physicians; and rehabilitative services, such as physical, speech, respiratory, and occupational therapy for patients re",
+   "price": 227.24,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "next_earnings": "2026-11-06",
+   "earnings_est": {
+    "eps_avg": null,
+    "revenue_avg": null
+   },
+   "short": {
+    "pct_of_float": 6.0,
+    "days_to_cover": 6.7,
+    "level": "보통",
+    "institutions_pct": 66.8,
+    "insiders_pct": 18.8
+   },
+   "health": {
+    "overall": "B",
+    "overall_word": "좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 2.784,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.862,
+      "unit": "x",
+      "grade": "B",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 4.1,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 12.0,
+      "unit": "%",
+      "grade": "B",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 8.8,
+      "unit": "%",
+      "grade": "C",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "보통"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 13.3,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 9.0,
+      "unit": "%",
+      "grade": "B",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 9,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 7.01,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 9/9 (우량) · 알트만 Z 7.01 (안전)",
+    "cash": 210190000,
+    "debt": 31409000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 1517781000.0,
+      "operating_income": 128352000.0,
+      "net_income": 120015000.0,
+      "eps": 7.67,
+      "operating_cash_flow": 185078000.0,
+      "free_cash_flow": 148632000.0,
+      "total_debt": 87072000.0,
+      "cash": 92829000.0,
+      "equity": 1068772000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 1297937000.0,
+      "operating_income": 89895000.0,
+      "net_income": 101927000.0,
+      "eps": 6.53,
+      "operating_cash_flow": 107303000.0,
+      "free_cash_flow": 79703000.0,
+      "total_debt": 214766000.0,
+      "cash": 76121000.0,
+      "equity": 980161000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 1141544000.0,
+      "operating_income": 57458000.0,
+      "net_income": 66798000.0,
+      "eps": 4.34,
+      "operating_cash_flow": 111216000.0,
+      "free_cash_flow": 83315000.0,
+      "total_debt": 93387000.0,
+      "cash": 107076000.0,
+      "equity": 908752000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 1074281000.0,
+      "operating_income": 28731000.0,
+      "net_income": 22445000.0,
+      "eps": 1.45,
+      "operating_cash_flow": 8742000.0,
+      "free_cash_flow": -21458000.0,
+      "total_debt": 125936000.0,
+      "cash": 58667000.0,
+      "equity": 874276000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 25.50393,
+    "forward_pe": 528.46515,
+    "price_to_book": 3.1710856,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -3372,7 +3549,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2810,
+     "views": 2817,
      "comments": 0,
      "positive_pct": null
     },
@@ -3515,7 +3692,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "PBF": {
    "ticker": "PBF",
@@ -3849,7 +4026,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "RCEL": {
    "ticker": "RCEL",
@@ -4119,7 +4296,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "TEAM": {
    "ticker": "TEAM",
@@ -4463,7 +4640,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -4820,7 +4997,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "TMCI": {
    "ticker": "TMCI",
@@ -5039,7 +5216,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "TXG": {
    "ticker": "TXG",
@@ -5243,7 +5420,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   },
   "URGN": {
    "ticker": "URGN",
@@ -5513,7 +5690,243 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T04:39:02.907233+00:00"
+   "updated": "2026-09-10T04:58:32.488577+00:00"
+  },
+  "ZBIO": {
+   "ticker": "ZBIO",
+   "name": "Zenas BioPharma, Inc.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 2104556416,
+   "description": "Zenas BioPharma, Inc., a clinical-stage biopharma company, engages in the development and commercialization of transformative immunology-based therapies. Its lead product candidate is obexelimab, a bifunctional monoclonal antibody designed to bind CD19 and Fc?RIIb for the treatment of various I&I diseases and various indications, including immunoglobulin G4-related disease, multiple sclerosis, and systemic lupus erythematosus. The company develops ZB002, an anti-TNFa monoclonal antibody; ZB004, a CTLA-4-Ig fusion protein designed to have an extended half-life versus; and ZB001, an anti-IGF-1R ",
+   "price": 32.29,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 8,
+    "target_mean": 47.0,
+    "target_low": 32.0,
+    "target_high": 59.0,
+    "upside_pct": 45.6,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 7,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-12",
+   "earnings_est": {
+    "eps_avg": -1.27,
+    "revenue_avg": 0
+   },
+   "short": {
+    "pct_of_float": 26.3,
+    "days_to_cover": 16.49,
+    "level": "매우 높음",
+    "institutions_pct": 93.6,
+    "insiders_pct": 16.7
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 120.544,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 9.933,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -21139.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -7765.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -199.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 2,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 3.87,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 D (주의) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 2/9 (취약) · 알트만 Z 3.87 (안전)",
+    "cash": 643126016,
+    "debt": 297860992,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 10000000.0,
+      "operating_income": -211385000.0,
+      "net_income": -377737000.0,
+      "eps": -8.44,
+      "operating_cash_flow": -172333000.0,
+      "free_cash_flow": -207351000.0,
+      "total_debt": 1326000.0,
+      "cash": 110641000.0,
+      "equity": 242144000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 5000000.0,
+      "operating_income": -163888000.0,
+      "net_income": -156988000.0,
+      "eps": -11.89,
+      "operating_cash_flow": -119674000.0,
+      "free_cash_flow": -119805000.0,
+      "total_debt": 1003000.0,
+      "cash": 319742000.0,
+      "equity": 312458000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 50000000.0,
+      "operating_income": -27147000.0,
+      "net_income": -37124000.0,
+      "eps": -2.131618,
+      "operating_cash_flow": -30529000.0,
+      "free_cash_flow": -30546000.0,
+      "total_debt": 21113000.0,
+      "cash": 56857000.0,
+      "equity": -225721000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 0.0,
+      "operating_income": -75199000.0,
+      "net_income": -119282000.0,
+      "eps": -9.261278,
+      "operating_cash_flow": -65652000.0,
+      "free_cash_flow": -67850000.0,
+      "total_debt": 1527000.0,
+      "cash": 67209000.0,
+      "equity": -192286000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -6.929185,
+    "price_to_book": 8.275244,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "206887",
+     "title": "Zenas 바이오파마, 다가오는 헬스케어 투자자 콘퍼런스에서 발표 예정",
+     "title_en": "Zenas BioPharma to Present at Upcoming Healthcare Investor Conferences",
+     "summary": "매사추세츠주 월섬, 2026년 9월 4일 (글로브 뉴스와이어) -- 임상 단계의 글로벌 바이오제약 기업으로 자가면역 및 염증성 질환을 앓는 환자...",
+     "source": "globenewswire",
+     "time": "2026-09-04T11:05:00Z",
+     "url": "https://www.saveticker.com/news/206887",
+     "tickers": [
+      "ZBIO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 262,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "195100",
+     "title": "제나스 바이오파마, 나스닥 상장 규정 5635(c)(4)에 따른 유인 보상 교부 발표",
+     "title_en": "Zenas BioPharma Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+     "summary": "매사추세츠주 월섬, 2026년 8월 18일 (GLOBE NEWSWIRE) -- 자가면역 및 염증성 질환 환자를 위한 혁신적 치료제의 개발 및 상...",
+     "source": "globenewswire",
+     "time": "2026-08-18T20:15:00Z",
+     "url": "https://www.saveticker.com/news/195100",
+     "tickers": [
+      "ZBIO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 5,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "192086",
+     "title": "제나스 바이오파마, 2026년 2분기 실적 발표 및 기업 현황 업데이트",
+     "title_en": "Zenas BioPharma Reports Second Quarter 2026 Financial Results and Provides Corporate Update",
+     "summary": "- IgG4-RD 치료를 위한 오벡셀리맙(Obexelimab) BLA 제출, FDA 승인; PDUFA 목표 심사 기일 2027년 5월 27일 -...",
+     "source": "globenewswire",
+     "time": "2026-08-13T11:00:00Z",
+     "url": "https://www.saveticker.com/news/192086",
+     "tickers": [
+      "ZBIO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 6,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:58:32.488577+00:00"
   }
  },
  "market": "us"

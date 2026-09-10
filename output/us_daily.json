@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T04:40:10Z",
+ "generated_at": "2026-09-10T04:58:48Z",
  "date": "2026-09-09",
  "macro": [
   {
@@ -89,13 +89,13 @@
   {
    "ticker": "CL=F",
    "name": "WTI 원유",
-   "last": 96.13,
+   "last": 96.12,
    "date": "2026-09-10",
-   "d1": 0.08,
-   "w1": 5.63,
-   "m1": 15.54,
-   "m3": 6.78,
-   "d1_abs": 0.08,
+   "d1": 0.07,
+   "w1": 5.61,
+   "m1": 15.53,
+   "m3": 6.76,
+   "d1_abs": 0.07,
    "level": false,
    "high_52w": 112.95,
    "low_52w": 55.27
@@ -103,13 +103,13 @@
   {
    "ticker": "GC=F",
    "name": "금",
-   "last": 4454.9,
+   "last": 4451.8,
    "date": "2026-09-10",
-   "d1": 0.88,
-   "w1": 2.03,
-   "m1": 1.64,
-   "m3": 8.44,
-   "d1_abs": 38.9,
+   "d1": 0.81,
+   "w1": 1.96,
+   "m1": 1.57,
+   "m3": 8.36,
+   "d1_abs": 35.8,
    "level": false,
    "high_52w": 5318.4,
    "low_52w": 3636.9
@@ -117,13 +117,13 @@
   {
    "ticker": "BTC-USD",
    "name": "비트코인",
-   "last": 78327.91,
+   "last": 78383.98,
    "date": "2026-09-10",
-   "d1": -0.14,
-   "w1": -1.69,
-   "m1": 13.08,
-   "m3": 25.81,
-   "d1_abs": -110.67,
+   "d1": -0.07,
+   "w1": -1.62,
+   "m1": 13.16,
+   "m3": 25.9,
+   "d1_abs": -54.6,
    "level": false,
    "high_52w": 96929.33,
    "low_52w": 58558.86
@@ -133,10 +133,10 @@
    "name": "구리",
    "last": 6.85,
    "date": "2026-09-10",
-   "d1": 0.68,
-   "w1": 5.36,
-   "m1": 3.59,
-   "m3": 9.61,
+   "d1": 0.73,
+   "w1": 5.41,
+   "m1": 3.64,
+   "m3": 9.67,
    "d1_abs": 0.05,
    "level": false,
    "high_52w": 6.85,
@@ -144,10 +144,10 @@
   }
  ],
  "explain": [
-  "SPY가 200일 이동평균보다 7.8% 위, S&P 500 종목 중 59.7%가 200일선 위 → 장기 자금 신호 '지금 투입'",
+  "SPY가 200일 이동평균보다 7.2% 위, S&P 500 종목 중 59.7%가 200일선 위 → 장기 자금 신호 '지금 투입'",
   "VIX 16.46: 안정 구간(20 미만) — 추세 매매에 유리한 환경",
   "미 10년물 4.84% (하루 +0.03p): 큰 변화 없음",
-  "WTI 원유 $96.13 (한 달 +15.54%): 유가 급등 — 에너지주 강세, 소비·항공에 부담, 물가 우려",
+  "WTI 원유 $96.12 (한 달 +15.53%): 유가 급등 — 에너지주 강세, 소비·항공에 부담, 물가 우려",
   "달러 인덱스 98.74 (한 달 -1.08%): 달러 안정",
   "소형주가 대형주보다 한 달 -1.7%p: 비슷"
  ],
@@ -567,7 +567,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 29957,
+   "views": 30241,
    "comments": 0,
    "positive_pct": null
   },
@@ -584,7 +584,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 12489,
+   "views": 12544,
    "comments": 0,
    "positive_pct": null
   },
@@ -601,7 +601,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 18234,
+   "views": 18260,
    "comments": 0,
    "positive_pct": null
   },
@@ -618,7 +618,7 @@
     "정보"
    ],
    "is_top": true,
-   "views": 20465,
+   "views": 20486,
    "comments": 0,
    "positive_pct": null
   },
@@ -636,7 +636,7 @@
     "에너지"
    ],
    "is_top": true,
-   "views": 16962,
+   "views": 16965,
    "comments": 0,
    "positive_pct": null
   },
@@ -655,7 +655,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 6354,
+   "views": 6364,
    "comments": 0,
    "positive_pct": null
   },
@@ -674,7 +674,7 @@
     "정보"
    ],
    "is_top": true,
-   "views": 9796,
+   "views": 9803,
    "comments": 0,
    "positive_pct": null
   },
@@ -691,7 +691,7 @@
     "정보"
    ],
    "is_top": true,
-   "views": 7192,
+   "views": 7202,
    "comments": 0,
    "positive_pct": null
   },
@@ -708,7 +708,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 24566,
+   "views": 24567,
    "comments": 0,
    "positive_pct": null
   },
@@ -725,7 +725,7 @@
     "정보"
    ],
    "is_top": true,
-   "views": 13700,
+   "views": 13704,
    "comments": 0,
    "positive_pct": null
   },
@@ -761,7 +761,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 4030,
+   "views": 4033,
    "comments": 0,
    "positive_pct": null
   },
@@ -778,7 +778,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 14167,
+   "views": 14170,
    "comments": 0,
    "positive_pct": null
   },
@@ -834,7 +834,7 @@
   },
   {
    "date": "2026-07-31",
-   "breadth_pct": 68.1
+   "breadth_pct": 67.9
   },
   {
    "date": "2026-08-03",
@@ -894,7 +894,7 @@
   },
   {
    "date": "2026-08-21",
-   "breadth_pct": 72.8
+   "breadth_pct": 72.6
   },
   {
    "date": "2026-08-24",
@@ -906,7 +906,7 @@
   },
   {
    "date": "2026-08-26",
-   "breadth_pct": 73.0
+   "breadth_pct": 72.8
   },
   {
    "date": "2026-08-27",
@@ -945,14 +945,14 @@
    "breadth_pct": 59.7
   }
  ],
- "short_universe_size": 124,
+ "short_universe_size": 126,
  "market": "us",
  "temperature": {
   "index": "SPY",
-  "close": 765.96,
-  "sma200": 710.43,
+  "close": 762.4,
+  "sma200": 710.95,
   "above_sma200": true,
-  "pct_vs_sma200": 7.8,
+  "pct_vs_sma200": 7.2,
   "breadth_pct": 59.7,
   "breadth_n": 501,
   "signal": "지금 투입"
