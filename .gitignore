@@ -1,0 +1,34 @@
+# 데이터 캐시 (커밋하지 않음)
+data/
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# 비밀 정보
+.env
+*.key
+*.jks
+*.keystore
+key.properties
+
+# Flutter / Android
+app/build/
+app/.dart_tool/
+app/.idea/
+app/android/.gradle/
+app/android/local.properties
+app/android/app/release/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db

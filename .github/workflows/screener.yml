@@ -1,0 +1,116 @@
+name: screener
+
+on:
+  schedule:
+    # 평일 미국장 마감 후 (UTC 21:15 = 서머타임 17:15 ET / 겨울 16:15 ET = 한국 06:15)
+    # → 단기 돌파 대기 + 중기. 자동 모드라서 매월 첫 거래일엔 장기, 월요일엔 인사이트도 같이 실행
+    - cron: '15 21 * * 1-5'
+    # 평일 미국장 개장 30분 뒤 EP (10:00 ET). 서머타임 = 14:00 UTC, 겨울 = 15:00 UTC.
+    # 스크립트가 미국 동부 시간을 확인해서 시간이 아니면 스스로 건너뜀
+    - cron: '0 14 * * 1-5'
+    - cron: '0 15 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      task:
+        description: '실행할 작업'
+        type: choice
+        default: auto
+        options: [auto, short, ep, mid, long, insight, all]
+      force:
+        description: '시간/날짜/캐시 조건 무시'
+        type: boolean
+        default: false
+
+concurrency:
+  group: screener
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Python 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: 데이터 캐시 복원
+        uses: actions/cache/restore@v4
+        with:
+          path: data
+          key: data-${{ github.run_id }}
+          restore-keys: |
+            data-
+
+      - name: 실행 옵션 결정
+        id: flags
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          TASK: ${{ github.event.inputs.task }}
+          FORCE: ${{ github.event.inputs.force }}
+        run: |
+          FLAGS=""
+          if [ "$EVENT" = "schedule" ]; then
+            case "$SCHEDULE" in
+              "0 14 * * 1-5"|"0 15 * * 1-5") FLAGS="--ep" ;;
+              *) FLAGS="" ;;
+            esac
+          else
+            case "$TASK" in
+              short)   FLAGS="--short" ;;
+              ep)      FLAGS="--ep --force" ;;
+              mid)     FLAGS="--mid" ;;
+              long)    FLAGS="--long" ;;
+              insight) FLAGS="--insight" ;;
+              all)     FLAGS="--short --mid --long --insight" ;;
+              *)       FLAGS="" ;;
+            esac
+            if [ "$FORCE" = "true" ]; then FLAGS="$FLAGS --force"; fi
+          fi
+          echo "flags=$FLAGS" >> "$GITHUB_OUTPUT"
+          echo "실행 옵션: [$FLAGS]"
+
+      - name: 스크리너 실행
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PYTHONUNBUFFERED: '1'
+        run: python screener.py ${{ steps.flags.outputs.flags }}
+
+      - name: 데이터 캐시 저장
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: data-${{ github.run_id }}
+
+      - name: 결과 커밋
+        if: always()
+        run: |
+          git config user.name "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add -A output
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -m "결과 갱신 $(date -u +'%Y-%m-%d %H:%M UTC') [${{ steps.flags.outputs.flags }}]"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash || true
+            sleep 10
+          done
+          exit 1

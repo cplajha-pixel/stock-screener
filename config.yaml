@@ -1,0 +1,156 @@
+# =====================================================================
+# 스크리너 설정 (모든 숫자 파라미터는 여기서만 바꿉니다)
+# 기본값은 지시문에 적힌 값 그대로입니다.
+# =====================================================================
+
+data:
+  screener_lookback_days: 400        # 스크리너용 최근 거래일 수
+  backtest_start: "2015-01-01"       # 백테스트 시작일
+  batch_size: 300                    # yfinance 배치 다운로드 크기
+  retries: 3                         # 다운로드 재시도 횟수
+  fundamentals_max_age_days: 25      # 재무 데이터 캐시 유효기간(일)
+
+# ---------------------------------------------------------------------
+# 4. 미국 단기 (며칠 ~ 2주)
+# ---------------------------------------------------------------------
+us_short:
+  universe:
+    min_close: 2                     # 종가 >= $2
+    min_dv20: 1000000                # DV20 >= $1,000,000
+    min_adr20: 5                     # ADR20 >= 5%
+    momentum_top_pct: 2              # R1M/R3M/R6M 중 하나라도 상위 2%
+  breakout:                          # 셋업 A - 돌파
+    peak_window_start: 60            # t-60 ~
+    peak_window_end: 10              # ~ t-10 구간 최고가 = peak
+    trough_lookback: 40              # peak 이전 40일 최저가 = trough
+    min_runup_pct: 30                # peak/trough - 1 >= 30%
+    box_min_days: 10                 # peak 이후 횡보 최소 일수
+    box_max_days: 40                 # peak 이후 횡보 최대 일수
+    box_max_range_pct: 25            # box_high/box_low - 1 <= 25%
+    vol_recent_days: 10              # 최근 10일 평균 거래량 <
+    vol_before_peak_days: 10         # peak 직전 10일 평균 거래량
+    trend_sma: 20                    # t-1 종가 >= SMA20 또는
+    trend_adr_mult: 1                # SMA20 대비 1 x ADR 이내
+    sma10_rising_days: 5             # SMA10이 5일 전보다 높음
+    max_above_box_pct: 5             # 진입가가 box_high보다 5% 넘게 높으면 건너뜀
+  ep:                                # 셋업 B - 에피소딕 피벗
+    min_gap: 1.10                    # t 시가 >= t-1 종가 x 1.10
+    max_gap: 1.40                    # x 1.40 초과면 건너뜀
+    vol_mult: 5                      # t 거래량 >= Vol20 x 5
+    max_r3m_pct: 25                  # t-1 기준 R3M <= +25%
+    entry_mult: 1.02                 # 진입가 = t 시가 x 1.02
+    apply_momentum_filter: true      # 4-1 유니버스의 모멘텀 상위 2% 조건을 EP에도 적용
+    session_minutes: 390             # 정규장 길이(분) - 누적 거래량 하루치 환산용
+    run_window_et: ["09:50", "11:00"]  # 자동 실행 시 이 시간(미국 동부) 밖이면 건너뜀
+  exit:
+    stop_floor_pct: 3                # 손절폭 = max(ADR20, 3%)
+    stop_min_pct: 3                  # ... 를 3% ~
+    stop_max_pct: 10                 # ... 10% 로 제한
+    partial_day: 3                   # 진입 후 3번째 거래일 종가에
+    partial_frac: 0.5                # 50% 매도, 남은 물량 stop = 진입가
+    trail_sma: 10                    # 종가 < SMA10 이면 전량 청산
+    max_hold_days: 60                # 최대 보유 60거래일
+  money:
+    capital: 700                     # 기본 자산 $700
+    risk_pct: 5                      # 1회 리스크 = 자산의 5%
+    max_position_pct: 50             # 한 종목 최대 비중 50%
+    max_positions: 3                 # 동시 최대 3종목
+    rank_by: r3m                     # 신호가 많으면 R3M 높은 순
+    commission_pct: 0.25             # 수수료 편도 (백테스트용)
+    slippage_pct: 0.2                # 슬리피지 편도 (백테스트용)
+
+# ---------------------------------------------------------------------
+# 5. 미국 중기 (몇 주 ~ 몇 달) - 추세 눌림목
+# ---------------------------------------------------------------------
+us_mid:
+  universe:
+    min_close: 5                     # 종가 >= $5
+    min_dv20: 5000000                # DV20 >= $5,000,000
+    adr_min: 2                       # ADR20 2 ~ 8%
+    adr_max: 8
+  trend:                             # 미너비니 트렌드 템플릿
+    sma200_rising_days: 21           # SMA200이 1개월(21거래일) 전보다 높음
+    above_52w_low_pct: 30            # 52주 저가 대비 +30% 이상
+    below_52w_high_pct: 25           # 52주 고가 대비 -25% 이내
+    r6m_top_pct: 20                  # R6M이 유니버스 상위 20%
+  pullback:
+    high_window: 20                  # 최근 20일 고점 대비
+    min_pct: 5                       # -5% ~
+    max_pct: 15                      # -15%
+    sma20_adr_mult: 1                # 종가가 SMA20 대비 +-1 x ADR 이내
+  exit:
+    stop_low_days: 10                # 손절 = 최근 10일 최저가
+    stop_mult: 0.99                  # x 0.99
+    stop_max_pct: 8                  # 단 진입가 대비 -8% 이내
+    target_r: 2                      # +2R에
+    partial_frac: 0.5                # 절반 매도
+    trail_sma: 50                    # 나머지는 종가 < SMA50 이면 전량 청산
+    max_hold_days: 120               # 최대 보유 120거래일
+  money:
+    capital: 3500                    # 중기 자금 (단기와 별도)
+    risk_pct: 2                      # 1회 리스크 자산의 2%
+    max_position_pct: 30             # 한 종목 최대 30%
+    max_positions: 5                 # 동시 최대 5종목
+    rank_by: r6m                     # 신호가 많으면 R6M 높은 순
+    commission_pct: 0.25
+    slippage_pct: 0.2
+
+# ---------------------------------------------------------------------
+# 6. 미국 장기 (몇 달 ~ 몇 년)
+# ---------------------------------------------------------------------
+us_long:
+  fundamentals:
+    min_roe_pct: 15                  # ROE >= 15%
+    min_revenue_growth_pct: 8        # 매출 성장(yoy) >= 8%
+    min_operating_margin_pct: 10     # 영업이익률 >= 10%
+    min_fcf: 0                       # 잉여현금흐름 > 0
+    max_debt_to_equity_pct: 150      # 부채/자본 <= 150% (금융주 제외)
+    exclude_debt_sectors: ["Financial Services", "Financials"]
+  trend:
+    sma200_rising_months: 5          # SMA200이 5개월(105거래일) 전보다 높음
+    below_52w_high_pct: 25           # 52주 고가 대비 -25% 이내
+    above_52w_low_pct: 30            # 52주 저가 대비 +30% 이상
+    r12m_ex1_top_pct: 30             # R12M_ex1 유니버스 상위 30%
+  value:
+    max_peg: 2.5                     # PEG <= 2.5 또는
+    max_forward_pe: 35               # forward PE <= 35
+  score:
+    fundamental_weight: 0.5          # 재무 순위 50%
+    momentum_weight: 0.5             # R12M_ex1 순위 50%
+  top_n: 20                          # 상위 20종목 출력
+  hold_n: 5                          # 편입 상위 5종목 동일비중
+  replace:
+    below_sma200_days: 10            # SMA200 아래 10거래일 연속 → 교체 후보
+    rank_out: 10                     # 순위 10위 밖 → 교체 후보
+
+# ---------------------------------------------------------------------
+# 6. 인사이트 (매주 월요일)
+# ---------------------------------------------------------------------
+insight:
+  index_ticker: SPY
+  breadth_min_pct: 50                # 브레드스 > 50%
+  sector_etfs:
+    XLK: 기술
+    XLV: 헬스케어
+    XLF: 금융
+    XLY: 임의소비재
+    XLC: 커뮤니케이션
+    XLI: 산업재
+    XLP: 필수소비재
+    XLE: 에너지
+    XLU: 유틸리티
+    XLRE: 부동산
+    XLB: 소재
+  earnings_window_days: 14           # 상위 5종목의 2주 내 실적 발표
+  claude_model: claude-opus-5        # API 키(ANTHROPIC_API_KEY)가 있을 때 요약에 쓰는 모델
+
+# ---------------------------------------------------------------------
+# 10. 백테스트
+# ---------------------------------------------------------------------
+backtest:
+  start: "2016-01-01"
+  in_sample_end: "2020-12-31"
+  short_capital: 700
+  mid_capital: 3500
+  monte_carlo_runs: 1000
+  risk_pct_levels: [2, 5, 10]

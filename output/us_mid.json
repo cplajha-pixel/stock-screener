@@ -1,0 +1,49 @@
+{
+ "date": "2026-09-09",
+ "generated_at": "2026-09-10T00:50:52Z",
+ "market": "us",
+ "capital": 3500,
+ "risk_pct": 2,
+ "max_positions": 5,
+ "count": 2,
+ "items": [
+  {
+   "date": "2026-09-09",
+   "ticker": "CORT",
+   "name": "Corcept Therapeutics Incorporated - Common Stock",
+   "exchange": "NASDAQ",
+   "entry_price": 115.65,
+   "stop_price": 107.1675,
+   "stop_pct": 7.33,
+   "target_2r": 132.615,
+   "adr20": 3.79,
+   "r6m": 244.8,
+   "r3m": 49.2,
+   "dist_sma20": -0.45,
+   "dist_sma50": 9.97,
+   "pct_from_20d_high": -8.49,
+   "dv20": 91343240,
+   "qty": 8,
+   "score": 244.8
+  },
+  {
+   "date": "2026-09-09",
+   "ticker": "URGN",
+   "name": "UroGen Pharma Ltd. - Ordinary Shares",
+   "exchange": "NASDAQ",
+   "entry_price": 44.98,
+   "stop_price": 41.58,
+   "stop_pct": 7.56,
+   "target_2r": 51.78,
+   "adr20": 4.41,
+   "r6m": 131.3,
+   "r3m": 59.6,
+   "dist_sma20": -2.6,
+   "dist_sma50": 4.58,
+   "pct_from_20d_high": -11.47,
+   "dv20": 41082482,
+   "qty": 20,
+   "score": 131.3
+  }
+ ]
+}
