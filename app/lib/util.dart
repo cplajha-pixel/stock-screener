@@ -10,6 +10,25 @@ int suggestQty(double? entry, double? stop, double capital, double riskPct, doub
   return r < 0 ? 0 : r;
 }
 
+/// 주문에 넣을 값 (슬리피지 가정 반영)
+/// - 진입 지정가 = 트리거가, 최대 허용가 = 트리거가 x (1 + 5%)
+/// - 손절 감지가 = 손절가, 예상 체결가 = 손절가 x (1 - 슬리피지)
+/// - 수량 = floor(자산 x 리스크% / (진입가 - 예상 체결가)), 최대 비중 제한
+class OrderValues {
+  final double entry, entryMax, stop, stopFill, risk;
+  final double? target;
+  final int qty;
+  OrderValues(this.entry, this.entryMax, this.stop, this.stopFill, this.risk, this.target, this.qty);
+}
+
+OrderValues? orderValues(double? entry, double? stop, double? target, double capital, double riskPct, double maxPosPct, double slippagePct,
+    {double maxAbovePct = 5}) {
+  if (entry == null || stop == null || entry <= 0 || stop <= 0 || entry <= stop) return null;
+  final fill = stop * (1 - slippagePct / 100);
+  final q = suggestQty(entry, fill, capital, riskPct, maxPosPct);
+  return OrderValues(entry, entry * (1 + maxAbovePct / 100), stop, fill, (entry - fill) / entry * 100, target, q);
+}
+
 String fmtPrice(double? v, {String market = 'us'}) {
   if (v == null) return '-';
   if (market == 'kr') return NumberFormat('#,###').format(v);

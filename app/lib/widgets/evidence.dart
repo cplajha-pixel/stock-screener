@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../models.dart';
@@ -44,6 +45,48 @@ List<String> longReasons(LongItem c) => [
       '밸류 가드: PEG ${c.peg?.toStringAsFixed(2) ?? '-'} (2.5 이하) 또는 forward PE ${c.forwardPe?.toStringAsFixed(1) ?? '-'} (35 이하)',
       '점수 ${c.score?.toStringAsFixed(0)} = 재무 순위 50% + 상대강도 순위 50%${c.nextEarnings != null ? ' · 다음 실적 ${c.nextEarnings}' : ''}',
     ];
+
+/// 증권사 주문(시세감지주문 등)에 그대로 넣을 값
+Widget orderCard(OrderValues o, String market, String horizon, double slippagePct, BuildContext context) {
+  String p(double v) => fmtPrice(v, market: market);
+  void copy(String label, String v) {
+    Clipboard.setData(ClipboardData(text: v));
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('$label $v 복사됨'), duration: const Duration(seconds: 1)));
+  }
+
+  Widget row(String label, String value, String copyValue, {Color? color, String? note}) => InkWell(
+        onTap: () => copy(label, copyValue),
+        child: Padding(
+          padding: const EdgeInsets.symmetric(vertical: 2),
+          child: Row(children: [
+            SizedBox(width: 110, child: Text(label, style: const TextStyle(fontSize: 12, color: Colors.grey))),
+            Text(value, style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold, color: color)),
+            const SizedBox(width: 6),
+            if (note != null) Expanded(child: Text(note, style: const TextStyle(fontSize: 10, color: Colors.grey), overflow: TextOverflow.ellipsis)),
+            const Icon(Icons.copy, size: 12, color: Colors.grey),
+          ]),
+        ),
+      );
+  final isShort = horizon == 'short';
+  return Card(
+    color: Colors.indigo.withValues(alpha: 0.08),
+    child: Padding(
+      padding: const EdgeInsets.all(10),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        const Text('주문에 넣을 값 (누르면 복사)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
+        const SizedBox(height: 4),
+        row(isShort ? '매수 지정가' : '매수 (시가)', p(o.entry), o.entry.toStringAsFixed(2), note: isShort ? '돌파 확인 후 지정가. 최대 ${p(o.entryMax)} 까지만' : '내일 시가 매수'),
+        row('손절 감지가', p(o.stop), o.stop.toStringAsFixed(2), color: Colors.blue.shade400, note: '도달 시 시장가 매도'),
+        row('예상 체결가', p(o.stopFill), o.stopFill.toStringAsFixed(2), note: '슬리피지 $slippagePct% 가정'),
+        if (o.target != null) row('목표 감지가', p(o.target!), o.target!.toStringAsFixed(2), color: Colors.red.shade400, note: '2R 도달 시 절반 매도'),
+        row('수량', '${o.qty}주', '${o.qty}', note: '리스크 ${o.risk.toStringAsFixed(1)}% × 자금'),
+        const SizedBox(height: 2),
+        Text(isShort ? '3거래일째 종가에 절반 매도 → 남은 물량 손절 감지가를 매수가로 올리기. 종가 < 10일선이면 전량.' : '+2R 절반 매도 후 종가 < 50일선이면 전량. 최대 120일.',
+            style: const TextStyle(fontSize: 10, color: Colors.grey)),
+      ]),
+    ),
+  );
+}
 
 Widget reasonList(List<String> reasons) => Column(
       crossAxisAlignment: CrossAxisAlignment.start,

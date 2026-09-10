@@ -149,7 +149,7 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
   Widget _empty(String msg) => Padding(padding: const EdgeInsets.all(16), child: Center(child: Text(msg, style: const TextStyle(color: Colors.grey))));
 
   /// 근거 펼침 영역 (지표 이유 + 뉴스 + 애널리스트 + 재무 요약 + Claude 코멘트)
-  Widget _evidence(String ticker, List<String> reasons) {
+  Widget _evidence(String ticker, List<String> reasons, {OrderValues? order, String horizon = 'short'}) {
     final c = ctx?.items[ticker];
     final a = analysis?.tickers[ticker];
     return Container(
@@ -157,6 +157,7 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
       padding: const EdgeInsets.all(8),
       decoration: BoxDecoration(color: Theme.of(context).colorScheme.surfaceContainerHighest.withValues(alpha: 0.5), borderRadius: BorderRadius.circular(8)),
       child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        if (order != null) orderCard(order, market, horizon, settings.slippagePct, context),
         const Text('왜 뽑혔나 (지표 근거)', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12)),
         reasonList(reasons),
         if (a != null && (a['text'] ?? '').toString().isNotEmpty) ...[
@@ -224,7 +225,8 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
   }
 
   Widget _shortCard(ShortItem it, double cap, double riskPct) {
-    final qty = suggestQty(it.triggerPrice, it.stopPrice, cap, riskPct, settings.maxPositionPct);
+    final ov = orderValues(it.triggerPrice, it.stopPrice, null, cap, riskPct, settings.maxPositionPct, settings.slippagePct);
+    final qty = ov?.qty ?? suggestQty(it.triggerPrice, it.stopPrice, cap, riskPct, settings.maxPositionPct);
     final isEp = it.setup == 'ep';
     final key = '${it.setup}:${it.ticker}';
     return Card(
@@ -264,7 +266,7 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
               if (analysis?.tickers[it.ticker]?['view'] != null)
                 Padding(padding: const EdgeInsets.only(left: 6), child: Text('Claude: ${analysis!.tickers[it.ticker]!['view']}', style: const TextStyle(fontSize: 11))),
             ]),
-            if (expanded.contains(key)) _evidence(it.ticker, shortReasons(it)),
+            if (expanded.contains(key)) _evidence(it.ticker, shortReasons(it), order: ov, horizon: 'short'),
           ]),
         ),
       ),
@@ -284,7 +286,8 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
     ));
     if (f.items.isEmpty) out.add(_empty(f.raw['error']?.toString() ?? '오늘은 중기 후보가 없습니다'));
     for (final it in f.items) {
-      final qty = suggestQty(it.entryPrice, it.stopPrice, cap, f.riskPct, settings.maxPositionPct);
+      final ov = orderValues(it.entryPrice, it.stopPrice, it.target2r, cap, f.riskPct, settings.maxPositionPct, settings.slippagePct);
+      final qty = ov?.qty ?? suggestQty(it.entryPrice, it.stopPrice, cap, f.riskPct, settings.maxPositionPct);
       final key = 'mid:${it.ticker}';
       out.add(Card(
         child: InkWell(
@@ -312,7 +315,7 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
                 const Spacer(),
                 if (ctx?.items[it.ticker]?.overall != null) gradeChip(ctx!.items[it.ticker]!.overall, label: '재무 ${ctx!.items[it.ticker]!.overall}'),
               ]),
-              if (expanded.contains(key)) _evidence(it.ticker, midReasons(it)),
+              if (expanded.contains(key)) _evidence(it.ticker, midReasons(it), order: ov, horizon: 'mid'),
             ]),
           ),
         ),

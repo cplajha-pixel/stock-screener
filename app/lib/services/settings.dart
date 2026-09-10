@@ -58,6 +58,11 @@ class AppSettings {
   Future<void> setBool(String key, bool v) => p.setBool(key, v);
   Future<void> setInt(String key, int v) => p.setInt(key, v);
 
+  // ---- 주문 가정
+  double get slippagePct => p.getDouble('slippagePct') ?? 0.5; // 손절 시장가 체결 가정 (%)
+  bool get notifyIndicators => p.getBool('notifyIndicators') ?? true;
+  int get indicatorMinStars => p.getInt('indicatorMinStars') ?? 3;
+
   // ---- 증권사 앱
   String get brokerPackage => p.getString('brokerPackage') ?? '';
   Future<void> setBrokerPackage(String v) => p.setString('brokerPackage', v.trim());

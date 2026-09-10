@@ -4,6 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../main.dart';
 import '../models.dart';
 import '../services/api.dart';
+import '../services/prompt_builder.dart';
 import '../services/saveticker.dart';
 import '../util.dart';
 import '../widgets/evidence.dart';
@@ -63,6 +64,35 @@ class _InsightScreenState extends State<InsightScreen> with AutomaticKeepAliveCl
     if (mounted) setState(() => loading = false);
   }
 
+  Future<void> _askClaude() async {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('질문 글을 만드는 중…'), duration: Duration(seconds: 2)));
+    final api = Api(settings);
+    ScreenerFile<ShortItem>? sh;
+    ScreenerFile<ShortItem>? ep;
+    ScreenerFile<MidItem>? md;
+    LongFile? lg;
+    ContextFile? cx;
+    try {
+      sh = await api.shortList('us');
+    } catch (_) {}
+    try {
+      ep = await api.epList('us');
+    } catch (_) {}
+    try {
+      md = await api.midList('us');
+    } catch (_) {}
+    try {
+      lg = await api.longList('us');
+    } catch (_) {}
+    try {
+      cx = await api.context('us');
+    } catch (_) {}
+    final text = PromptBuilder.build(daily: daily, short: sh, ep: ep, mid: md, long: lg, ctx: cx, picks: picks, weekly: weekly, liveNews: liveNews);
+    final msg = await PromptBuilder.share(text);
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(msg)));
+  }
+
   @override
   Widget build(BuildContext context) {
     super.build(context);
@@ -101,6 +131,16 @@ class _InsightScreenState extends State<InsightScreen> with AutomaticKeepAliveCl
             ),
             if (error != null) Padding(padding: const EdgeInsets.all(8), child: Text(error!, style: const TextStyle(color: Colors.red))),
             if (loading && d == null) const Padding(padding: EdgeInsets.all(30), child: Center(child: CircularProgressIndicator())),
+            Card(
+              color: Theme.of(context).colorScheme.primaryContainer.withValues(alpha: 0.35),
+              child: ListTile(
+                leading: const Icon(Icons.auto_awesome),
+                title: const Text('Claude에게 물어보기', style: TextStyle(fontWeight: FontWeight.bold)),
+                subtitle: const Text('오늘 후보·근거·거시·뉴스를 질문 글로 만들어 클로드 앱에 보냅니다 (API 불필요, 구독으로 답변)', style: TextStyle(fontSize: 11)),
+                trailing: const Icon(Icons.send),
+                onTap: _askClaude,
+              ),
+            ),
 
             // ---- Claude 분석 (루틴)
             if (analysis != null && analysis!.marketBrief.isNotEmpty)

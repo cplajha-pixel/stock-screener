@@ -8,6 +8,7 @@ import 'package:timezone/timezone.dart' as tz;
 import '../models.dart';
 import 'api.dart';
 import 'holdings.dart';
+import 'indicator_alerts.dart';
 import 'notifications.dart';
 import 'settings.dart';
 
@@ -47,6 +48,9 @@ class Alarms {
       await AndroidAlarmManager.oneShotAt(t, epId, epCallback,
           exact: true, wakeup: true, rescheduleOnReboot: true, allowWhileIdle: true);
     }
+    try {
+      await IndicatorAlerts.schedule(s);
+    } catch (_) {}
   }
 
   static DateTime _nextLocal(int hour, int minute) {
@@ -81,12 +85,13 @@ class Alarms {
     } catch (e) {
       await Notifier.show(9001, '스크리너 확인 실패', '$e');
     }
-    // 다음 날 다시
+    // 다음 날 다시 + 오늘 지표 발표 알람 등록
     try {
       await AndroidAlarmManager.initialize();
       final t = _nextLocal(s.morningHour, s.morningMinute);
       await AndroidAlarmManager.oneShotAt(t, morningId, morningCallback,
           exact: true, wakeup: true, rescheduleOnReboot: true, allowWhileIdle: true);
+      await IndicatorAlerts.schedule(s);
     } catch (_) {}
   }
 

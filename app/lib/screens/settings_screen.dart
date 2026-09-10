@@ -51,6 +51,8 @@ class _SettingsScreenState extends State<SettingsScreen> with AutomaticKeepAlive
           _num('한 종목 최대 비중 (%) — 전량 매매면 100', s.maxPositionPct, (v) => s.setMaxPositionPct(v.clamp(1, 100))),
           _num('단기 동시 보유 종목 수', s.maxPositionsShort.toDouble(), (v) => s.setMaxPositions('maxPositionsShort', v.round())),
           _num('중기 동시 보유 종목 수', s.maxPositionsMid.toDouble(), (v) => s.setMaxPositions('maxPositionsMid', v.round())),
+          _section('주문 가정'),
+          _num('손절 슬리피지 가정 (%) — 시장가 손절이 손절가보다 이만큼 아래서 체결된다고 보고 수량 계산', s.slippagePct, (v) => s.setDouble('slippagePct', v.clamp(0, 10))),
           _section('목표'),
           _num('목표 자산 (원)', s.targetAssetKrw, (v) => s.setDouble('targetAssetKrw', v)),
           _num('현재 자산 (원) — 0이면 자금 합계로 자동 계산', s.currentAssetKrw, (v) => s.setDouble('currentAssetKrw', v)),
@@ -87,6 +89,29 @@ class _SettingsScreenState extends State<SettingsScreen> with AutomaticKeepAlive
               await Alarms.scheduleAll(s);
               setState(() {});
             },
+          ),
+          SwitchListTile(
+            title: const Text('지표 발표 알림 (발표 +1분, 없으면 +5분 재확인)'),
+            subtitle: Text('중요도 ${'★' * s.indicatorMinStars} 이상 · 세이브티커 캘린더 기준'),
+            value: s.notifyIndicators,
+            onChanged: (v) async {
+              await s.setBool('notifyIndicators', v);
+              await Alarms.scheduleAll(s);
+              setState(() {});
+            },
+          ),
+          ListTile(
+            title: const Text('지표 알림 최소 중요도'),
+            trailing: DropdownButton<int>(
+              value: s.indicatorMinStars,
+              items: const [DropdownMenuItem(value: 3, child: Text('★★★만')), DropdownMenuItem(value: 2, child: Text('★★ 이상')), DropdownMenuItem(value: 1, child: Text('전부'))],
+              onChanged: (v) async {
+                if (v == null) return;
+                await s.setInt('indicatorMinStars', v);
+                await Alarms.scheduleAll(s);
+                setState(() {});
+              },
+            ),
           ),
           Row(children: [
             Expanded(

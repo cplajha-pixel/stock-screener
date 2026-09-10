@@ -232,6 +232,14 @@ class _ChartScreenState extends State<ChartScreen> with SingleTickerProviderStat
       ),
       if (widgetFailed && useWidget == false)
         const Padding(padding: EdgeInsets.symmetric(horizontal: 8), child: Text('TradingView 위젯을 불러오지 못해 직접 그린 차트를 표시합니다.', style: TextStyle(fontSize: 11, color: Colors.grey))),
+      if (widget.horizon != 'long' && widget.trigger != null && widget.stop != null)
+        Builder(builder: (context) {
+          final cap = settings.capital(m, widget.horizon);
+          final risk = widget.horizon == 'short' ? 5.0 : 2.0;
+          final ov = orderValues(widget.trigger, widget.stop, widget.target, cap, risk, settings.maxPositionPct, settings.slippagePct);
+          if (ov == null) return const SizedBox.shrink();
+          return Padding(padding: const EdgeInsets.symmetric(horizontal: 8), child: orderCard(ov, m, widget.horizon, settings.slippagePct, context));
+        }),
       Padding(
         padding: const EdgeInsets.fromLTRB(10, 6, 10, 4),
         child: Wrap(spacing: 14, runSpacing: 2, children: [
