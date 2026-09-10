@@ -19,12 +19,12 @@ AIG,American International Group,Financials,True,False
 AIZ,Assurant,Financials,True,False
 AJG,Arthur J. Gallagher & Co.,Financials,True,False
 AKAM,Akamai Technologies,Information Technology,True,False
-ALAB,Astera Labs,,False,True
+ALAB,Astera Labs,Technology,False,True
 ALB,Albemarle Corporation,Materials,True,False
 ALGN,Align Technology,Health Care,True,False
 ALL,Allstate,Financials,True,False
 ALLE,Allegion,Industrials,True,False
-ALNY,Alnylam Pharmaceuticals,,False,True
+ALNY,Alnylam Pharmaceuticals,Health Care,False,True
 AMAT,Applied Materials,Information Technology,True,True
 AMCR,Amcor,Materials,True,False
 AMD,Advanced Micro Devices,Information Technology,True,True
@@ -44,8 +44,8 @@ APP,AppLovin,Communication Services,True,True
 APTV,Aptiv,Consumer Discretionary,True,False
 ARE,Alexandria Real Estate Equities,Real Estate,True,False
 ARES,Ares Management,Financials,True,False
-ARM,Arm Holdings,,False,True
-ASML,ASML Holding,,False,True
+ARM,Arm Holdings,Technology,False,True
+ASML,ASML Holding,Technology,False,True
 ATO,Atmos Energy,Utilities,True,False
 AVGO,Broadcom,Information Technology,True,True
 AVY,Avery Dennison,Materials,True,False
@@ -83,7 +83,7 @@ CAT,Caterpillar Inc.,Industrials,True,False
 CB,Chubb Limited,Financials,True,False
 CBOE,Cboe Global Markets,Financials,True,False
 CBRE,CBRE Group,Real Estate,True,False
-CCEP,Coca-Cola Europacific Partners,,False,True
+CCEP,Coca-Cola Europacific Partners,Consumer Staples,False,True
 CCI,Crown Castle,Real Estate,True,False
 CCL,Carnival Corporation,Consumer Discretionary,True,False
 CDNS,Cadence Design Systems,Information Technology,True,True
@@ -120,7 +120,7 @@ CRH,CRH plc,Materials,True,False
 CRL,Charles River Laboratories,Health Care,True,False
 CRM,Salesforce,Information Technology,True,False
 CRWD,CrowdStrike,Information Technology,True,True
-CRWV,CoreWeave,,False,True
+CRWV,CoreWeave,Technology,False,True
 CSCO,Cisco,Information Technology,True,True
 CSGP,CoStar Group,Real Estate,True,False
 CSX,CSX Corporation,Industrials,True,True
@@ -189,7 +189,7 @@ FDS,FactSet,Financials,True,False
 FDX,FedEx,Industrials,True,False
 FDXF,FedEx Freight,Industrials,True,False
 FE,FirstEnergy,Utilities,True,False
-FER,Ferrovial,,False,True
+FER,Ferrovial,Industrials,False,True
 FERG,Ferguson Enterprises,Industrials,True,False
 FFIV,"F5, Inc.",Information Technology,True,False
 FICO,Fair Isaac,Information Technology,True,False
@@ -308,7 +308,7 @@ MCK,McKesson Corporation,Health Care,True,False
 MCO,Moody's Corporation,Financials,True,False
 MDLZ,Mondelez International,Consumer Staples,True,True
 MDT,Medtronic,Health Care,True,False
-MELI,Mercado Libre,,False,True
+MELI,Mercado Libre,Consumer Discretionary,False,True
 MET,MetLife,Financials,True,False
 META,Meta Platforms,Communication Services,True,True
 MGM,MGM Resorts,Consumer Discretionary,True,False
@@ -328,11 +328,11 @@ MS,Morgan Stanley,Financials,True,False
 MSCI,MSCI,Financials,True,False
 MSFT,Microsoft,Information Technology,True,True
 MSI,Motorola Solutions,Information Technology,True,False
-MSTR,MicroStrategy,,False,True
+MSTR,MicroStrategy,Technology,False,True
 MTB,M&T Bank,Financials,True,False
 MTD,Mettler Toledo,Health Care,True,False
 MU,Micron Technology,Information Technology,True,True
-NBIS,Nebius Group,,False,True
+NBIS,Nebius Group,Technology,False,True
 NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,True,False
 NDAQ,"Nasdaq, Inc.",Financials,True,False
 NDSN,Nordson Corporation,Industrials,True,False
@@ -366,7 +366,7 @@ PANW,Palo Alto Networks,Information Technology,True,True
 PAYX,Paychex,Industrials,True,True
 PCAR,Paccar,Industrials,True,True
 PCG,PG&E Corporation,Utilities,True,False
-PDD,PDD Holdings,,False,True
+PDD,PDD Holdings,Technology,False,True
 PEG,Public Service Enterprise Group,Utilities,True,False
 PEP,PepsiCo,Consumer Staples,True,True
 PFE,Pfizer,Health Care,True,False
@@ -400,7 +400,7 @@ REG,Regency Centers,Real Estate,True,False
 REGN,Regeneron Pharmaceuticals,Health Care,True,True
 RF,Regions Financial Corporation,Financials,True,False
 RJF,Raymond James Financial,Financials,True,False
-RKLB,Rocket Lab,,False,True
+RKLB,Rocket Lab,Industrials,False,True
 RL,Ralph Lauren Corporation,Consumer Discretionary,True,False
 RMD,ResMed|,Health Care,True,False
 ROK,Rockwell Automation,Industrials,True,False
@@ -413,7 +413,7 @@ RVTY,Revvity,Health Care,True,False
 SBAC,SBA Communications,Real Estate,True,False
 SBUX,Starbucks,Consumer Discretionary,True,True
 SCHW,Charles Schwab Corporation,Financials,True,False
-SHOP,Shopify,,False,True
+SHOP,Shopify,Technology,False,True
 SHW,Sherwin-Williams,Materials,True,False
 SJM,J.M. Smucker Company (The),Consumer Staples,True,False
 SLB,Schlumberger,Energy,True,False
@@ -423,7 +423,7 @@ SNDK,Sandisk,Information Technology,True,True
 SNPS,Synopsys,Information Technology,True,True
 SO,Southern Company,Utilities,True,False
 SOLV,Solventum,Health Care,True,False
-SPCX,SpaceX,,False,True
+SPCX,SpaceX,Telecommunications,False,True
 SPG,Simon Property Group,Real Estate,True,False
 SPGI,S&P Global,Financials,True,False
 SRE,Sempra,Utilities,True,False
@@ -454,7 +454,7 @@ TMUS,T-Mobile US,Communication Services,True,True
 TPL,Texas Pacific Land Corporation,Energy,True,False
 TPR,"Tapestry, Inc.",Consumer Discretionary,True,False
 TRGP,Targa Resources,Energy,True,False
-TRI,Thomson Reuters,,False,True
+TRI,Thomson Reuters,Technology,False,True
 TRMB,Trimble Inc.,Information Technology,True,False
 TROW,T. Rowe Price,Financials,True,False
 TRV,Travelers Companies (The),Financials,True,False

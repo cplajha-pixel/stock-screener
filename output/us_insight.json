@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "generated_at": "2026-09-10T00:38:11Z",
+ "generated_at": "2026-09-10T01:29:55Z",
  "temperature": {
   "index": "SPY",
   "close": 765.96,
@@ -113,14 +113,20 @@
   }
  ],
  "changes": {
-  "entered": [],
-  "exited": [],
+  "entered": [
+   "VRTX",
+   "PH"
+  ],
+  "exited": [
+   "ABNB",
+   "ALL"
+  ],
   "upcoming_earnings": [],
   "replace": [],
-  "long_date": null
+  "long_date": "2026-09-09"
  },
  "summary_ko": null,
- "previous_signal": null,
- "signal_changed": true,
+ "previous_signal": "지금 투입",
+ "signal_changed": false,
  "market": "us"
 }
