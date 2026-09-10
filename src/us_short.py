@@ -148,6 +148,9 @@ def screen_breakout(ind: dict, names: dict[str, str], pos: int = -1, cfg: dict |
             "dv20": round(float(ind["dv20"][tk].iat[pos])),
             "box_low": round(s["box_low"], 4), "box_days": s["box_days"],
             "box_range_pct": round(s["box_range_pct"], 1), "runup_pct": round(s["runup_pct"], 1),
+            "vol_recent": round(s["vol_recent"]), "vol_before_peak": round(s["vol_before_peak"]),
+            "sma10": round(float(ind["sma10"][tk].iat[pos]), 4), "sma20": round(float(ind["sma20"][tk].iat[pos]), 4),
+            "peak": round(s["peak"], 4),
             "qty": position_qty(trigger, stop, capital, money["risk_pct"], money["max_position_pct"]),
             "score": round(float(ind["r3m"][tk].iat[pos]), 1),
         })

@@ -18,11 +18,15 @@ class ShortItem {
   final String ticker, name, setup, exchange;
   final double? triggerPrice, stopPrice, stopPct, adr20, r1m, r3m, r6m, dv20, score, close;
   final double? boxLow, gapPct, volMult, high, last, open, maxEntry;
-  final int? boxDays, qty;
-  final bool triggered;
+  final int? boxDays, qty, pickRank;
+  final bool triggered, isPick;
+  final Map<String, dynamic> raw;
 
   ShortItem.fromJson(Map<String, dynamic> j)
-      : ticker = _s(j['ticker']),
+      : raw = j,
+        pickRank = _i(j['pick_rank']),
+        isPick = j['is_pick'] == true,
+        ticker = _s(j['ticker']),
         name = _s(j['name']),
         setup = _s(j['setup']),
         exchange = _s(j['exchange']),
@@ -277,6 +281,197 @@ class Candle {
   final DateTime date;
   final double open, high, low, close, volume;
   Candle(this.date, this.open, this.high, this.low, this.close, this.volume);
+}
+
+// ---------------------------------------------------------------------------
+// 근거(컨텍스트): 뉴스·애널리스트·재무건전성
+// ---------------------------------------------------------------------------
+class NewsItem {
+  final String id, title, titleEn, summary, source, time, url;
+  final List<String> tickers, tags;
+  final bool isTop;
+  final int? views, comments, positivePct;
+  NewsItem.fromJson(Map<String, dynamic> j)
+      : id = _s(j['id']),
+        title = _s(j['title']),
+        titleEn = _s(j['title_en']),
+        summary = _s(j['summary']),
+        source = _s(j['source']),
+        time = _s(j['time']),
+        url = _s(j['url']),
+        tickers = (j['tickers'] as List? ?? const []).map((e) => e.toString()).toList(),
+        tags = (j['tags'] as List? ?? const []).map((e) => e.toString()).toList(),
+        isTop = j['is_top'] == true,
+        views = _i(j['views']),
+        comments = _i(j['comments']),
+        positivePct = _i(j['positive_pct']);
+}
+
+class HealthItem {
+  final String key, name, unit, note, word;
+  final double? value;
+  final String? grade;
+  HealthItem.fromJson(Map<String, dynamic> j)
+      : key = _s(j['key']),
+        name = _s(j['name']),
+        unit = _s(j['unit']),
+        note = _s(j['note']),
+        word = _s(j['word']),
+        value = _d(j['value']),
+        grade = j['grade']?.toString();
+}
+
+class ContextItem {
+  final String ticker, name, sector, industry, description, healthSummary;
+  final double? price, marketCap;
+  final Map<String, dynamic> analyst, short, valuation, health;
+  final List<HealthItem> healthItems;
+  final List<Map<String, dynamic>> years;
+  final Map<String, dynamic>? piotroski, altman;
+  final String? overall, overallWord, nextEarnings, updated;
+  final List<NewsItem> news;
+
+  ContextItem.fromJson(Map<String, dynamic> j)
+      : ticker = _s(j['ticker']),
+        name = _s(j['name']),
+        sector = _s(j['sector']),
+        industry = _s(j['industry']),
+        description = _s(j['description']),
+        price = _d(j['price']),
+        marketCap = _d(j['market_cap']),
+        analyst = Map<String, dynamic>.from((j['analyst'] ?? {}) as Map),
+        short = Map<String, dynamic>.from((j['short'] ?? {}) as Map),
+        valuation = Map<String, dynamic>.from((j['valuation'] ?? {}) as Map),
+        health = Map<String, dynamic>.from((j['health'] ?? {}) as Map),
+        healthItems = (((j['health'] ?? {})['items'] as List?) ?? const [])
+            .map((e) => HealthItem.fromJson(Map<String, dynamic>.from(e as Map)))
+            .toList(),
+        years = (((j['health'] ?? {})['years'] as List?) ?? const []).map((e) => Map<String, dynamic>.from(e as Map)).toList(),
+        piotroski = (j['health'] ?? {})['piotroski'] == null ? null : Map<String, dynamic>.from((j['health'])['piotroski'] as Map),
+        altman = (j['health'] ?? {})['altman'] == null ? null : Map<String, dynamic>.from((j['health'])['altman'] as Map),
+        overall = (j['health'] ?? {})['overall']?.toString(),
+        overallWord = (j['health'] ?? {})['overall_word']?.toString(),
+        healthSummary = _s((j['health'] ?? {})['summary']),
+        nextEarnings = j['next_earnings']?.toString(),
+        updated = j['updated']?.toString(),
+        news = ((j['news'] as List?) ?? const []).map((e) => NewsItem.fromJson(Map<String, dynamic>.from(e as Map))).toList();
+}
+
+class ContextFile {
+  final String generatedAt;
+  final Map<String, ContextItem> items;
+  ContextFile.fromJson(Map<String, dynamic> j)
+      : generatedAt = _s(j['generated_at']),
+        items = {
+          for (final e in (Map<String, dynamic>.from((j['items'] ?? {}) as Map)).entries)
+            e.key: ContextItem.fromJson(Map<String, dynamic>.from(e.value as Map))
+        };
+}
+
+// ---------------------------------------------------------------------------
+// 오늘의 시장
+// ---------------------------------------------------------------------------
+class MacroRow {
+  final String ticker, name, date;
+  final double? last, d1, w1, m1, m3, d1Abs, high52, low52;
+  final bool level;
+  MacroRow.fromJson(Map<String, dynamic> j)
+      : ticker = _s(j['ticker']),
+        name = _s(j['name']),
+        date = _s(j['date']),
+        last = _d(j['last']),
+        d1 = _d(j['d1']),
+        w1 = _d(j['w1']),
+        m1 = _d(j['m1']),
+        m3 = _d(j['m3']),
+        d1Abs = _d(j['d1_abs']),
+        high52 = _d(j['high_52w']),
+        low52 = _d(j['low_52w']),
+        level = j['level'] == true;
+}
+
+class CalEvent {
+  final String title, time, kst;
+  final int importance;
+  final bool isToday, isPast;
+  CalEvent.fromJson(Map<String, dynamic> j)
+      : title = _s(j['title']),
+        time = _s(j['time']),
+        kst = _s(j['kst']),
+        importance = _i(j['importance']) ?? 0,
+        isToday = j['is_today'] == true,
+        isPast = j['is_past'] == true;
+}
+
+class DailyFile {
+  final String date, generatedAt;
+  final List<MacroRow> macro;
+  final List<String> explain;
+  final List<CalEvent> calendar;
+  final List<NewsItem> topStories;
+  final List<Map<String, dynamic>> fred, breadthHistory;
+  final Map<String, dynamic>? temperature;
+  final int? shortUniverseSize;
+  DailyFile.fromJson(Map<String, dynamic> j)
+      : date = _s(j['date']),
+        generatedAt = _s(j['generated_at']),
+        macro = ((j['macro'] as List?) ?? const []).map((e) => MacroRow.fromJson(Map<String, dynamic>.from(e as Map))).toList(),
+        explain = ((j['explain'] as List?) ?? const []).map((e) => e.toString()).toList(),
+        calendar = ((j['calendar'] as List?) ?? const []).map((e) => CalEvent.fromJson(Map<String, dynamic>.from(e as Map))).toList(),
+        topStories = ((j['top_stories'] as List?) ?? const []).map((e) => NewsItem.fromJson(Map<String, dynamic>.from(e as Map))).toList(),
+        fred = ((j['fred'] as List?) ?? const []).map((e) => Map<String, dynamic>.from(e as Map)).toList(),
+        breadthHistory = ((j['breadth_history'] as List?) ?? const []).map((e) => Map<String, dynamic>.from(e as Map)).toList(),
+        temperature = j['temperature'] == null ? null : Map<String, dynamic>.from(j['temperature'] as Map),
+        shortUniverseSize = _i(j['short_universe_size']);
+}
+
+// ---------------------------------------------------------------------------
+// 1픽 성적표
+// ---------------------------------------------------------------------------
+class PickRow {
+  final String date, ticker, name, setup, reason, status;
+  final double? triggerPrice, stopPrice;
+  final List<String> candidates;
+  final Map<String, dynamic>? result;
+  PickRow.fromJson(Map<String, dynamic> j)
+      : date = _s(j['date']),
+        ticker = _s(j['ticker']),
+        name = _s(j['name']),
+        setup = _s(j['setup']),
+        reason = _s(j['reason']),
+        status = _s(j['status']),
+        triggerPrice = _d(j['trigger_price']),
+        stopPrice = _d(j['stop_price']),
+        candidates = ((j['candidates'] as List?) ?? const []).map((e) => e.toString()).toList(),
+        result = j['result'] == null ? null : Map<String, dynamic>.from(j['result'] as Map);
+  double? get pnlPct => _d(result?['pnl_pct']);
+}
+
+class PicksFile {
+  final String generatedAt;
+  final List<PickRow> picks;
+  final Map<String, dynamic> summary;
+  PicksFile.fromJson(Map<String, dynamic> j)
+      : generatedAt = _s(j['generated_at']),
+        picks = ((j['picks'] as List?) ?? const []).map((e) => PickRow.fromJson(Map<String, dynamic>.from(e as Map))).toList().reversed.toList(),
+        summary = Map<String, dynamic>.from((j['summary'] ?? {}) as Map);
+}
+
+/// 루틴(Claude)이 쓰는 분석 글
+class AnalysisFile {
+  final String date, generatedAt, marketBrief, pickComment;
+  final List<String> watch;
+  final Map<String, Map<String, dynamic>> tickers;
+  AnalysisFile.fromJson(Map<String, dynamic> j)
+      : date = _s(j['date']),
+        generatedAt = _s(j['generated_at']),
+        marketBrief = _s(j['market_brief']),
+        pickComment = _s(j['pick_comment']),
+        watch = ((j['watch'] as List?) ?? const []).map((e) => e.toString()).toList(),
+        tickers = {
+          for (final e in (Map<String, dynamic>.from((j['tickers'] ?? {}) as Map)).entries)
+            e.key: Map<String, dynamic>.from(e.value as Map)
+        };
 }
 
 String horizonLabel(String h) {

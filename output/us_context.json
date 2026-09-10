@@ -1,0 +1,5520 @@
+{
+ "generated_at": "2026-09-10T04:39:02Z",
+ "count": 19,
+ "items": {
+  "APH": {
+   "ticker": "APH",
+   "name": "Amphenol Corporation",
+   "sector": "Technology",
+   "industry": "Electronic Components",
+   "market_cap": 200581726208,
+   "description": "Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products. It also provides value-add products, such as back",
+   "price": 81.34,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 17,
+    "target_mean": 99.11765,
+    "target_low": 85.0,
+    "target_high": 115.0,
+    "upside_pct": 21.9,
+    "breakdown": {
+     "strong_buy": 4,
+     "buy": 11,
+     "hold": 2,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-10-28",
+   "earnings_est": {
+    "eps_avg": 0.71842,
+    "revenue_avg": 9404792830
+   },
+   "short": {
+    "pct_of_float": 1.4,
+    "days_to_cover": 2.24,
+    "level": "낮음",
+    "institutions_pct": 96.8,
+    "insiders_pct": 0.5
+   },
+   "health": {
+    "overall": "A",
+    "overall_word": "매우 좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 120.415,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.888,
+      "unit": "x",
+      "grade": "B",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 13.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 29.8,
+      "unit": "%",
+      "grade": "A",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 55.0,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 38.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 17.7,
+      "unit": "%",
+      "grade": "A",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "매우 좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 7,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 7.3,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 7.3 (안전)",
+    "cash": 5419100160,
+    "debt": 18811299840,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 23094700000.0,
+      "operating_income": 5972000000.0,
+      "net_income": 4270300000.0,
+      "eps": 3.34,
+      "operating_cash_flow": 5374700000.0,
+      "free_cash_flow": 4378100000.0,
+      "total_debt": 15502000000.0,
+      "cash": 11130600000.0,
+      "equity": 13413100000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 15222700000.0,
+      "operating_income": 3284300000.0,
+      "net_income": 2424000000.0,
+      "eps": 1.92,
+      "operating_cash_flow": 2814700000.0,
+      "free_cash_flow": 2149300000.0,
+      "total_debt": 6886100000.0,
+      "cash": 3317000000.0,
+      "equity": 9792000000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 12554700000.0,
+      "operating_income": 2594200000.0,
+      "net_income": 1928000000.0,
+      "eps": 1.555,
+      "operating_cash_flow": 2528700000.0,
+      "free_cash_flow": 2155900000.0,
+      "total_debt": 4337300000.0,
+      "cash": 1475000000.0,
+      "equity": 8346500000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 12623000000.0,
+      "operating_income": 2607300000.0,
+      "net_income": 1902300000.0,
+      "eps": 1.53,
+      "operating_cash_flow": 2174600000.0,
+      "free_cash_flow": 1790800000.0,
+      "total_debt": 4577700000.0,
+      "cash": 1373100000.0,
+      "equity": 7015600000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 40.87437,
+    "forward_pe": 24.845516,
+    "price_to_book": 12.943984,
+    "peg": 0.9255
+   },
+   "news": [
+    {
+     "id": "179800",
+     "title": "전자 장비 제조사 암페놀, 데이터 센터 수요 힘입어 긍정적인 분기 매출 전망",
+     "title_en": "Electronic gear maker Amphenol forecasts upbeat quarterly revenue on data center demand",
+     "summary": "7월 29일 - 전자 장비 제조업체 Amphenol APH.N은 수요일, AI 데이터 센터에 대한 지출이 연결 제품 수요를 견인함에 따라 3분기...",
+     "source": "reuters",
+     "time": "2026-07-29T12:49:53.701005Z",
+     "url": "https://www.saveticker.com/news/179800",
+     "tickers": [
+      "APH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 196,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "125755",
+     "title": "블룸버그, 대출기관들 컴스코프에 1억 5천만 달러 채무 계약 위반 소송 제기 보도",
+     "title_en": "Lenders sue CommScope over alleged $150 million debt agreement breach, Bloomberg reports",
+     "summary": "5월 12일 (로이터) - 현재 비스턴스 네트워크(Vistance Networks, VISN.O)로 알려진 네트워크 인프라 제공업체 컴스코프 홀...",
+     "source": "reuters",
+     "time": "2026-05-12T22:23:22.134812Z",
+     "url": "https://www.saveticker.com/news/125755",
+     "tickers": [
+      "VISN",
+      "APH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1178,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "116109",
+     "title": "앰페놀, AI 데이터 센터 수요에 힘입어 낙관적인 분기 실적 전망",
+     "title_en": "Amphenol forecasts upbeat quarterly results on AI data center demand",
+     "summary": "4월 29일 (로이터) - 전자 장비 제조업체 앰페놀(APH.N)은 인공지능 데이터 센터에 사용되는 부품에 대한 기업 지출에 힘입어 수요일 월스...",
+     "source": "reuters",
+     "time": "2026-04-29T12:36:18.924141Z",
+     "url": "https://www.saveticker.com/news/116109",
+     "tickers": [
+      "APH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 620,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "46784",
+     "title": "암페놀, 예상 뛰어넘는 매출 성장 전망에도 투자자들 만족시키지 못해 주가 하락",
+     "title_en": "Amphenol shares fall as upbeat revenue growth forecast fails to impress investors",
+     "summary": "아르나브 미슈라 기자\n\n\n1월 28일 (로이터) - 전자 장비 제조업체 암페놀(APH.N)은 1분기 매출 성장 전망치를 월가 예상을 상회하는 수...",
+     "source": "reuters",
+     "time": "2026-01-28T16:26:30.421343Z",
+     "url": "https://www.saveticker.com/news/46784",
+     "tickers": [
+      "APH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 136,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "30824",
+     "title": "뱅크오브아메리카, \"암페놀\" US 1 리스트에 추가",
+     "title_en": "",
+     "summary": "뱅크오브아메리카, \"암페놀\" US 1 리스트에 추가",
+     "source": "",
+     "time": "2025-10-24T10:05:10.097000Z",
+     "url": "https://www.saveticker.com/news/30824",
+     "tickers": [
+      "APH"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 2120,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "ASML": {
+   "ticker": "ASML",
+   "name": "ASML Holding N.V. - New York Re",
+   "sector": "Technology",
+   "industry": "Semiconductor Equipment & Materials",
+   "market_cap": 664308613120,
+   "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wa",
+   "price": 1729.52,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 16,
+    "target_mean": 2170.4854,
+    "target_low": 900.6286,
+    "target_high": 2870.9812,
+    "upside_pct": 25.5,
+    "breakdown": {
+     "strong_buy": 7,
+     "buy": 32,
+     "hold": 3,
+     "sell": 1,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-10-14",
+   "earnings_est": {
+    "eps_avg": 10.58262,
+    "revenue_avg": 11659883780
+   },
+   "short": {
+    "pct_of_float": 0.3,
+    "days_to_cover": 0.75,
+    "level": "낮음",
+    "institutions_pct": 20.4,
+    "insiders_pct": 0.0
+   },
+   "health": {
+    "overall": "A",
+    "overall_word": "매우 좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 9.092,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.334,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 23.9,
+      "unit": "%",
+      "grade": "A",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 37.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 21.3,
+      "unit": "%",
+      "grade": "B",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 53.9,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 30.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "매우 좋음"
+     }
+    ],
+    "piotroski": null,
+    "altman": {
+     "z": 14.91,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 알트만 Z 14.91 (안전)",
+    "cash": 7581499904,
+    "debt": 1984400000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 32667300000.0,
+      "operating_income": 11301400000.0,
+      "net_income": 9609400000.0,
+      "eps": 24.71,
+      "operating_cash_flow": null,
+      "free_cash_flow": 11027300000.0,
+      "total_debt": 4390900000.0,
+      "cash": 12916000000.0,
+      "equity": 19612200000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 28262900000.0,
+      "operating_income": 9022600000.0,
+      "net_income": 7571600000.0,
+      "eps": 19.24,
+      "operating_cash_flow": null,
+      "free_cash_flow": 9083100000.0,
+      "total_debt": 4687600000.0,
+      "cash": 12735900000.0,
+      "equity": 18476800000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 27558500000.0,
+      "operating_income": 9042300000.0,
+      "net_income": 7839000000.0,
+      "eps": 20.59,
+      "operating_cash_flow": null,
+      "free_cash_flow": 3247200000.0,
+      "total_debt": 4631600000.0,
+      "cash": 7004700000.0,
+      "equity": 13452400000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 21173400000.0,
+      "operating_income": 6500700000.0,
+      "net_income": 5624200000.0,
+      "eps": 16.07,
+      "operating_cash_flow": null,
+      "free_cash_flow": 7167500000.0,
+      "total_debt": 4260400000.0,
+      "cash": 7268300000.0,
+      "equity": 8810800000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 59.88643,
+    "forward_pe": 28.759155,
+    "price_to_book": 1454.3373,
+    "peg": 1.5742
+   },
+   "news": [
+    {
+     "id": "209400",
+     "title": "제너두 퀀텀, ASML과 광자 양자칩 제조 기술 공동 연구",
+     "title_en": "",
+     "summary": "자나두와 ASML이 광자 양자컴퓨팅 칩의 광손실을 줄이기 위한 첨단 노광 공정 개발에 협력하기로 함\n\n\n- 노광 공정으로 칩의 미세 패턴 정밀도...",
+     "source": "",
+     "time": "2026-09-09T11:04:17.223454Z",
+     "url": "https://www.saveticker.com/news/209400",
+     "tickers": [
+      "XNDU",
+      "ASML"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 7986,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208354",
+     "title": "ASML, 아인트호벤에 신규 BIC 노스 제조 시설 착공",
+     "title_en": "ASML BREAKS GROUND ON NEW BIC NORTH MANUFACTURING FACILITY IN EINDHOVEN",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-09-08T11:21:44.864183Z",
+     "url": "https://www.saveticker.com/news/208354",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 165,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208353",
+     "title": "ASML, 대규모 확장 속 신규 제조 시설 착공",
+     "title_en": "ASML breaks ground on new manufacturing facilities in major expansion",
+     "summary": "ASML, 두 번째 대규모 생산 캠퍼스 건설 시작\n\n\nBIC 노스 부지는 최종적으로 35헥타르에 걸쳐 조성되며 직원 2만 명을 수용할 공간을 갖...",
+     "source": "reuters",
+     "time": "2026-09-08T11:21:36.724862Z",
+     "url": "https://www.saveticker.com/news/208353",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 223,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208352",
+     "title": "ASML의 BIC 노스 캠퍼스, 장차 최대 2만 명의 근로자 수용 가능",
+     "title_en": "ASML'S BIC NORTH CAMPUS COULD EVENTUALLY HOUSE UP TO 20,000 WORKERS",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-09-08T11:21:26.099163Z",
+     "url": "https://www.saveticker.com/news/208352",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 129,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208351",
+     "title": "ASML, 아인트호벤 캠퍼스의 첫 신규 사무실 및 생산 공간 2029년까지 완공 예정이라고 밝혀",
+     "title_en": "FIRST NEW OFFICE, PRODUCTION SPACE AT EINDHOVEN CAMPUS TO BE COMPLETED BY 2029, ASML SAYS",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-09-08T11:21:07.160478Z",
+     "url": "https://www.saveticker.com/news/208351",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 128,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208114",
+     "title": "삼성·TSMC, ASML 차세대 EUV 도입…AI 반도체 수요 대응",
+     "title_en": "",
+     "summary": "삼성전자와 TSMC가 인텔에 이어 ASML의 차세대 '하이 NA EUV(극자외선)' 노광 장비를 도입하기로 함\n\n\n- 삼성전자는 2028년부터 ...",
+     "source": "블룸버그",
+     "time": "2026-09-08T06:22:44.027572Z",
+     "url": "https://www.saveticker.com/news/208114",
+     "tickers": [
+      "ASML",
+      "TSM"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 11439,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208093",
+     "title": "삼성, 2028년까지 DRAM 생산에 ASML 최고급 장비 사용 계획",
+     "title_en": "Samsung plans to use ASML top tool for DRAM production by 2028.",
+     "summary": "",
+     "source": "financial-juice",
+     "time": "2026-09-08T06:06:18.887853Z",
+     "url": "https://www.saveticker.com/news/208093",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 2117,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "208091",
+     "title": "ASML, 대형 칩 생산을 위해 최신 장비 사용을 주요 칩 제조업체들과 협력",
+     "title_en": "ASML to work with major chipmakers to use latest tools for larger chips",
+     "summary": "ASML, 주요 칩 제조사들과 협력해 대형 칩용 최신 장비 활용한다 - 스티븐 넬리스 기자\n\n\n샌프란시스코, 9월 7일 (로이터) - 네덜란드의...",
+     "source": "reuters",
+     "time": "2026-09-08T06:05:37.339733Z",
+     "url": "https://www.saveticker.com/news/208091",
+     "tickers": [
+      "NVDA",
+      "INTC",
+      "ASML"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 611,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "AVAH": {
+   "ticker": "AVAH",
+   "name": "Aveanna Healthcare Holdings Inc",
+   "sector": "Healthcare",
+   "industry": "Medical Care Facilities",
+   "market_cap": 3060435456,
+   "description": "Aveanna Healthcare Holdings Inc., a diversified home care platform company, provides pediatric and adult healthcare services in the United States. Its patient-centered care delivery platform allows patients to remain in their homes and minimizes the overutilization of high-cost care settings, such as hospitals or skilled nursing facilities. The company operates through three segments: Private Duty Services (PDS), Home Health & Hospice (HHH), and Medical Solutions (MS). The PDS segment offers private duty nursing (PDN) services, which include in-home skilled nursing services to medically comple",
+   "price": 14.02,
+   "analyst": {
+    "recommendation": "매수",
+    "count": 10,
+    "target_mean": 13.9,
+    "target_low": 8.0,
+    "target_high": 16.0,
+    "upside_pct": -0.9,
+    "breakdown": {
+     "strong_buy": 2,
+     "buy": 6,
+     "hold": 3,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": 0.20412,
+    "revenue_avg": 678732800
+   },
+   "short": {
+    "pct_of_float": 6.0,
+    "days_to_cover": 2.13,
+    "level": "보통",
+    "institutions_pct": 93.7,
+    "insiders_pct": 5.6
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 522.657,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.162,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 4.0,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 12.6,
+      "unit": "%",
+      "grade": "B",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 13.7,
+      "unit": "%",
+      "grade": "C",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "보통"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 198.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 10.6,
+      "unit": "%",
+      "grade": "B",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": true,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 1.89,
+     "zone": "회색지대"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 1.89 (회색지대)",
+    "cash": 109229000,
+    "debt": 1505289984,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 2433199000.0,
+      "operating_income": 260276000.0,
+      "net_income": 225034000.0,
+      "eps": 1.05,
+      "operating_cash_flow": 125857000.0,
+      "free_cash_flow": 118412000.0,
+      "total_debt": 1514509000.0,
+      "cash": 193260000.0,
+      "equity": 195191000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2024506000.0,
+      "operating_income": 141277000.0,
+      "net_income": -10929000.0,
+      "eps": -0.06,
+      "operating_cash_flow": 32637000.0,
+      "free_cash_flow": 26318000.0,
+      "total_debt": 1501974000.0,
+      "cash": 84288000.0,
+      "equity": -122090000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 1895209000.0,
+      "operating_income": 113674000.0,
+      "net_income": -134524000.0,
+      "eps": -0.71,
+      "operating_cash_flow": 22672000.0,
+      "free_cash_flow": 13878000.0,
+      "total_debt": 1499195000.0,
+      "cash": 43942000.0,
+      "equity": -127435000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 1787645000.0,
+      "operating_income": 33169000.0,
+      "net_income": -662034000.0,
+      "eps": -3.57,
+      "operating_cash_flow": -48402000.0,
+      "free_cash_flow": -60415000.0,
+      "total_debt": 1495345000.0,
+      "cash": 19217000.0,
+      "equity": -4175000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 10.868217,
+    "forward_pe": 15.609518,
+    "price_to_book": 10.621212,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "196964",
+     "title": "Aveanna, 보통주 2차 공모 가격 결정 발표",
+     "title_en": "Aveanna Announces Pricing of Secondary Offering of Common Stock",
+     "summary": "애틀랜타, 2026년 8월 20일 (GLOBE NEWSWIRE) -- 의학적으로 복잡하고 비용이 많이 드는 환자군에게 치료를 제공하는 데 중점을...",
+     "source": "globenewswire",
+     "time": "2026-08-21T00:16:42Z",
+     "url": "https://www.saveticker.com/news/196964",
+     "tickers": [
+      "AVAH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 28,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "192090",
+     "title": "아비아나 헬스케어 홀딩스, 2분기 실적 및 2026년 가이던스 수정 발표",
+     "title_en": "Aveanna Healthcare Holdings Announces Second Quarter Financial Results and Revised 2026 Guidance",
+     "summary": "2분기 매출은 6억 7,050만 달러로 전년 동기 대비 13.7% 증가했다.\n\n\n2분기 순이익은 4,030만 달러로 전년 동기의 2,700만 달...",
+     "source": "globenewswire",
+     "time": "2026-08-13T11:00:00Z",
+     "url": "https://www.saveticker.com/news/192090",
+     "tickers": [
+      "AVAH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 8,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "175046",
+     "title": "Aveanna, 2026년 2분기 실적 발표일 및 컨퍼런스 콜 일정 발표",
+     "title_en": "Aveanna Announces Second Quarter 2026 Earnings Release Date and Conference Call",
+     "summary": "애틀랜타, 2026년 7월 23일 (GLOBE NEWSWIRE) -- Aveanna Healthcare Holdings Inc.(이하 “Avea...",
+     "source": "globenewswire",
+     "time": "2026-07-23T10:30:00Z",
+     "url": "https://www.saveticker.com/news/175046",
+     "tickers": [
+      "AVAH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 2,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "152399",
+     "title": "트럼프 CDC 지명자 슈워츠, 인준 시 직위 사임 및 보유 자산 매각",
+     "title_en": "Trump CDC nominee Schwartz to resign posts, sell holdings if confirmed",
+     "summary": "6월 22일 (로이터) - 도널드 트럼프 대통령이 미국 질병통제예방센터(CDC)를 이끌 후보로 지명한 에리카 슈워츠는 보건복지부(HHS) 윤리 ...",
+     "source": "reuters",
+     "time": "2026-06-22T18:57:28.869662Z",
+     "url": "https://www.saveticker.com/news/152399",
+     "tickers": [
+      "UNH",
+      "BFLY",
+      "AVAH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1402,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "BTGO": {
+   "ticker": "BTGO",
+   "name": "BitGo Holdings, Inc.",
+   "sector": "Financial Services",
+   "industry": "Capital Markets",
+   "market_cap": 882767680,
+   "description": "Bitgo Holdings, Inc. operates as a digital asset infrastructure company in the United States and internationally. The company offers self-custody wallet, qualified custody, liquidity and prime, and infrastructure-as-a-service to investors, builders, and other participants in the digital asset ecosystem. Its clients range from crypto-native companies that use its self-custody wallet technology to financial services firms, digital asset ecosystem companies, technology platforms, corporations, and government agencies, as well as high net worth individuals. The company's principal markets include ",
+   "price": 7.51,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 12,
+    "target_mean": 10.35417,
+    "target_low": 7.25,
+    "target_high": 15.0,
+    "upside_pct": 37.9,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 10,
+     "hold": 2,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-13",
+   "earnings_est": {
+    "eps_avg": -0.035,
+    "revenue_avg": 4406752000
+   },
+   "short": {
+    "pct_of_float": 2.6,
+    "days_to_cover": 1.88,
+    "level": "낮음",
+    "institutions_pct": 43.4,
+    "insiders_pct": 8.8
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 105.182,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.072,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -1.7,
+      "unit": "%",
+      "grade": "C",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "보통"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -0.2,
+      "unit": "%",
+      "grade": "D",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "주의"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 79.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -27.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -0.5,
+      "unit": "%",
+      "grade": "D",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "주의"
+     }
+    ],
+    "piotroski": null,
+    "altman": null,
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름)",
+    "cash": 158963008,
+    "debt": 444984000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 16152121000.0,
+      "operating_income": 14924000.0,
+      "net_income": -14782000.0,
+      "eps": -0.127903,
+      "operating_cash_flow": 29971000.0,
+      "free_cash_flow": 4813000.0,
+      "total_debt": 358996000.0,
+      "cash": 106275000.0,
+      "equity": 316595000.0
+     },
+     {
+      "year": "2024",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": 156554000.0,
+      "eps": 0.468209,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "cash": null,
+      "equity": null
+     },
+     {
+      "year": "2023",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "eps": -0.018322,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "cash": null,
+      "equity": null
+     },
+     {
+      "year": "2022",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": 4605082000.0,
+      "eps": 16.237998,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "cash": null,
+      "equity": null
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": 29.409462,
+    "price_to_book": 2.0861113,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "201478",
+     "title": "[2보] 암호화폐 수탁 기업 BitGo, NYDIG의 기관 트레이딩 사업부 인수 예정",
+     "title_en": "UPDATE 1-Crypto custodian firm BitGo to buy NYDIG's institutional trading business",
+     "summary": "출처 변경\n\n\n8월 27일 (로이터) - 암호화폐 수탁 기업 비트고(BitGo) BTGO.N가 거래 인프라 분야에서의 입지를 강화하기 위해 목요...",
+     "source": "reuters",
+     "time": "2026-08-28T01:27:26.212218Z",
+     "url": "https://www.saveticker.com/news/201478",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 255,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "201432",
+     "title": "암호화폐 수탁 기업 BitGo, NYDIG의 기관 트레이딩 사업부 인수 예정 - 소식통",
+     "title_en": "Crypto custodian firm BitGo to buy NYDIG's institutional trading business, source says",
+     "summary": "8월 27일 (로이터) - 암호화폐 수탁 업체 비트고(BitGo) BTGO.N가 NYDIG의 기관 트레이딩 사업부를 인수하기로 합의했다고 이 사...",
+     "source": "reuters",
+     "time": "2026-08-27T22:20:41.799364Z",
+     "url": "https://www.saveticker.com/news/201432",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 307,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "186727",
+     "title": "OTC Markets Group, 2026년 2분기 실적 발표… 매출·영업이익·순이익 성장 달성",
+     "title_en": "OTC Markets Group Reports Second Quarter 2026 Financial Results Delivering Strong Revenue, Operating Income, and Earnings Growth",
+     "summary": "2026년 2분기 주요 실적:\n분기 총매출 3480만 달러, 전년 동기 대비 14% 증가\n분기 영업이익 1050만 달러, 전년 동기 대비 19%...",
+     "source": "globenewswire",
+     "time": "2026-08-05T21:00:00Z",
+     "url": "https://www.saveticker.com/news/186727",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 5,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "44917",
+     "title": "UPDATE 3-Forgent Power, 데이터센터 호황에 힘입어 미국 IPO서 88억 달러 가치 목표",
+     "title_en": "UPDATE 3-Forgent Power targets $8.8 billion valuation in US IPO, leaning on data center boom",
+     "summary": "Forgent, IPO서 16억 2천만 달러 조달 목표\n\n\nForgent, 티커 \"FPS\"로 NYSE 상장 예정\n\n\nForgent, 데이터센터 ...",
+     "source": "reuters",
+     "time": "2026-01-26T13:31:30.732161Z",
+     "url": "https://www.saveticker.com/news/44917",
+     "tickers": [
+      "EQPT",
+      "BTGO",
+      "FPS"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 71,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43790",
+     "title": "업데이트 1 - 건설 기술 회사 EquipmentShare.com, 미국 IPO에서 약 7억 4,700만 달러 조달함",
+     "title_en": "UPDATE 1-Construction tech firm EquipmentShare.com raises about $747 million in US IPO",
+     "summary": "전반적으로 세부 사항 추가됨\n\n\n1월 22일 (로이터) - 건설 기술 회사 EquipmentShare.com이 목요일에 제시된 범위 내에서 미국...",
+     "source": "reuters",
+     "time": "2026-01-23T04:45:22.950062Z",
+     "url": "https://www.saveticker.com/news/43790",
+     "tickers": [
+      "BTGO",
+      "EQPT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 76,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43448",
+     "title": "CORRECTED-UPDATE 2-BitGo debuts with $2.59 billion valuation as crypto IPO window reopens (Jan 22)",
+     "title_en": "CORRECTED-UPDATE 2-BitGo debuts with $2.59 billion valuation as crypto IPO window reopens (Jan 22)",
+     "summary": "Corrects January 22 story to say BitGo received approval, not conditional approv...",
+     "source": "reuters",
+     "time": "2026-01-22T17:44:29.195748Z",
+     "url": "https://www.saveticker.com/news/43448",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 47,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43439",
+     "title": "암호화폐 수탁 회사 BitGo의 주식, NYSE 데뷔에서 24.6% 급등함",
+     "title_en": "Crypto custody firm BitGo's shares jump 24.6% in NYSE debut",
+     "summary": "1월 22일 (로이터) - BitGo BTGO.N의 주식이 목요일 뉴욕 증권 거래소 데뷔에서 공모가보다 24.6% 높은 가격으로 개장하여 암호화...",
+     "source": "reuters",
+     "time": "2026-01-22T17:39:22.294383Z",
+     "url": "https://www.saveticker.com/news/43439",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 37,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43436",
+     "title": "BITGO, NYSE 데뷔에서 주당 22.43달러에 거래 시작, IPO 가격은 18달러였음",
+     "title_en": "BITGO SHARES OPEN AT $22.43 IN NYSE DEBUT VS $18 IPO PRICE",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-01-22T17:37:31.780620Z",
+     "url": "https://www.saveticker.com/news/43436",
+     "tickers": [
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 12,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "CORT": {
+   "ticker": "CORT",
+   "name": "Corcept Therapeutics Incorporat",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 12506984448,
+   "description": "Corcept Therapeutics Incorporated, a biopharmaceutical company, engages in the discovery and development of medications to treat severe endocrinologic, oncologic, metabolic, and neurologic disorders in the United States. The company offers Korlym, an oral medication for the treatment of hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and have failed surgery or are not candidates for surgery. It also develops relacorilant, a selective cortisol modulator for patients with hypercortisolism; a",
+   "price": 115.7,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 5,
+    "target_mean": 141.0,
+    "target_low": 50.0,
+    "target_high": 165.0,
+    "upside_pct": 21.9,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 3,
+     "hold": 0,
+     "sell": 1,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": 0.865,
+    "revenue_avg": 336370000
+   },
+   "short": {
+    "pct_of_float": 11.6,
+    "days_to_cover": 7.68,
+    "level": "보통",
+    "institutions_pct": 77.0,
+    "insiders_pct": 11.5
+   },
+   "health": {
+    "overall": "B",
+    "overall_word": "좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 1.335,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 2.859,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 9.3,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 16.1,
+      "unit": "%",
+      "grade": "B",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 31.7,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 8.2,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 6.6,
+      "unit": "%",
+      "grade": "B",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 42.36,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 42.36 (안전)",
+    "cash": 308196992,
+    "debt": 9421000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 761407000.0,
+      "operating_income": 44797000.0,
+      "net_income": 99652000.0,
+      "eps": 0.82,
+      "operating_cash_flow": 141996000.0,
+      "free_cash_flow": 141785000.0,
+      "total_debt": 6107000.0,
+      "cash": 120495000.0,
+      "equity": 647805000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 675040000.0,
+      "operating_income": 136951000.0,
+      "net_income": 141209000.0,
+      "eps": 1.23,
+      "operating_cash_flow": 198295000.0,
+      "free_cash_flow": 196123000.0,
+      "total_debt": 6936000.0,
+      "cash": 127665000.0,
+      "equity": 679589000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 482375000.0,
+      "operating_income": 107282000.0,
+      "net_income": 106140000.0,
+      "eps": 0.94,
+      "operating_cash_flow": 126681000.0,
+      "free_cash_flow": 126542000.0,
+      "total_debt": 151000.0,
+      "cash": 135551000.0,
+      "equity": 506705000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 401858000.0,
+      "operating_income": 112634000.0,
+      "net_income": 101418000.0,
+      "eps": 0.87,
+      "operating_cash_flow": 120323000.0,
+      "free_cash_flow": 119910000.0,
+      "total_debt": 1143000.0,
+      "cash": 66329000.0,
+      "equity": 501842000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 262.95453,
+    "forward_pe": 26.280521,
+    "price_to_book": 17.691132,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "91026",
+     "title": "코셉트 테라퓨틱스, 난소암 치료제 FDA 승인에 주가 32% 급등",
+     "title_en": "UPDATE 2-Corcept Therapeutics shares surge as lead drug gets FDA nod for ovarian cancer",
+     "summary": "분석가 논평 추가 (8문단), 전반적인 배경 정보 포함\n\n\n3월 25일 (로이터) - 코셉트 테라퓨틱스(CORT.O) 주가가 수요일에 32% 이...",
+     "source": "reuters",
+     "time": "2026-03-25T16:18:39.895888Z",
+     "url": "https://www.saveticker.com/news/91026",
+     "tickers": [
+      "CORT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 130,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "90981",
+     "title": "미국 FDA, 치료 어려운 난소암 대상 코셉트 테라퓨틱스(CORT.O) 신약 승인",
+     "title_en": "US FDA approves Corcept Therapeutics' drug for hard-to-treat ovarian cancer",
+     "summary": "3월 25일 (로이터) - 미국 식품의약국(FDA)은 수요일, 표준 치료에 더 이상 반응하지 않는 공격적인 형태의 난소암을 앓는 여성들을 대상으...",
+     "source": "reuters",
+     "time": "2026-03-25T15:24:58.790498Z",
+     "url": "https://www.saveticker.com/news/90981",
+     "tickers": [
+      "CORT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 222,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "48993",
+     "title": "FDA 서한 공개 후 코셉트 주가 급락…신약 승인 거절 전 경고 드러나",
+     "title_en": "Corcept shares tumble after FDA letter reveals warnings before drug rejection",
+     "summary": "로이터 통신 제공\n\n\n1월 30일 (로이터) - 미국 식품의약국(FDA)이 신약 신청 전에 여러 차례 경고했다는 내용이 담긴 수정된 '완전 응답...",
+     "source": "reuters",
+     "time": "2026-01-30T15:35:01.450793Z",
+     "url": "https://www.saveticker.com/news/48993",
+     "tickers": [
+      "CORT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 46,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43230",
+     "title": "업데이트 1-코르셉트의 암 치료제, 난소암 임상 시험에서 사망 위험 감소",
+     "title_en": "UPDATE 1-Corcept's cancer drug cuts risk of death in ovarian cancer trial",
+     "summary": "전반적으로 세부 사항 및 배경 추가됨\n\n\n1월 22일 (로이터) - 코르셉트 테라퓨틱스(Corcept Therapeutics) CORT.O는 목...",
+     "source": "reuters",
+     "time": "2026-01-22T13:44:35.434592Z",
+     "url": "https://www.saveticker.com/news/43230",
+     "tickers": [
+      "CORT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 84,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "43174",
+     "title": "코셉트(Corcept)의 암 치료제, 후기 임상 시험에서 주요 목표 달성함",
+     "title_en": "Corcept's cancer drug meets main goal in late-stage trial",
+     "summary": "1월 22일 (로이터) - 코셉트 테라퓨틱스(Corcept Therapeutics) CORT.O는 목요일, 실험 중인 암 치료제가 후기 임상 연...",
+     "source": "reuters",
+     "time": "2026-01-22T13:10:16.042713Z",
+     "url": "https://www.saveticker.com/news/43174",
+     "tickers": [
+      "CORT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 43,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "FRD": {
+   "ticker": "FRD",
+   "name": "Friedman Industries Inc.",
+   "sector": "Basic Materials",
+   "industry": "Steel",
+   "market_cap": 321401984,
+   "description": "Friedman Industries, Incorporated engages in the manufacture and processing of steel products in the United States. The company operates in two segments, Flat-Roll Products and Tubular Products. The Flat-Roll Product segment is involved in the operation of hot-rolled coil processing facilities to cut the coils into sheets and plates, as well as the provision of process and storage services for customer-owned coils on a fee basis. The Tubular Product segment manufactures line and oil country pipes, as well as pipes for structural applications. The company serves metals distributors and customer",
+   "price": 44.56,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": null,
+    "revenue_avg": null
+   },
+   "short": {
+    "pct_of_float": 2.0,
+    "days_to_cover": 1.38,
+    "level": "낮음",
+    "institutions_pct": 54.8,
+    "insiders_pct": 6.6
+   },
+   "health": {
+    "overall": "B",
+    "overall_word": "좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 61.724,
+      "unit": "%",
+      "grade": "B",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 2.902,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -6.8,
+      "unit": "%",
+      "grade": "D",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "주의"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 8.8,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 78.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 18.1,
+      "unit": "%",
+      "grade": "B",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 3.6,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 5,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 4.4,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 4.4 (안전)",
+    "cash": 5028000,
+    "debt": 101321000,
+    "years": [
+     {
+      "year": "2026",
+      "revenue": 646913000.0,
+      "operating_income": 25651000.0,
+      "net_income": 19533000.0,
+      "eps": 2.76,
+      "operating_cash_flow": 8540000.0,
+      "free_cash_flow": 1379000.0,
+      "total_debt": 100150000.0,
+      "cash": 2450000.0,
+      "equity": 151494000.0
+     },
+     {
+      "year": "2025",
+      "revenue": 444600000.0,
+      "operating_income": 2785000.0,
+      "net_income": 6085000.0,
+      "eps": 0.87,
+      "operating_cash_flow": -4417000.0,
+      "free_cash_flow": -9419000.0,
+      "total_debt": 50480000.0,
+      "cash": 3686000.0,
+      "equity": 132425000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 516251000.0,
+      "operating_income": 24518000.0,
+      "net_income": 17345000.0,
+      "eps": 2.39,
+      "operating_cash_flow": 4979000.0,
+      "free_cash_flow": -813000.0,
+      "total_debt": 43129000.0,
+      "cash": 2891000.0,
+      "equity": 127475000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 547542000.0,
+      "operating_income": 21074000.0,
+      "net_income": 21344000.0,
+      "eps": 2.91,
+      "operating_cash_flow": 63894000.0,
+      "free_cash_flow": 47440000.0,
+      "total_debt": 34446000.0,
+      "cash": 2992000.0,
+      "equity": 115432000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 11.819629,
+    "forward_pe": null,
+    "price_to_book": 1.9579929,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "187970",
+     "title": "Friedman Industries, Incorporated, 1분기 실적 발표",
+     "title_en": "Friedman Industries, Incorporated Announces First Quarter Results",
+     "summary": "2026년 6월 30일 분기 주요 실적:\n순이익 1,280만 달러, EBITDA 1,930만 달러\n매출 2억 4,000만 달러, 전년 동기 대비...",
+     "source": "globenewswire",
+     "time": "2026-08-06T20:40:30Z",
+     "url": "https://www.saveticker.com/news/187970",
+     "tickers": [
+      "FRD"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 8,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "FTNT": {
+   "ticker": "FTNT",
+   "name": "Fortinet, Inc.",
+   "sector": "Technology",
+   "industry": "Software - Infrastructure",
+   "market_cap": 115354460160,
+   "description": "Fortinet, Inc. provides cybersecurity and convergence of networking and security solutions worldwide. The company offers FortiOS, a unified operating system designed to address cybersecurity threats; FortiASIC application-specific integrated circuit (ASIC)-based security processing units; FortiCloud, a private cloud software as a service platform; FortiAI, which provides a dual-layered defense across the Fortinet Security Fabric; FortiEndpoint, which converges secure connectivity, endpoint protection, and capabilities into a single agent; and OT Security, which protect the engineered systems t",
+   "price": 157.22,
+   "analyst": {
+    "recommendation": "중립",
+    "count": 36,
+    "target_mean": 162.29167,
+    "target_low": 102.0,
+    "target_high": 220.0,
+    "upside_pct": 3.2,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 9,
+     "hold": 30,
+     "sell": 3,
+     "strong_sell": 1
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": 0.85744,
+    "revenue_avg": 2062778550
+   },
+   "short": {
+    "pct_of_float": 2.3,
+    "days_to_cover": 2.65,
+    "level": "낮음",
+    "institutions_pct": 71.7,
+    "insiders_pct": 17.4
+   },
+   "health": {
+    "overall": "A",
+    "overall_word": "매우 좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 36.194,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.282,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 30.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 33.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 25.6,
+      "unit": "%",
+      "grade": "B",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 117.4,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 28.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "매우 좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 8.98,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 8.98 (안전)",
+    "cash": 4069600000,
+    "debt": 561400000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 6799600000.0,
+      "operating_income": 2084700000.0,
+      "net_income": 1853400000.0,
+      "eps": 2.42,
+      "operating_cash_flow": 2590600000.0,
+      "free_cash_flow": 2225800000.0,
+      "total_debt": 996300000.0,
+      "cash": 2495300000.0,
+      "equity": 1237500000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 5955800000.0,
+      "operating_income": 1803400000.0,
+      "net_income": 1745200000.0,
+      "eps": 2.26,
+      "operating_cash_flow": 2258100000.0,
+      "free_cash_flow": 1879200000.0,
+      "total_debt": 994300000.0,
+      "cash": 2875900000.0,
+      "equity": 1493800000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 5304800000.0,
+      "operating_income": 1241100000.0,
+      "net_income": 1147800000.0,
+      "eps": 1.46,
+      "operating_cash_flow": 1935500000.0,
+      "free_cash_flow": 1731400000.0,
+      "total_debt": 992300000.0,
+      "cash": 1397900000.0,
+      "equity": -463400000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 4417400000.0,
+      "operating_income": 969600000.0,
+      "net_income": 857300000.0,
+      "eps": 1.06,
+      "operating_cash_flow": 1730600000.0,
+      "free_cash_flow": 1449400000.0,
+      "total_debt": 990400000.0,
+      "cash": 1682900000.0,
+      "equity": -281600000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 55.55477,
+    "forward_pe": 41.690754,
+    "price_to_book": 74.37086,
+    "peg": 1.727
+   },
+   "news": [
+    {
+     "id": "206841",
+     "title": "[정리] 미국 기업들, 사이버 공격 증가에 직면",
+     "title_en": "FACTBOX-US companies face rise in cyber attacks",
+     "summary": "보스턴사이언티픽의 배송 재개 및 침해 범위에 관한 세부 내용 업데이트\n\n\n9월 4일 (로이터) - 전 세계 기업들이 민감한 데이터를 훔치고 운영...",
+     "source": "reuters",
+     "time": "2026-09-04T10:09:23.570011Z",
+     "url": "https://www.saveticker.com/news/206841",
+     "tickers": [
+      "NKE",
+      "BMBL",
+      "MTCH",
+      "WYNN",
+      "SYK",
+      "HAS",
+      "TTWO",
+      "WST",
+      "CCL",
+      "IRTC",
+      "AHCO",
+      "FTNT",
+      "KO",
+      "CLOV",
+      "ABT",
+      "LEVI",
+      "UBER",
+      "GE",
+      "FISV",
+      "APO",
+      "BSX",
+      "NVCR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 571,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "203819",
+     "title": "[정리] 미국 기업들, 사이버 공격 증가 직면",
+     "title_en": "FACTBOX-US companies face rise in cyber attacks",
+     "summary": "노보큐어(NovoCure)가 보고한 사이버 보안 사고 추가\n\n\n9월 1일 (로이터) - 전 세계 기업들이 민감한 데이터를 탈취하고 운영을 방해하...",
+     "source": "reuters",
+     "time": "2026-09-01T12:05:31.668398Z",
+     "url": "https://www.saveticker.com/news/203819",
+     "tickers": [
+      "NKE",
+      "BMBL",
+      "MTCH",
+      "WYNN",
+      "SYK",
+      "HAS",
+      "TTWO",
+      "WST",
+      "CCL",
+      "IRTC",
+      "AHCO",
+      "FTNT",
+      "KO",
+      "CLOV",
+      "ABT",
+      "LEVI",
+      "UBER",
+      "GE",
+      "FISV",
+      "APO",
+      "BSX",
+      "NVCR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 500,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "202838",
+     "title": "포티넷, 차세대 사이버 방어자 양성을 위한 무료 고등학교 사이버 보안 커리큘럼 출시",
+     "title_en": "Fortinet Launches Free High School Cybersecurity Curriculum to Build the Next Generation of Cyber Defenders",
+     "summary": "Fortinet Training Institute의 새로운 기술 고등학교 사이버 보안 커리큘럼은 미국 중등 학교에 비용 부담 없이 표준을 준수하...",
+     "source": "globenewswire",
+     "time": "2026-08-31T13:00:00Z",
+     "url": "https://www.saveticker.com/news/202838",
+     "tickers": [
+      "FTNT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 178,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "202073",
+     "title": "스탠퍼드 애슬레틱스, 사이버 보안 기업 포티넷과 다년간의 스폰서십 체결",
+     "title_en": "Stanford Athletics and Cybersecurity Leader Fortinet Team Up for Multi-Year Sponsorship",
+     "summary": "글로벌 사이버 보안 선도 기업 포티넷(Fortinet)과의 파트너십은 학생 선수들의 경험을 증진하는 데 기여할 것이다.\n\n\n캘리포니아주 스탠퍼드...",
+     "source": "globenewswire",
+     "time": "2026-08-28T17:30:00Z",
+     "url": "https://www.saveticker.com/news/202073",
+     "tickers": [
+      "FTNT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 544,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "199840",
+     "title": "[정리] 미국 기업들, 사이버 공격 증가 직면",
+     "title_en": "FACTBOX-US companies face rise in cyber attacks",
+     "summary": "8월 7일 이후 일부 미국 기업들이 보고한 사이버 보안 사고를 추가하며, 8월 26일 보스턴 사이언티픽 사례를 포함한다.\n\n\n8월 26일 (로이...",
+     "source": "reuters",
+     "time": "2026-08-26T11:37:58.399661Z",
+     "url": "https://www.saveticker.com/news/199840",
+     "tickers": [
+      "NKE",
+      "BMBL",
+      "MTCH",
+      "WYNN",
+      "SYK",
+      "HAS",
+      "TTWO",
+      "WST",
+      "CCL",
+      "IRTC",
+      "AHCO",
+      "FTNT",
+      "KO",
+      "CLOV",
+      "ABT",
+      "LEVI",
+      "UBER",
+      "GE",
+      "FISV",
+      "APO",
+      "BSX"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 434,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "194103",
+     "title": "포티넷, 버추 AI 인수 통해 지속적 AI 보호 강화",
+     "title_en": "Fortinet Advances Continuous AI Protection with the Acquisition of Virtue AI",
+     "summary": "Virtue AI는 지속적인 에이전트형 AI 검증 및 AI 수명 주기 전반에 걸친 런타임 보호 기능을 통해 Fortinet AI-Native S...",
+     "source": "globenewswire",
+     "time": "2026-08-17T13:00:00Z",
+     "url": "https://www.saveticker.com/news/194103",
+     "tickers": [
+      "FTNT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 14,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "188543",
+     "title": "[정리] 미 기업들, 사이버 공격 증가 직면",
+     "title_en": "FACTBOX-US companies face rise in cyber attacks",
+     "summary": "표에 리바이스(Levi Strauss) 추가\n\n\n8월 7일 (로이터) - 전 세계 기업들이 민감한 데이터를 탈취하고 운영을 방해하는 AI 기반 ...",
+     "source": "reuters",
+     "time": "2026-08-07T11:52:31.768522Z",
+     "url": "https://www.saveticker.com/news/188543",
+     "tickers": [
+      "NKE",
+      "BMBL",
+      "MTCH",
+      "WYNN",
+      "SYK",
+      "HAS",
+      "TTWO",
+      "WST",
+      "CCL",
+      "IRTC",
+      "AHCO",
+      "FTNT",
+      "KO",
+      "CLOV",
+      "ABT",
+      "LEVI"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 514,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "180419",
+     "title": "포티넷, 강력한 사이버 보안 수요에 연간 매출 전망치 상향",
+     "title_en": "Fortinet lifts annual revenue forecast on strong cybersecurity demand",
+     "summary": "7월 29일 (로이터) - 사이버 보안 기업 포티넷(Fortinet) FTNT.O은 수요일, 2분기 실적 호조를 발표한 후 연간 매출 전망치를 ...",
+     "source": "reuters",
+     "time": "2026-07-29T21:40:51.402399Z",
+     "url": "https://www.saveticker.com/news/180419",
+     "tickers": [
+      "FTNT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 266,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "HTFL": {
+   "ticker": "HTFL",
+   "name": "Heartflow, Inc.",
+   "sector": "Healthcare",
+   "industry": "Health Information Services",
+   "market_cap": 4058125568,
+   "description": "HeartFlow, Inc., a medical technology company, provides non-invasive solutions for diagnosing and managing coronary artery diseases the United States and worldwide. Its HeartFlow Platform uses AI and computational fluid dynamics to creates a personalized 3D model of a patient's heart from a single coronary computed tomography angiography, a specialized type of scan that provides detailed images of the heart's arteries. The company provides Heartflow RoadMap Analysis that offers an intuitive anatomic visualization of the coronary arteries; Heartflow FFRCT Analysis, which calculates blood flow a",
+   "price": 46.67,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 8,
+    "target_mean": 43.5,
+    "target_low": 39.0,
+    "target_high": 45.0,
+    "upside_pct": -6.8,
+    "breakdown": {
+     "strong_buy": 2,
+     "buy": 6,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-12",
+   "earnings_est": {
+    "eps_avg": -0.1046,
+    "revenue_avg": 65264500
+   },
+   "short": {
+    "pct_of_float": 11.3,
+    "days_to_cover": 4.83,
+    "level": "보통",
+    "institutions_pct": 91.9,
+    "insiders_pct": 5.1
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 9.698,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 5.08,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -15.8,
+      "unit": "%",
+      "grade": "D",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "주의"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -27.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 47.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -154.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -55.8,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 37.32,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 37.32 (안전)",
+    "cash": 162551008,
+    "debt": 27127000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 176034000.0,
+      "operating_income": -64066000.0,
+      "net_income": -116791000.0,
+      "eps": -3.17,
+      "operating_cash_flow": -54023000.0,
+      "free_cash_flow": -59048000.0,
+      "total_debt": 22054000.0,
+      "cash": 44776000.0,
+      "equity": 300647000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 125808000.0,
+      "operating_income": -61222000.0,
+      "net_income": -96426000.0,
+      "eps": -1.196106,
+      "operating_cash_flow": -69001000.0,
+      "free_cash_flow": -73358000.0,
+      "total_debt": 160384000.0,
+      "cash": 51367000.0,
+      "equity": -859484000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 87174000.0,
+      "operating_income": -72914000.0,
+      "net_income": -95655000.0,
+      "eps": -1.93681,
+      "operating_cash_flow": -76434000.0,
+      "free_cash_flow": -82539000.0,
+      "total_debt": 160600000.0,
+      "cash": 122767000.0,
+      "equity": -777564000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -181.3836,
+    "price_to_book": 14.466831,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "201601",
+     "title": "ESC에서 발표된 독립적 정부 지원 임상시험의 최신 데이터, Heartflow FFRCT 분석으로 불필요한 침습적 심장 시술 거의 절반 감소",
+     "title_en": "Late Breaking Data from Independent Government-Funded Trial at ESC Shows Heartflow FFRCT Analysis Reduces Unnecessary Invasive Heart Procedures by Nearly Half",
+     "summary": "ESC에서 발표되고 미국심장학회지(Journal of the American College of Cardiology)에 게재된 FUSION 임상...",
+     "source": "globenewswire",
+     "time": "2026-08-28T06:48:13Z",
+     "url": "https://www.saveticker.com/news/201601",
+     "tickers": [
+      "HTFL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 210,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "201309",
+     "title": "Heartflow, 웰스파고 제21회 연례 헬스케어 컨퍼런스 참가",
+     "title_en": "Heartflow to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+     "summary": "샌프란시스코, 2026년 8월 27일 (GLOBE NEWSWIRE) -- 관상동맥질환(CAD) 진단 및 관리 분야의 AI 기술 선도 기업인 하트...",
+     "source": "globenewswire",
+     "time": "2026-08-27T20:01:00Z",
+     "url": "https://www.saveticker.com/news/201309",
+     "tickers": [
+      "HTFL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 120,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "192531",
+     "title": "하트플로우, 2026년 2분기 실적 발표 및 2026년 연간 가이던스 상향",
+     "title_en": "Heartflow Reports Second Quarter 2026 Financial Results and Raises Full Year 2026 Guidance",
+     "summary": "샌프란시스코, 2026년 8월 13일 (GLOBE NEWSWIRE) -- 관상동맥질환(CAD) 진단용 AI 기술 분야의 선도 기업인 Heartf...",
+     "source": "globenewswire",
+     "time": "2026-08-13T20:01:00Z",
+     "url": "https://www.saveticker.com/news/192531",
+     "tickers": [
+      "HTFL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "175726",
+     "title": "Heartflow, 2026년 2분기 실적 2026년 8월 13일 발표 예정",
+     "title_en": "Heartflow to Report Second Quarter 2026 Financial Results on August 13, 2026",
+     "summary": "샌프란시스코, 2026년 7월 23일 (GLOBE NEWSWIRE) -- 관상동맥질환(CAD) 분야 AI 기술 선도 기업인 Heartflow, ...",
+     "source": "globenewswire",
+     "time": "2026-07-23T20:01:00Z",
+     "url": "https://www.saveticker.com/news/175726",
+     "tickers": [
+      "HTFL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 3,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "IOVA": {
+   "ticker": "IOVA",
+   "name": "Iovance Biotherapeutics, Inc.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 3818549248,
+   "description": "Iovance Biotherapeutics, Inc., a commercial-stage biopharmaceutical company, develops and commercializes cell therapies using autologous tumor infiltrating lymphocyte for the treatment of metastatic melanoma and other solid tumor cancers in the United States and internationally. The company offers Amtagvi, an individualized T cell therapy for solid tumor cancer and for the treatment of adult patients with previously treated advanced, or unresectable or metastatic melanomal; and Proleukin, an interleukin-2 product for the treatment of patients with metastatic melanoma and metastatic renal cell ",
+   "price": 8.43,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 9,
+    "target_mean": 10.0,
+    "target_low": 6.0,
+    "target_high": 14.0,
+    "upside_pct": 18.6,
+    "breakdown": {
+     "strong_buy": 2,
+     "buy": 5,
+     "hold": 2,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": -0.09614,
+    "revenue_avg": 110115690
+   },
+   "short": {
+    "pct_of_float": 24.3,
+    "days_to_cover": 5.27,
+    "level": "높음",
+    "institutions_pct": 70.6,
+    "insiders_pct": 0.3
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 6.25,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 4.345,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -57.8,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -52.3,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 65.7,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -40.4,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -89.1,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 5.67,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 5.67 (안전)",
+    "cash": 297673984,
+    "debt": 46003000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 263502000.0,
+      "operating_income": -398213000.0,
+      "net_income": -390978000.0,
+      "eps": -1.094119,
+      "operating_cash_flow": -302408000.0,
+      "free_cash_flow": -336244000.0,
+      "total_debt": 49444000.0,
+      "cash": 163078000.0,
+      "equity": 698583000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 164070000.0,
+      "operating_income": -395278000.0,
+      "net_income": -372177000.0,
+      "eps": -1.28,
+      "operating_cash_flow": -352977000.0,
+      "free_cash_flow": -364046000.0,
+      "total_debt": 58261000.0,
+      "cash": 115694000.0,
+      "equity": 710405000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 1189000.0,
+      "operating_income": -460559000.0,
+      "net_income": -444037000.0,
+      "eps": -1.89,
+      "operating_cash_flow": -361820000.0,
+      "free_cash_flow": -384110000.0,
+      "total_debt": 75862000.0,
+      "cash": 114888000.0,
+      "equity": 584613000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 0.0,
+      "operating_income": -398878000.0,
+      "net_income": -395893000.0,
+      "eps": -2.49,
+      "operating_cash_flow": -292757000.0,
+      "free_cash_flow": -313182000.0,
+      "total_debt": 85446000.0,
+      "cash": 231731000.0,
+      "equity": 499638000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -29.343172,
+    "price_to_book": 5.1876926,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "206921",
+     "title": "Iovance Biotherapeutics, 다가오는 학회에서 발표 예정",
+     "title_en": "Iovance Biotherapeutics to Present at Upcoming Conferences",
+     "summary": "캘리포니아주 샌카를로스, 2026년 9월 4일 (글로브 뉴스와이어) -- 암 환자를 위한 혁신적 다클론 종양침윤림프구(TIL) 치료법의 혁신·개...",
+     "source": "globenewswire",
+     "time": "2026-09-04T12:00:00Z",
+     "url": "https://www.saveticker.com/news/206921",
+     "tickers": [
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 247,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "197585",
+     "title": "아이오반스 바이오테라퓨틱스, 나스닥 상장 규정 5635(c)(4)에 따른 유인책 부여 공시",
+     "title_en": "Iovance Biotherapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
+     "summary": "캘리포니아주 샌카를로스, 2026년 8월 21일 (GLOBE NEWSWIRE) -- 암 환자를 위한 혁신적인 다중클론 종양 침윤 림프구(“TIL...",
+     "source": "globenewswire",
+     "time": "2026-08-21T21:15:00Z",
+     "url": "https://www.saveticker.com/news/197585",
+     "tickers": [
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 42,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187939",
+     "title": "[4보] 미 FDA, 이전 거절 끝에 레플리뮨의 피부암 치료제 승인",
+     "title_en": "UPDATE 3-US FDA approves Replimune's skin cancer drug after prior rejections",
+     "summary": "7문단에 가격 세부 정보 추가\n\n\n스네하 에스 케이 및 카말 초우두리 기자\n\n\n8월 6일 (로이터) - 미국 식품의약국(FDA)이 치료가 까다로...",
+     "source": "reuters",
+     "time": "2026-08-06T20:24:24.809478Z",
+     "url": "https://www.saveticker.com/news/187939",
+     "tickers": [
+      "REPL",
+      "BMY",
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 215,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187494",
+     "title": "아이오반스 바이오테라퓨틱스 주가 2분기 매출 상회 후 38.5% 급등",
+     "title_en": "IOVANCE BIOTHERAPEUTICS SHARES RISE 38.5% AFTER Q2 REVENUE BEAT",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-08-06T13:39:45.333689Z",
+     "url": "https://www.saveticker.com/news/187494",
+     "tickers": [
+      "IOVA"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 103,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187208",
+     "title": "아이오반스 바이오테라퓨틱스, 2026년 2분기 매출 약 9,900만 달러로 사상 최대 기록 및 사업 성과와 기업 업데이트 발표",
+     "title_en": "Iovance Biotherapeutics Reports Record Second Quarter 2026 Revenue of ~$99M, Business Achievements, and Corporate Updates",
+     "summary": "미국 Amtagvi 매출 약 9,100만 달러 달성 및 총 매출 전년 대비 66% 증가\n매출총이익률 56%로 상승\nFDA, 연조직 육종 치료제 ...",
+     "source": "globenewswire",
+     "time": "2026-08-06T11:01:00Z",
+     "url": "https://www.saveticker.com/news/187208",
+     "tickers": [
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 5,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "181991",
+     "title": "[3보] 미 FDA 자문위원단, 레플리뮨 피부암 치료제 임상 데이터 지지",
+     "title_en": "UPDATE 2-US FDA advisers back Replimune skin cancer drug trial data",
+     "summary": "회의에서 나온 발언들을 바탕으로 수시 업데이트\n\n\n푸얀 싱(Puyaan Singh) 기자\n\n\n7월 30일(로이터) - 미국 식품의약국(FDA) ...",
+     "source": "reuters",
+     "time": "2026-07-30T23:18:37.274532Z",
+     "url": "https://www.saveticker.com/news/181991",
+     "tickers": [
+      "REPL",
+      "BMY",
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 158,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "181201",
+     "title": "아이오반스 바이오테라퓨틱스, 2026년 2분기 실적 및 기업 업데이트 2026년 8월 6일 목요일 발표 예정",
+     "title_en": "Iovance Biotherapeutics to Report Second Quarter 2026 Financial Results and Corporate Updates on Thursday, August 6, 2026",
+     "summary": "캘리포니아주 샌카를로스, 2026년 7월 30일 (GLOBE NEWSWIRE) -- 암 환자를 위한 새로운 다클론 종양 침윤 림프구(TIL) 치...",
+     "source": "globenewswire",
+     "time": "2026-07-30T12:00:00Z",
+     "url": "https://www.saveticker.com/news/181201",
+     "tickers": [
+      "IOVA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 4,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "102682",
+     "title": "[5보] 레플리뮨의 진행성 피부암 치료제, FDA 승인 재차 불발",
+     "title_en": "UPDATE 4-Replimune's drug for advanced skin cancer fails to win FDA nod again",
+     "summary": "1단락에 주가 변동, 3,4,6단락에 회사 입장 추가\n\n\n패드마나반 아난탄, 스루티 나라심하 차리 기자\n\n\n4월 10일 (로이터) - 미국 식품...",
+     "source": "reuters",
+     "time": "2026-04-10T15:44:21.956663Z",
+     "url": "https://www.saveticker.com/news/102682",
+     "tickers": [
+      "REPL",
+      "IOVA",
+      "BMY"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 216,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "MNPR": {
+   "ticker": "MNPR",
+   "name": "Monopar Therapeutics Inc.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 754313856,
+   "description": "Monopar Therapeutics Inc., a clinical-stage biopharmaceutical company, engages in developing therapeutics for the treatment of cancer in the United States. The company develops ALXN1840, a late-stage, investigational once-daily and oral medicine; MNPR-101, a proprietary humanized monoclonal antibody that is conjugated with different radioisotopes for the treatment of advanced solid tumors expressing urokinase plasminogen activator receptor; and MNPR-101-Zr, which is in phase 1 imaging and dosimetry clinical trial, a radiopharmaceutical imaging agent comprised of MNPR-101 conjugated to zirconiu",
+   "price": 112.38,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 13,
+    "target_mean": 126.30769,
+    "target_low": 100.0,
+    "target_high": 145.0,
+    "upside_pct": 12.4,
+    "breakdown": {
+     "strong_buy": 4,
+     "buy": 8,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-13",
+   "earnings_est": {
+    "eps_avg": -0.83673,
+    "revenue_avg": 0
+   },
+   "short": {
+    "pct_of_float": 19.3,
+    "days_to_cover": 3.03,
+    "level": "높음",
+    "institutions_pct": 95.0,
+    "insiders_pct": 23.4
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 0.157,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 33.556,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -19.5,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 156.49,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 156.49 (안전)",
+    "cash": 134298976,
+    "debt": 205663,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 0.0,
+      "operating_income": -16704415.0,
+      "net_income": -13716894.0,
+      "eps": -1.85,
+      "operating_cash_flow": -12201291.0,
+      "free_cash_flow": -12201291.0,
+      "total_debt": 154920.0,
+      "cash": 61833552.0,
+      "equity": 137827553.0
+     },
+     {
+      "year": "2024",
+      "revenue": 0.0,
+      "operating_income": -16161721.0,
+      "net_income": -15586419.0,
+      "eps": -4.11,
+      "operating_cash_flow": -6404139.0,
+      "free_cash_flow": -6404139.0,
+      "total_debt": 0.0,
+      "cash": 45816289.0,
+      "equity": 55036771.0
+     },
+     {
+      "year": "2023",
+      "revenue": 0.0,
+      "operating_income": -8831235.0,
+      "net_income": -8402196.0,
+      "eps": -3.04,
+      "operating_cash_flow": -7858293.0,
+      "free_cash_flow": -7858293.0,
+      "total_debt": 0.0,
+      "cash": 7266080.0,
+      "equity": 5587766.0
+     },
+     {
+      "year": "2022",
+      "revenue": 0.0,
+      "operating_income": -10536877.0,
+      "net_income": -10515638.0,
+      "eps": -4.15,
+      "operating_cash_flow": -7228559.0,
+      "free_cash_flow": -7228559.0,
+      "total_debt": 8408.0,
+      "cash": 8186194.0,
+      "equity": 10089652.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -56.757572,
+    "price_to_book": 5.7645545,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "195581",
+     "title": "Monopar, 제프리 D. 켄트 의학박사를 수석 부사장 겸 의학부문 총괄로 선임; AASLD – The Liver Meeting® 2026에서 ALXN1840 관련 발표 2건 예고",
+     "title_en": "Monopar Appoints Jeffrey D. Kent, M.D., as Executive Vice President, Head of Medical Affairs; Announces Two ALXN1840 Presentations at AASLD – The Liver Meeting® 2026",
+     "summary": "일리노이주 윌멧, 2026년 8월 19일 (GLOBE NEWSWIRE) -- 미충족 의료 수요가 있는 환자들을 위한 혁신적인 치료제를 개발하는 ...",
+     "source": "globenewswire",
+     "time": "2026-08-19T12:00:00Z",
+     "url": "https://www.saveticker.com/news/195581",
+     "tickers": [
+      "MNPR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "191343",
+     "title": "모노파 테라퓨틱스, 2026년 2분기 재무 실적 발표 및 사업 업데이트 제공",
+     "title_en": "Monopar Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Updates",
+     "summary": "일리노이주 윌멧, 2026년 8월 12일 (GLOBE NEWSWIRE) -- 미충족 의료 수요가 있는 환자를 위한 혁신적인 치료제를 개발하는 임...",
+     "source": "globenewswire",
+     "time": "2026-08-12T13:30:00Z",
+     "url": "https://www.saveticker.com/news/191343",
+     "tickers": [
+      "MNPR",
+      "KALA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "MU": {
+   "ticker": "MU",
+   "name": "Micron Technology, Inc.",
+   "sector": "Technology",
+   "industry": "Semiconductors",
+   "market_cap": 1160756461568,
+   "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (M",
+   "price": 1027.77,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 45,
+    "target_mean": 1513.1111,
+    "target_low": 361.0,
+    "target_high": 2200.0,
+    "upside_pct": 47.2,
+    "breakdown": {
+     "strong_buy": 9,
+     "buy": 36,
+     "hold": 4,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-10-01",
+   "earnings_est": {
+    "eps_avg": 31.28341,
+    "revenue_avg": 50784289620
+   },
+   "short": {
+    "pct_of_float": 2.7,
+    "days_to_cover": 0.7,
+    "level": "낮음",
+    "institutions_pct": 80.0,
+    "insiders_pct": 0.2
+   },
+   "health": {
+    "overall": "A",
+    "overall_word": "매우 좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 6.33,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 3.425,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 8.5,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 80.4,
+      "unit": "%",
+      "grade": "A",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 345.7,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 66.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 55.9,
+      "unit": "%",
+      "grade": "A",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "매우 좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 8,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 26.25,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 26.25 (안전)",
+    "cash": 26022000640,
+    "debt": 6376000000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 37378000000.0,
+      "operating_income": 9809000000.0,
+      "net_income": 8539000000.0,
+      "eps": 7.59,
+      "operating_cash_flow": 17525000000.0,
+      "free_cash_flow": 1668000000.0,
+      "total_debt": 15278000000.0,
+      "cash": 9642000000.0,
+      "equity": 54165000000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 25111000000.0,
+      "operating_income": 1305000000.0,
+      "net_income": 778000000.0,
+      "eps": 0.7,
+      "operating_cash_flow": 8507000000.0,
+      "free_cash_flow": 121000000.0,
+      "total_debt": 14007000000.0,
+      "cash": 7041000000.0,
+      "equity": 45131000000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 15540000000.0,
+      "operating_income": -5405000000.0,
+      "net_income": -5833000000.0,
+      "eps": -5.34,
+      "operating_cash_flow": 1559000000.0,
+      "free_cash_flow": -6117000000.0,
+      "total_debt": 13933000000.0,
+      "cash": 8577000000.0,
+      "equity": 44120000000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 30758000000.0,
+      "operating_income": 9709000000.0,
+      "net_income": 8687000000.0,
+      "eps": 7.75,
+      "operating_cash_flow": 15181000000.0,
+      "free_cash_flow": 3114000000.0,
+      "total_debt": 7516000000.0,
+      "cash": 8262000000.0,
+      "equity": 49907000000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 23.247456,
+    "forward_pe": 6.629695,
+    "price_to_book": 11.520148,
+    "peg": 0.1469
+   },
+   "news": [
+    {
+     "id": "209564",
+     "title": "[9보] 애플, 1,999달러짜리 여권 모양 아이폰 듀오로 폴더블폰 경쟁 합류",
+     "title_en": "UPDATE 8-Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
+     "summary": "Duolingo와 삼성의 반응, 애널리스트 논평, 종가, Micron 관련 세부 내용, 3·7·11~13·20~21문단 추가\n\n\nDuo는 7.6...",
+     "source": "reuters",
+     "time": "2026-09-09T13:11:50.691177Z",
+     "url": "https://www.saveticker.com/news/209564",
+     "tickers": [
+      "AAPL",
+      "QCOM",
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 325,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "209232",
+     "title": "엔비디아 - 대만 협력사 매출 (8월)",
+     "title_en": "",
+     "summary": "엔비디아의 주요 대만 협력사들(혼하이·콴타·위스트론·위윈)의 2026년 8월 매출이 모두 전년 동월 대비 50% 이상 큰 폭으로 증가함\n\n\n- ...",
+     "source": "",
+     "time": "2026-09-09T07:37:04.286551Z",
+     "url": "https://www.saveticker.com/news/209232",
+     "tickers": [
+      "MU",
+      "NVDA",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 11721,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "206738",
+     "title": "중국 양쯔메모리, 333억 위안 IPO 심사 본격 돌입",
+     "title_en": "",
+     "summary": "중국 낸드플래시 메모리 대표 기업인 양쯔메모리테크놀로지(YMTC)가 상하이 증권거래소로부터 첫 공식 질의를 받으며 본격적인 상장(IPO) 심사 ...",
+     "source": "블룸버그",
+     "time": "2026-09-04T07:42:36.533496Z",
+     "url": "https://www.saveticker.com/news/206738",
+     "tickers": [
+      "MU",
+      "SKHY",
+      "SNDK"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 6834,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "206715",
+     "title": "한국은행 “삼성·SK하이닉스 증설로 중국과 메모리 격차 확대 전망”",
+     "title_en": "",
+     "summary": "한국은행 보고서에 따르면, \n삼성전자와 SK하이닉스의 공격적인 국내 설비 투자(증설)에 힘입어 한중 양국 간 메모리 반도체 생산 격차가 한층 더...",
+     "source": "블룸버그",
+     "time": "2026-09-04T06:55:13.809289Z",
+     "url": "https://www.saveticker.com/news/206715",
+     "tickers": [
+      "SKHY",
+      "MU",
+      "SNDK"
+     ],
+     "tags": [
+      "정보",
+      "분석"
+     ],
+     "is_top": false,
+     "views": 11553,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "206254",
+     "title": "창신·양쯔메모리 약진…마이크론은 선방, SK하이닉스 DRAM 점유율 하락",
+     "title_en": "",
+     "summary": "카운터포인트 리서치에 따르면,\n중국 창신메모리(CXMT)의 2분기 DRAM 점유율은 전 분기 8%에서 10%로 올랐고, 양쯔메모리(YMTC)의 ...",
+     "source": "Barron's",
+     "time": "2026-09-03T14:34:15.497858Z",
+     "url": "https://www.saveticker.com/news/206254",
+     "tickers": [
+      "MU",
+      "SNDK",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 20388,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "205247",
+     "title": "미 상무장관, “SK·삼성도 미국에 생산시설 지어야”",
+     "title_en": "",
+     "summary": "하워드 러트닉 미 상무장관은 블룸버그 인터뷰에서 AI를 '병에 담긴 교육'에 비유하며, 세계 최고 수준의 인재들이 각국의 언어로 원하는 문제를 ...",
+     "source": "",
+     "time": "2026-09-02T17:53:12.017576Z",
+     "url": "https://www.saveticker.com/news/205247",
+     "tickers": [
+      "MU",
+      "TSM",
+      "SKHY"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 13446,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "204756",
+     "title": "TSMC, AI 수요 대응 위해 장비 구매 규모 약 2배로 확대",
+     "title_en": "",
+     "summary": "TSMC 클리프 허우 COO는 ‘세미콘 타이완’ 대담에서 AI 및 전 세계적인 데이터센터 수요에 대응해 생산능력을 확대하면서, 자사의 분기 장비...",
+     "source": "블룸버그",
+     "time": "2026-09-02T09:46:33.340644Z",
+     "url": "https://www.saveticker.com/news/204756",
+     "tickers": [
+      "MU",
+      "NVDA",
+      "TSM",
+      "SKHY",
+      "ASML",
+      "LRCX"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 17102,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "204739",
+     "title": "[분석 기사] AI 반도체 병목, 수율·테스트·레이저로 이동",
+     "title_en": "",
+     "summary": "블룸버그 인텔리전스(BI)는 ‘세미콘 타이완 2026’ 현장 조사 결과,\nAI 반도체 제조 병목이 단기간에 해소되기보다는 2027년 하반기를 기...",
+     "source": "블룸버그",
+     "time": "2026-09-02T08:57:11.264775Z",
+     "url": "https://www.saveticker.com/news/204739",
+     "tickers": [
+      "COHR",
+      "MU",
+      "NVDA",
+      "MRVL",
+      "TSM",
+      "LITE",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 13072,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "OSCR": {
+   "ticker": "OSCR",
+   "name": "Oscar Health, Inc.",
+   "sector": "Healthcare",
+   "industry": "Healthcare Plans",
+   "market_cap": 9802564608,
+   "description": "Oscar Health, Inc. operates as a healthcare technology company in the United States. The company offers health plans to individuals, families, employees, and small group markets. It also provides +Oscar platform that power others throughout the healthcare system; Campaign Builder platform, an engagement and recommendation platform for providers and payors; and reinsurance products. In addition, the company offers brokerage services and enrollment platform for brokers and consumers to shop, buy, and enroll in medical and supplemental health products. The company was formerly known as Mulberry H",
+   "price": 31.76,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 10,
+    "target_mean": 30.4,
+    "target_low": 25.0,
+    "target_high": 39.0,
+    "upside_pct": -4.3,
+    "breakdown": {
+     "strong_buy": 3,
+     "buy": 0,
+     "hold": 7,
+     "sell": 0,
+     "strong_sell": 1
+    }
+   },
+   "next_earnings": "2026-11-09",
+   "earnings_est": {
+    "eps_avg": -0.24602,
+    "revenue_avg": 4729235350
+   },
+   "short": {
+    "pct_of_float": 6.5,
+    "days_to_cover": 3.03,
+    "level": "보통",
+    "institutions_pct": 73.9,
+    "insiders_pct": 5.2
+   },
+   "health": {
+    "overall": "B",
+    "overall_word": "좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 23.458,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.079,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 4.5,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 8.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 70.4,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 34.3,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 3.6,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": null,
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 3/9 (취약)",
+    "cash": 8555517952,
+    "debt": 482095008,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 11701427000.0,
+      "operating_income": null,
+      "net_income": -443151000.0,
+      "eps": -1.69,
+      "operating_cash_flow": 1094854000.0,
+      "free_cash_flow": 1058482000.0,
+      "total_debt": 430095000.0,
+      "cash": 2774151000.0,
+      "equity": 977648000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 9177941000.0,
+      "operating_income": null,
+      "net_income": 25432000.0,
+      "eps": 0.1,
+      "operating_cash_flow": 978193000.0,
+      "free_cash_flow": 950296000.0,
+      "total_debt": 299555000.0,
+      "cash": 1527186000.0,
+      "equity": 1013586000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 5862869000.0,
+      "operating_income": null,
+      "net_income": -270728000.0,
+      "eps": -1.22,
+      "operating_cash_flow": -272159000.0,
+      "free_cash_flow": -297736000.0,
+      "total_debt": 298777000.0,
+      "cash": 1870315000.0,
+      "equity": 803967000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 4125584000.0,
+      "operating_income": null,
+      "net_income": -606275000.0,
+      "eps": -2.85,
+      "operating_cash_flow": 380349000.0,
+      "free_cash_flow": 351337000.0,
+      "total_debt": 297999000.0,
+      "cash": 1558595000.0,
+      "equity": 890384000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 24.43077,
+    "forward_pe": 16.876562,
+    "price_to_book": 4.770918,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "209638",
+     "title": "CVS의 의료비 부담 경고에 유나이티드헬스 등 보험주 약세",
+     "title_en": "",
+     "summary": "미국 건강보험사 CVS 헬스가 웰스파고 콘퍼런스에서 의료비 부담이 여전히 지나치게 높다고 경고하면서, 미 건강보험 관련주가 일제히 약세를 보임\n...",
+     "source": "블룸버그",
+     "time": "2026-09-09T14:34:57.139493Z",
+     "url": "https://www.saveticker.com/news/209638",
+     "tickers": [
+      "UNH",
+      "ELV",
+      "CNC",
+      "HUM",
+      "OSCR"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 2810,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "193322",
+     "title": "조슈아 쿠슈너의 스라이브 캐피털, 2억 1,500만 달러 규모 아마존 지분 공개",
+     "title_en": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+     "summary": "14일(현지시간) 로이터통신에 따르면 조슈아 쿠슈너의 스라이브 캐피털이 6월 말 기준 약 2억 1500만 달러어치의 아마존 AMZN.O 주식을 ...",
+     "source": "reuters",
+     "time": "2026-08-14T16:54:37.063102Z",
+     "url": "https://www.saveticker.com/news/193322",
+     "tickers": [
+      "AMZN",
+      "FIG",
+      "OSCR",
+      "SPCX"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 170,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187135",
+     "title": "오스카 헬스 - 실적발표",
+     "title_en": "",
+     "summary": "연간 전망\n- 영업이익: 5억~7억 달러 (기존 전망: 2억 5,000만~4억 5,000만 달러)\n- 의료손해율(MLR): 81.5~82.5% ...",
+     "source": "",
+     "time": "2026-08-06T10:05:22.711722Z",
+     "url": "https://www.saveticker.com/news/187135",
+     "tickers": [
+      "OSCR"
+     ],
+     "tags": [
+      "실적"
+     ],
+     "is_top": false,
+     "views": 2779,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "174566",
+     "title": "[2보] 몰리나, 이익 전망 상향에도 오바마케어 마켓플레이스 부진에 가려져",
+     "title_en": "UPDATE 1-Molina's profit forecast lift overshadowed by Obamacare weakness",
+     "summary": "5번째 문단에 애널리스트 논평 추가\n\n\nPadmanabhan Ananthan 기자\n\n\n7월 22일 (로이터) - Molina Healthcare...",
+     "source": "reuters",
+     "time": "2026-07-22T22:56:38.719633Z",
+     "url": "https://www.saveticker.com/news/174566",
+     "tickers": [
+      "MOH",
+      "CNC",
+      "OSCR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 92,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "168549",
+     "title": "[3보] 엘리밴스 헬스, 이익 전망치 상향에도 투자자 기대 못 미쳐 주가 하락",
+     "title_en": "UPDATE 2-Elevance Health shares slide as profit forecast hike fails to impress investors",
+     "summary": "1단락에 주가, 4, 6, 11단락에 애널리스트 논평, 그래픽 추가\n\n\n스리파르나 로이 및 스네하 S K 기자\n\n\n7월 15일 (로이터) - 엘...",
+     "source": "reuters",
+     "time": "2026-07-15T11:55:12.822082Z",
+     "url": "https://www.saveticker.com/news/168549",
+     "tickers": [
+      "ELV",
+      "UNH",
+      "MOH",
+      "CNC",
+      "OSCR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 103,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "168465",
+     "title": "[4보] 엘리밴스 헬스, 이익 전망치 상향에도 투자자 기대 못 미쳐 주가 하락",
+     "title_en": "UPDATE 3-Elevance Health shares slide as profit forecast hike not enough to impress investors",
+     "summary": "업계 동종 업체들은 이익 전망치 상향 조정 폭이 너무 작아 하락했다\n\n\nCEO는 Medicaid 마진 가이던스가 신중하게 유지되었으며 변동이 없...",
+     "source": "reuters",
+     "time": "2026-07-15T10:16:44.640273Z",
+     "url": "https://www.saveticker.com/news/168465",
+     "tickers": [
+      "ELV",
+      "MOH",
+      "CNC",
+      "OSCR",
+      "UNH"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 91,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "78267",
+     "title": "센틴 주가, 오바마케어 회원 수 급감에 하락",
+     "title_en": "Centene shares fall as health insurer sees steeper drop in Obamacare memberships",
+     "summary": "센틴(Centene)의 주가가 13%까지 하락했다. 헬스케어 보험사인 센틴 경영진이 오바마케어(ACA) 플랜의 회원 수가 예상보다 더 많이 감소...",
+     "source": "reuters",
+     "time": "2026-03-10T15:34:35.197032Z",
+     "url": "https://www.saveticker.com/news/78267",
+     "tickers": [
+      "CNC",
+      "MOH",
+      "OSCR"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 81,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "57734",
+     "title": "Raymond James, '오스카 헬스' 투자의견 상향 (중립→Outperform); 목표가 $18",
+     "title_en": "",
+     "summary": "Raymond James, '오스카 헬스' 투자의견 상향 (중립→Outperform); 목표가 $18",
+     "source": "",
+     "time": "2026-02-12T09:31:28.490140Z",
+     "url": "https://www.saveticker.com/news/57734",
+     "tickers": [
+      "OSCR"
+     ],
+     "tags": [
+      "투자 의견"
+     ],
+     "is_top": false,
+     "views": 1075,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "PBF": {
+   "ticker": "PBF",
+   "name": "PBF Energy Inc.",
+   "sector": "Energy",
+   "industry": "Oil & Gas Refining & Marketing",
+   "market_cap": 9069254656,
+   "description": "PBF Energy Inc., through its subsidiaries, engages in the refining and supplying of petroleum products. It operates through two segments, Refining and Logistics. The company produces gasoline, ultra-low-sulfur diesel, heating oil, jet fuel, lubricants, petrochemicals, and asphalt; diesel fuel; and unbranded transportation fuels, petrochemical feedstocks, blending components, and other petroleum products. It sells its products in the Northeast, Midwest, Gulf Coast, and West Coast of the United States, as well as in other regions of the United States, Canada, Mexico, and internationally. The com",
+   "price": 76.51,
+   "analyst": {
+    "recommendation": "중립",
+    "count": 13,
+    "target_mean": 67.61538,
+    "target_low": 38.0,
+    "target_high": 84.0,
+    "upside_pct": -11.6,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 1,
+     "hold": 9,
+     "sell": 3,
+     "strong_sell": 1
+    }
+   },
+   "next_earnings": "2026-10-29",
+   "earnings_est": {
+    "eps_avg": 8.61183,
+    "revenue_avg": 9776481250
+   },
+   "short": {
+    "pct_of_float": 12.3,
+    "days_to_cover": 3.28,
+    "level": "보통",
+    "institutions_pct": 90.5,
+    "insiders_pct": 14.3
+   },
+   "health": {
+    "overall": "B",
+    "overall_word": "좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 38.424,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.33,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 0.2,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 8.8,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 56.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 23.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 3.9,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 3.38,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 3.38 (안전)",
+    "cash": 894099968,
+    "debt": 2515000064,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 29332300000.0,
+      "operating_income": -917700000.0,
+      "net_income": -158500000.0,
+      "eps": -1.39,
+      "operating_cash_flow": -78000000.0,
+      "free_cash_flow": -783200000.0,
+      "total_debt": 2913700000.0,
+      "cash": 527900000.0,
+      "equity": 5319500000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 33115300000.0,
+      "operating_income": -645800000.0,
+      "net_income": -533800000.0,
+      "eps": -4.6,
+      "operating_cash_flow": 43400000.0,
+      "free_cash_flow": -347500000.0,
+      "total_debt": 2313900000.0,
+      "cash": 536100000.0,
+      "equity": 5544200000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 38324800000.0,
+      "operating_income": 2024600000.0,
+      "net_income": 2140500000.0,
+      "eps": 16.52,
+      "operating_cash_flow": 1338500000.0,
+      "free_cash_flow": 678900000.0,
+      "total_debt": 2044200000.0,
+      "cash": 1783500000.0,
+      "equity": 6488300000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 46830300000.0,
+      "operating_income": 4202400000.0,
+      "net_income": 2876800000.0,
+      "eps": 22.84,
+      "operating_cash_flow": 4772000000.0,
+      "free_cash_flow": 4138700000.0,
+      "total_debt": 2641900000.0,
+      "cash": 2203600000.0,
+      "equity": 4929200000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 6.729112,
+    "forward_pe": 7.8768044,
+    "price_to_book": 1.4152793,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "202657",
+     "title": "트럼프 대통령, 정유사들의 소비자 폭리 비난 후 석유업계 경영진과 회동 예정",
+     "title_en": "Trump to host oil executives after accusing refiners of gouging consumers",
+     "summary": "트럼프 대통령, 휘발유 가격 갤런당 4달러 넘어서자 화요일 정유사 경영진 초청\n\n\n백악관, 미국 정유 시스템이 기존 생산 능력의 거의 100% ...",
+     "source": "reuters",
+     "time": "2026-08-31T10:00:38.843761Z",
+     "url": "https://www.saveticker.com/news/202657",
+     "tickers": [
+      "XOM",
+      "MPC",
+      "DK",
+      "CVX",
+      "PBF",
+      "VLO",
+      "PSX"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 418,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "201264",
+     "title": "[2보] 이란 전쟁으로 휘발유 가격 상승하자 트럼프 대통령, 중간선거 앞두고 정유사 및 연료 소매업체와 회동 예정 (소식통)",
+     "title_en": "UPDATE 1-Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say",
+     "summary": "전반적으로 내용을 업데이트하며 회의에 대한 세부 사항을 추가했다.\n\n\n자렛 렌쇼 기자\n\n\n8월 27일 (로이터) - 트럼프 대통령은 다음 주 미...",
+     "source": "reuters",
+     "time": "2026-08-27T18:53:20.768544Z",
+     "url": "https://www.saveticker.com/news/201264",
+     "tickers": [
+      "VLO",
+      "MPC",
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 307,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187667",
+     "title": "미국, 이란 전쟁 발발 이후 최대 규모 중동산 원유 수입 예정",
+     "title_en": "US is set to import most Middle East crude since Iran war began",
+     "summary": "선박 추적 데이터에 따르면 8월 미국 중동산 원유 수입량 일일 60만 배럴 상회할 전망\n\n\n중동산 원유를 실은 유조선 최소 11척 미국 항구 향...",
+     "source": "reuters",
+     "time": "2026-08-06T16:36:57.255125Z",
+     "url": "https://www.saveticker.com/news/187667",
+     "tickers": [
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 799,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "181575",
+     "title": "[2보] PBF, 3분기 정유 가동률 최대 92%로 운영 계획",
+     "title_en": "UPDATE 1-PBF refineries to operate up to 92% of capacity in third quarter",
+     "summary": "전반에 걸쳐 세부 내용 추가\n\n\n어윈 세바(Erwin Seba) 기자\n\n\n휴스턴, 7월 30일(로이터) - 미국의 독립계 정유사인 PBF 에너지...",
+     "source": "reuters",
+     "time": "2026-07-30T15:36:18.980181Z",
+     "url": "https://www.saveticker.com/news/181575",
+     "tickers": [
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 205,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "181126",
+     "title": "PBF에너지, 정제마진 강세에 힘입어 분기 이익 예상치 상회",
+     "title_en": "PBF Energy beats quarterly profit estimates on stronger refining margins",
+     "summary": "7월 30일(로이터) - 미국의 정유사 PBF 에너지 PBF.N는 목요일 타이트해진 연료 시장이 정제마진을 뒷받침하고 마르티네스 정유공장이 완전...",
+     "source": "reuters",
+     "time": "2026-07-30T11:16:29.661184Z",
+     "url": "https://www.saveticker.com/news/181126",
+     "tickers": [
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 89,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "173098",
+     "title": "정유사들, 베네수엘라 원유 점유율 확대 위해 트레이더들과 경쟁",
+     "title_en": "Refiners elbow traders to take a larger slice of Venezuela's oil",
+     "summary": "구매자 풀이 확대되면서 트레이더들이 확보한 대규모 시장 점유율에 도전장이 내밀어졌다\n\n\n미국 및 아시아 정유사들에 원유 화물 배정\n\n\n셰브론, ...",
+     "source": "reuters",
+     "time": "2026-07-21T15:11:49.460923Z",
+     "url": "https://www.saveticker.com/news/173098",
+     "tickers": [
+      "PSX",
+      "CVX",
+      "VLO",
+      "XOM",
+      "MPC",
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 238,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "117740",
+     "title": "[2보] PBF 에너지, 예상보다 큰 손실 기록…마르티네즈 재가동 5월로 연기",
+     "title_en": "UPDATE 1-PBF Energy posts bigger-than-expected loss, pushes Martinez restart to May",
+     "summary": "3단락에 실적 발표 세부 내용, 9단락에 애널리스트 의견 추가 및 주가 업데이트\n\n\n다르나 바프나 기자\n\n\n4월 30일 (로이터) - PBF 에...",
+     "source": "reuters",
+     "time": "2026-04-30T15:32:48.825237Z",
+     "url": "https://www.saveticker.com/news/117740",
+     "tickers": [
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1014,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "117538",
+     "title": "PBF 에너지, 예상보다 큰 손실 기록…마르티네즈 재가동 5월로 연기",
+     "title_en": "PBF Energy posts bigger-than-expected loss, pushes Martinez restart to May",
+     "summary": "4월 30일 (로이터) - PBF 에너지 PBF.N가 목요일 1분기 예상보다 큰 손실을 기록했다. 정유 공장 가동 중단과 이란 전쟁으로 인한 유...",
+     "source": "reuters",
+     "time": "2026-04-30T12:55:38.397129Z",
+     "url": "https://www.saveticker.com/news/117538",
+     "tickers": [
+      "PBF"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 546,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "RCEL": {
+   "ticker": "RCEL",
+   "name": "Avita Medical, Inc.",
+   "sector": "Healthcare",
+   "industry": "Medical Devices",
+   "market_cap": 314216768,
+   "description": "AVITA Medical, Inc., together with its subsidiaries, operates as a therapeutic acute wound care company in the United States, Japan, the European Union, Australia, and the United Kingdom. The company's lead product is the RECELL System, a cell harvesting device used for the treatment of thermal burn wounds and full-thickness skin defects, as well as for repigmentation of stable depigmented vitiligo lesions. It also provides RECALL autologous cell harvesting device, which can treat areas of up to 1,920 cm2; RECELL autologous cell harvesting device with ease-of-use, an enhanced ease-of-use devic",
+   "price": 10.16,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 3,
+    "target_mean": 12.496569,
+    "target_low": 11.200607,
+    "target_high": 14.206459,
+    "upside_pct": 23.0,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 3,
+     "hold": 0,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-06",
+   "earnings_est": {
+    "eps_avg": -0.29104,
+    "revenue_avg": 31504200
+   },
+   "short": {
+    "pct_of_float": 9.0,
+    "days_to_cover": 4.55,
+    "level": "보통",
+    "institutions_pct": 16.0,
+    "insiders_pct": 1.5
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 0.413,
+      "unit": "x",
+      "grade": "F",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "위험"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -17.6,
+      "unit": "%",
+      "grade": "D",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "주의"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -31.6,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 17.8,
+      "unit": "%",
+      "grade": "B",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -57.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": -9.42,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z -9.42 (위험)",
+    "cash": 11135000,
+    "debt": 48481000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 71610000.0,
+      "operating_income": -42534000.0,
+      "net_income": -48587000.0,
+      "eps": -1.74,
+      "operating_cash_flow": -31195000.0,
+      "free_cash_flow": -32934000.0,
+      "total_debt": 46048000.0,
+      "cash": 10243000.0,
+      "equity": -16650000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 64251000.0,
+      "operating_income": -56593000.0,
+      "net_income": -61845000.0,
+      "eps": -2.39,
+      "operating_cash_flow": -48939000.0,
+      "free_cash_flow": -58272000.0,
+      "total_debt": 45985000.0,
+      "cash": 14050000.0,
+      "equity": 4499000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 50143000.0,
+      "operating_income": -42655000.0,
+      "net_income": -35381000.0,
+      "eps": -1.4,
+      "operating_cash_flow": -38011000.0,
+      "free_cash_flow": -39458000.0,
+      "total_debt": 42409000.0,
+      "cash": 22118000.0,
+      "equity": 49056000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 34421000.0,
+      "operating_income": -27505000.0,
+      "net_income": -26665000.0,
+      "eps": -1.07,
+      "operating_cash_flow": -19090000.0,
+      "free_cash_flow": -19615000.0,
+      "total_debt": 918000.0,
+      "cash": 18164000.0,
+      "equity": 84740000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -23.495996,
+    "price_to_book": -11.288889,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "205366",
+     "title": "AVITA Medical, Lake Street Best Ideas Growth Conference 및 Morgan Stanley Healthcare Conference 참가",
+     "title_en": "AVITA Medical to Participate in Lake Street Best Ideas Growth Conference and Morgan Stanley Healthcare Conference",
+     "summary": "캘리포니아주 발렌시아, 2026년 9월 2일 (GLOBE NEWSWIRE) -- 혁신적인 솔루션을 제공하는 선도적인 급성 상처 치료 기업 AVI...",
+     "source": "globenewswire",
+     "time": "2026-09-02T20:10:00Z",
+     "url": "https://www.saveticker.com/news/205366",
+     "tickers": [
+      "RCEL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 186,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "194743",
+     "title": "AVITA Medical, PermeaDerm® 연구에서 동종이식 대비 70% 경제적 이점 및 대등한 임상 결과 확인 발표",
+     "title_en": "AVITA Medical Announces Positive PermeaDerm® Study Results Demonstrating 70% Economic Advantage over Allograft and Comparable Clinical Outcomes",
+     "summary": "1차 평가변수를 달성했으며, 치료한 총 체표면적(TBSA) 1%당 제품 비용 기준으로 동종이식 대비 70%의 경제적 이점을 입증했다(p<0.00...",
+     "source": "globenewswire",
+     "time": "2026-08-18T11:45:00Z",
+     "url": "https://www.saveticker.com/news/194743",
+     "tickers": [
+      "RCEL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 4,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "189130",
+     "title": "AVITA Medical, 투자자 웨비나 브리핑 개최 예정",
+     "title_en": "AVITA Medical to Host Investor Webinar Briefing",
+     "summary": "캘리포니아주 발렌시아, 2026년 8월 9일 (GLOBE NEWSWIRE) -- 혁신적인 솔루션을 제공하는 선도적인 급성 상처 치료 기업 AVI...",
+     "source": "globenewswire",
+     "time": "2026-08-09T22:00:00Z",
+     "url": "https://www.saveticker.com/news/189130",
+     "tickers": [
+      "RCEL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 15,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "188614",
+     "title": "AVITA Medical, Canaccord Genuity 성장 컨퍼런스 참가 발표",
+     "title_en": "AVITA Medical Announces Participation at Canaccord Genuity Growth Conference",
+     "summary": "캘리포니아주 발렌시아, 2026년 8월 7일 (GLOBE NEWSWIRE) -- 혁신적인 솔루션을 제공하는 선도적인 급성 상처 치료 기업 AVI...",
+     "source": "globenewswire",
+     "time": "2026-08-07T12:45:00Z",
+     "url": "https://www.saveticker.com/news/188614",
+     "tickers": [
+      "RCEL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 16,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187797",
+     "title": "AVITA Medical, 2분기 실적 발표 및 2026년 매출 가이던스 상향, 4분기 현금흐름 손익분기점 달성 전망",
+     "title_en": "AVITA Medical Reports Second Quarter Results, Raises 2026 Revenue Guidance, and Expects Fourth Quarter Cash Flow Breakeven",
+     "summary": "캘리포니아주 발렌시아, 2026년 8월 6일 (GLOBE NEWSWIRE) -- 혁신적인 솔루션을 제공하는 선도적인 급성 상처 치료 기업인 AV...",
+     "source": "globenewswire",
+     "time": "2026-08-06T20:02:00Z",
+     "url": "https://www.saveticker.com/news/187797",
+     "tickers": [
+      "RCEL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "TEAM": {
+   "ticker": "TEAM",
+   "name": "Atlassian Corporation",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 44992892928,
+   "description": "Atlassian Corporation provides a collaboration software that enables organizations to connect all teams through a system of work that unlocks productivity at scale worldwide. The company's product portfolio includes Jira, Confluence, Loom, Jira Service Management, Rovo, Bitbucket, Compass, Jira Product Discovery, Focus, Talent, Trello, and Guard. It also offers Collections, a curated sets of apps and agents built on the Atlassian cloud platform and designed to solve cross-functional customer workflows, including teamwork, service, strategy, software, and product collections. The company was fo",
+   "price": 177.74,
+   "analyst": {
+    "recommendation": "매수",
+    "count": 31,
+    "target_mean": 196.22516,
+    "target_low": 107.98,
+    "target_high": 480.0,
+    "upside_pct": 10.4,
+    "breakdown": {
+     "strong_buy": 6,
+     "buy": 21,
+     "hold": 6,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-10-30",
+   "earnings_est": {
+    "eps_avg": 1.4242,
+    "revenue_avg": 1713752240
+   },
+   "short": {
+    "pct_of_float": 7.4,
+    "days_to_cover": 2.29,
+    "level": "보통",
+    "institutions_pct": 105.0,
+    "insiders_pct": 0.9
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 116.483,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 0.783,
+      "unit": "x",
+      "grade": "F",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "위험"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 25.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 12.3,
+      "unit": "%",
+      "grade": "B",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 27.6,
+      "unit": "%",
+      "grade": "B",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -4.5,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -0.8,
+      "unit": "%",
+      "grade": "D",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "주의"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 4.91,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 4.91 (안전)",
+    "cash": 1239512064,
+    "debt": 1232909952,
+    "years": [
+     {
+      "year": "2026",
+      "revenue": 6572308000.0,
+      "operating_income": 10355000.0,
+      "net_income": -53828000.0,
+      "eps": -0.21,
+      "operating_cash_flow": 1353135000.0,
+      "free_cash_flow": 1319075000.0,
+      "total_debt": 1232910000.0,
+      "cash": 1239512000.0,
+      "equity": 1058442000.0
+     },
+     {
+      "year": "2025",
+      "revenue": 5215304000.0,
+      "operating_income": -130392000.0,
+      "net_income": -256687000.0,
+      "eps": null,
+      "operating_cash_flow": 1460393000.0,
+      "free_cash_flow": 1415543000.0,
+      "total_debt": 1239331000.0,
+      "cash": 2512874000.0,
+      "equity": 1345654000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 4358603000.0,
+      "operating_income": -117077000.0,
+      "net_income": -300519000.0,
+      "eps": -1.16,
+      "operating_cash_flow": 1448159000.0,
+      "free_cash_flow": 1415047000.0,
+      "total_debt": 1249338000.0,
+      "cash": 2176930000.0,
+      "equity": 1032851000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 3534647000.0,
+      "operating_income": -345222000.0,
+      "net_income": -486761000.0,
+      "eps": -1.9,
+      "operating_cash_flow": 868111000.0,
+      "free_cash_flow": 842299000.0,
+      "total_debt": 1282358000.0,
+      "cash": 2102550000.0,
+      "equity": 654672000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": 26.357624,
+    "price_to_book": 42.55207,
+    "peg": 1.8383
+   },
+   "news": [
+    {
+     "id": "206228",
+     "title": "[3보] 스노플레이크의 AI 기반 실적에 주가 급등, 소프트웨어주 상승 견인",
+     "title_en": "UPDATE 2-Snowflake's AI-powered results send shares soaring, buoy software stocks",
+     "summary": "스노플레이크의 낙관적 전망, AI 붐이 소프트웨어 기업에 혜택을 줄 수 있음을 시사\n\n\n강력한 실적에 주가 2021년 12월 이후 최고치로 상승...",
+     "source": "reuters",
+     "time": "2026-09-03T13:49:06.764718Z",
+     "url": "https://www.saveticker.com/news/206228",
+     "tickers": [
+      "SNOW",
+      "NOW",
+      "TEAM",
+      "CRM",
+      "ADBE",
+      "INTU",
+      "DDOG",
+      "MDB"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 362,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "188024",
+     "title": "아틀라시안, 클라우드 강한 수요에 힘입어 분기 실적 예상치 상회",
+     "title_en": "Atlassian beats quarterly estimates on strong cloud demand",
+     "summary": "8월 6일 (로이터) - 협업 소프트웨어 제조사인 아틀라시안 TEAM.O이 목요일 기업용 소프트웨어 서비스와 클라우드 기반 제품에 대한 강력한 ...",
+     "source": "reuters",
+     "time": "2026-08-06T21:51:17.968708Z",
+     "url": "https://www.saveticker.com/news/188024",
+     "tickers": [
+      "TEAM"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 171,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "187949",
+     "title": "아틀라시언 - 실적발표",
+     "title_en": "",
+     "summary": "2027회계연도 전망\n- 매출 성장률: 전년 대비 약 +13%\n- 클라우드 매출 성장률: 전년 대비 +25.5%\n- 데이터센터 매출 성장률: 전...",
+     "source": "",
+     "time": "2026-08-06T20:29:40.001502Z",
+     "url": "https://www.saveticker.com/news/187949",
+     "tickers": [
+      "TEAM"
+     ],
+     "tags": [
+      "실적"
+     ],
+     "is_top": false,
+     "views": 1443,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "149899",
+     "title": "모터 레이싱-F1 스폰서십, BYD에 글로벌 인지도 확보 위한 저위험 경로 제공 가능성",
+     "title_en": "Motor racing-F1 sponsorship could give BYD lower-risk route to global recognition",
+     "summary": "BYD는 브랜드 인지도를 높이기 위해 F1 진출에 대한 야망을 표명했다.\n\n\n팀 또는 이해관계자로 진출하는 것은 어려움이 있다.\n\n\n스폰서가 되...",
+     "source": "reuters",
+     "time": "2026-06-18T04:01:25.609361Z",
+     "url": "https://www.saveticker.com/news/149899",
+     "tickers": [
+      "F",
+      "GM",
+      "ORCL",
+      "TEAM"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1043,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "138190",
+     "title": "소매 투자자들, AI 거래 확산에 미국 소프트웨어 ETF 사상 최대 매수",
+     "title_en": "Retail investors fuel record buying in US software ETF as AI trade broadens",
+     "summary": "6월 2일 (로이터) - 미국 소프트웨어 주식을 추종하는 최대 상장지수펀드(ETF)가 월요일 소매 투자자들의 사상 최대 일일 순매수를 기록했다고...",
+     "source": "reuters",
+     "time": "2026-06-02T14:22:09.945603Z",
+     "url": "https://www.saveticker.com/news/138190",
+     "tickers": [
+      "NOW",
+      "IBM",
+      "ADBE",
+      "TEAM",
+      "CRM",
+      "WDAY"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1450,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "120741",
+     "title": "[2보] 프레시웍스, AI로 소프트웨어 부문 재편에 따라 11% 감원",
+     "title_en": "UPDATE 2-Freshworks to cut 11% jobs as AI reshapes software industry",
+     "summary": "2단락의 주식 업데이트\n\n\n5월 5일 (로이터) - 비즈니스 소프트웨어 회사 프레시웍스(FRSH.O)는 인공지능으로 인해 재편되고 있는 산업에 ...",
+     "source": "reuters",
+     "time": "2026-05-05T20:41:27.869439Z",
+     "url": "https://www.saveticker.com/news/120741",
+     "tickers": [
+      "FRSH",
+      "TEAM",
+      "CRM",
+      "NOW"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 889,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "120712",
+     "title": "프레시웍스, AI로 인한 소프트웨어 부문 재편에 11% 감원",
+     "title_en": "Freshworks to cut 11% jobs as AI reshapes software sector",
+     "summary": "5월 5일 (로이터) - 비즈니스 소프트웨어 회사 프레시웍스(FRSH.O)는 인공지능으로 인해 재편되고 있는 산업에 대처하기 위해 화요일에 전체...",
+     "source": "reuters",
+     "time": "2026-05-05T20:22:31.261407Z",
+     "url": "https://www.saveticker.com/news/120712",
+     "tickers": [
+      "FRSH",
+      "TEAM",
+      "CRM",
+      "NOW"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 794,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "117956",
+     "title": "[2보] 아틀라시안, AI 기능 및 기업 판매 증가로 연간 매출 전망 상향",
+     "title_en": "UPDATE 2-Atlassian lifts annual revenue forecast as AI features, enterprise sales boost growth",
+     "summary": "세부 정보 추가.\n\n\n4월 30일 (로이터) - 아틀라시안(TEAM.O)은 목요일 인공지능 기능에 대한 투자와 기업 판매 확대를 통해 성장을 견...",
+     "source": "reuters",
+     "time": "2026-04-30T20:40:27.373813Z",
+     "url": "https://www.saveticker.com/news/117956",
+     "tickers": [
+      "TEAM"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1031,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "TER": {
+   "ticker": "TER",
+   "name": "Teradyne, Inc.",
+   "sector": "Technology",
+   "industry": "Semiconductor Equipment & Materials",
+   "market_cap": 59986382848,
+   "description": "Teradyne, Inc. engages in the design, development, manufacture, and sale of automated test systems and robotics products in the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor Test, Robotics, and Other segments. The Semiconductor Test segment offers products and services for wafer level and device package testing, and system level testing of semiconductor devices in automotive, industrial, communications, consumer, smartphones, cloud, computer and electronic game, and other applications. This segment also provides FLEX test platform ",
+   "price": 383.69,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 15,
+    "target_mean": 446.46667,
+    "target_low": 350.0,
+    "target_high": 550.0,
+    "upside_pct": 16.4,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 11,
+     "hold": 5,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-10-22",
+   "earnings_est": {
+    "eps_avg": 2.05052,
+    "revenue_avg": 1262144510
+   },
+   "short": {
+    "pct_of_float": 5.1,
+    "days_to_cover": 1.95,
+    "level": "보통",
+    "institutions_pct": 100.7,
+    "insiders_pct": 0.2
+   },
+   "health": {
+    "overall": "A",
+    "overall_word": "매우 좋음",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 2.883,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 2.125,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 9.8,
+      "unit": "%",
+      "grade": "B",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 33.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 103.9,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": 36.5,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 25.8,
+      "unit": "%",
+      "grade": "A",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "매우 좋음"
+     }
+    ],
+    "piotroski": {
+     "score": 5,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 27.71,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 27.71 (안전)",
+    "cash": 354828992,
+    "debt": 100127000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 3190024000.0,
+      "operating_income": 688605000.0,
+      "net_income": 554047000.0,
+      "eps": 3.47,
+      "operating_cash_flow": 674415000.0,
+      "free_cash_flow": 450406000.0,
+      "total_debt": 283239000.0,
+      "cash": 293751000.0,
+      "equity": 2795752000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2819880000.0,
+      "operating_income": 552240000.0,
+      "net_income": 542372000.0,
+      "eps": 3.32,
+      "operating_cash_flow": 672176000.0,
+      "free_cash_flow": 474081000.0,
+      "total_debt": 76621000.0,
+      "cash": 553354000.0,
+      "equity": 2819294000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 2676298000.0,
+      "operating_income": 522345000.0,
+      "net_income": 448752000.0,
+      "eps": 2.73,
+      "operating_cash_flow": 585231000.0,
+      "free_cash_flow": 425589000.0,
+      "total_debt": 82614000.0,
+      "cash": 757571000.0,
+      "equity": 2525897000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 3155045000.0,
+      "operating_income": 849124000.0,
+      "net_income": 715501000.0,
+      "eps": 4.22,
+      "operating_cash_flow": 577923000.0,
+      "free_cash_flow": 414674000.0,
+      "total_debt": 132885000.0,
+      "cash": 854773000.0,
+      "equity": 2451294000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 51.022606,
+    "forward_pe": 32.927784,
+    "price_to_book": 19.105213,
+    "peg": 0.6809
+   },
+   "news": [
+    {
+     "id": "197087",
+     "title": "Baird, '테러다인' 투자의견 하향 (Outperform→중립); 목표가 $420",
+     "title_en": "",
+     "summary": "Baird, '테러다인' 투자의견 하향 (Outperform→중립); 목표가 $420\n\n",
+     "source": "",
+     "time": "2026-08-21T06:21:44.006469Z",
+     "url": "https://www.saveticker.com/news/197087",
+     "tickers": [
+      "TER"
+     ],
+     "tags": [
+      "투자 의견"
+     ],
+     "is_top": false,
+     "views": 3455,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "179058",
+     "title": "테라다인, 반도체 장비 수요 강세에 긍정적 매출 전망…주가 급등",
+     "title_en": "Teradyne forecasts upbeat revenue on strong chip equipment demand, shares jump",
+     "summary": "7월 28일 (로이터) - 반도체 테스트 장비 제조업체 테라다인(Teradyne) TER.O은 화요일, 웨이퍼 제조 장비에 대한 투자 증가세가 ...",
+     "source": "reuters",
+     "time": "2026-07-28T21:00:22.980652Z",
+     "url": "https://www.saveticker.com/news/179058",
+     "tickers": [
+      "TER"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 656,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "179045",
+     "title": "테러다인 - 실적발표",
+     "title_en": "",
+     "summary": "2분기 실적\n- 조정 EPS: 2.47달러 (전년 동기: 0.57달러, 예상: 2.04달러)\n- 순매출: 13억 3,000만 달러 (전년 동기:...",
+     "source": "",
+     "time": "2026-07-28T20:36:21.247999Z",
+     "url": "https://www.saveticker.com/news/179045",
+     "tickers": [
+      "TER"
+     ],
+     "tags": [
+      "실적"
+     ],
+     "is_top": false,
+     "views": 7429,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "178342",
+     "title": "블룸에너지·시게이트·코닝 등 - 실적 컨센서스 (위스퍼링 넘버 및 내재 변동성)",
+     "title_en": "",
+     "summary": "\n",
+     "source": "",
+     "time": "2026-07-28T09:36:13.793232Z",
+     "url": "https://www.saveticker.com/news/178342",
+     "tickers": [
+      "V",
+      "TER",
+      "ENPH",
+      "BE",
+      "KO",
+      "STX",
+      "PYPL",
+      "GLW",
+      "KLAC",
+      "UPS"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 34266,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "145320",
+     "title": "나스닥 100 - 편입/편출 (로켓랩, 코어위브, 네비우스, 아스테라랩스, 테러다인)",
+     "title_en": "",
+     "summary": "나스닥100 편입/편출 (6월 22일 예정)\n\n\n- 편입: 아스테라랩스, 코어위브, 네비우스, 로켓랩, 테라다인\n\n\n- 편출: 차터 커뮤니케이션...",
+     "source": "",
+     "time": "2026-06-12T06:38:16.509876Z",
+     "url": "https://www.saveticker.com/news/145320",
+     "tickers": [
+      "NBIS",
+      "ALAB",
+      "CRWV",
+      "TER",
+      "RKLB"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 38026,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "115508",
+     "title": "테라다인, 분기 매출 및 이익 순차적 감소 전망…주가 하락",
+     "title_en": "Teradyne forecasts sequential decline in quarterly revenue and profit, shares fall",
+     "summary": "4월 28일 (로이터) - 반도체 테스트 장비 제조업체 테라다인(TER.O)은 화요일 2분기 매출과 조정 이익이 순차적으로 감소할 것으로 전망했...",
+     "source": "reuters",
+     "time": "2026-04-28T21:51:07.628944Z",
+     "url": "https://www.saveticker.com/news/115508",
+     "tickers": [
+      "TER",
+      "AAPL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1111,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "115463",
+     "title": "실적발표 (부킹, 티모바일, 시게이트, 웰타워, 엔페이즈, 로저스 등)",
+     "title_en": "",
+     "summary": "부킹 홀딩스(BKNG) – EPS/매출 상회; 총 예약 하회\n\n\n티모바일(TMUS) – EPS/매출 상회; 연간 전망 하향 조정\n\n\n로빈후드(H...",
+     "source": "",
+     "time": "2026-04-28T20:43:12.695743Z",
+     "url": "https://www.saveticker.com/news/115463",
+     "tickers": [
+      "BKNG",
+      "TMUS",
+      "STX",
+      "WELL",
+      "V",
+      "SBUX",
+      "NXPI",
+      "BE",
+      "TER",
+      "ROG"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 22658,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "115451",
+     "title": "테러다인 - 실적발표",
+     "title_en": "",
+     "summary": "2분기 전망\n- 조정 EPS: $1.86~$2.15 (예상: $1.98)\n- 매출: $11.5억~$12.5억 (예상: $12.0억) \n\n\n1분기...",
+     "source": "",
+     "time": "2026-04-28T20:36:49.152067Z",
+     "url": "https://www.saveticker.com/news/115451",
+     "tickers": [
+      "TER"
+     ],
+     "tags": [
+      "실적",
+      "정보"
+     ],
+     "is_top": false,
+     "views": 6561,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "TMCI": {
+   "ticker": "TMCI",
+   "name": "Treace Medical Concepts, Inc.",
+   "sector": "Healthcare",
+   "industry": "Medical Devices",
+   "market_cap": 294606528,
+   "description": "Treace Medical Concepts, Inc., a medical technology company, designs, manufactures, and markets medical devices in the United States. The company offers Lapiplasty System, enables surgeons to correct all three dimensions of the bunion deformity, stabilize the first TMT joint, and allow return to weight-bearing in a walking boot; minimally invasive products for four bunion classes; Nanoplasty 3D Minimally Invasive Bunion Correction System delivers a reproducible 3D correction of the bunion deformity through a cosmetically appealing; and Percuplasty Percutaneous 3D Bunion Correction System that ",
+   "price": 4.53,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 3,
+    "target_mean": 5.5,
+    "target_low": 4.5,
+    "target_high": 7.0,
+    "upside_pct": 21.4,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 1,
+     "hold": 3,
+     "sell": 0,
+     "strong_sell": 1
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": -0.25,
+    "revenue_avg": 47710000
+   },
+   "short": {
+    "pct_of_float": 3.1,
+    "days_to_cover": 3.76,
+    "level": "낮음",
+    "institutions_pct": 49.7,
+    "insiders_pct": 25.3
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 107.844,
+      "unit": "%",
+      "grade": "C",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 2.903,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -3.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "보통"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -33.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": -4.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "위험"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -72.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -29.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": 0.71,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 0.71 (위험)",
+    "cash": 45619000,
+    "debt": 73050000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 212690000.0,
+      "operating_income": -54154000.0,
+      "net_income": -59002000.0,
+      "eps": -0.93,
+      "operating_cash_flow": -15970000.0,
+      "free_cash_flow": -29487000.0,
+      "total_debt": 71862000.0,
+      "cash": 10708000.0,
+      "equity": 87332000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 209357000.0,
+      "operating_income": -55688000.0,
+      "net_income": -55743000.0,
+      "eps": -0.9,
+      "operating_cash_flow": -37167000.0,
+      "free_cash_flow": -48760000.0,
+      "total_debt": 69653000.0,
+      "cash": 11350000.0,
+      "equity": 112892000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 187118000.0,
+      "operating_income": -51428000.0,
+      "net_income": -49527000.0,
+      "eps": -0.81,
+      "operating_cash_flow": -34575000.0,
+      "free_cash_flow": -46033000.0,
+      "total_debt": 70303000.0,
+      "cash": 12982000.0,
+      "equity": 137938000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 141838000.0,
+      "operating_income": -34844000.0,
+      "net_income": -42815000.0,
+      "eps": -0.77,
+      "operating_cash_flow": -30648000.0,
+      "free_cash_flow": -45486000.0,
+      "total_debt": 68589000.0,
+      "cash": 19473000.0,
+      "equity": 60529000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -5.329412,
+    "price_to_book": 4.347409,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "188518",
+     "title": "트리스 메디컬 컨셉츠, 2026년 2분기 실적 발표",
+     "title_en": "Treace Medical Concepts Reports Second Quarter 2026 Financial Results",
+     "summary": "플로리다주 폰테 베드라, 2026년 8월 7일 (GLOBE NEWSWIRE) -- 무지외반증 및 관련 기형의 수술적 치료에 근본적인 변화를 주도...",
+     "source": "globenewswire",
+     "time": "2026-08-07T11:05:00Z",
+     "url": "https://www.saveticker.com/news/188518",
+     "tickers": [
+      "TMCI"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 11,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "176404",
+     "title": "Treace, 2026년 8월 7일에 2026년 2분기 재무 실적 발표 예정",
+     "title_en": "Treace to Report Second Quarter 2026 Financial Results on August 7, 2026",
+     "summary": "플로리다주 폰테 베드라, 2026년 7월 24일 (GLOBE NEWSWIRE) -- 무지외반증 및 관련 중족부 변형의 수술적 치료에 근본적인 변...",
+     "source": "globenewswire",
+     "time": "2026-07-24T11:05:00Z",
+     "url": "https://www.saveticker.com/news/176404",
+     "tickers": [
+      "TMCI"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 5,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "TXG": {
+   "ticker": "TXG",
+   "name": "10x Genomics, Inc.",
+   "sector": "Healthcare",
+   "industry": "Medical Devices",
+   "market_cap": 8767292416,
+   "description": "10x Genomics, Inc. develops and sells instruments, consumables, and software for analyzing biological systems in the United States, rest of the Americas, Europe, the Middle East, Africa, China, and the rest of the Asia Pacific. The company offers Chromium platform, a single cell portfolio that enables analysis of individual biological components, as well as includes microfluidic chips and related consumables, Chromium X Series, and Chromium instruments; and QuantumScale single cell RNA and single cell methylation kits. It also provides Visium platform, a spatial analysis platform that uses hig",
+   "price": 67.29,
+   "analyst": {
+    "recommendation": "매수",
+    "count": 14,
+    "target_mean": 51.0,
+    "target_low": 40.0,
+    "target_high": 70.0,
+    "upside_pct": -24.2,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 5,
+     "hold": 11,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-06",
+   "earnings_est": {
+    "eps_avg": -0.01667,
+    "revenue_avg": 147228920
+   },
+   "short": {
+    "pct_of_float": 17.9,
+    "days_to_cover": 4.97,
+    "level": "높음",
+    "institutions_pct": 120.1,
+    "insiders_pct": 1.5
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 9.545,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 5.693,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": 29.1,
+      "unit": "%",
+      "grade": "A",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -15.2,
+      "unit": "%",
+      "grade": "D",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "주의"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": -12.7,
+      "unit": "%",
+      "grade": "F",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "위험"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -9.4,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -12.2,
+      "unit": "%",
+      "grade": "D",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "주의"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 20.54,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 20.54 (안전)",
+    "cash": 552033024,
+    "debt": 78796000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 642823000.0,
+      "operating_income": -110885000.0,
+      "net_income": -43544000.0,
+      "eps": -0.35,
+      "operating_cash_flow": 136050000.0,
+      "free_cash_flow": 130115000.0,
+      "total_debt": 84361000.0,
+      "cash": 473966000.0,
+      "equity": 796326000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 610785000.0,
+      "operating_income": -194559000.0,
+      "net_income": -182627000.0,
+      "eps": -1.52,
+      "operating_cash_flow": 6664000.0,
+      "free_cash_flow": -6729000.0,
+      "total_debt": 82613000.0,
+      "cash": 344067000.0,
+      "equity": 710134000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 618727000.0,
+      "operating_income": -204349000.0,
+      "net_income": -255099000.0,
+      "eps": -2.18,
+      "operating_cash_flow": -15197000.0,
+      "free_cash_flow": -64721000.0,
+      "total_debt": 95370000.0,
+      "cash": 359284000.0,
+      "equity": 741043000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 516409000.0,
+      "operating_income": -167944000.0,
+      "net_income": -166000000.0,
+      "eps": -1.46,
+      "operating_cash_flow": -33606000.0,
+      "free_cash_flow": -165267000.0,
+      "total_debt": 95176000.0,
+      "cash": 219746000.0,
+      "equity": 805743000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": 330.93985,
+    "price_to_book": 10.6589575,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "157037",
+     "title": "로슈, 일루미나의 지배력 약화 노리고 악셀리오스 유전자 시퀀서 출시",
+     "title_en": "Roche launches Axelios gene sequencer in a bid to loosen Illumina's grip",
+     "summary": "반비 사티자, 마를린 케세비어 기자\n\n\n런던/취리히, 6월 29일 (로이터) - 스위스의 제약 및 진단 대기업 로슈(Roche) ROG.S는 월...",
+     "source": "reuters",
+     "time": "2026-06-29T08:06:24.937466Z",
+     "url": "https://www.saveticker.com/news/157037",
+     "tickers": [
+      "ILMN",
+      "TXG",
+      "GOOGL"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 1113,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  },
+  "URGN": {
+   "ticker": "URGN",
+   "name": "UroGen Pharma Ltd.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 2199625472,
+   "description": "UroGen Pharma Ltd., a biotechnology company, engages in the development and commercialization of solutions for urothelial and specialty cancers. It offers RTGel, a novel proprietary polymeric biocompatible, reverse thermal gelation hydrogel technology; Mitomycin a generic drug used off-label as an adjuvant chemotherapy for the treatment of low-grade NMIBC after trans-urethral resection of bladder tumor; Zusduri, a sustained-release formulation of mitomycin for the treatment of non-muscle invasive bladder cancer (NMIBC); and Jelmyto for pyelocalyceal solutions. The company's lead product candid",
+   "price": 45.0,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": 8,
+    "target_mean": 60.0,
+    "target_low": 48.0,
+    "target_high": 75.0,
+    "upside_pct": 33.3,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 6,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-05",
+   "earnings_est": {
+    "eps_avg": 0.09143,
+    "revenue_avg": 90576120
+   },
+   "short": {
+    "pct_of_float": 10.7,
+    "days_to_cover": 5.93,
+    "level": "보통",
+    "institutions_pct": 100.3,
+    "insiders_pct": 3.5
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 3.802,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -56.7,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 0.2,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 199.2,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -51.7,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 1,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": -3.28,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 1/9 (취약) · 알트만 Z -3.28 (위험)",
+    "cash": 107975000,
+    "debt": 196128000,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 109788000.0,
+      "operating_income": -124863000.0,
+      "net_income": -153494000.0,
+      "eps": -3.19,
+      "operating_cash_flow": -162444000.0,
+      "free_cash_flow": -162733000.0,
+      "total_debt": 128332000.0,
+      "cash": 110745000.0,
+      "equity": -105474000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 90398000.0,
+      "operating_income": -96782000.0,
+      "net_income": -126874000.0,
+      "eps": -2.96,
+      "operating_cash_flow": -96766000.0,
+      "free_cash_flow": -97061000.0,
+      "total_debt": 123387000.0,
+      "cash": 171987000.0,
+      "equity": -8803000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 82713000.0,
+      "operating_income": -65536000.0,
+      "net_income": -102244000.0,
+      "eps": -3.55,
+      "operating_cash_flow": -76376000.0,
+      "free_cash_flow": -76570000.0,
+      "total_debt": 99395000.0,
+      "cash": 95002000.0,
+      "equity": -65212000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 64357000.0,
+      "operating_income": -79041000.0,
+      "net_income": -109783000.0,
+      "eps": -4.79,
+      "operating_cash_flow": -87559000.0,
+      "free_cash_flow": -87813000.0,
+      "total_debt": 99123000.0,
+      "cash": 55408000.0,
+      "equity": -89361000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": 16.104269,
+    "price_to_book": -16.611296,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "206915",
+     "title": "유로젠 파마, 나스닥 상장 규정 5635(c)(4)에 따른 유인 보조금 발표",
+     "title_en": "UroGen Pharma Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+     "summary": "프린스턴, 뉴저지, 2026년 9월 4일 (글로브 뉴스와이어) -- 요로젠 파마 Ltd.(나스닥: URGN)는 요로상피암 및 특수 암을 치료하는...",
+     "source": "globenewswire",
+     "time": "2026-09-04T12:00:00Z",
+     "url": "https://www.saveticker.com/news/206915",
+     "tickers": [
+      "URGN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 220,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "196400",
+     "title": "유로젠, 인트라젤과 전략적 협력 및 투자 계약 체결…생분해성 지속 방출 젤 플랫폼 확보 및 종양학 파이프라인 확장",
+     "title_en": "UroGen Announces Strategic Collaboration and Investment Agreements with IntraGel to Access Biodegradable Sustained-Release Gel Platform and Expand Oncology Pipeline",
+     "summary": "이번 협력을 통해 유로젠(UroGen)은 인트라젤(IntraGel)의 독자적인 SRGel 플랫폼을 활용하는 최대 3개의 종양학 제품에 대한 연구...",
+     "source": "globenewswire",
+     "time": "2026-08-20T11:00:00Z",
+     "url": "https://www.saveticker.com/news/196400",
+     "tickers": [
+      "URGN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "194000",
+     "title": "UroGen, 재발성 저등급 중간위험 비근침윤성 방광암(LG-IR-NMIBC) 치료 후보물질 UGN-103 신약 허가 신청(NDA) 제출",
+     "title_en": "UroGen Submits NDA for UGN-103, an Investigational Treatment of Recurrent LG-IR-NMIBC",
+     "summary": "뉴저지주 프린스턴, 2026년 8월 17일 (GLOBE NEWSWIRE) -- 요로상피암 및 특수암 치료를 위한 혁신적인 솔루션 개발 및 상용화...",
+     "source": "globenewswire",
+     "time": "2026-08-17T12:00:00Z",
+     "url": "https://www.saveticker.com/news/194000",
+     "tickers": [
+      "URGN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 9,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "186101",
+     "title": "UroGen, ZUSDURI 매출 5,040만 달러 보고 및 2026년 2분기 재무 실적과 주요 성과 발표",
+     "title_en": "UroGen Reports $50.4 Million of ZUSDURI Revenue and Provides Second Quarter 2026 Financial Results and Highlights",
+     "summary": "ZUSDURI®는 2026년 2분기에 5,040만 달러의 매출을 기록했으며, 이는 전 분기 대비 73% 성장한 수치다.\n새로운 미국 특허가 발행...",
+     "source": "globenewswire",
+     "time": "2026-08-05T12:00:00Z",
+     "url": "https://www.saveticker.com/news/186101",
+     "tickers": [
+      "URGN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 4,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "179718",
+     "title": "UroGen Pharma, 2026년 8월 5일 수요일에 2026년 2분기 실적 발표 예정",
+     "title_en": "UroGen Pharma to Report Second Quarter 2026 Financial Results on Wednesday, August 5th, 2026",
+     "summary": "컨퍼런스 콜 및 웹캐스트는 2026년 8월 5일 수요일 오전 10시(미 동부시간)로 예정되어 있다.\n뉴저지주 프린스턴, 2026년 7월 29일 ...",
+     "source": "globenewswire",
+     "time": "2026-07-29T12:00:00Z",
+     "url": "https://www.saveticker.com/news/179718",
+     "tickers": [
+      "URGN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 2,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-10T04:39:02.907233+00:00"
+  }
+ },
+ "market": "us"
+}

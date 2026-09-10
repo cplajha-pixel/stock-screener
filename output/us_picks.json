@@ -1,0 +1,42 @@
+{
+ "picks": [
+  {
+   "date": "2026-09-09",
+   "ticker": "AVAH",
+   "name": "Aveanna Healthcare Holdings Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 14.045,
+   "stop_price": 13.2723,
+   "stop_pct": 5.5,
+   "reason": "3개월 +104.2% (후보 중 모멘텀 상위) · 급등 +66.0% 뒤 11일 횡보, 폭 8.3% · 거래량 급등기 대비 59% 로 감소 · 종가가 트리거가의 99.9% 위치",
+   "candidates": [
+    "RCEL",
+    "TXG",
+    "IOVA",
+    "AVAH",
+    "PBF",
+    "TEAM",
+    "MNPR",
+    "FRD",
+    "HTFL",
+    "BTGO",
+    "TMCI",
+    "OSCR"
+   ],
+   "status": "대기",
+   "result": null
+  }
+ ],
+ "summary": {
+  "total": 1,
+  "triggered": 0,
+  "not_triggered": 0,
+  "closed": 0,
+  "open": 0,
+  "win_rate": null,
+  "avg_pnl_pct": null,
+  "avg_r": null,
+  "sum_pnl_pct": null
+ },
+ "generated_at": "2026-09-10T04:39:02Z"
+}

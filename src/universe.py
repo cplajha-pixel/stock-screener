@@ -63,6 +63,24 @@ def _fetch_text(url: str, retries: int = 3, timeout: int = 30) -> str:
     raise RuntimeError(f"fetch failed: {url}: {last}")
 
 
+def _fetch_symdir(name: str) -> str:
+    """NASDAQ Trader 심볼 파일. HTTPS 가 봇 차단(Incapsula)되면 FTP 로 재시도."""
+    https = f"https://www.nasdaqtrader.com/dynamic/SymDir/{name}"
+    try:
+        t = _fetch_text(https, retries=2)
+        if "Symbol|" in t[:200] or "ACT Symbol|" in t[:200]:
+            return t
+        log.warning("NASDAQ Trader HTTPS 응답이 심볼 파일이 아님 (봇 차단?) → FTP 시도")
+    except Exception as e:  # noqa: BLE001
+        log.warning("NASDAQ Trader HTTPS 실패: %s → FTP 시도", e)
+    import urllib.request
+    with urllib.request.urlopen(f"ftp://ftp.nasdaqtrader.com/SymbolDirectory/{name}", timeout=60) as r:
+        t = r.read().decode("utf-8", errors="replace")
+    if not ("Symbol|" in t[:200] or "ACT Symbol|" in t[:200]):
+        raise RuntimeError(f"{name}: 심볼 파일 형식이 아님")
+    return t
+
+
 def _parse_pipe_file(text: str) -> pd.DataFrame:
     lines = [ln for ln in text.splitlines() if ln.strip() and not ln.startswith("File Creation Time")]
     df = pd.read_csv(io.StringIO("\n".join(lines)), sep="|", dtype=str).fillna("")
@@ -78,13 +96,17 @@ def _to_yahoo(symbol: str) -> str:
 def us_common_stocks(use_cache_on_fail: bool = True) -> pd.DataFrame:
     """미국 상장 보통주 목록. columns: ticker, name, exchange"""
     cache = DATA_DIR / "us_tickers.json"
+    fallback = OUTPUT_DIR / "us_tickers.csv"
     try:
-        nas = _parse_pipe_file(_fetch_text(NASDAQ_LISTED_URL))
-        oth = _parse_pipe_file(_fetch_text(OTHER_LISTED_URL))
+        nas = _parse_pipe_file(_fetch_symdir("nasdaqlisted.txt"))
+        oth = _parse_pipe_file(_fetch_symdir("otherlisted.txt"))
     except Exception as e:  # noqa: BLE001
         if use_cache_on_fail and cache.exists():
             log.warning("NASDAQ Trader 다운로드 실패, 캐시 사용: %s", e)
             return pd.DataFrame(json.loads(cache.read_text(encoding="utf-8")))
+        if use_cache_on_fail and fallback.exists():
+            log.warning("NASDAQ Trader 다운로드 실패, 저장소 사본 사용: %s", e)
+            return pd.read_csv(fallback)
         raise
 
     rows = []
@@ -121,6 +143,7 @@ def us_common_stocks(use_cache_on_fail: bool = True) -> pd.DataFrame:
     df = pd.DataFrame(rows).drop_duplicates("ticker").sort_values("ticker").reset_index(drop=True)
     df = df[df["ticker"].str.match(r"^[A-Z][A-Z0-9\-]{0,7}$")]
     cache.write_text(json.dumps(df.to_dict("records"), ensure_ascii=False), encoding="utf-8")
+    df.to_csv(fallback, index=False, encoding="utf-8")
     log.info("미국 보통주 %d 종목", len(df))
     return df
 

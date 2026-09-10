@@ -15,7 +15,7 @@ on:
         description: '실행할 작업'
         type: choice
         default: auto
-        options: [auto, short, ep, mid, long, insight, all]
+        options: [auto, short, ep, mid, long, insight, context, daily, all]
       force:
         description: '시간/날짜/캐시 조건 무시'
         type: boolean
@@ -76,7 +76,9 @@ jobs:
               mid)     FLAGS="--mid" ;;
               long)    FLAGS="--long" ;;
               insight) FLAGS="--insight" ;;
-              all)     FLAGS="--short --mid --long --insight" ;;
+              context) FLAGS="--context" ;;
+              daily)   FLAGS="--daily" ;;
+              all)     FLAGS="--short --mid --long --insight --context --daily" ;;
               *)       FLAGS="" ;;
             esac
             if [ "$FORCE" = "true" ]; then FLAGS="$FLAGS --force"; fi

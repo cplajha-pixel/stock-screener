@@ -1,6 +1,6 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-10T01:26:30Z",
+ "generated_at": "2026-09-10T04:39:02Z",
  "market": "us",
  "setup": "breakout",
  "capital": 700,
@@ -28,8 +28,15 @@
    "box_days": 10,
    "box_range_pct": 15.8,
    "runup_pct": 181.2,
+   "vol_recent": 267790,
+   "vol_before_peak": 543990,
+   "sma10": 10.4892,
+   "sma20": 9.8761,
+   "peak": 10.77,
    "qty": 30,
-   "score": 146.4
+   "score": 146.4,
+   "pick_score": 5.75,
+   "pick_rank": 4
   },
   {
    "date": "2026-09-09",
@@ -51,8 +58,15 @@
    "box_days": 10,
    "box_range_pct": 15.2,
    "runup_pct": 90.6,
+   "vol_recent": 2347445,
+   "vol_before_peak": 3131590,
+   "sma10": 63.347,
+   "sma20": 61.939,
+   "peak": 66.94,
    "qty": 5,
-   "score": 119.9
+   "score": 119.9,
+   "pick_score": 4.75,
+   "pick_rank": 3
   },
   {
    "date": "2026-09-09",
@@ -74,8 +88,15 @@
    "box_days": 13,
    "box_range_pct": 21.4,
    "runup_pct": 148.9,
+   "vol_recent": 9921628,
+   "vol_before_peak": 22829300,
+   "sma10": 8.405,
+   "sma20": 8.0095,
+   "peak": 9.36,
    "qty": 37,
-   "score": 117.5
+   "score": 117.5,
+   "pick_score": 5.75,
+   "pick_rank": 5
   },
   {
    "date": "2026-09-09",
@@ -97,8 +118,16 @@
    "box_days": 11,
    "box_range_pct": 8.3,
    "runup_pct": 66.0,
+   "vol_recent": 2874225,
+   "vol_before_peak": 4880000,
+   "sma10": 13.5746,
+   "sma20": 13.0173,
+   "peak": 13.98,
    "qty": 24,
-   "score": 104.2
+   "score": 104.2,
+   "pick_score": 3.0,
+   "pick_rank": 1,
+   "is_pick": true
   },
   {
    "date": "2026-09-09",
@@ -120,8 +149,15 @@
    "box_days": 16,
    "box_range_pct": 21.9,
    "runup_pct": 108.7,
+   "vol_recent": 2546735,
+   "vol_before_peak": 3387840,
+   "sma10": 73.601,
+   "sma20": 72.7657,
+   "peak": 75.68,
    "qty": 4,
-   "score": 90.3
+   "score": 90.3,
+   "pick_score": 7.5,
+   "pick_rank": 8
   },
   {
    "date": "2026-09-09",
@@ -143,8 +179,15 @@
    "box_days": 13,
    "box_range_pct": 23.4,
    "runup_pct": 139.1,
+   "vol_recent": 4074526,
+   "vol_before_peak": 6884580,
+   "sma10": 185.0645,
+   "sma20": 175.7097,
+   "peak": 177.88,
    "qty": 1,
-   "score": 86.0
+   "score": 86.0,
+   "pick_score": 9.25,
+   "pick_rank": 12
   },
   {
    "date": "2026-09-09",
@@ -166,8 +209,15 @@
    "box_days": 23,
    "box_range_pct": 19.1,
    "runup_pct": 115.2,
+   "vol_recent": 141761,
+   "vol_before_peak": 339910,
+   "sma10": 114.801,
+   "sma20": 114.326,
+   "peak": 124.82,
    "qty": 2,
-   "score": 85.0
+   "score": 85.0,
+   "pick_score": 6.75,
+   "pick_rank": 7
   },
   {
    "date": "2026-09-09",
@@ -189,8 +239,15 @@
    "box_days": 15,
    "box_range_pct": 13.2,
    "runup_pct": 59.2,
+   "vol_recent": 49594,
+   "vol_before_peak": 119640,
+   "sma10": 44.36,
+   "sma20": 44.3745,
+   "peak": 48.77,
    "qty": 7,
-   "score": 76.3
+   "score": 76.3,
+   "pick_score": 4.0,
+   "pick_rank": 2
   },
   {
    "date": "2026-09-09",
@@ -212,8 +269,15 @@
    "box_days": 10,
    "box_range_pct": 13.8,
    "runup_pct": 114.5,
+   "vol_recent": 1751719,
+   "vol_before_peak": 3148170,
+   "sma10": 48.873,
+   "sma20": 46.0505,
+   "peak": 51.19,
    "qty": 6,
-   "score": 63.0
+   "score": 63.0,
+   "pick_score": 6.5,
+   "pick_rank": 6
   },
   {
    "date": "2026-09-09",
@@ -235,8 +299,15 @@
    "box_days": 10,
    "box_range_pct": 19.5,
    "runup_pct": 56.3,
+   "vol_recent": 1573600,
+   "vol_before_peak": 2214960,
+   "sma10": 7.223,
+   "sma20": 6.652,
+   "peak": 7.27,
    "qty": 44,
-   "score": 41.4
+   "score": 41.4,
+   "pick_score": 8.5,
+   "pick_rank": 11
   },
   {
    "date": "2026-09-09",
@@ -258,8 +329,15 @@
    "box_days": 22,
    "box_range_pct": 17.9,
    "runup_pct": 39.4,
+   "vol_recent": 224149,
+   "vol_before_peak": 379990,
+   "sma10": 4.6825,
+   "sma20": 4.6182,
+   "peak": 5.198,
    "qty": 69,
-   "score": 21.6
+   "score": 21.6,
+   "pick_score": 8.25,
+   "pick_rank": 10
   },
   {
    "date": "2026-09-09",
@@ -281,8 +359,15 @@
    "box_days": 11,
    "box_range_pct": 14.3,
    "runup_pct": 32.2,
+   "vol_recent": 4424697,
+   "vol_before_peak": 5706380,
+   "sma10": 31.115,
+   "sma20": 31.289,
+   "peak": 33.548,
    "qty": 10,
-   "score": 16.7
+   "score": 16.7,
+   "pick_score": 8.0,
+   "pick_rank": 9
   }
  ]
 }

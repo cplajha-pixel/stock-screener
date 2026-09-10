@@ -20,12 +20,17 @@ import traceback
 from datetime import datetime
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 from src.config import OUTPUT_DIR, load_config
+from src.context import build_context
 from src.data import ET, fill_today_if_missing, get_daily, now_et, to_wide, trim_incomplete
 from src.indicators import compute
+from src.macro import build_daily
+from src.picks import add_today_pick, choose_pick, grade_picks, save_picks
 from src.universe import long_universe, us_common_stocks
+from src.us_short import universe_mask as short_universe_mask
 
 log = logging.getLogger("screener")
 
@@ -68,12 +73,15 @@ def run_us(args) -> int:
     from src.us_long import screen_long
     from src.insight import build_insight
 
-    auto = not (args.short or args.ep or args.mid or args.long or args.insight)
+    auto = not (args.short or args.ep or args.mid or args.long or args.insight or args.context or args.daily)
     do_short, do_ep, do_mid, do_long, do_insight = args.short, args.ep, args.mid, args.long, args.insight
+    do_context, do_daily = args.context, args.daily
     if auto:
-        do_short = do_mid = True
+        do_short = do_mid = do_context = do_daily = True
         do_ep = False
         do_long = do_insight = None  # 데이터 본 뒤 결정
+    if do_ep:
+        do_context = True  # EP 후보에도 근거 붙임
     if do_ep and not args.force and not ep_run_window_ok(cfg["us_short"]):
         log.info("EP 실행 시간(미국 동부 %s)이 아님 → 건너뜀 (--force 로 강제)", cfg["us_short"]["ep"]["run_window_et"])
         do_ep = False
@@ -107,9 +115,12 @@ def run_us(args) -> int:
         log.info("자동 모드: short=%s mid=%s long=%s insight=%s", do_short, do_mid, do_long, do_insight)
 
     rc = 0
+    context_tickers: set[str] = set()
     if do_short:
         try:
             rows = screen_breakout(ind, names, cfg=cfg["us_short"], exchanges=exchanges)
+            pick = choose_pick(rows)
+            context_tickers |= {r["ticker"] for r in rows}
             write_json("us_short.json", {
                 "date": str(last_date.date()), "generated_at": pd.Timestamp.now("UTC").strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "market": "us", "setup": "breakout", "capital": cfg["us_short"]["money"]["capital"],
@@ -117,12 +128,18 @@ def run_us(args) -> int:
                 "count": len(rows), "items": rows,
             })
             log.info("[단기] 돌파 대기 %d 종목: %s", len(rows), ", ".join(r["ticker"] for r in rows[:15]))
+            # 1픽 기록 + 과거 1픽 채점
+            pj = add_today_pick(pick, str(last_date.date()), rows)
+            pj = grade_picks(pj, w, cfg["us_short"])
+            save_picks(pj)
+            log.info("[1픽] %s / 성적표 %s", pick["ticker"] if pick else "없음", pj.get("summary"))
         except Exception:  # noqa: BLE001
             log.error("[단기] 실패:\n%s", traceback.format_exc())
             rc = 1
     if do_mid:
         try:
             rows = screen_mid(ind, names, cfg=cfg["us_mid"], exchanges=exchanges)
+            context_tickers |= {r["ticker"] for r in rows}
             write_json("us_mid.json", {
                 "date": str(last_date.date()), "generated_at": pd.Timestamp.now("UTC").strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "market": "us", "capital": cfg["us_mid"]["money"]["capital"],
@@ -138,6 +155,7 @@ def run_us(args) -> int:
             res = screen_long(ind, lu, cfg=cfg["us_long"], force_fund=args.force, exchanges=exchanges)
             res["market"] = "us"
             write_json("us_long.json", res)
+            context_tickers |= set(res.get("holdings", []))
             log.info("[장기] 상위 %d: %s", len(res["candidates"]), ", ".join(r["ticker"] for r in res["candidates"][:10]))
         except Exception:  # noqa: BLE001
             log.error("[장기] 실패:\n%s", traceback.format_exc())
@@ -156,6 +174,7 @@ def run_us(args) -> int:
     if do_ep:
         try:
             rows = screen_ep(ind, names, cfg=cfg["us_short"], exchanges=exchanges)
+            context_tickers |= {r["ticker"] for r in rows}
             write_json("us_short_ep.json", {
                 "date": rows[0]["date"] if rows else str(now_et().date()),
                 "generated_at": pd.Timestamp.now("UTC").strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -168,12 +187,66 @@ def run_us(args) -> int:
         except Exception:  # noqa: BLE001
             log.error("[EP] 실패:\n%s", traceback.format_exc())
             rc = 1
+    # 근거 수집 (후보 + 장기 상위 5 + 기존 근거 파일의 종목은 뉴스만 갱신)
+    if do_context:
+        try:
+            if not do_long:
+                lp = OUTPUT_DIR / "us_long.json"
+                if lp.exists():
+                    context_tickers |= set(json.loads(lp.read_text(encoding="utf-8")).get("holdings", []))
+            for name_ in ("us_short.json", "us_mid.json", "us_short_ep.json"):
+                p = OUTPUT_DIR / name_
+                if p.exists():
+                    try:
+                        context_tickers |= {r["ticker"] for r in json.loads(p.read_text(encoding="utf-8")).get("items", [])}
+                    except Exception:  # noqa: BLE001
+                        pass
+            ctx = build_context(sorted(context_tickers))
+            ctx["market"] = "us"
+            write_json("us_context.json", ctx)
+        except Exception:  # noqa: BLE001
+            log.error("[근거] 실패:\n%s", traceback.format_exc())
+            rc = 1
+    # 오늘의 시장
+    if do_daily:
+        try:
+            temp = None
+            ip = OUTPUT_DIR / "us_insight.json"
+            if ip.exists():
+                temp = json.loads(ip.read_text(encoding="utf-8")).get("temperature")
+            sp = lu[lu["in_sp500"]]["ticker"].tolist() if "in_sp500" in lu.columns else lu["ticker"].tolist()
+            bh = breadth_history(ind, sp, n=30)
+            if bh:
+                temp = dict(temp or {})
+                temp.update({"breadth_pct": bh[-1]["breadth_pct"]})
+            um = short_universe_mask(ind, len(dates) - 1, cfg["us_short"])
+            d = build_daily(temp=temp, breadth_hist=bh, short_universe_size=int(um.sum()))
+            d["market"] = "us"
+            d["temperature"] = temp
+            write_json("us_daily.json", d)
+        except Exception:  # noqa: BLE001
+            log.error("[오늘의 시장] 실패:\n%s", traceback.format_exc())
+            rc = 1
     write_json("status.json", {
         "generated_at": pd.Timestamp.now("UTC").strftime("%Y-%m-%dT%H:%M:%SZ"),
         "last_trading_day": str(last_date.date()), "tickers": got, "rc": rc,
-        "ran": {"short": bool(do_short), "ep": bool(do_ep), "mid": bool(do_mid), "long": bool(do_long), "insight": bool(do_insight)},
+        "ran": {"short": bool(do_short), "ep": bool(do_ep), "mid": bool(do_mid), "long": bool(do_long),
+                "insight": bool(do_insight), "context": bool(do_context), "daily": bool(do_daily)},
     })
     return rc
+
+
+def breadth_history(ind: dict, tickers: list[str], n: int = 30) -> list[dict]:
+    """최근 n일 S&P 500 브레드스(200일선 위 비율) 추이."""
+    tk = [t for t in tickers if t in ind["close"].columns]
+    if not tk:
+        return []
+    c = ind["close"][tk].iloc[-n:]
+    s = ind["sma200"][tk].iloc[-n:]
+    valid = c.notna() & s.notna()
+    above = (c > s) & valid
+    pct = above.sum(axis=1) / valid.sum(axis=1).replace(0, np.nan) * 100
+    return [{"date": str(d.date()), "breadth_pct": round(float(v), 1)} for d, v in pct.items() if not np.isnan(v)]
 
 
 def main(argv=None) -> int:
@@ -183,6 +256,8 @@ def main(argv=None) -> int:
     ap.add_argument("--mid", action="store_true", help="미국 중기")
     ap.add_argument("--long", action="store_true", help="미국 장기")
     ap.add_argument("--insight", action="store_true", help="인사이트")
+    ap.add_argument("--context", action="store_true", help="후보 종목 근거(뉴스·애널리스트·재무) 수집")
+    ap.add_argument("--daily", action="store_true", help="오늘의 시장(거시·지표 일정·주요 뉴스)")
     ap.add_argument("--market", default="us", choices=["us", "kr"])
     ap.add_argument("--force", action="store_true", help="시간/날짜/캐시 조건 무시")
     ap.add_argument("--no-fill", action="store_true", help="오늘 봉 1분봉 합성 건너뜀")

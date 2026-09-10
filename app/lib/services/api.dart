@@ -48,4 +48,20 @@ class Api {
   Future<LongFile> longList(String market) async => LongFile.fromJson(await fetchJson('${market}_long.json'));
 
   Future<InsightFile> insight(String market) async => InsightFile.fromJson(await fetchJson('${market}_insight.json'));
+
+  Future<ContextFile> context(String market) async => ContextFile.fromJson(await fetchJson('${market}_context.json'));
+
+  Future<DailyFile> daily(String market) async => DailyFile.fromJson(await fetchJson('${market}_daily.json'));
+
+  Future<PicksFile> picks(String market) async => PicksFile.fromJson(await fetchJson('${market}_picks.json'));
+
+  Future<AnalysisFile?> analysis(String market) async {
+    try {
+      final j = await fetchJson('${market}_analysis.json');
+      if (j['error'] != null || (j['market_brief'] == null && j['tickers'] == null)) return null;
+      return AnalysisFile.fromJson(j);
+    } catch (_) {
+      return null;
+    }
+  }
 }
