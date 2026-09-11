@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10T21:28:23Z",
- "count": 22,
+ "generated_at": "2026-09-11T14:23:28Z",
+ "count": 21,
  "items": {
   "AMCX": {
    "ticker": "AMCX",
@@ -185,7 +185,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 5231,
+     "views": 5232,
      "comments": 0,
      "positive_pct": null
     },
@@ -208,7 +208,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -405,7 +405,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 196,
+     "views": 197,
      "comments": 0,
      "positive_pct": null
     },
@@ -440,7 +440,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 620,
+     "views": 621,
      "comments": 0,
      "positive_pct": null
     },
@@ -476,12 +476,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2120,
+     "views": 2121,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "APPS": {
    "ticker": "APPS",
@@ -731,7 +731,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -918,7 +918,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8128,
+     "views": 8192,
      "comments": 0,
      "positive_pct": null
     },
@@ -937,7 +937,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 165,
+     "views": 167,
      "comments": 0,
      "positive_pct": null
     },
@@ -954,7 +954,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 224,
+     "views": 226,
      "comments": 0,
      "positive_pct": null
     },
@@ -973,7 +973,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 129,
+     "views": 130,
      "comments": 0,
      "positive_pct": null
     },
@@ -992,7 +992,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 128,
+     "views": 129,
      "comments": 0,
      "positive_pct": null
     },
@@ -1012,7 +1012,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11458,
+     "views": 11466,
      "comments": 0,
      "positive_pct": null
     },
@@ -1031,7 +1031,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 2117,
+     "views": 2118,
      "comments": 0,
      "positive_pct": null
     },
@@ -1050,12 +1050,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 612,
+     "views": 614,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "AVT": {
    "ticker": "AVT",
@@ -1224,7 +1224,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "FRD": {
    "ticker": "FRD",
@@ -1414,12 +1414,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 11,
+     "views": 13,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1616,7 +1616,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 144,
+     "views": 194,
      "comments": 0,
      "positive_pct": null
     },
@@ -1654,7 +1654,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 576,
+     "views": 584,
      "comments": 0,
      "positive_pct": null
     },
@@ -1731,6 +1731,23 @@
      "positive_pct": null
     },
     {
+     "id": "199955",
+     "title": "포티넷 페더럴, CMMC 레벨 2 인증 획득",
+     "title_en": "Fortinet Federal Achieves CMMC Level 2 Certification",
+     "summary": "이번 인증은 포티넷 페더럴(Fortinet Federal)의 평가 환경 내에서 요구되는 사이버 보안 안전장치가 구현되었음을 입증한다.\n\n\n버지니...",
+     "source": "globenewswire",
+     "time": "2026-08-26T13:00:00Z",
+     "url": "https://www.saveticker.com/news/199955",
+     "tickers": [
+      "FTNT"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 66,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "199840",
      "title": "[정리] 미국 기업들, 사이버 공격 증가 직면",
      "title_en": "FACTBOX-US companies face rise in cyber attacks",
@@ -1783,41 +1800,9 @@
      "views": 14,
      "comments": 0,
      "positive_pct": null
-    },
-    {
-     "id": "188543",
-     "title": "[정리] 미 기업들, 사이버 공격 증가 직면",
-     "title_en": "FACTBOX-US companies face rise in cyber attacks",
-     "summary": "표에 리바이스(Levi Strauss) 추가\n\n\n8월 7일 (로이터) - 전 세계 기업들이 민감한 데이터를 탈취하고 운영을 방해하는 AI 기반 ...",
-     "source": "reuters",
-     "time": "2026-08-07T11:52:31.768522Z",
-     "url": "https://www.saveticker.com/news/188543",
-     "tickers": [
-      "NKE",
-      "BMBL",
-      "MTCH",
-      "WYNN",
-      "SYK",
-      "HAS",
-      "TTWO",
-      "WST",
-      "CCL",
-      "IRTC",
-      "AHCO",
-      "FTNT",
-      "KO",
-      "CLOV",
-      "ABT",
-      "LEVI"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 516,
-     "comments": 0,
-     "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "IOVA": {
    "ticker": "IOVA",
@@ -2014,7 +1999,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 247,
+     "views": 248,
      "comments": 0,
      "positive_pct": null
     },
@@ -2105,7 +2090,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 158,
+     "views": 159,
      "comments": 0,
      "positive_pct": null
     },
@@ -2122,7 +2107,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 5,
      "comments": 0,
      "positive_pct": null
     },
@@ -2146,7 +2131,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "LIFE": {
    "ticker": "LIFE",
@@ -2316,7 +2301,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 8,
      "comments": 0,
      "positive_pct": null
     },
@@ -2449,7 +2434,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "MNPR": {
    "ticker": "MNPR",
@@ -2669,7 +2654,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -2854,6 +2839,118 @@
    },
    "news": [
     {
+     "id": "211299",
+     "title": "미국 상장이 일본 키옥시아를 글로벌 AI 주목의 중심에 놓을 수 있다고 보야의 토머스가 말해",
+     "title_en": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says",
+     "summary": "미국 상장으로 일본 키옥시아가 글로벌 AI의 주목을 받을 수 있다고 Voya의 토머스가 말했다. 로키 스위프트·미호 우라나카 작성\n\n\n도쿄, 9...",
+     "source": "reuters",
+     "time": "2026-09-11T07:46:28.632779Z",
+     "url": "https://www.saveticker.com/news/211299",
+     "tickers": [
+      "NVDA",
+      "LLY",
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 486,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "211284",
+     "title": "딥시크, HBM 필요량 4분의 1로 줄였다… HBM 수요 우려 재점화",
+     "title_en": "",
+     "summary": "딥시크가 새로 공개한 V4.1-Flash 모델에 새 아키텍처를 적용해 이전 세대 대비 KV 캐시에 필요한 HBM을 4분의 1, SSD 저장공간을...",
+     "source": "블룸버그",
+     "time": "2026-09-11T07:08:27.486737Z",
+     "url": "https://www.saveticker.com/news/211284",
+     "tickers": [
+      "MU",
+      "SKHY",
+      "SNDK"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 19119,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "211275",
+     "title": "마이크론, 대만 엔지니어에 100만 대만달러 현금 보너스 지급",
+     "title_en": "",
+     "summary": "마이크론은 AI 호황으로 실적이 급증한 가운데 대만 엔지니어들에게 100만 대만달러(약 3만1,600달러)의 현금 보너스와 주식 보상을 지급하기...",
+     "source": "블룸버그",
+     "time": "2026-09-11T06:48:56.380563Z",
+     "url": "https://www.saveticker.com/news/211275",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 8624,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "211166",
+     "title": "[3보] 마이크론 대만 근로자들, 최대 68개월치 급여 상당 보상 받아",
+     "title_en": "UPDATE 2-Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+     "summary": "4~5번째 문단에 노조의 논평 추가\n\n\nWen-Yee Lee 기자\n\n\n타이베이, 9월 11일 (로이터) - 미국 반도체 기업 마이크론 테크놀로지...",
+     "source": "reuters",
+     "time": "2026-09-11T04:03:17.300181Z",
+     "url": "https://www.saveticker.com/news/211166",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 443,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "211117",
+     "title": "마이크론 대만 근로자들, 최대 68개월치 급여 상당 보상 받아",
+     "title_en": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
+     "summary": "Wen-Yee Lee 기자\n\n\n타이베이, 9월 11일 (로이터) - 마이크론 테크놀로지(MU.O)는 금요일 대만의 직접 고용 노동자들이 총 20...",
+     "source": "reuters",
+     "time": "2026-09-11T02:10:12.034056Z",
+     "url": "https://www.saveticker.com/news/211117",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 617,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "211113",
+     "title": "마이크론, 대만 직접 고용 직원들에게 FY2026 총 보상으로 급여 35~68개월분에 해당하는 금액 지급…최소 현금 보상 170만 대만달러",
+     "title_en": "MICRON SAYS TAIWAN DIRECT LABOR EMPLOYEES TO RECEIVE TOTAL FY2026 REWARDS EQUIVALENT TO 35-68 MONTHS OF PAY, WITH MINIMUM CASH COMPENSATION OF T$1.7 MLN",
+     "summary": "",
+     "source": "reuters",
+     "time": "2026-09-11T01:58:24.836574Z",
+     "url": "https://www.saveticker.com/news/211113",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 1442,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "211021",
      "title": "(카더라) 마이크로소프트, 2032년 데이터센터 용량 3배 확대 추진",
      "title_en": "",
@@ -2874,7 +2971,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 3897,
+     "views": 20898,
      "comments": 0,
      "positive_pct": null
     },
@@ -2896,137 +2993,12 @@
       "정보"
      ],
      "is_top": true,
-     "views": 12351,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "209564",
-     "title": "[10보] 애플, 1,999달러짜리 여권 모양 아이폰 듀오로 폴더블폰 경쟁 합류",
-     "title_en": "UPDATE 9-Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
-     "summary": "14~15문단에 삼성 및 애널리스트 논평을 추가\n\n\n듀오는 7.6인치 화면으로 펼쳐지며 애플의 A20 프로 칩을 사용하고, 가격은 1,999달러...",
-     "source": "reuters",
-     "time": "2026-09-09T13:11:50.691177Z",
-     "url": "https://www.saveticker.com/news/209564",
-     "tickers": [
-      "AAPL",
-      "QCOM",
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 380,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "209232",
-     "title": "엔비디아 - 대만 협력사 매출 (8월)",
-     "title_en": "",
-     "summary": "엔비디아의 주요 대만 협력사들(혼하이·콴타·위스트론·위윈)의 2026년 8월 매출이 모두 전년 동월 대비 50% 이상 큰 폭으로 증가함\n\n\n- ...",
-     "source": "",
-     "time": "2026-09-09T07:37:04.286551Z",
-     "url": "https://www.saveticker.com/news/209232",
-     "tickers": [
-      "MU",
-      "NVDA",
-      "SKHY"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 11810,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "206738",
-     "title": "중국 양쯔메모리, 333억 위안 IPO 심사 본격 돌입",
-     "title_en": "",
-     "summary": "중국 낸드플래시 메모리 대표 기업인 양쯔메모리테크놀로지(YMTC)가 상하이 증권거래소로부터 첫 공식 질의를 받으며 본격적인 상장(IPO) 심사 ...",
-     "source": "블룸버그",
-     "time": "2026-09-04T07:42:36.533496Z",
-     "url": "https://www.saveticker.com/news/206738",
-     "tickers": [
-      "MU",
-      "SKHY",
-      "SNDK"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 6840,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "206715",
-     "title": "한국은행 “삼성·SK하이닉스 증설로 중국과 메모리 격차 확대 전망”",
-     "title_en": "",
-     "summary": "한국은행 보고서에 따르면, \n삼성전자와 SK하이닉스의 공격적인 국내 설비 투자(증설)에 힘입어 한중 양국 간 메모리 반도체 생산 격차가 한층 더...",
-     "source": "블룸버그",
-     "time": "2026-09-04T06:55:13.809289Z",
-     "url": "https://www.saveticker.com/news/206715",
-     "tickers": [
-      "SKHY",
-      "MU",
-      "SNDK"
-     ],
-     "tags": [
-      "정보",
-      "분석"
-     ],
-     "is_top": false,
-     "views": 11562,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "206254",
-     "title": "창신·양쯔메모리 약진…마이크론은 선방, SK하이닉스 DRAM 점유율 하락",
-     "title_en": "",
-     "summary": "카운터포인트 리서치에 따르면,\n중국 창신메모리(CXMT)의 2분기 DRAM 점유율은 전 분기 8%에서 10%로 올랐고, 양쯔메모리(YMTC)의 ...",
-     "source": "Barron's",
-     "time": "2026-09-03T14:34:15.497858Z",
-     "url": "https://www.saveticker.com/news/206254",
-     "tickers": [
-      "MU",
-      "SNDK",
-      "SKHY"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 20399,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "205247",
-     "title": "미 상무장관, “SK·삼성도 미국에 생산시설 지어야”",
-     "title_en": "",
-     "summary": "하워드 러트닉 미 상무장관은 블룸버그 인터뷰에서 AI를 '병에 담긴 교육'에 비유하며, 세계 최고 수준의 인재들이 각국의 언어로 원하는 문제를 ...",
-     "source": "",
-     "time": "2026-09-02T17:53:12.017576Z",
-     "url": "https://www.saveticker.com/news/205247",
-     "tickers": [
-      "MU",
-      "TSM",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 13457,
+     "views": 12767,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "OMER": {
    "ticker": "OMER",
@@ -3195,7 +3167,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -3395,7 +3367,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2901,
+     "views": 2966,
      "comments": 0,
      "positive_pct": null
     },
@@ -3538,7 +3510,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -3707,7 +3679,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "PBF": {
    "ticker": "PBF",
@@ -3910,7 +3882,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 418,
+     "views": 420,
      "comments": 0,
      "positive_pct": null
     },
@@ -4041,176 +4013,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
-  },
-  "PCLA": {
-   "ticker": "PCLA",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
-   "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
-   },
-   "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
-   },
-   "health": {
-    "overall": null,
-    "overall_word": null,
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": null,
-      "unit": "x",
-      "grade": null,
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
-     }
-    ],
-    "piotroski": {
-     "score": 2,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": false,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": false
-     }
-    },
-    "altman": null,
-    "summary": "피오트로스키 F점수 2/9 (취약)",
-    "cash": null,
-    "debt": null,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 544690000.0,
-      "operating_income": -601437000.0,
-      "net_income": -626312000.0,
-      "eps": -683.340001,
-      "operating_cash_flow": -544020000.0,
-      "free_cash_flow": -590017000.0,
-      "total_debt": 281558000.0,
-      "cash": 534889000.0,
-      "equity": 469948000.0
-     },
-     {
-      "year": "2024",
-      "revenue": 784403000.0,
-      "operating_income": -447184000.0,
-      "net_income": -479921000.0,
-      "eps": -583.281376,
-      "operating_cash_flow": -242813000.0,
-      "free_cash_flow": -286838000.0,
-      "total_debt": 557183000.0,
-      "cash": 456775000.0,
-      "equity": 354790000.0
-     },
-     {
-      "year": "2023",
-      "revenue": 559521000.0,
-      "operating_income": -628534000.0,
-      "net_income": -633956000.0,
-      "eps": -770.490827,
-      "operating_cash_flow": -739915000.0,
-      "free_cash_flow": -760392000.0,
-      "total_debt": 252071000.0,
-      "cash": 427967000.0,
-      "equity": 695991000.0
-     },
-     {
-      "year": "2022",
-      "revenue": 682121000.0,
-      "operating_income": -16239000.0,
-      "net_income": -5180000.0,
-      "eps": -6.295614,
-      "operating_cash_flow": -115258000.0,
-      "free_cash_flow": -130705000.0,
-      "total_debt": 110738000.0,
-      "cash": 263100000.0,
-      "equity": 467920000.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "PK": {
    "ticker": "PK",
@@ -4379,7 +4182,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "RCEL": {
    "ticker": "RCEL",
@@ -4576,7 +4379,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 187,
+     "views": 188,
      "comments": 0,
      "positive_pct": null
     },
@@ -4610,7 +4413,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 18,
+     "views": 19,
      "comments": 0,
      "positive_pct": null
     },
@@ -4644,12 +4447,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 9,
+     "views": 12,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "SAIC": {
    "ticker": "SAIC",
@@ -4882,7 +4685,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 8,
+     "views": 10,
      "comments": 0,
      "positive_pct": null
     },
@@ -4921,7 +4724,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -5120,7 +4923,7 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 3455,
+     "views": 3456,
      "comments": 0,
      "positive_pct": null
     },
@@ -5184,7 +4987,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 34267,
+     "views": 34268,
      "comments": 0,
      "positive_pct": null
     },
@@ -5207,7 +5010,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38031,
+     "views": 38032,
      "comments": 0,
      "positive_pct": null
     },
@@ -5278,7 +5081,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "TMCI": {
    "ticker": "TMCI",
@@ -5475,7 +5278,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 13,
+     "views": 14,
      "comments": 0,
      "positive_pct": null
     },
@@ -5492,12 +5295,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 11,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   },
   "TXG": {
    "ticker": "TXG",
@@ -5701,7 +5504,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-10T21:28:23.896153+00:00"
+   "updated": "2026-09-11T14:23:28.697900+00:00"
   }
  },
  "market": "us"
