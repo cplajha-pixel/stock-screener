@@ -440,7 +440,6 @@ ASTS,"AST SpaceMobile, Inc. - Class A Common Stock",NASDAQ
 ASUR,Asure Software Inc - Common Stock,NASDAQ
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares)",NYSE
 ASYS,"Amtech Systems, Inc. - Common Stock",NASDAQ
-ATAI,AtaiBeckley Inc. - Common Stock,NASDAQ
 ATAT,Atour Lifestyle Holdings Limited - American Depositary Shares,NASDAQ
 ATCH,"AtlasClear Holdings, Inc. Common Stock",NYSE American
 ATCX,Atlas Critical Minerals Corporation - Common Stock,NASDAQ
@@ -840,6 +839,7 @@ BUDA,"Buda Juice, Inc. Common Stock",NYSE American
 BULL,Webull Corporation - Class A Ordinary Shares,NASDAQ
 BUR,Burford Capital Limited Ordinary Shares,NYSE
 BURL,"Burlington Stores, Inc. Common Stock",NYSE
+BURU,"Nuburu, Inc. Common Stock",NYSE American
 BUSE,First Busey Corporation - Common Stock,NASDAQ
 BUUU,BUUU Group Limited - Class A Ordinary Share,NASDAQ
 BV,"BrightView Holdings, Inc. Common Stock",NYSE
@@ -2755,7 +2755,7 @@ KG,"Kestrel Group, Ltd. - Common Stock",NASDAQ
 KGC,Kinross Gold Corporation Common Stock,NYSE
 KGEI,Kolibri Global Energy Inc. - Common stock,NASDAQ
 KGS,"Kodiak Gas Services, Inc. Common Stock",NYSE
-KHC,The Kraft Heinz Company - Common Stock,NASDAQ
+KHC,The Kraft Heinz Company Common Stock,NYSE
 KIDS,OrthoPediatrics Corp. - Common Stock,NASDAQ
 KIDZ,KIDZ AI Inc. - Class B Common Stock,NASDAQ
 KIM,Kimco Realty Corporation (HC) Common Stock,NYSE
@@ -4828,7 +4828,7 @@ TENB,"Tenable Holdings, Inc. - Common Stock",NASDAQ
 TENX,"Tenax Therapeutics, Inc. - Common Stock",NASDAQ
 TEO,Telecom Argentina SA,NYSE
 TER,"Teradyne, Inc. - Common Stock",NASDAQ
-TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,NYSE
+TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,NYSE
 TEX,Terex Corporation Common Stock,NYSE
 TFC,Truist Financial Corporation Common Stock,NYSE
 TFII,TFI International Inc. Common Shares,NYSE

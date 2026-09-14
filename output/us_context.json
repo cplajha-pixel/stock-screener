@@ -1,96 +1,108 @@
 {
- "generated_at": "2026-09-11T21:28:22Z",
- "count": 44,
+ "generated_at": "2026-09-14T14:24:45Z",
+ "count": 45,
  "items": {
   "ALNT": {
    "ticker": "ALNT",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+   "name": "Allient Inc.",
+   "sector": "Technology",
+   "industry": "Electronic Components",
+   "market_cap": 1569117952,
+   "description": "Allient Inc., together with its subsidiaries, designs, manufactures, and sells precision and specialty-controlled motion components and systems for various industries in the United States, Canada, South America, Europe, and the Asia-Pacific. The company offers various products and solutions, including nano precision positioning systems; servo control systems; motion controllers; digital servo amplifiers and drives; brushless servo; torque; coreless motors, brush motors, integrated motor-drives, gear motors, gearing, incremental and absolute optical encoders, and active electronic and passive m",
+   "price": 92.32,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
+    "recommendation": "의견 없음",
+    "count": 5,
+    "target_mean": 118.0,
+    "target_low": 90.0,
+    "target_high": 130.0,
+    "upside_pct": 27.8,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 3,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-04",
+   "earnings_est": {
+    "eps_avg": 0.73491,
+    "revenue_avg": 154069600
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 4.3,
+    "days_to_cover": 2.04,
+    "level": "낮음",
+    "institutions_pct": 80.3,
+    "insiders_pct": 14.4
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "B",
+    "overall_word": "좋음",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 63.283,
       "unit": "%",
-      "grade": null,
+      "grade": "B",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 3.423,
       "unit": "x",
-      "grade": null,
+      "grade": "A",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": 5.6,
       "unit": "%",
-      "grade": null,
+      "grade": "B",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": 10.6,
       "unit": "%",
-      "grade": null,
+      "grade": "B",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": 10.2,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": 9.5,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": 5.0,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "보통"
      }
     ],
     "piotroski": {
@@ -107,10 +119,13 @@
       "자산회전율 개선": true
      }
     },
-    "altman": null,
-    "summary": "피오트로스키 F점수 8/9 (우량)",
-    "cash": null,
-    "debt": null,
+    "altman": {
+     "z": 5.47,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 5.47 (안전)",
+    "cash": 42490000,
+    "debt": 197628000,
     "years": [
      {
       "year": "2025",
@@ -163,103 +178,115 @@
     ]
    },
    "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "trailing_pe": 54.30588,
+    "forward_pe": 27.819128,
+    "price_to_book": 5.023124,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "AMCX": {
    "ticker": "AMCX",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+   "name": "AMC Global Media Inc.",
+   "sector": "Communication Services",
+   "industry": "Entertainment",
+   "market_cap": 510262144,
+   "description": "AMC Global Media Inc., an entertainment company, distributes contents in the United States, Europe, and internationally. It operates in two segments, Domestic Operations and International. The Domestic Operations segment operates programming networks, such as AMC, We TV, BBCA, IFC, and SundanceTV; provides streaming services, including AMC+ and Acorn TV, Shudder, Sundance Now, ALLBLK, HIDIVE, and All Reality targeted subscription streaming services; produces original programming for its programming services and third parties; and licenses programming. This segment is also involved in the film ",
+   "price": 12.37,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
+    "recommendation": "비중 축소",
+    "count": 6,
+    "target_mean": 9.83333,
+    "target_low": 9.0,
+    "target_high": 11.0,
+    "upside_pct": -20.5,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 0,
+     "hold": 5,
+     "sell": 2,
+     "strong_sell": 1
+    }
+   },
+   "next_earnings": "2026-11-06",
+   "earnings_est": {
+    "eps_avg": 1.14275,
+    "revenue_avg": 637471910
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 23.3,
+    "days_to_cover": 9.06,
+    "level": "높음",
+    "institutions_pct": 118.3,
+    "insiders_pct": 6.5
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "C",
+    "overall_word": "보통",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 184.876,
       "unit": "%",
-      "grade": null,
+      "grade": "D",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "주의"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 1.761,
       "unit": "x",
-      "grade": null,
+      "grade": "B",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": 44.7,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": 3.1,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": -8.8,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": -1.0,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": -0.9,
       "unit": "%",
-      "grade": null,
+      "grade": "D",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "주의"
      }
     ],
     "piotroski": {
@@ -276,10 +303,13 @@
       "자산회전율 개선": true
      }
     },
-    "altman": null,
-    "summary": "피오트로스키 F점수 6/9 (보통)",
-    "cash": null,
-    "debt": null,
+    "altman": {
+     "z": 1.89,
+     "zone": "회색지대"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 1.89 (회색지대)",
+    "cash": 463996000,
+    "debt": 1749625984,
     "years": [
      {
       "year": "2025",
@@ -333,8 +363,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "forward_pe": 4.488503,
+    "price_to_book": 0.5599819,
     "peg": null
    },
    "news": [
@@ -372,28 +402,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 8,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "APH": {
    "ticker": "APH",
    "name": "Amphenol Corporation",
    "sector": "Technology",
    "industry": "Electronic Components",
-   "market_cap": 200581726208,
+   "market_cap": 197080072192,
    "description": "Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products. It also provides value-add products, such as back",
-   "price": 81.34,
+   "price": 79.92,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 17,
-    "target_mean": 99.11765,
+    "target_mean": 99.26471,
     "target_low": 85.0,
     "target_high": 115.0,
-    "upside_pct": 21.9,
+    "upside_pct": 24.2,
     "breakdown": {
      "strong_buy": 4,
      "buy": 11,
@@ -404,14 +434,14 @@
    },
    "next_earnings": "2026-10-28",
    "earnings_est": {
-    "eps_avg": 0.71842,
-    "revenue_avg": 9404792830
+    "eps_avg": 0.72142,
+    "revenue_avg": 9449428540
    },
    "short": {
-    "pct_of_float": 1.4,
-    "days_to_cover": 2.24,
+    "pct_of_float": 1.2,
+    "days_to_cover": 2.32,
     "level": "낮음",
-    "institutions_pct": 96.8,
+    "institutions_pct": 96.7,
     "insiders_pct": 0.5
    },
    "health": {
@@ -497,10 +527,10 @@
      }
     },
     "altman": {
-     "z": 7.3,
+     "z": 7.21,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 7.3 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 7.21 (안전)",
     "cash": 5419100160,
     "debt": 18811299840,
     "years": [
@@ -555,10 +585,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 40.87437,
-    "forward_pe": 24.845516,
-    "price_to_book": 12.943984,
-    "peg": 0.9255
+    "trailing_pe": 39.96,
+    "forward_pe": 24.411774,
+    "price_to_book": 12.718014,
+    "peg": 0.95
    },
    "news": [
     {
@@ -650,23 +680,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "ASML": {
    "ticker": "ASML",
    "name": "ASML Holding N.V. - New York Re",
    "sector": "Technology",
    "industry": "Semiconductor Equipment & Materials",
-   "market_cap": 664308613120,
+   "market_cap": 615416528896,
    "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wa",
-   "price": 1729.52,
+   "price": 1602.23,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 16,
-    "target_mean": 2170.4854,
-    "target_low": 900.6286,
-    "target_high": 2870.9812,
-    "upside_pct": 25.5,
+    "target_mean": 2145.4258,
+    "target_low": 892.4213,
+    "target_high": 2844.8184,
+    "upside_pct": 33.9,
     "breakdown": {
      "strong_buy": 7,
      "buy": 32,
@@ -681,8 +711,8 @@
     "revenue_avg": 11659883780
    },
    "short": {
-    "pct_of_float": 0.3,
-    "days_to_cover": 0.75,
+    "pct_of_float": 0.4,
+    "days_to_cover": 1.26,
     "level": "낮음",
     "institutions_pct": 20.4,
     "insiders_pct": 0.0
@@ -757,10 +787,10 @@
     ],
     "piotroski": null,
     "altman": {
-     "z": 14.91,
+     "z": 13.96,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 알트만 Z 14.91 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 알트만 Z 13.96 (안전)",
     "cash": 7581499904,
     "debt": 1984400000,
     "years": [
@@ -815,12 +845,30 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 59.88643,
-    "forward_pe": 28.759155,
-    "price_to_book": 1454.3373,
-    "peg": 1.5742
+    "trailing_pe": 54.22098,
+    "forward_pe": 26.702387,
+    "price_to_book": 1350.3315,
+    "peg": 1.5122
    },
    "news": [
+    {
+     "id": "212778",
+     "title": "ASML, 2028년에 EUV 장비 110대 초과 생산 방법 검토 중…JPMorgan 밝혀",
+     "title_en": "ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says",
+     "summary": "JPMorgan은 ASML이 2028년에 EUV 장비를 110대 넘게 생산할 수 있는 방법을 검토하고 있다고 밝혔다. 암스테르담, 9월 14일 ...",
+     "source": "reuters",
+     "time": "2026-09-14T14:13:51.007122Z",
+     "url": "https://www.saveticker.com/news/212778",
+     "tickers": [
+      "INTC",
+      "ASML"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 100,
+     "comments": 0,
+     "positive_pct": null
+    },
     {
      "id": "209400",
      "title": "제너두 퀀텀, ASML과 광자 양자칩 제조 기술 공동 연구",
@@ -837,7 +885,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8197,
+     "views": 8233,
      "comments": 0,
      "positive_pct": null
     },
@@ -856,7 +904,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 167,
+     "views": 170,
      "comments": 0,
      "positive_pct": null
     },
@@ -873,7 +921,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 226,
+     "views": 235,
      "comments": 0,
      "positive_pct": null
     },
@@ -892,7 +940,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 130,
+     "views": 133,
      "comments": 0,
      "positive_pct": null
     },
@@ -911,7 +959,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 129,
+     "views": 132,
      "comments": 0,
      "positive_pct": null
     },
@@ -931,7 +979,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11470,
+     "views": 11499,
      "comments": 0,
      "positive_pct": null
     },
@@ -950,47 +998,28 @@
       "속보"
      ],
      "is_top": false,
-     "views": 2118,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208091",
-     "title": "ASML, 대형 칩 생산을 위해 최신 장비 사용을 주요 칩 제조업체들과 협력",
-     "title_en": "ASML to work with major chipmakers to use latest tools for larger chips",
-     "summary": "ASML, 주요 칩 제조사들과 협력해 대형 칩용 최신 장비 활용한다 - 스티븐 넬리스 기자\n\n\n샌프란시스코, 9월 7일 (로이터) - 네덜란드의...",
-     "source": "reuters",
-     "time": "2026-09-08T06:05:37.339733Z",
-     "url": "https://www.saveticker.com/news/208091",
-     "tickers": [
-      "NVDA",
-      "INTC",
-      "ASML"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 618,
+     "views": 2124,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "BLSH": {
    "ticker": "BLSH",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+   "name": "Bullish",
+   "sector": "Technology",
+   "industry": "Software - Infrastructure",
+   "market_cap": 5698186752,
+   "description": "Bullish, a global digital asset platform that provides market infrastructure and information services in United States. The company operates Bullish Exchange, a digital assets spot and derivatives exchange that integrates a central limit order book matching engine with automated market making to provide deep and predictable liquidity. It also offers CoinDesk Indices, a collection of tradable proprietary and single-asset benchmarks and indices that track the performance of digital assets to leading traditional finance institutions, including exchanges and asset managers; CoinDesk Data, a compre",
+   "price": 37.575,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null,
+    "recommendation": "매수",
+    "count": 9,
+    "target_mean": 38.88889,
+    "target_low": 25.0,
+    "target_high": 53.0,
+    "upside_pct": 3.5,
     "breakdown": {
      "strong_buy": 0,
      "buy": 4,
@@ -1005,78 +1034,78 @@
     "revenue_avg": 80313290
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 17.1,
+    "days_to_cover": 4.96,
+    "level": "높음",
+    "institutions_pct": 26.1,
+    "insiders_pct": 86.7
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "C",
+    "overall_word": "보통",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 21.063,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 23.525,
       "unit": "x",
-      "grade": null,
+      "grade": "A",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": -136.0,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": -314.3,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": 68.8,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": -57.1,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": 0.0,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "보통"
      }
     ],
     "piotroski": {
@@ -1093,10 +1122,13 @@
       "자산회전율 개선": false
      }
     },
-    "altman": null,
-    "summary": "피오트로스키 F점수 5/9 (보통)",
-    "cash": null,
-    "debt": null,
+    "altman": {
+     "z": 66.67,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 66.67 (안전)",
+    "cash": 312851008,
+    "debt": 518152992,
     "years": [
      {
       "year": "2025",
@@ -1150,8 +1182,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "forward_pe": 53.678574,
+    "price_to_book": 2.3600905,
     "peg": null
    },
    "news": [
@@ -1304,23 +1336,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "BMNR": {
    "ticker": "BMNR",
    "name": "BitMine Immersion Technologies,",
    "sector": "Financial Services",
    "industry": "Capital Markets",
-   "market_cap": 15098756096,
+   "market_cap": 15122946048,
    "description": "Bitmine Immersion Technologies, Inc. operates as a blockchain technology company primarily in the United States. The company engages in ETH treasury operations; BTC ecosystem services, including consulting and advisory engagements and equipment leasing; facilitation and optimization of third-party power and hosting arrangements; and disciplined BTC treasury management while winding down proprietary self-mining exposure and deferring new site buildouts. It also offers digital asset ecosystem services, including consulting/advisory, and disciplined digital asset treasury management. In addition,",
-   "price": 25.03,
+   "price": 25.0701,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 3,
     "target_mean": 44.53333,
     "target_low": 30.0,
     "target_high": 63.6,
-    "upside_pct": 77.9,
+    "upside_pct": 77.6,
     "breakdown": {
      "strong_buy": 0,
      "buy": 3,
@@ -1480,8 +1512,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 26.62766,
-    "price_to_book": 1.250812,
+    "forward_pe": 26.67032,
+    "price_to_book": 1.252816,
     "peg": null
    },
    "news": [
@@ -1499,7 +1531,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 697,
+     "views": 700,
      "comments": 0,
      "positive_pct": null
     },
@@ -1518,7 +1550,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 6252,
+     "views": 6253,
      "comments": 0,
      "positive_pct": null
     },
@@ -1637,23 +1669,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "BTGO": {
    "ticker": "BTGO",
    "name": "BitGo Holdings, Inc.",
    "sector": "Financial Services",
    "industry": "Capital Markets",
-   "market_cap": 899224064,
+   "market_cap": 903925824,
    "description": "Bitgo Holdings, Inc. operates as a digital asset infrastructure company in the United States and internationally. The company offers self-custody wallet, qualified custody, liquidity and prime, and infrastructure-as-a-service to investors, builders, and other participants in the digital asset ecosystem. Its clients range from crypto-native companies that use its self-custody wallet technology to financial services firms, digital asset ecosystem companies, technology platforms, corporations, and government agencies, as well as high net worth individuals. The company's principal markets include ",
-   "price": 7.65,
+   "price": 7.69,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 12,
     "target_mean": 10.35417,
     "target_low": 7.25,
     "target_high": 15.0,
-    "upside_pct": 35.3,
+    "upside_pct": 34.6,
     "breakdown": {
      "strong_buy": 0,
      "buy": 10,
@@ -1800,11 +1832,29 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 29.957706,
-    "price_to_book": 2.125,
+    "forward_pe": 30.114347,
+    "price_to_book": 2.1361113,
     "peg": null
    },
    "news": [
+    {
+     "id": "212616",
+     "title": "유펙시, 비트고 신용공여 약정 수정",
+     "title_en": "Upexi Amends BitGo Credit Facility",
+     "summary": "금리를 4퍼센트포인트 인하하고 요구 담보를 낮추다\n\n\n플로리다주 탬파, 2026년 9월 14일 (글로브 뉴스와이어) -- 선도적인 솔라나 중심 ...",
+     "source": "globenewswire",
+     "time": "2026-09-14T12:00:00Z",
+     "url": "https://www.saveticker.com/news/212616",
+     "tickers": [
+      "UPXI",
+      "BTGO"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 52,
+     "comments": 0,
+     "positive_pct": null
+    },
     {
      "id": "201478",
      "title": "[2보] 암호화폐 수탁 기업 BitGo, NYDIG의 기관 트레이딩 사업부 인수 예정",
@@ -1852,7 +1902,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 6,
+     "views": 7,
      "comments": 0,
      "positive_pct": null
     },
@@ -1926,42 +1976,25 @@
      "views": 37,
      "comments": 0,
      "positive_pct": null
-    },
-    {
-     "id": "43436",
-     "title": "BITGO, NYSE 데뷔에서 주당 22.43달러에 거래 시작, IPO 가격은 18달러였음",
-     "title_en": "BITGO SHARES OPEN AT $22.43 IN NYSE DEBUT VS $18 IPO PRICE",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-01-22T17:37:31.780620Z",
-     "url": "https://www.saveticker.com/news/43436",
-     "tickers": [
-      "BTGO"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 12,
-     "comments": 0,
-     "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "DIOD": {
    "ticker": "DIOD",
    "name": "Diodes Incorporated",
    "sector": "Technology",
    "industry": "Semiconductors",
-   "market_cap": 4375372288,
+   "market_cap": 4180573696,
    "description": "Diodes Incorporated, together with its subsidiaries, provides semiconductor products in Asia, the Americas, and Europe. The company offers MOSFET and SiC MOSFET discrete semiconductor products; data line protection, power line protection, thyrister, USB Type-C protection, and transient voltage suppressor protection devices; Schottky diodes, small signal switching diodes, Zener diodes, and SiC diodes; and bridges, super barrier rectifiers, Schottky rectifiers, Schottky bridge rectifiers, and fast and ultra-fast rectifiers. It also provides avalanche transistors, gate driver transistors, and pre",
-   "price": 95.01,
+   "price": 90.78,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 2,
     "target_mean": 162.5,
     "target_low": 133.0,
     "target_high": 192.0,
-    "upside_pct": 71.0,
+    "upside_pct": 79.0,
     "breakdown": {
      "strong_buy": 0,
      "buy": 2,
@@ -1979,7 +2012,7 @@
     "pct_of_float": 8.2,
     "days_to_cover": 3.12,
     "level": "보통",
-    "institutions_pct": 101.4,
+    "institutions_pct": 101.3,
     "insiders_pct": 2.6
    },
    "health": {
@@ -2065,10 +2098,10 @@
      }
     },
     "altman": {
-     "z": 7.32,
+     "z": 7.1,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 7.32 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 7.1 (안전)",
     "cash": 439975008,
     "debt": 89005000,
     "years": [
@@ -2123,29 +2156,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 51.080647,
-    "forward_pe": 16.241026,
-    "price_to_book": 2.2322206,
+    "trailing_pe": 48.80645,
+    "forward_pe": 15.517949,
+    "price_to_book": 2.1328382,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "DXPE": {
    "ticker": "DXPE",
    "name": "DXP Enterprises, Inc.",
    "sector": "Industrials",
    "industry": "Industrial Distribution",
-   "market_cap": 2903103232,
+   "market_cap": 2810000384,
    "description": "DXP Enterprises, Inc., together with its subsidiaries, engages in distributing maintenance, repair, and operating (MRO) products, equipment, and services in the United States, Canada, and internationally. The company operates in three segments: Service Centers, Supply Chain Services, and Innovative Pumping Solutions. The Service Centers segment offers MRO products, equipment, and integrated services, including technical expertise and logistics capabilities. It also provides a range of MRO products in the rotating equipment, bearing, power transmission, hose, fluid power, metal working, fastene",
-   "price": 187.09,
+   "price": 181.09,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 2,
     "target_mean": 200.0,
     "target_low": 180.0,
     "target_high": 220.0,
-    "upside_pct": 6.9,
+    "upside_pct": 10.4,
     "breakdown": {
      "strong_buy": 0,
      "buy": 1,
@@ -2249,10 +2282,10 @@
      }
     },
     "altman": {
-     "z": 3.87,
+     "z": 3.82,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 3.87 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 3.82 (안전)",
     "cash": 226618000,
     "debt": 899001024,
     "years": [
@@ -2307,29 +2340,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 32.88049,
-    "forward_pe": 24.424282,
-    "price_to_book": 5.3647413,
+    "trailing_pe": 31.882042,
+    "forward_pe": 23.640991,
+    "price_to_book": 5.1926937,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "ECPG": {
    "ticker": "ECPG",
    "name": "Encore Capital Group Inc",
    "sector": "Financial Services",
    "industry": "Credit Services",
-   "market_cap": 2090395008,
+   "market_cap": 2100151296,
    "description": "Encore Capital Group, Inc., a specialty finance company, provides debt recovery solutions and other related services for consumers across financial assets worldwide. The company purchases portfolios of defaulted consumer receivables at discounts to face value, as well as manages them by working with individuals as they repay their obligations and works toward financial recovery. It is also involved in the provision of debt servicing, such as early stage collection, business process outsourcing, and contingent collection services. In addition, the company engages in debt servicing and other por",
-   "price": 98.56,
+   "price": 99.02,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 3,
     "target_mean": 115.66667,
     "target_low": 112.0,
     "target_high": 120.0,
-    "upside_pct": 17.4,
+    "upside_pct": 16.8,
     "breakdown": {
      "strong_buy": 1,
      "buy": 2,
@@ -2488,9 +2521,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 7.489362,
-    "forward_pe": 7.3800077,
-    "price_to_book": 1.9378304,
+    "trailing_pe": 7.524316,
+    "forward_pe": 7.4144516,
+    "price_to_book": 1.9468747,
     "peg": null
    },
    "news": [
@@ -2507,7 +2540,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 9,
+     "views": 14,
      "comments": 0,
      "positive_pct": null
     },
@@ -2541,28 +2574,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 7,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "FA": {
    "ticker": "FA",
    "name": "First Advantage Corporation",
    "sector": "Industrials",
    "industry": "Specialty Business Services",
-   "market_cap": 3644613376,
+   "market_cap": 3759688192,
    "description": "First Advantage Corporation provides employment background screening, digital identity, and verification solutions internationally. It offers pre-onboarding products and solutions, such as criminal background checks, drug/health screening, extended workforce screening, FBI channeling, identity checks and biometric fraud mitigation tools, education/work history verification, driver records and compliance, healthcare credentials, executive screening, and other screening products. The company also provides post-onboarding solutions, including criminal records monitoring, I-9 verification, healthc",
-   "price": 21.22,
+   "price": 21.89,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 8,
     "target_mean": 26.25,
     "target_low": 22.0,
     "target_high": 30.0,
-    "upside_pct": 23.7,
+    "upside_pct": 19.9,
     "breakdown": {
      "strong_buy": 3,
      "buy": 3,
@@ -2666,10 +2699,10 @@
      }
     },
     "altman": {
-     "z": 1.42,
+     "z": 1.45,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.42 (위험)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.45 (위험)",
     "cash": 239968992,
     "debt": 2041079040,
     "years": [
@@ -2724,9 +2757,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 141.46666,
-    "forward_pe": 14.093019,
-    "price_to_book": 2.8135772,
+    "trailing_pe": 145.93332,
+    "forward_pe": 14.537992,
+    "price_to_book": 2.9024131,
     "peg": null
    },
    "news": [
@@ -2743,7 +2776,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 511,
+     "views": 513,
      "comments": 0,
      "positive_pct": null
     },
@@ -2777,7 +2810,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 3,
+     "views": 4,
      "comments": 0,
      "positive_pct": null
     },
@@ -2799,23 +2832,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "FET": {
    "ticker": "FET",
    "name": "Forum Energy Technologies, Inc.",
    "sector": "Energy",
    "industry": "Oil & Gas Equipment & Services",
-   "market_cap": 952463424,
+   "market_cap": 941220224,
    "description": "Forum Energy Technologies, Inc. designs, manufactures, and supplies products serving the oil, natural gas, defense, and renewable energy industries in the United States and internationally. It operates through two segments, Drilling and Completions; and Artificial Lift and Downhole. The Drilling and Completions segment designs, manufactures, and supplies products and solutions to the drilling, subsea, coiled tubing, well stimulation, and intervention markets, including applications in oil and natural gas, renewable energy, defense, and communications industries. This segment also offers drilli",
-   "price": 83.02,
+   "price": 82.04,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 1,
     "target_mean": 91.0,
     "target_low": 91.0,
     "target_high": 91.0,
-    "upside_pct": 9.6,
+    "upside_pct": 10.9,
     "breakdown": {
      "strong_buy": 0,
      "buy": 0,
@@ -2919,10 +2952,10 @@
      }
     },
     "altman": {
-     "z": 1.26,
+     "z": 1.24,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 1.26 (위험)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 1.24 (위험)",
     "cash": 33716000,
     "debt": 227511008,
     "years": [
@@ -2978,21 +3011,21 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 16.737902,
-    "price_to_book": 3.2265837,
-    "peg": 1.8434
+    "forward_pe": 16.540323,
+    "price_to_book": 3.188496,
+    "peg": 1.8903
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "FRD": {
    "ticker": "FRD",
    "name": "Friedman Industries Inc.",
    "sector": "Basic Materials",
    "industry": "Steel",
-   "market_cap": 321401984,
+   "market_cap": 299338048,
    "description": "Friedman Industries, Incorporated engages in the manufacture and processing of steel products in the United States. The company operates in two segments, Flat-Roll Products and Tubular Products. The Flat-Roll Product segment is involved in the operation of hot-rolled coil processing facilities to cut the coils into sheets and plates, as well as the provision of process and storage services for customer-owned coils on a fee basis. The Tubular Product segment manufactures line and oil country pipes, as well as pipes for structural applications. The company serves metals distributors and customer",
-   "price": 44.56,
+   "price": 41.501,
    "analyst": {
     "recommendation": "의견 없음",
     "count": null,
@@ -3001,14 +3034,14 @@
     "target_high": null,
     "upside_pct": null
    },
-   "next_earnings": "2026-11-05",
+   "next_earnings": "2026-11-04",
    "earnings_est": {
     "eps_avg": null,
     "revenue_avg": null
    },
    "short": {
-    "pct_of_float": 2.0,
-    "days_to_cover": 1.38,
+    "pct_of_float": 1.9,
+    "days_to_cover": 1.52,
     "level": "낮음",
     "institutions_pct": 54.8,
     "insiders_pct": 6.6
@@ -3096,10 +3129,10 @@
      }
     },
     "altman": {
-     "z": 4.4,
+     "z": 4.33,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 4.4 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 4.33 (안전)",
     "cash": 5028000,
     "debt": 101321000,
     "years": [
@@ -3154,9 +3187,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 11.819629,
+    "trailing_pe": 10.807552,
     "forward_pe": null,
-    "price_to_book": 1.9579929,
+    "price_to_book": 1.8235786,
     "peg": null
    },
    "news": [
@@ -3173,46 +3206,218 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 14,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
+  },
+  "FTFT": {
+   "ticker": "FTFT",
+   "name": "Future FinTech Group Inc.",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 37479560,
+   "description": "Future FinTech Group Inc., through its subsidiaries, engages in supply-chain financing services and trading businesses in the People's Republic of China. It offers cross-border money transfer, and brokerage and investment banking services, as well as trades in coal, aluminum ingots, sand, and steel. The company also operates an online store e-commerce platform, as well as engages in the sales of non-alcoholic beverages and dairy beverages. In addition, it provides integrated business and financial consulting services The company was formerly known as SkyPeople Fruit Juice, Inc. and changed its",
+   "price": 4.64,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 2.4,
+    "days_to_cover": 0.23,
+    "level": "낮음",
+    "institutions_pct": 0.1,
+    "insiders_pct": 2.3
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 8.25,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 6.706,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -280.5,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -570.4,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": -43.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "위험"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -18.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -157.6,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": -4.34,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z -4.34 (위험)",
+    "cash": 33307908,
+    "debt": 3665123,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 3829805.0,
+      "operating_income": -34007122.0,
+      "net_income": -4620065.0,
+      "eps": -9.24,
+      "operating_cash_flow": -2546323.0,
+      "free_cash_flow": -2550043.0,
+      "total_debt": 1939396.0,
+      "cash": 2396619.0,
+      "equity": 43957690.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2114410.0,
+      "operating_income": -32885599.0,
+      "net_income": -32955872.0,
+      "eps": -252.0,
+      "operating_cash_flow": -11866556.0,
+      "free_cash_flow": -11900612.0,
+      "total_debt": 925047.0,
+      "cash": 4765111.0,
+      "equity": 14462885.0
+     },
+     {
+      "year": "2023",
+      "revenue": 21697205.0,
+      "operating_income": -9430970.0,
+      "net_income": -33653228.0,
+      "eps": -364.8,
+      "operating_cash_flow": -15752343.0,
+      "free_cash_flow": -15817996.0,
+      "total_debt": 2251335.0,
+      "cash": 17412865.0,
+      "equity": 43983251.0
+     },
+     {
+      "year": "2022",
+      "revenue": 23881006.0,
+      "operating_income": -13565660.0,
+      "net_income": -13627545.0,
+      "eps": -152.0,
+      "operating_cash_flow": -2669273.0,
+      "free_cash_flow": -3826728.0,
+      "total_debt": 4645488.0,
+      "cash": 26071338.0,
+      "equity": 66965221.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 0.01179941,
+    "forward_pe": null,
+    "price_to_book": 0.048777923,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
    "name": "Fortinet, Inc.",
    "sector": "Technology",
    "industry": "Software - Infrastructure",
-   "market_cap": 115354460160,
+   "market_cap": 121536004096,
    "description": "Fortinet, Inc. provides cybersecurity and convergence of networking and security solutions worldwide. The company offers FortiOS, a unified operating system designed to address cybersecurity threats; FortiASIC application-specific integrated circuit (ASIC)-based security processing units; FortiCloud, a private cloud software as a service platform; FortiAI, which provides a dual-layered defense across the Fortinet Security Fabric; FortiEndpoint, which converges secure connectivity, endpoint protection, and capabilities into a single agent; and OT Security, which protect the engineered systems t",
-   "price": 157.22,
+   "price": 165.645,
    "analyst": {
     "recommendation": "중립",
     "count": 36,
-    "target_mean": 162.29167,
+    "target_mean": 163.125,
     "target_low": 102.0,
     "target_high": 220.0,
-    "upside_pct": 3.2,
+    "upside_pct": -1.5,
     "breakdown": {
      "strong_buy": 1,
-     "buy": 9,
-     "hold": 30,
+     "buy": 8,
+     "hold": 31,
      "sell": 3,
      "strong_sell": 1
     }
    },
-   "next_earnings": "2026-11-05",
+   "next_earnings": "2026-11-04",
    "earnings_est": {
-    "eps_avg": 0.85744,
-    "revenue_avg": 2062778550
+    "eps_avg": 0.85724,
+    "revenue_avg": 2062568310
    },
    "short": {
-    "pct_of_float": 2.3,
-    "days_to_cover": 2.65,
+    "pct_of_float": 2.2,
+    "days_to_cover": 2.89,
     "level": "낮음",
-    "institutions_pct": 71.7,
+    "institutions_pct": 71.5,
     "insiders_pct": 17.4
    },
    "health": {
@@ -3298,10 +3503,10 @@
      }
     },
     "altman": {
-     "z": 8.98,
+     "z": 9.39,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 8.98 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 9.39 (안전)",
     "cash": 4069600000,
     "debt": 561400000,
     "years": [
@@ -3356,10 +3561,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 55.55477,
-    "forward_pe": 41.690754,
-    "price_to_book": 74.37086,
-    "peg": 1.727
+    "trailing_pe": 58.739365,
+    "forward_pe": 43.85728,
+    "price_to_book": 78.35619,
+    "peg": 1.7117
    },
    "news": [
     {
@@ -3375,7 +3580,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 194,
+     "views": 206,
      "comments": 0,
      "positive_pct": null
     },
@@ -3413,7 +3618,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 585,
+     "views": 593,
      "comments": 0,
      "positive_pct": null
     },
@@ -3451,7 +3656,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 500,
+     "views": 501,
      "comments": 0,
      "positive_pct": null
     },
@@ -3502,7 +3707,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 66,
+     "views": 67,
      "comments": 0,
      "positive_pct": null
     },
@@ -3556,32 +3761,32 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 15,
+     "views": 21,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "IESC": {
    "ticker": "IESC",
    "name": "IES Holdings, Inc.",
    "sector": "Industrials",
    "industry": "Engineering & Construction",
-   "market_cap": 13776098304,
+   "market_cap": 12947842048,
    "description": "IES Holdings, Inc. designs and installs integrated electrical and technology systems and provides infrastructure products and services in the United States. The Communications segment designs, builds, and maintains communications infrastructure within data centers for co-location and managed hosting customers; corporate, educational, financial, hospitality, and healthcare buildings; e-commerce distribution centers; and high-tech manufacturing facilities. It also designs and installs audio/visual, telephone, fire, and wireless access and intrusion alarm systems; and engages in designing/buildin",
-   "price": 345.71,
+   "price": 324.925,
    "analyst": {
-    "recommendation": "의견 없음",
+    "recommendation": "적극 매수",
     "count": 1,
     "target_mean": 440.0,
     "target_low": 440.0,
     "target_high": 440.0,
-    "upside_pct": 27.3,
+    "upside_pct": 35.4,
     "breakdown": {
      "strong_buy": 0,
-     "buy": 0,
-     "hold": 1,
+     "buy": 1,
+     "hold": 0,
      "sell": 0,
      "strong_sell": 0
     }
@@ -3681,10 +3886,10 @@
      }
     },
     "altman": {
-     "z": 15.65,
+     "z": 14.95,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 15.65 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 14.95 (안전)",
     "cash": 387860000,
     "debt": 76943000,
     "years": [
@@ -3739,9 +3944,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 30.729776,
+    "trailing_pe": 28.830965,
     "forward_pe": null,
-    "price_to_book": 11.206885,
+    "price_to_book": 10.533097,
     "peg": null
    },
    "news": [
@@ -3758,25 +3963,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 15,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "189489",
-     "title": "IES 홀딩스, DBM 글로벌 인수",
-     "title_en": "IES Holdings to Acquire DBM Global",
-     "summary": "이번 거래로 새로운 구조물 사업 부문이 신설되며, 미국 내 최대 규모의 독립형 구조용 강철 제작 및 설치 플랫폼 중 하나가 추가된다.\n\n\n휴스턴...",
-     "source": "globenewswire",
-     "time": "2026-08-10T12:00:00Z",
-     "url": "https://www.saveticker.com/news/189489",
-     "tickers": [
-      "IESC",
-      "VATE"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 9,
+     "views": 20,
      "comments": 0,
      "positive_pct": null
     },
@@ -3794,7 +3981,25 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 10,
+     "views": 14,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "189489",
+     "title": "IES 홀딩스, DBM 글로벌 인수",
+     "title_en": "IES Holdings to Acquire DBM Global",
+     "summary": "이번 거래로 새로운 구조물 사업 부문이 신설되며, 미국 내 최대 규모의 독립형 구조용 강철 제작 및 설치 플랫폼 중 하나가 추가된다.\n\n\n휴스턴...",
+     "source": "globenewswire",
+     "time": "2026-08-10T12:00:00Z",
+     "url": "https://www.saveticker.com/news/189489",
+     "tickers": [
+      "IESC",
+      "VATE"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 16,
      "comments": 0,
      "positive_pct": null
     },
@@ -3812,7 +4017,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 9,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     },
@@ -3829,28 +4034,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 3,
+     "views": 7,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "ILMN": {
    "ticker": "ILMN",
    "name": "Illumina, Inc.",
    "sector": "Healthcare",
    "industry": "Diagnostics & Research",
-   "market_cap": 31173949440,
+   "market_cap": 30671874048,
    "description": "Illumina, Inc. provides sequencing- and array-based solutions for genetic and genomic analysis in the Americas, Europe, Greater China, the Asia Pacific, the Middle East, and Africa. The company offers sequencing- and array-based instruments and consumables, which include reagents, flow cells, and library preparation; whole-genome sequencing kits, which sequence entire genomes of various size and complexity; and targeted resequencing kits, which sequence exomes, specific genes, and RNA or other genomic regions of interest. It also provides whole-genome sequencing, genotyping, noninvasive prenat",
-   "price": 206.45,
+   "price": 203.125,
    "analyst": {
     "recommendation": "매수",
     "count": 20,
     "target_mean": 202.65,
     "target_low": 113.0,
     "target_high": 260.0,
-    "upside_pct": -1.8,
+    "upside_pct": -0.2,
     "breakdown": {
      "strong_buy": 4,
      "buy": 7,
@@ -3861,7 +4066,7 @@
    },
    "next_earnings": "2026-10-29",
    "earnings_est": {
-    "eps_avg": 1.35547,
+    "eps_avg": 1.35572,
     "revenue_avg": 1152242050
    },
    "short": {
@@ -3954,10 +4159,10 @@
      }
     },
     "altman": {
-     "z": 6.24,
+     "z": 6.16,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 6.24 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 6.16 (안전)",
     "cash": 1168000000,
     "debt": 2527000064,
     "years": [
@@ -4012,10 +4217,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 38.588783,
-    "forward_pe": 33.817043,
-    "price_to_book": 10.984304,
-    "peg": 2.4833
+    "trailing_pe": 37.825886,
+    "forward_pe": 33.2724,
+    "price_to_book": 10.807396,
+    "peg": 2.5473
    },
    "news": [
     {
@@ -4036,7 +4241,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 57476,
+     "views": 57513,
      "comments": 0,
      "positive_pct": null
     },
@@ -4184,23 +4389,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "IOVA": {
    "ticker": "IOVA",
    "name": "Iovance Biotherapeutics, Inc.",
    "sector": "Healthcare",
    "industry": "Biotechnology",
-   "market_cap": 3818549248,
+   "market_cap": 3965764864,
    "description": "Iovance Biotherapeutics, Inc., a commercial-stage biopharmaceutical company, develops and commercializes cell therapies using autologous tumor infiltrating lymphocyte for the treatment of metastatic melanoma and other solid tumor cancers in the United States and internationally. The company offers Amtagvi, an individualized T cell therapy for solid tumor cancer and for the treatment of adult patients with previously treated advanced, or unresectable or metastatic melanomal; and Proleukin, an interleukin-2 product for the treatment of patients with metastatic melanoma and metastatic renal cell ",
-   "price": 8.43,
+   "price": 8.755,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 9,
     "target_mean": 10.0,
     "target_low": 6.0,
     "target_high": 14.0,
-    "upside_pct": 18.6,
+    "upside_pct": 14.2,
     "breakdown": {
      "strong_buy": 2,
      "buy": 5,
@@ -4215,11 +4420,11 @@
     "revenue_avg": 110115690
    },
    "short": {
-    "pct_of_float": 24.3,
-    "days_to_cover": 5.27,
+    "pct_of_float": 20.8,
+    "days_to_cover": 4.57,
     "level": "높음",
     "institutions_pct": 70.6,
-    "insiders_pct": 0.3
+    "insiders_pct": 0.4
    },
    "health": {
     "overall": "C",
@@ -4304,10 +4509,10 @@
      }
     },
     "altman": {
-     "z": 5.67,
+     "z": 6.08,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 5.67 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 6.08 (안전)",
     "cash": 297673984,
     "debt": 46003000,
     "years": [
@@ -4363,8 +4568,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -29.343172,
-    "price_to_book": 5.1876926,
+    "forward_pe": -30.474434,
+    "price_to_book": 5.3876925,
     "peg": null
    },
    "news": [
@@ -4381,7 +4586,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 249,
+     "views": 252,
      "comments": 0,
      "positive_pct": null
     },
@@ -4398,7 +4603,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 42,
+     "views": 43,
      "comments": 0,
      "positive_pct": null
     },
@@ -4453,7 +4658,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 5,
+     "views": 6,
      "comments": 0,
      "positive_pct": null
     },
@@ -4472,7 +4677,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 159,
+     "views": 160,
      "comments": 0,
      "positive_pct": null
     },
@@ -4489,7 +4694,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 5,
+     "views": 9,
      "comments": 0,
      "positive_pct": null
     },
@@ -4513,23 +4718,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "KMX": {
    "ticker": "KMX",
    "name": "CarMax Inc",
    "sector": "Consumer Cyclical",
    "industry": "Auto & Truck Dealerships",
-   "market_cap": 8701988864,
+   "market_cap": 8685669376,
    "description": "CarMax, Inc., through its subsidiaries, operates as a retailer of used vehicles and related products in the United States. The company operates in two segments: CarMax Sales Operations and CarMax Auto Finance. The CarMax Sales Operations segment offers customers a range of makes and models of used vehicles, including domestic, imported, and luxury vehicles, as well as hybrid and electric vehicles; wholesale auctions; extended protection plans to customers at the time of sale; and reconditioning and vehicle repair services. The CarMax Auto Finance segment provides financing alternatives for ret",
-   "price": 61.32,
+   "price": 61.205,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 13,
     "target_mean": 54.84615,
     "target_low": 33.0,
     "target_high": 96.0,
-    "upside_pct": -10.6,
+    "upside_pct": -10.4,
     "breakdown": {
      "strong_buy": 1,
      "buy": 2,
@@ -4691,9 +4896,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 38.086956,
-    "forward_pe": 19.997,
-    "price_to_book": 1.4222099,
+    "trailing_pe": 38.01553,
+    "forward_pe": 19.9595,
+    "price_to_book": 1.4195427,
     "peg": 0.6127
    },
    "news": [
@@ -4744,7 +4949,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 9,
+     "views": 14,
      "comments": 0,
      "positive_pct": null
     },
@@ -4761,7 +4966,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 1125,
+     "views": 1126,
      "comments": 0,
      "positive_pct": null
     },
@@ -4837,23 +5042,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "KRT": {
    "ticker": "KRT",
    "name": "Karat Packaging Inc.",
    "sector": "Consumer Cyclical",
    "industry": "Packaging & Containers",
-   "market_cap": 935594880,
+   "market_cap": 945959424,
    "description": "Karat Packaging Inc., together with its subsidiaries, engages in the manufacture and distribution of single-use disposable products in plastic, paper, biopolymer-based, and other compostable forms used in various restaurant and foodservice settings. It offers food and take-out containers, bags, boxes, tableware, cups, lids, cutlery, straws, specialty beverage ingredients, gloves, utensils, janitorial and warehouse supplies, and other products under the Karat Earth brand. The company also distributes food and beverage items, such as syrups, boba tea, and coffee drinks; and provides new product ",
-   "price": 46.94,
+   "price": 47.46,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 2,
     "target_mean": 41.5,
     "target_low": 33.0,
     "target_high": 50.0,
-    "upside_pct": -11.6,
+    "upside_pct": -12.6,
     "breakdown": {
      "strong_buy": 0,
      "buy": 2,
@@ -4871,7 +5076,7 @@
     "pct_of_float": 3.7,
     "days_to_cover": 2.0,
     "level": "낮음",
-    "institutions_pct": 37.8,
+    "institutions_pct": 37.9,
     "insiders_pct": 58.1
    },
    "health": {
@@ -4957,10 +5162,10 @@
      }
     },
     "altman": {
-     "z": 4.77,
+     "z": 4.8,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 4.77 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 4.8 (안전)",
     "cash": 54143000,
     "debt": 72715000,
     "years": [
@@ -5015,9 +5220,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 18.776,
-    "forward_pe": 20.145924,
-    "price_to_book": 5.6175203,
+    "trailing_pe": 18.984,
+    "forward_pe": 20.369099,
+    "price_to_book": 5.679751,
     "peg": null
    },
    "news": [
@@ -5034,7 +5239,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 6,
+     "views": 7,
      "comments": 0,
      "positive_pct": null
     },
@@ -5051,7 +5256,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 9,
      "comments": 0,
      "positive_pct": null
     },
@@ -5085,7 +5290,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 2,
+     "views": 3,
      "comments": 0,
      "positive_pct": null
     },
@@ -5108,23 +5313,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "KSPI": {
    "ticker": "KSPI",
    "name": "Joint Stock Company Kaspi.kz - ",
    "sector": "Technology",
    "industry": "Software - Infrastructure",
-   "market_cap": 18981822464,
+   "market_cap": 18761392128,
    "description": "Joint Stock Company Kaspi.kz, together with its subsidiaries, provides payments, marketplace, and fintech solutions for consumers and merchants in Kazakhstan, Azerbaijan, and Ukraine. The company operates through three segments: Payments, Marketplace, and Fintech. The Payments segment offers a platform that facilities transactions between and among merchants and consumers. This segment provides ways for consumers to pay for shopping transactions and regular household bills, as well as make peer to peer payments; and enables merchants to accept payment online and in store, issue and settle invo",
-   "price": 99.89,
+   "price": 98.73,
    "analyst": {
     "recommendation": "매수",
     "count": 7,
-    "target_mean": 108.860016,
-    "target_low": 87.77008,
-    "target_high": 136.02162,
-    "upside_pct": 9.0,
+    "target_mean": 109.12155,
+    "target_low": 87.98095,
+    "target_high": 136.3484,
+    "upside_pct": 10.5,
     "breakdown": {
      "strong_buy": 0,
      "buy": 4,
@@ -5142,7 +5347,7 @@
     "pct_of_float": 1.2,
     "days_to_cover": 1.81,
     "level": "낮음",
-    "institutions_pct": 47.4,
+    "institutions_pct": 47.5,
     "insiders_pct": 20.4
    },
    "health": {
@@ -5286,9 +5491,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 8.394118,
-    "forward_pe": 0.014682278,
-    "price_to_book": 0.008388135,
+    "trailing_pe": 8.296639,
+    "forward_pe": 0.014511777,
+    "price_to_book": 0.008290726,
     "peg": null
    },
    "news": [
@@ -5332,97 +5537,109 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "LIFE": {
    "ticker": "LIFE",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+   "name": "Ethos Technologies Inc.",
+   "sector": "Financial Services",
+   "industry": "Insurance Brokers",
+   "market_cap": 3841205504,
+   "description": "Ethos Technologies Inc. provides third-party administrator services for insurance policies in the United States. The company offers Ethos, a three-sided technology platform that serves an ecosystem of consumers, agents, and carriers. It also provides term life insurance, whole life insurance, and indexed universal life insurance products, as well as wills and estate planning, and supplemental health insurance products. The company was formerly known as Ethos Insurance Corporation and changed its name to Ethos Technologies Inc. in August 2016. The company was incorporated in 2016 and is based i",
+   "price": 40.08,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
+    "recommendation": "의견 없음",
+    "count": 8,
+    "target_mean": 34.875,
+    "target_low": 32.0,
+    "target_high": 40.0,
+    "upside_pct": -13.0,
+    "breakdown": {
+     "strong_buy": 3,
+     "buy": 6,
+     "hold": 0,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-04",
+   "earnings_est": {
+    "eps_avg": 0.35307,
+    "revenue_avg": 163316870
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 5.3,
+    "days_to_cover": 0.72,
+    "level": "보통",
+    "institutions_pct": 52.2,
+    "insiders_pct": 11.4
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "B",
+    "overall_word": "좋음",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 0.372,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 1.517,
       "unit": "x",
-      "grade": null,
+      "grade": "B",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": 34.4,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": 9.6,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": 113.4,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": -26.1,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": -18.1,
       "unit": "%",
-      "grade": null,
+      "grade": "D",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "주의"
      }
     ],
     "piotroski": {
@@ -5440,9 +5657,9 @@
      }
     },
     "altman": null,
-    "summary": "피오트로스키 F점수 6/9 (보통)",
-    "cash": null,
-    "debt": null,
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통)",
+    "cash": 168319008,
+    "debt": 1773000,
     "years": [
      {
       "year": "2025",
@@ -5484,8 +5701,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "forward_pe": 15.231841,
+    "price_to_book": 5.366899,
     "peg": null
    },
    "news": [
@@ -5502,7 +5719,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 8,
+     "views": 11,
      "comments": 0,
      "positive_pct": null
     },
@@ -5635,23 +5852,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "MGNI": {
    "ticker": "MGNI",
    "name": "Magnite, Inc.",
    "sector": "Communication Services",
    "industry": "Advertising Agencies",
-   "market_cap": 3409192448,
+   "market_cap": 3430347264,
    "description": "Magnite, Inc., together with its subsidiaries, operates an independent omni-channel sell-side advertising platform in the United States and internationally. The company's platform offers applications and services for sellers of digital advertising inventory, or publishers that own and operate CTV channels, applications, websites, and other digital media properties to manage and monetize their inventory; and for buyers, including advertisers, agencies, agency trading desks, and demand side platforms to buy digital advertising inventory, as well as an independent marketplace that brings buyers a",
-   "price": 23.77,
+   "price": 23.9175,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 15,
     "target_mean": 27.66667,
     "target_low": 21.0,
     "target_high": 40.0,
-    "upside_pct": 16.4,
+    "upside_pct": 15.7,
     "breakdown": {
      "strong_buy": 3,
      "buy": 10,
@@ -5813,9 +6030,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 21.60909,
-    "forward_pe": 18.44065,
-    "price_to_book": 3.6401224,
+    "trailing_pe": 21.743181,
+    "forward_pe": 18.55508,
+    "price_to_book": 3.6627104,
     "peg": null
    },
    "news": [
@@ -5832,7 +6049,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 89,
+     "views": 101,
      "comments": 0,
      "positive_pct": null
     },
@@ -5849,7 +6066,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 175,
+     "views": 182,
      "comments": 0,
      "positive_pct": null
     },
@@ -5883,7 +6100,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 26,
+     "views": 27,
      "comments": 0,
      "positive_pct": null
     },
@@ -5900,7 +6117,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 16,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     },
@@ -5922,23 +6139,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "MNPR": {
    "ticker": "MNPR",
    "name": "Monopar Therapeutics Inc.",
    "sector": "Healthcare",
    "industry": "Biotechnology",
-   "market_cap": 754313856,
+   "market_cap": 722464640,
    "description": "Monopar Therapeutics Inc., a clinical-stage biopharmaceutical company, engages in developing therapeutics for the treatment of cancer in the United States. The company develops ALXN1840, a late-stage, investigational once-daily and oral medicine; MNPR-101, a proprietary humanized monoclonal antibody that is conjugated with different radioisotopes for the treatment of advanced solid tumors expressing urokinase plasminogen activator receptor; and MNPR-101-Zr, which is in phase 1 imaging and dosimetry clinical trial, a radiopharmaceutical imaging agent comprised of MNPR-101 conjugated to zirconiu",
-   "price": 112.38,
+   "price": 107.635,
    "analyst": {
-    "recommendation": "의견 없음",
+    "recommendation": "적극 매수",
     "count": 13,
-    "target_mean": 126.30769,
+    "target_mean": 127.61538,
     "target_low": 100.0,
     "target_high": 145.0,
-    "upside_pct": 12.4,
+    "upside_pct": 18.6,
     "breakdown": {
      "strong_buy": 4,
      "buy": 8,
@@ -5947,14 +6164,14 @@
      "strong_sell": 0
     }
    },
-   "next_earnings": "2026-11-13",
+   "next_earnings": "2026-11-12",
    "earnings_est": {
     "eps_avg": -0.83673,
     "revenue_avg": 0
    },
    "short": {
-    "pct_of_float": 19.3,
-    "days_to_cover": 3.03,
+    "pct_of_float": 18.6,
+    "days_to_cover": 3.68,
     "level": "높음",
     "institutions_pct": 95.0,
     "insiders_pct": 23.4
@@ -6042,10 +6259,10 @@
      }
     },
     "altman": {
-     "z": 156.49,
+     "z": 149.88,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 156.49 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 149.88 (안전)",
     "cash": 134298976,
     "debt": 205663,
     "years": [
@@ -6101,8 +6318,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -56.757572,
-    "price_to_book": 5.7645545,
+    "forward_pe": -56.18426,
+    "price_to_book": 5.521159,
     "peg": null
    },
    "news": [
@@ -6119,7 +6336,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 8,
+     "views": 9,
      "comments": 0,
      "positive_pct": null
     },
@@ -6142,23 +6359,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "MTRN": {
    "ticker": "MTRN",
    "name": "Materion Corporation",
    "sector": "Basic Materials",
    "industry": "Other Industrial Metals & Mining",
-   "market_cap": 5364892672,
+   "market_cap": 5193847296,
    "description": "Materion Corporation, together with its subsidiaries, produces advanced engineered materials in the United States, Asia, Europe, and internationally. The company operates in four segments: Performance Materials, Electronic Materials, Precision Optics, and Other. It provides beryllium and non-beryllium containing alloy systems and custom engineered metal solutions in strip, bulk, rod, plate, bar, tube, and other customized shapes; engineering and product development services; alloyed metals, beryllium products, and beryllium hydroxide; precision strip, rod, wire, and engineered strip metal prod",
-   "price": 257.51,
+   "price": 249.3,
    "analyst": {
     "recommendation": "매수",
     "count": 5,
     "target_mean": 303.748,
     "target_low": 278.74,
     "target_high": 330.0,
-    "upside_pct": 18.0,
+    "upside_pct": 21.8,
     "breakdown": {
      "strong_buy": 1,
      "buy": 3,
@@ -6262,10 +6479,10 @@
      }
     },
     "altman": {
-     "z": 6.01,
+     "z": 5.89,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 6.01 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 5.89 (안전)",
     "cash": 20836000,
     "debt": 511600992,
     "years": [
@@ -6320,9 +6537,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 60.165886,
-    "forward_pe": 30.534798,
-    "price_to_book": 5.3925414,
+    "trailing_pe": 57.97674,
+    "forward_pe": 29.561277,
+    "price_to_book": 5.2206144,
     "peg": null
    },
    "news": [
@@ -6362,23 +6579,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "MU": {
    "ticker": "MU",
    "name": "Micron Technology, Inc.",
    "sector": "Technology",
    "industry": "Semiconductors",
-   "market_cap": 1160756461568,
+   "market_cap": 1038262403072,
    "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (M",
-   "price": 1027.77,
+   "price": 919.31,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 45,
     "target_mean": 1513.1111,
     "target_low": 361.0,
     "target_high": 2200.0,
-    "upside_pct": 47.2,
+    "upside_pct": 64.6,
     "breakdown": {
      "strong_buy": 9,
      "buy": 36,
@@ -6387,16 +6604,16 @@
      "strong_sell": 0
     }
    },
-   "next_earnings": "2026-10-01",
+   "next_earnings": "2026-09-30",
    "earnings_est": {
-    "eps_avg": 31.28341,
-    "revenue_avg": 50784289620
+    "eps_avg": 31.33121,
+    "revenue_avg": 50787211780
    },
    "short": {
-    "pct_of_float": 2.7,
-    "days_to_cover": 0.7,
+    "pct_of_float": 2.6,
+    "days_to_cover": 0.95,
     "level": "낮음",
-    "institutions_pct": 80.0,
+    "institutions_pct": 79.9,
     "insiders_pct": 0.2
    },
    "health": {
@@ -6482,10 +6699,10 @@
      }
     },
     "altman": {
-     "z": 26.25,
+     "z": 23.69,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 26.25 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 23.69 (안전)",
     "cash": 26022000640,
     "debt": 6376000000,
     "years": [
@@ -6540,12 +6757,89 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 23.247456,
-    "forward_pe": 6.629695,
-    "price_to_book": 11.520148,
-    "peg": 0.1469
+    "trailing_pe": 20.761292,
+    "forward_pe": 5.890518,
+    "price_to_book": 10.304434,
+    "peg": 0.1433
    },
    "news": [
+    {
+     "id": "212374",
+     "title": "[4보] 업계 수장들이 개발 속도 둔화를 촉구하면서 글로벌 AI 주식 하락",
+     "title_en": "UPDATE 3-Global AI stocks fall as industry chiefs call for slowing development",
+     "summary": "주요 AI 업계 최고경영자들, 안전 우려에 기술 개발 속도 조절 촉구\n\n\n오픈AI, 올해 기업공개 추진하지 않을 것이라고 최고경영자 밝혀\n\n\n월...",
+     "source": "reuters",
+     "time": "2026-09-14T07:18:19.565052Z",
+     "url": "https://www.saveticker.com/news/212374",
+     "tickers": [
+      "NVDA",
+      "AMD",
+      "SPCX",
+      "META",
+      "AMZN",
+      "MU",
+      "LRCX",
+      "AMAT",
+      "BE",
+      "GEV"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 302,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "212351",
+     "title": "[분석 기사] AI 안전이냐 성장 속도냐…오픈AI·앤트로픽, 시장과 정부 사이 시험대",
+     "title_en": "",
+     "summary": "블룸버그 통신에 따르면,\n앤트로픽과 오픈AI 수장들이 최근 잇따른 보안 사고를 계기로 최첨단 AI 모델 개발의 속도를 조절하고, 출시 전 외부 ...",
+     "source": "블룸버그",
+     "time": "2026-09-14T06:28:37.122586Z",
+     "url": "https://www.saveticker.com/news/212351",
+     "tickers": [
+      "GOOGL",
+      "META",
+      "MSFT",
+      "NVDA",
+      "MU"
+     ],
+     "tags": [
+      "정보",
+      "분석"
+     ],
+     "is_top": false,
+     "views": 7723,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "212141",
+     "title": "(카더라) 앤트로픽·OpenAI·구글, 7월부터 AI 공동 규제기구 논의",
+     "title_en": "",
+     "summary": "더 인포메이션은 소식통을 인용해,\n앤트로픽, OpenAI, 구글이 아모데이 CEO의 토요일 제안 이전부터 AI 공통 안전 기준과 테스트·감사 체...",
+     "source": "더인포메이션",
+     "time": "2026-09-13T19:40:13.511334Z",
+     "url": "https://www.saveticker.com/news/212141",
+     "tickers": [
+      "NVDA",
+      "SNDK",
+      "MU",
+      "SPCX",
+      "MSFT",
+      "GOOGL",
+      "META",
+      "AMZN",
+      "SKHY"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 12575,
+     "comments": 0,
+     "positive_pct": null
+    },
     {
      "id": "211685",
      "title": "브래드 거스트너 “AI 안전 중요하지만 개발 중단은 더 큰 위험”",
@@ -6566,7 +6860,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 3999,
+     "views": 8006,
      "comments": 0,
      "positive_pct": null
     },
@@ -6585,7 +6879,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 522,
+     "views": 588,
      "comments": 0,
      "positive_pct": null
     },
@@ -6606,7 +6900,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 19736,
+     "views": 20748,
      "comments": 0,
      "positive_pct": null
     },
@@ -6625,7 +6919,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 8736,
+     "views": 9066,
      "comments": 0,
      "positive_pct": null
     },
@@ -6642,89 +6936,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 447,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "211117",
-     "title": "마이크론 대만 근로자들, 최대 68개월치 급여 상당 보상 받아",
-     "title_en": "Micron's Taiwan workers to get rewards worth up to 68 months of pay",
-     "summary": "Wen-Yee Lee 기자\n\n\n타이베이, 9월 11일 (로이터) - 마이크론 테크놀로지(MU.O)는 금요일 대만의 직접 고용 노동자들이 총 20...",
-     "source": "reuters",
-     "time": "2026-09-11T02:10:12.034056Z",
-     "url": "https://www.saveticker.com/news/211117",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 618,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "211113",
-     "title": "마이크론, 대만 직접 고용 직원들에게 FY2026 총 보상으로 급여 35~68개월분에 해당하는 금액 지급…최소 현금 보상 170만 대만달러",
-     "title_en": "MICRON SAYS TAIWAN DIRECT LABOR EMPLOYEES TO RECEIVE TOTAL FY2026 REWARDS EQUIVALENT TO 35-68 MONTHS OF PAY, WITH MINIMUM CASH COMPENSATION OF T$1.7 MLN",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-09-11T01:58:24.836574Z",
-     "url": "https://www.saveticker.com/news/211113",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 1690,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "211021",
-     "title": "(카더라) 마이크로소프트, 2032년 데이터센터 용량 3배 확대 추진",
-     "title_en": "",
-     "summary": "블룸버그 통신은 소식통을 인용해,\n마이크로소프트가 현재 약 12GW 수준인 데이터센터 용량을 2032년까지 38GW 이상으로 3배 넘게 확대할 ...",
-     "source": "블룸버그",
-     "time": "2026-09-10T21:02:59.188039Z",
-     "url": "https://www.saveticker.com/news/211021",
-     "tickers": [
-      "NVDA",
-      "AMD",
-      "MU",
-      "SNDK",
-      "MSFT",
-      "INTC",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 21204,
+     "views": 501,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "NUE": {
    "ticker": "NUE",
    "name": "Nucor Corporation",
    "sector": "Basic Materials",
    "industry": "Steel",
-   "market_cap": 58858356736,
+   "market_cap": 58221969408,
    "description": "Nucor Corporation engages in the manufacture and sale of steel and steel products. The company operates in three segments: Steel Mills, Steel Products, and Raw Materials. The Steel Mills segment produces hot-rolled, cold-rolled, and galvanized sheet steel products; plate steel products; wide-flange beams, beam blanks, and H-piling and sheet piling structural steel products; and bar steel products, such as blooms, billets, concrete reinforcing and merchant bars, and engineered special bar quality products. This segment sells its products to steel service centers, fabricators, and manufacturers ",
-   "price": 259.43,
+   "price": 256.625,
    "analyst": {
     "recommendation": "매수",
     "count": 16,
-    "target_mean": 283.6875,
+    "target_mean": 283.75,
     "target_low": 231.0,
     "target_high": 308.0,
-    "upside_pct": 9.4,
+    "upside_pct": 10.6,
     "breakdown": {
      "strong_buy": 3,
      "buy": 11,
@@ -6735,8 +6968,8 @@
    },
    "next_earnings": "2026-10-26",
    "earnings_est": {
-    "eps_avg": 5.98342,
-    "revenue_avg": 10770931890
+    "eps_avg": 6.04092,
+    "revenue_avg": 10785646290
    },
    "short": {
     "pct_of_float": 2.4,
@@ -6828,10 +7061,10 @@
      }
     },
     "altman": {
-     "z": 5.43,
+     "z": 5.4,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 5.43 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 5.4 (안전)",
     "cash": 2692000000,
     "debt": 7098999808,
     "years": [
@@ -6886,9 +7119,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 20.888083,
-    "forward_pe": 13.279851,
-    "price_to_book": 2.6621857,
+    "trailing_pe": 20.480846,
+    "forward_pe": 13.136268,
+    "price_to_book": 2.6334019,
     "peg": null
    },
    "news": [
@@ -6920,7 +7153,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 858,
+     "views": 859,
      "comments": 0,
      "positive_pct": null
     },
@@ -6974,7 +7207,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 1478,
+     "views": 1479,
      "comments": 0,
      "positive_pct": null
     },
@@ -7061,23 +7294,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "NVT": {
    "ticker": "NVT",
    "name": "nVent Electric plc",
    "sector": "Industrials",
    "industry": "Electrical Equipment & Parts",
-   "market_cap": 26282491904,
+   "market_cap": 23782742016,
    "description": "nVent Electric plc designs, manufactures, markets, installs, and services electrical connection and protection solutions in the America, Europe, the Middle East, India, Africa, the Asia Pacific, and internationally. It operates in two segments, Systems Protection and Electrical Connections. The company provides solutions to protect electronics, systems, and data in mission critical applications, including data centers. It also offers solutions that connect power and data infrastructure. In addition, the company provides bus systems, cable management, control buildings, liquid and air-cooling s",
-   "price": 162.38,
+   "price": 146.9359,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 15,
     "target_mean": 204.06667,
     "target_low": 136.0,
     "target_high": 240.0,
-    "upside_pct": 25.7,
+    "upside_pct": 38.9,
     "breakdown": {
      "strong_buy": 1,
      "buy": 15,
@@ -7181,10 +7414,10 @@
      }
     },
     "altman": {
-     "z": 6.38,
+     "z": 5.9,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 6.38 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 5.9 (안전)",
     "cash": 256000000,
     "debt": 1632899968,
     "years": [
@@ -7239,10 +7472,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 45.105556,
-    "forward_pe": 25.135874,
-    "price_to_book": 6.592238,
-    "peg": 0.9784
+    "trailing_pe": 40.81553,
+    "forward_pe": 22.745178,
+    "price_to_book": 5.9652443,
+    "peg": 1.0238
    },
    "news": [
     {
@@ -7275,7 +7508,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 166,
+     "views": 167,
      "comments": 0,
      "positive_pct": null
     },
@@ -7292,7 +7525,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 10,
+     "views": 16,
      "comments": 0,
      "positive_pct": null
     },
@@ -7309,28 +7542,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 14,
+     "views": 15,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "OII": {
    "ticker": "OII",
    "name": "Oceaneering International, Inc.",
    "sector": "Energy",
    "industry": "Oil & Gas Equipment & Services",
-   "market_cap": 5084969984,
+   "market_cap": 4876454912,
    "description": "Oceaneering International, Inc. provides engineered services and products and robotic solutions to the offshore energy, defense, aerospace, and manufacturing industries in the United States, Africa, the United Kingdom, Norway, Brazil, Asia, Australia, and internationally. It operates through five segments: Subsea Robotics, Manufactured Products, Offshore Projects Group, Integrity Management & Digital Solutions, and Aerospace and Defense Technologies. The Subsea Robotics segment offers remotely operated vehicles (ROVs) for drill support and vessel-based services, including subsea hardware insta",
-   "price": 51.09,
+   "price": 48.995,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 4,
     "target_mean": 46.0,
     "target_low": 38.0,
     "target_high": 52.0,
-    "upside_pct": -10.0,
+    "upside_pct": -6.1,
     "breakdown": {
      "strong_buy": 0,
      "buy": 0,
@@ -7434,10 +7667,10 @@
      }
     },
     "altman": {
-     "z": 4.71,
+     "z": 4.63,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 4.71 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 4.63 (안전)",
     "cash": 636473024,
     "debt": 822158976,
     "years": [
@@ -7492,9 +7725,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 14.765896,
-    "forward_pe": 22.024494,
-    "price_to_book": 4.367787,
+    "trailing_pe": 14.160404,
+    "forward_pe": 21.121357,
+    "price_to_book": 4.188681,
     "peg": null
    },
    "news": [
@@ -7523,23 +7756,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
    "name": "Oscar Health, Inc.",
    "sector": "Healthcare",
    "industry": "Healthcare Plans",
-   "market_cap": 9802564608,
+   "market_cap": 10225409024,
    "description": "Oscar Health, Inc. operates as a healthcare technology company in the United States. The company offers health plans to individuals, families, employees, and small group markets. It also provides +Oscar platform that power others throughout the healthcare system; Campaign Builder platform, an engagement and recommendation platform for providers and payors; and reinsurance products. In addition, the company offers brokerage services and enrollment platform for brokers and consumers to shop, buy, and enroll in medical and supplemental health products. The company was formerly known as Mulberry H",
-   "price": 31.76,
+   "price": 33.13,
    "analyst": {
-    "recommendation": "의견 없음",
+    "recommendation": "중립",
     "count": 10,
-    "target_mean": 30.4,
-    "target_low": 25.0,
+    "target_mean": 30.7,
+    "target_low": 26.0,
     "target_high": 39.0,
-    "upside_pct": -4.3,
+    "upside_pct": -7.3,
     "breakdown": {
      "strong_buy": 3,
      "buy": 0,
@@ -7555,9 +7788,9 @@
    },
    "short": {
     "pct_of_float": 6.5,
-    "days_to_cover": 3.03,
+    "days_to_cover": 2.87,
     "level": "보통",
-    "institutions_pct": 73.9,
+    "institutions_pct": 73.8,
     "insiders_pct": 5.2
    },
    "health": {
@@ -7698,9 +7931,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 24.43077,
-    "forward_pe": 16.876562,
-    "price_to_book": 4.770918,
+    "trailing_pe": 25.484617,
+    "forward_pe": 17.60455,
+    "price_to_book": 4.9767165,
     "peg": null
    },
    "news": [
@@ -7723,7 +7956,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2979,
+     "views": 3010,
      "comments": 0,
      "positive_pct": null
     },
@@ -7743,7 +7976,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 172,
+     "views": 174,
      "comments": 0,
      "positive_pct": null
     },
@@ -7762,7 +7995,7 @@
       "실적"
      ],
      "is_top": false,
-     "views": 2779,
+     "views": 2780,
      "comments": 0,
      "positive_pct": null
     },
@@ -7861,12 +8094,12 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 1075,
+     "views": 1076,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "PGEN": {
    "ticker": "PGEN",
@@ -8050,23 +8283,23 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "PLPC": {
    "ticker": "PLPC",
    "name": "Preformed Line Products Company",
    "sector": "Industrials",
    "industry": "Electrical Equipment & Parts",
-   "market_cap": 2070560512,
+   "market_cap": 1975475200,
    "description": "Preformed Line Products Company designs and manufactures products and systems employed in the construction and maintenance of overhead, ground-mounted, and underground networks in the United States, the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. The company offers energy products for supporting, protecting, terminating, and splicing transmission, and distribution lines, as well as bolted, welded, and compressed connectors for substations; optical ground wire and all dielectric self-supporting fiber optic cables; and string hardware products, polymer insulators, wildlife p",
-   "price": 423.54,
+   "price": 404.09,
    "analyst": {
-    "recommendation": "의견 없음",
+    "recommendation": "적극 매수",
     "count": 1,
     "target_mean": 480.0,
     "target_low": 480.0,
     "target_high": 480.0,
-    "upside_pct": 13.3,
+    "upside_pct": 18.8,
     "breakdown": {
      "strong_buy": 0,
      "buy": 1,
@@ -8170,10 +8403,10 @@
      }
     },
     "altman": {
-     "z": 9.95,
+     "z": 9.63,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 9.95 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 9.63 (안전)",
     "cash": 75912000,
     "debt": 52069000,
     "years": [
@@ -8228,29 +8461,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 47.74972,
+    "trailing_pe": 45.50563,
     "forward_pe": null,
-    "price_to_book": 4.1799736,
+    "price_to_book": 3.988019,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "PRLB": {
    "ticker": "PRLB",
    "name": "Proto Labs, Inc.",
    "sector": "Industrials",
    "industry": "Metal Fabrication",
-   "market_cap": 1961117056,
+   "market_cap": 1894135680,
    "description": "Proto Labs, Inc., together with its subsidiaries, operates as a digital manufacturer of custom parts in the United States and Europe. It offers manufacturing services, such as molding, computer numerical control machining, 3D printing, and sheet metal to developers, engineers, and supply chain teams. The company was incorporated in 1999 and is headquartered in Maple Plain, Minnesota.",
-   "price": 81.98,
+   "price": 79.18,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 4,
     "target_mean": 95.5,
     "target_low": 87.0,
     "target_high": 110.0,
-    "upside_pct": 16.5,
+    "upside_pct": 20.6,
     "breakdown": {
      "strong_buy": 1,
      "buy": 3,
@@ -8354,10 +8587,10 @@
      }
     },
     "altman": {
-     "z": 14.66,
+     "z": 14.22,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 14.66 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 14.22 (안전)",
     "cash": 142776000,
     "debt": 2241000,
     "years": [
@@ -8412,29 +8645,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 65.06349,
-    "forward_pe": 34.337173,
-    "price_to_book": 2.8351088,
+    "trailing_pe": 62.84127,
+    "forward_pe": 33.1644,
+    "price_to_book": 2.7382765,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "PTGX": {
    "ticker": "PTGX",
    "name": "Protagonist Therapeutics, Inc.",
    "sector": "Healthcare",
    "industry": "Biotechnology",
-   "market_cap": 9588472832,
+   "market_cap": 9564531712,
    "description": "Protagonist Therapeutics, Inc. operates as a discovery and development company in the United States. It develops Icotyde, a first-in-class investigational targeted oral peptide for the treatment of adults and pediatric patients 12 years of age and older with moderate-to-severe plaque psoriasis; and Rusfertide, a first-in-class investigational injectable mimetic of the natural hormone hepcidin in Phase 3 development for the treatment of the rare blood disorder polycythemia vera. The company is also developing PN-881, a potential best-in-class oral peptide IL-17 antagonist, for the treatment of ",
-   "price": 148.18,
+   "price": 147.81,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 13,
     "target_mean": 174.6923,
     "target_low": 149.0,
     "target_high": 225.0,
-    "upside_pct": 17.9,
+    "upside_pct": 18.2,
     "breakdown": {
      "strong_buy": 3,
      "buy": 10,
@@ -8452,7 +8685,7 @@
     "pct_of_float": 13.9,
     "days_to_cover": 15.45,
     "level": "보통",
-    "institutions_pct": 120.2,
+    "institutions_pct": 120.1,
     "insiders_pct": 0.7
    },
    "health": {
@@ -8538,10 +8771,10 @@
      }
     },
     "altman": {
-     "z": 106.83,
+     "z": 106.56,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 106.83 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 106.56 (안전)",
     "cash": 782576000,
     "debt": 9216000,
     "years": [
@@ -8596,9 +8829,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 143.86407,
-    "forward_pe": -744.06226,
-    "price_to_book": 11.387949,
+    "trailing_pe": 142.125,
+    "forward_pe": -437.7999,
+    "price_to_book": 11.359514,
     "peg": null
    },
    "news": [
@@ -8699,23 +8932,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "PUBM": {
    "ticker": "PUBM",
    "name": "PubMatic, Inc.",
    "sector": "Technology",
    "industry": "Software - Application",
-   "market_cap": 751120448,
+   "market_cap": 757497472,
    "description": "PubMatic, Inc., a technology company, engages in the provision of a cloud infrastructure platform that enables real time programmatic advertising transactions for digital content creators, advertisers, agencies, agency trading desks, and demand side platforms worldwide. Its PubMatic SSP, a sell side platform for the purchase and sale of digital advertising inventory for publishers and buyers. The company also provides OpenWrap, a header bidding solution; Connect, a solution that provides additional data and insights to publishers and buyers; Activate, which allows buyers to execute direct deal",
-   "price": 16.49,
+   "price": 16.63,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 10,
     "target_mean": 20.3,
     "target_low": 17.0,
     "target_high": 23.0,
-    "upside_pct": 23.1,
+    "upside_pct": 22.1,
     "breakdown": {
      "strong_buy": 4,
      "buy": 5,
@@ -8819,10 +9052,10 @@
      }
     },
     "altman": {
-     "z": 1.95,
+     "z": 1.96,
      "zone": "회색지대"
     },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.95 (회색지대)",
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.96 (회색지대)",
     "cash": 137507008,
     "debt": 40907000,
     "years": [
@@ -8878,28 +9111,28 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 20.307882,
-    "price_to_book": 3.1355772,
+    "forward_pe": 20.480295,
+    "price_to_book": 3.162198,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "RCEL": {
    "ticker": "RCEL",
    "name": "Avita Medical, Inc.",
    "sector": "Healthcare",
    "industry": "Medical Devices",
-   "market_cap": 314216768,
+   "market_cap": 313752896,
    "description": "AVITA Medical, Inc., together with its subsidiaries, operates as a therapeutic acute wound care company in the United States, Japan, the European Union, Australia, and the United Kingdom. The company's lead product is the RECELL System, a cell harvesting device used for the treatment of thermal burn wounds and full-thickness skin defects, as well as for repigmentation of stable depigmented vitiligo lesions. It also provides RECALL autologous cell harvesting device, which can treat areas of up to 1,920 cm2; RECELL autologous cell harvesting device with ease-of-use, an enhanced ease-of-use devic",
-   "price": 10.16,
+   "price": 10.145,
    "analyst": {
-    "recommendation": "적극 매수",
+    "recommendation": "의견 없음",
     "count": 3,
-    "target_mean": 12.496569,
-    "target_low": 11.200607,
-    "target_high": 14.206459,
-    "upside_pct": 23.0,
+    "target_mean": 12.311579,
+    "target_low": 11.0348015,
+    "target_high": 13.996157,
+    "upside_pct": 21.4,
     "breakdown": {
      "strong_buy": 0,
      "buy": 3,
@@ -8908,14 +9141,14 @@
      "strong_sell": 0
     }
    },
-   "next_earnings": "2026-11-06",
+   "next_earnings": "2026-11-05",
    "earnings_est": {
     "eps_avg": -0.29104,
     "revenue_avg": 31504200
    },
    "short": {
-    "pct_of_float": 9.0,
-    "days_to_cover": 4.55,
+    "pct_of_float": 9.6,
+    "days_to_cover": 4.05,
     "level": "보통",
     "institutions_pct": 16.0,
     "insiders_pct": 1.5
@@ -9062,8 +9295,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -23.495996,
-    "price_to_book": -11.288889,
+    "forward_pe": -23.623259,
+    "price_to_book": -11.272223,
     "peg": null
    },
    "news": [
@@ -9080,7 +9313,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 188,
+     "views": 190,
      "comments": 0,
      "positive_pct": null
     },
@@ -9097,7 +9330,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 6,
+     "views": 8,
      "comments": 0,
      "positive_pct": null
     },
@@ -9148,28 +9381,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 12,
+     "views": 13,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "RSKD": {
    "ticker": "RSKD",
    "name": "Riskified Ltd.",
    "sector": "Technology",
    "industry": "Software - Application",
-   "market_cap": 804109824,
+   "market_cap": 814012608,
    "description": "Riskified Ltd., together with its subsidiaries, develops and offers an e-commerce risk intelligent platform that allows online merchants to create trusted relationships with consumers in the United States, Europe, the Middle East, Africa, the Asia-Pacific, and the Americas. It offers Chargeback Guarantee that ensures the legitimacy of merchants' online orders; Dispute Resolve, which is used to compile submissions for fraud and non-fraud related chargeback issues; Policy Protect, a machine learning solution designed to detect and prevent refund and returns policy abuse in real-time; Account Sec",
-   "price": 6.09,
+   "price": 6.165,
    "analyst": {
     "recommendation": "매수",
     "count": 5,
     "target_mean": 6.65,
     "target_low": 5.5,
     "target_high": 7.5,
-    "upside_pct": 9.2,
+    "upside_pct": 7.9,
     "breakdown": {
      "strong_buy": 0,
      "buy": 3,
@@ -9273,10 +9506,10 @@
      }
     },
     "altman": {
-     "z": 3.95,
+     "z": 4.0,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 3.95 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 4.0 (안전)",
     "cash": 223568992,
     "debt": 23528000,
     "years": [
@@ -9332,102 +9565,114 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 15.71613,
-    "price_to_book": 3.844697,
+    "forward_pe": 15.9096775,
+    "price_to_book": 3.8920455,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "SAIC": {
    "ticker": "SAIC",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+   "name": "Science Applications Internatio",
+   "sector": "Technology",
+   "industry": "Information Technology Services",
+   "market_cap": 5491523584,
+   "description": "Science Applications International Corporation provides technical, engineering, and mission and enterprise information technology (IT) services in the United States. It operates through two segments, Defense and Intelligence; and Civilian. The company offers IT modernization services for defense, intelligence, and civilian agencies; digital engineering services; artificial intelligence (AI) solutions; mission systems support and advisory; training and simulation; and ground vehicle support services for the nation's armed forces. It also provides services for the design, development, integratio",
+   "price": 131.07,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
+    "recommendation": "중립",
+    "count": 10,
+    "target_mean": 133.7,
+    "target_low": 103.0,
+    "target_high": 154.0,
+    "upside_pct": 2.0,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 2,
+     "hold": 8,
+     "sell": 1,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-08-31",
+   "earnings_est": {
+    "eps_avg": 2.34244,
+    "revenue_avg": 1813866670
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 6.5,
+    "days_to_cover": 4.99,
+    "level": "보통",
+    "institutions_pct": 90.4,
+    "insiders_pct": 0.7
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "C",
+    "overall_word": "보통",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 188.37,
       "unit": "%",
-      "grade": null,
+      "grade": "D",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "주의"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 1.204,
       "unit": "x",
-      "grade": null,
+      "grade": "C",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": 6.8,
       "unit": "%",
-      "grade": null,
+      "grade": "B",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "좋음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": 8.1,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": 6.3,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "보통"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": 25.7,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": 5.1,
       "unit": "%",
-      "grade": null,
+      "grade": "B",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "좋음"
      }
     ],
     "piotroski": {
@@ -9444,10 +9689,13 @@
       "자산회전율 개선": false
      }
     },
-    "altman": null,
-    "summary": "피오트로스키 F점수 6/9 (보통)",
-    "cash": null,
-    "debt": null,
+    "altman": {
+     "z": 2.96,
+     "zone": "회색지대"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 2.96 (회색지대)",
+    "cash": 126000000,
+    "debt": 2704999936,
     "years": [
      {
       "year": "2026",
@@ -9500,9 +9748,9 @@
     ]
    },
    "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "trailing_pe": 15.276225,
+    "forward_pe": 11.412923,
+    "price_to_book": 3.9606566,
     "peg": null
    },
    "news": [
@@ -9519,7 +9767,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 180,
+     "views": 184,
      "comments": 0,
      "positive_pct": null
     },
@@ -9553,7 +9801,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 5,
      "comments": 0,
      "positive_pct": null
     },
@@ -9570,7 +9818,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 11,
+     "views": 15,
      "comments": 0,
      "positive_pct": null
     },
@@ -9604,28 +9852,28 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 7,
+     "views": 10,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "SB": {
    "ticker": "SB",
    "name": "Safe Bulkers, Inc",
    "sector": "Industrials",
    "industry": "Marine Shipping",
-   "market_cap": 866602880,
+   "market_cap": 836561984,
    "description": "Safe Bulkers, Inc., together with its subsidiaries, provides marine drybulk transportation services internationally. The company owns and operates a fleet of dry bulk vessels for transporting bulk cargoes comprising coal, grain, and iron ore. Its fleet consists of 45 vessels, including 8 Panamax class vessels, 12 Kamsarmax class vessels, 17 post-Panamax class vessels, and 8 Capesize class vessels with an aggregate carrying capacity of 4,559,000 deadweight tons. Safe Bulkers, Inc. was incorporated in 2007 and is based in Monaco.",
-   "price": 8.51,
+   "price": 8.215,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 2,
     "target_mean": 8.5,
     "target_low": 7.8,
     "target_high": 9.2,
-    "upside_pct": -0.1,
+    "upside_pct": 3.5,
     "breakdown": {
      "strong_buy": 0,
      "buy": 1,
@@ -9729,10 +9977,10 @@
      }
     },
     "altman": {
-     "z": 1.9,
+     "z": 1.86,
      "zone": "회색지대"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.9 (회색지대)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.86 (회색지대)",
     "cash": 134536992,
     "debt": 511448000,
     "years": [
@@ -9787,29 +10035,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 11.051949,
-    "forward_pe": 13.296876,
-    "price_to_book": 0.99578756,
+    "trailing_pe": 10.668832,
+    "forward_pe": 12.835938,
+    "price_to_book": 0.9612685,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "SBET": {
    "ticker": "SBET",
    "name": "SharpLink, Inc.",
    "sector": "Financial Services",
    "industry": "Capital Markets",
-   "market_cap": 1928945536,
+   "market_cap": 1939806848,
    "description": "Sharplink, Inc. engages in the digital asset treasury business in the United States and internationally. The company operates as an institutional-grade Ethereum treasury platform. It operates in two segments, Ether (ETH) Treasury Management and Affiliate Marketing. The ETH Treasury Management segment focuses on the accumulation and active management of ETH as a long-term treasury asset. Its activities include native and liquid staking arrangements executed within a governance, custody, and risk management framework. The Affiliate Marketing segment provides performance-based customer acquisitio",
-   "price": 8.88,
+   "price": 8.93,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 7,
     "target_mean": 16.85714,
     "target_low": 8.0,
     "target_high": 30.0,
-    "upside_pct": 89.8,
+    "upside_pct": 88.8,
     "breakdown": {
      "strong_buy": 1,
      "buy": 6,
@@ -9969,8 +10217,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 74.0,
-    "price_to_book": 1.3659438,
+    "forward_pe": 74.41667,
+    "price_to_book": 1.3736349,
     "peg": null
    },
    "news": [
@@ -9987,7 +10235,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 41,
+     "views": 43,
      "comments": 0,
      "positive_pct": null
     },
@@ -10004,7 +10252,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 20,
+     "views": 21,
      "comments": 0,
      "positive_pct": null
     },
@@ -10021,7 +10269,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 19,
+     "views": 24,
      "comments": 0,
      "positive_pct": null
     },
@@ -10056,7 +10304,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 9,
      "comments": 0,
      "positive_pct": null
     },
@@ -10118,23 +10366,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "SCSC": {
    "ticker": "SCSC",
    "name": "ScanSource, Inc.",
    "sector": "Technology",
    "industry": "Electronics & Computer Distribution",
-   "market_cap": 1182684288,
+   "market_cap": 1172115456,
    "description": "ScanSource, Inc. engages in the distribution of technology products and solutions in the United States, Brazil, and internationally. It operates through two segments: Specialty Technology Solutions, and Intelisys & Advisory. The Specialty Technology Solutions segment offers mobility and barcode, including mobile computing; barcode scanners and imagers, radio frequency identification devices, barcode printing and related services; point of sale systems and integrated pos software platforms; payment terminals, such as self-service kiosks, payment terminals and mobile payment devices; physical se",
-   "price": 58.19,
+   "price": 57.67,
    "analyst": {
     "recommendation": "매수",
     "count": 2,
     "target_mean": 60.5,
     "target_low": 43.0,
     "target_high": 78.0,
-    "upside_pct": 4.0,
+    "upside_pct": 4.9,
     "breakdown": {
      "strong_buy": 0,
      "buy": 1,
@@ -10296,29 +10544,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 15.986263,
-    "forward_pe": 10.221773,
-    "price_to_book": 1.2881303,
-    "peg": 0.7548
+    "trailing_pe": 15.843406,
+    "forward_pe": 10.130428,
+    "price_to_book": 1.2766193,
+    "peg": 0.7914
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "TER": {
    "ticker": "TER",
    "name": "Teradyne, Inc.",
    "sector": "Technology",
    "industry": "Semiconductor Equipment & Materials",
-   "market_cap": 59986382848,
+   "market_cap": 53681160192,
    "description": "Teradyne, Inc. engages in the design, development, manufacture, and sale of automated test systems and robotics products in the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor Test, Robotics, and Other segments. The Semiconductor Test segment offers products and services for wafer level and device package testing, and system level testing of semiconductor devices in automotive, industrial, communications, consumer, smartphones, cloud, computer and electronic game, and other applications. This segment also provides FLEX test platform ",
-   "price": 383.69,
+   "price": 343.36,
    "analyst": {
-    "recommendation": "의견 없음",
+    "recommendation": "매수",
     "count": 15,
     "target_mean": 446.46667,
     "target_low": 350.0,
     "target_high": 550.0,
-    "upside_pct": 16.4,
+    "upside_pct": 30.0,
     "breakdown": {
      "strong_buy": 1,
      "buy": 11,
@@ -10327,16 +10575,16 @@
      "strong_sell": 0
     }
    },
-   "next_earnings": "2026-10-22",
+   "next_earnings": "2026-10-21",
    "earnings_est": {
     "eps_avg": 2.05052,
     "revenue_avg": 1262144510
    },
    "short": {
-    "pct_of_float": 5.1,
-    "days_to_cover": 1.95,
+    "pct_of_float": 5.2,
+    "days_to_cover": 2.65,
     "level": "보통",
-    "institutions_pct": 100.7,
+    "institutions_pct": 100.6,
     "insiders_pct": 0.2
    },
    "health": {
@@ -10422,10 +10670,10 @@
      }
     },
     "altman": {
-     "z": 27.71,
+     "z": 24.98,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 27.71 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 24.98 (안전)",
     "cash": 354828992,
     "debt": 100127000,
     "years": [
@@ -10480,10 +10728,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 51.022606,
-    "forward_pe": 32.927784,
-    "price_to_book": 19.105213,
-    "peg": 0.6809
+    "trailing_pe": 47.100136,
+    "forward_pe": 29.466713,
+    "price_to_book": 17.097046,
+    "peg": 0.6949
    },
    "news": [
     {
@@ -10501,7 +10749,7 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 3457,
+     "views": 3464,
      "comments": 0,
      "positive_pct": null
     },
@@ -10537,7 +10785,7 @@
       "실적"
      ],
      "is_top": false,
-     "views": 7430,
+     "views": 7432,
      "comments": 0,
      "positive_pct": null
     },
@@ -10565,7 +10813,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 34268,
+     "views": 34271,
      "comments": 0,
      "positive_pct": null
     },
@@ -10588,7 +10836,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38034,
+     "views": 38046,
      "comments": 0,
      "positive_pct": null
     },
@@ -10659,23 +10907,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "TH": {
    "ticker": "TH",
    "name": "Target Hospitality Corp.",
    "sector": "Industrials",
    "industry": "Specialty Business Services",
-   "market_cap": 1885149056,
+   "market_cap": 1869480320,
    "description": "Target Hospitality Corp. operates as a specialty rental and hospitality services company in North America. It operates through Hospitality & Facilities Services  South, Workforce Hospitality Solutions, and Government segments. The company owns a network of specialty rental accommodation units. It also provides catering and food, maintenance, housekeeping, grounds-keeping, security, health and recreation facilities, workforce community management, concierge, and laundry services. In addition, the company offers construction services. It serves the U.S. government contractors and investment gra",
-   "price": 19.25,
+   "price": 19.09,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 5,
     "target_mean": 24.6,
     "target_low": 22.0,
     "target_high": 27.0,
-    "upside_pct": 27.8,
+    "upside_pct": 28.9,
     "breakdown": {
      "strong_buy": 1,
      "buy": 4,
@@ -10779,10 +11027,10 @@
      }
     },
     "altman": {
-     "z": 9.15,
+     "z": 9.09,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 9.15 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 9.09 (안전)",
     "cash": 6068000,
     "debt": 48280000,
     "years": [
@@ -10838,46 +11086,46 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 21.084106,
-    "price_to_book": 5.215389,
-    "peg": 1.5175
+    "forward_pe": 20.908861,
+    "price_to_book": 5.17204,
+    "peg": 1.527
    },
    "news": [],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "TXG": {
    "ticker": "TXG",
    "name": "10x Genomics, Inc.",
    "sector": "Healthcare",
    "industry": "Medical Devices",
-   "market_cap": 8767292416,
+   "market_cap": 8694330368,
    "description": "10x Genomics, Inc. develops and sells instruments, consumables, and software for analyzing biological systems in the United States, rest of the Americas, Europe, the Middle East, Africa, China, and the rest of the Asia Pacific. The company offers Chromium platform, a single cell portfolio that enables analysis of individual biological components, as well as includes microfluidic chips and related consumables, Chromium X Series, and Chromium instruments; and QuantumScale single cell RNA and single cell methylation kits. It also provides Visium platform, a spatial analysis platform that uses hig",
-   "price": 67.29,
+   "price": 66.73,
    "analyst": {
     "recommendation": "매수",
-    "count": 14,
-    "target_mean": 51.0,
+    "count": 15,
+    "target_mean": 52.13333,
     "target_low": 40.0,
     "target_high": 70.0,
-    "upside_pct": -24.2,
+    "upside_pct": -21.9,
     "breakdown": {
      "strong_buy": 1,
      "buy": 5,
-     "hold": 11,
+     "hold": 12,
      "sell": 0,
      "strong_sell": 0
     }
    },
-   "next_earnings": "2026-11-06",
+   "next_earnings": "2026-11-05",
    "earnings_est": {
     "eps_avg": -0.01667,
-    "revenue_avg": 147228920
+    "revenue_avg": 147253990
    },
    "short": {
-    "pct_of_float": 17.9,
-    "days_to_cover": 4.97,
+    "pct_of_float": 18.2,
+    "days_to_cover": 4.99,
     "level": "높음",
-    "institutions_pct": 120.1,
+    "institutions_pct": 120.0,
     "insiders_pct": 1.5
    },
    "health": {
@@ -10963,10 +11211,10 @@
      }
     },
     "altman": {
-     "z": 20.54,
+     "z": 20.36,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 20.54 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 20.36 (안전)",
     "cash": 552033024,
     "debt": 78796000,
     "years": [
@@ -11022,8 +11270,8 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 330.93985,
-    "price_to_book": 10.6589575,
+    "forward_pe": 328.18573,
+    "price_to_book": 10.570252,
     "peg": null
    },
    "news": [
@@ -11047,23 +11295,23 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   },
   "ZBRA": {
    "ticker": "ZBRA",
    "name": "Zebra Technologies Corporation",
    "sector": "Technology",
    "industry": "Communication Equipment",
-   "market_cap": 16576235520,
+   "market_cap": 16494624768,
    "description": "Zebra Technologies Corporation, together with its subsidiaries, operates in the automatic identification and data capture solutions industry worldwide. It operates in two segments, Connected Frontline, and Asset Visibility and Automation. The company designs, manufactures, and sells printers that produce labels, wristbands, tickets, receipts, and plastic cards; dye-sublimination thermal card printers that produce images, which are used for personal identification, access control, and financial transactions; radio frequency identification device (RFID) printers that encode data into passive RFI",
-   "price": 350.37,
+   "price": 348.645,
    "analyst": {
     "recommendation": "매수",
     "count": 16,
     "target_mean": 410.29938,
     "target_low": 350.0,
     "target_high": 455.0,
-    "upside_pct": 17.1,
+    "upside_pct": 17.7,
     "breakdown": {
      "strong_buy": 3,
      "buy": 8,
@@ -11167,10 +11415,10 @@
      }
     },
     "altman": {
-     "z": 3.78,
+     "z": 3.77,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 3.78 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 3.77 (안전)",
     "cash": 157000000,
     "debt": 2961999872,
     "years": [
@@ -11225,10 +11473,10 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 32.114574,
-    "forward_pe": 15.79563,
-    "price_to_book": 4.8336897,
-    "peg": 0.5793
+    "trailing_pe": 31.98578,
+    "forward_pe": 15.717863,
+    "price_to_book": 4.8098917,
+    "peg": 0.5902
    },
    "news": [
     {
@@ -11351,7 +11599,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-11T21:28:22.100352+00:00"
+   "updated": "2026-09-14T14:24:45.558430+00:00"
   }
  },
  "market": "us"
