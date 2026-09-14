@@ -30,10 +30,10 @@
     "entry_price": 14.045,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 0.25,
-    "r_multiple": 0.05,
+    "pnl_pct": 2.39,
+    "r_multiple": 0.43,
     "remaining_frac": 1.0,
-    "last_close": 14.08,
+    "last_close": 14.38,
     "notes": []
    }
   },
@@ -87,20 +87,54 @@
     "BLSH",
     "OSCR"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-14",
+    "entry_price": 69.67,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": 0.63,
+    "r_multiple": 0.11,
+    "remaining_frac": 1.0,
+    "last_close": 70.11,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ticker": "TXG",
+   "name": "10x Genomics, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 70.46,
+   "stop_price": 66.1914,
+   "stop_pct": 6.06,
+   "reason": "3개월 +143.1% (후보 중 모멘텀 상위) · 급등 +90.6% 뒤 13일 횡보, 폭 20.0% · 거래량 급등기 대비 75% 로 감소 · 종가가 트리거가의 99.5% 위치",
+   "candidates": [
+    "LIFE",
+    "TXG",
+    "IOVA",
+    "NAKA",
+    "SBET",
+    "FWDI",
+    "BMNR",
+    "BTGO",
+    "OSCR",
+    "MSTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 3,
-  "triggered": 1,
+  "total": 4,
+  "triggered": 2,
   "not_triggered": 1,
   "closed": 0,
-  "open": 1,
+  "open": 2,
   "win_rate": 100.0,
-  "avg_pnl_pct": 0.25,
-  "avg_r": 0.05,
-  "sum_pnl_pct": 0.25
+  "avg_pnl_pct": 1.51,
+  "avg_r": 0.27,
+  "sum_pnl_pct": 3.02
  },
- "generated_at": "2026-09-11T21:28:21Z"
+ "generated_at": "2026-09-14T21:29:27Z"
 }

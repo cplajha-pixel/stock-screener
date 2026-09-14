@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-09-11T21:29:33Z",
- "date": "2026-09-11",
+ "generated_at": "2026-09-14T21:30:05Z",
+ "date": "2026-09-14",
  "macro": [
   {
    "ticker": "SPY",
    "name": "S&P 500 (SPY)",
-   "last": 764.29,
-   "date": "2026-09-11",
-   "d1": 0.85,
-   "w1": -1.15,
-   "m1": -1.06,
-   "m3": 3.86,
-   "d1_abs": 6.46,
+   "last": 760.88,
+   "date": "2026-09-14",
+   "d1": -0.45,
+   "w1": -1.21,
+   "m1": -2.19,
+   "m3": 2.84,
+   "d1_abs": -3.41,
    "level": false,
    "high_52w": 777.88,
    "low_52w": 630.35
@@ -19,13 +19,13 @@
   {
    "ticker": "QQQ",
    "name": "나스닥100 (QQQ)",
-   "last": 714.88,
-   "date": "2026-09-11",
-   "d1": 0.87,
-   "w1": -0.39,
-   "m1": -1.22,
-   "m3": -0.2,
-   "d1_abs": 6.19,
+   "last": 709.18,
+   "date": "2026-09-14",
+   "d1": -0.8,
+   "w1": -1.36,
+   "m1": -3.13,
+   "m3": -1.58,
+   "d1_abs": -5.7,
    "level": false,
    "high_52w": 745.34,
    "low_52w": 557.67
@@ -33,13 +33,13 @@
   {
    "ticker": "IWM",
    "name": "소형주 (IWM)",
-   "last": 288.89,
-   "date": "2026-09-11",
-   "d1": 0.41,
-   "w1": -2.13,
-   "m1": -4.57,
-   "m3": -0.29,
-   "d1_abs": 1.19,
+   "last": 287.91,
+   "date": "2026-09-14",
+   "d1": -0.34,
+   "w1": -2.74,
+   "m1": -5.14,
+   "m3": -1.49,
+   "d1_abs": -0.98,
    "level": false,
    "high_52w": 305.09,
    "low_52w": 227.4
@@ -47,13 +47,13 @@
   {
    "ticker": "^VIX",
    "name": "변동성 VIX",
-   "last": 15.84,
-   "date": "2026-09-11",
-   "d1": -11.21,
-   "w1": 9.02,
-   "m1": 8.27,
-   "m3": -10.41,
-   "d1_abs": -2.0,
+   "last": 17.1,
+   "date": "2026-09-14",
+   "d1": 7.95,
+   "w1": 11.76,
+   "m1": 20.0,
+   "m3": 5.56,
+   "d1_abs": 1.26,
    "level": true,
    "high_52w": 31.05,
    "low_52w": 13.47
@@ -61,13 +61,13 @@
   {
    "ticker": "^TNX",
    "name": "미 10년물 금리",
-   "last": 4.97,
-   "date": "2026-09-11",
-   "d1": 0.63,
-   "w1": 4.47,
-   "m1": 6.26,
-   "m3": 11.47,
-   "d1_abs": 0.03,
+   "last": 4.96,
+   "date": "2026-09-14",
+   "d1": -0.28,
+   "w1": 3.7,
+   "m1": 6.9,
+   "m3": 10.56,
+   "d1_abs": -0.01,
    "level": true,
    "high_52w": 4.97,
    "low_52w": 3.95
@@ -75,13 +75,13 @@
   {
    "ticker": "DX-Y.NYB",
    "name": "달러 인덱스",
-   "last": 99.1,
-   "date": "2026-09-11",
-   "d1": 0.01,
-   "w1": 0.1,
-   "m1": -0.91,
-   "m3": -0.77,
-   "d1_abs": 0.01,
+   "last": 99.45,
+   "date": "2026-09-14",
+   "d1": 0.33,
+   "w1": 0.29,
+   "m1": -0.51,
+   "m3": -0.3,
+   "d1_abs": 0.33,
    "level": true,
    "high_52w": 101.61,
    "low_52w": 96.22
@@ -89,13 +89,13 @@
   {
    "ticker": "CL=F",
    "name": "WTI 원유",
-   "last": 99.99,
-   "date": "2026-09-11",
-   "d1": -2.43,
-   "w1": 9.52,
-   "m1": 20.08,
-   "m3": 14.0,
-   "d1_abs": -2.49,
+   "last": 101.89,
+   "date": "2026-09-14",
+   "d1": 1.84,
+   "w1": 11.38,
+   "m1": 25.4,
+   "m3": 20.04,
+   "d1_abs": 1.84,
    "level": false,
    "high_52w": 112.95,
    "low_52w": 55.27
@@ -103,27 +103,27 @@
   {
    "ticker": "GC=F",
    "name": "금",
-   "last": 4390.0,
-   "date": "2026-09-11",
-   "d1": 0.58,
-   "w1": -2.26,
-   "m1": -0.43,
-   "m3": 7.33,
-   "d1_abs": 25.5,
+   "last": 4340.0,
+   "date": "2026-09-14",
+   "d1": -1.56,
+   "w1": -2.03,
+   "m1": -0.54,
+   "m3": 2.97,
+   "d1_abs": -68.9,
    "level": false,
    "high_52w": 5318.4,
-   "low_52w": 3636.9
+   "low_52w": 3643.7
   },
   {
    "ticker": "BTC-USD",
    "name": "비트코인",
-   "last": 77338.57,
-   "date": "2026-09-11",
-   "d1": 1.01,
-   "w1": -3.75,
-   "m1": -1.27,
-   "m3": 20.6,
-   "d1_abs": 770.45,
+   "last": 78903.45,
+   "date": "2026-09-14",
+   "d1": 2.69,
+   "w1": 0.82,
+   "m1": -0.08,
+   "m3": 26.77,
+   "d1_abs": 2065.3,
    "level": false,
    "high_52w": 96929.33,
    "low_52w": 58558.86
@@ -131,127 +131,27 @@
   {
    "ticker": "HG=F",
    "name": "구리",
-   "last": 6.56,
-   "date": "2026-09-11",
-   "d1": 1.39,
-   "w1": -0.3,
-   "m1": -0.61,
-   "m3": 4.76,
-   "d1_abs": 0.09,
+   "last": 6.4,
+   "date": "2026-09-14",
+   "d1": -1.11,
+   "w1": -3.02,
+   "m1": -2.96,
+   "m3": -0.51,
+   "d1_abs": -0.07,
    "level": false,
    "high_52w": 6.8,
    "low_52w": 4.54
   }
  ],
  "explain": [
-  "SPY가 200일 이동평균보다 7.2% 위, S&P 500 종목 중 59.3%가 200일선 위 → 장기 자금 신호 '지금 투입'",
-  "VIX 15.84: 안정 구간(20 미만) — 추세 매매에 유리한 환경",
-  "미 10년물 4.97% (하루 +0.03p): 큰 변화 없음",
-  "WTI 원유 $99.99 (한 달 +20.08%): 유가 급등 — 에너지주 강세, 소비·항공에 부담, 물가 우려",
-  "달러 인덱스 99.1 (한 달 -0.91%): 달러 안정",
-  "소형주가 대형주보다 한 달 -3.5%p: 대형주 주도 — 소형주 돌파 실패 잦을 수 있음"
+  "SPY가 200일 이동평균보다 6.8% 위, S&P 500 종목 중 59.2%가 200일선 위 → 장기 자금 신호 '지금 투입'",
+  "VIX 17.1: 안정 구간(20 미만) — 추세 매매에 유리한 환경",
+  "미 10년물 4.96% (하루 -0.01p): 큰 변화 없음",
+  "WTI 원유 $101.89 (한 달 +25.4%): 유가 급등 — 에너지주 강세, 소비·항공에 부담, 물가 우려",
+  "달러 인덱스 99.45 (한 달 -0.51%): 달러 안정",
+  "소형주가 대형주보다 한 달 -2.9%p: 대형주 주도 — 소형주 돌파 실패 잦을 수 있음"
  ],
  "calendar": [
-  {
-   "id": "6a7b3908367df81e68593d0f",
-   "title": "EIA 원유 재고",
-   "importance": 3,
-   "time": "2026-09-11T01:00:00",
-   "date_only": false,
-   "kst": "09/11 01:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d10",
-   "title": "30년물 국채 입찰",
-   "importance": 2,
-   "time": "2026-09-11T02:00:00",
-   "date_only": false,
-   "kst": "09/11 02:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d11",
-   "title": "8월 근원 CPI상승률",
-   "importance": 3,
-   "time": "2026-09-11T21:30:00",
-   "date_only": false,
-   "kst": "09/11 21:30",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d12",
-   "title": "8월 CPI상승률",
-   "importance": 3,
-   "time": "2026-09-11T21:30:00",
-   "date_only": false,
-   "kst": "09/11 21:30",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d13",
-   "title": "9월 미시간대 소비자심리지수",
-   "importance": 2,
-   "time": "2026-09-11T23:00:00",
-   "date_only": false,
-   "kst": "09/11 23:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d14",
-   "title": "9월 미시간대 5년 기대인플레이션",
-   "importance": 2,
-   "time": "2026-09-11T23:00:00",
-   "date_only": false,
-   "kst": "09/11 23:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7b3908367df81e68593d15",
-   "title": "9월 미시간대 1년 기대인플레이션",
-   "importance": 2,
-   "time": "2026-09-11T23:00:00",
-   "date_only": false,
-   "kst": "09/11 23:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a7c8a87367df81e68652a66",
-   "title": "USDA 세계 농산물수급 전망보고서",
-   "importance": 2,
-   "time": "2026-09-12T01:00:00",
-   "date_only": false,
-   "kst": "09/12 01:00",
-   "is_today": true,
-   "is_past": true
-  },
-  {
-   "id": "6a7c8a87367df81e68652a67",
-   "title": "베이커휴즈 총시추기수",
-   "importance": 2,
-   "time": "2026-09-12T02:00:00",
-   "date_only": false,
-   "kst": "09/12 02:00",
-   "is_today": true,
-   "is_past": true
-  },
-  {
-   "id": "6a7c8a87367df81e68652a68",
-   "title": "8월 연방 재정수지",
-   "importance": 1,
-   "time": "2026-09-12T03:00:00",
-   "date_only": false,
-   "kst": "09/12 03:00",
-   "is_today": true,
-   "is_past": true
-  },
   {
    "id": "6a807f07367df81e687ead9b",
    "title": "ADP 주간 고용변화 보고서",
@@ -259,7 +159,7 @@
    "time": "2026-09-15T21:15:00",
    "date_only": false,
    "kst": "09/15 21:15",
-   "is_today": false,
+   "is_today": true,
    "is_past": false
   },
   {
@@ -269,7 +169,7 @@
    "time": "2026-09-15T21:30:00",
    "date_only": false,
    "kst": "09/15 21:30",
-   "is_today": false,
+   "is_today": true,
    "is_past": false
   },
   {
@@ -295,7 +195,7 @@
   {
    "id": "6a81d088367df81e688121f9",
    "title": "8월 수입물가지수 MoM",
-   "importance": 2,
+   "importance": 1,
    "time": "2026-09-16T21:30:00",
    "date_only": false,
    "kst": "09/16 21:30",
@@ -304,8 +204,8 @@
   },
   {
    "id": "6a81d088367df81e688121fb",
-   "title": "8월 수입물가지수 YoY",
-   "importance": 2,
+   "title": "8월 수입물가지수",
+   "importance": 1,
    "time": "2026-09-16T21:30:00",
    "date_only": false,
    "kst": "09/16 21:30",
@@ -354,7 +254,7 @@
   },
   {
    "id": "6a83227d367df81e688878c1",
-   "title": "기준금리 결정",
+   "title": "미국 기준금리 결정",
    "importance": 3,
    "time": "2026-09-17T03:00:00",
    "date_only": false,
@@ -379,6 +279,16 @@
    "time": "2026-09-17T03:30:00",
    "date_only": false,
    "kst": "09/17 03:30",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6aa6b121f6f0ef7b2972024a",
+   "title": "영국 기준금리 결정",
+   "importance": 3,
+   "time": "2026-09-17T20:00:00",
+   "date_only": false,
+   "kst": "09/17 20:00",
    "is_today": false,
    "is_past": false
   },
@@ -415,7 +325,27 @@
   {
    "id": "6a83227d367df81e688878c9",
    "title": "9월 필라델피아연은 제조업지수",
-   "importance": 3,
+   "importance": 1,
+   "time": "2026-09-17T21:30:00",
+   "date_only": false,
+   "kst": "09/17 21:30",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6aa6b0e5367df81e68537c27",
+   "title": "8월 건축허가건수",
+   "importance": 1,
+   "time": "2026-09-17T21:30:00",
+   "date_only": false,
+   "kst": "09/17 21:30",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6aa6b0e5367df81e68537c28",
+   "title": "8월 건축허가건수 MoM",
+   "importance": 1,
    "time": "2026-09-17T21:30:00",
    "date_only": false,
    "kst": "09/17 21:30",
@@ -453,6 +383,26 @@
    "is_past": false
   },
   {
+   "id": "6aa6b0e5367df81e68537c29",
+   "title": "물가채 10년 발행금리",
+   "importance": 2,
+   "time": "2026-09-18T02:00:00",
+   "date_only": false,
+   "kst": "09/18 02:00",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6aa6b12b4990f42300ff1762",
+   "title": "일본 기준금리 결정",
+   "importance": 3,
+   "time": "2026-09-18T12:00:00",
+   "date_only": false,
+   "kst": "09/18 12:00",
+   "is_today": false,
+   "is_past": false
+  },
+  {
    "id": "6a84746d367df81e68922145",
    "title": "8월 산업생산 MoM",
    "importance": 2,
@@ -474,7 +424,7 @@
   },
   {
    "id": "6aa3cb1d367df81e684a9a40",
-   "title": "보우먼 부의장 (비둘기/투표권 O)",
+   "title": "보우먼 부의장 (중립/투표권 O)",
    "importance": 0,
    "time": "2026-09-18T22:30:00",
    "date_only": false,
@@ -491,9 +441,202 @@
    "kst": "09/18 23:00",
    "is_today": false,
    "is_past": false
+  },
+  {
+   "id": "6aa6b149c5e6076329ee46cc",
+   "title": "연준 슈미드 총재 (매파/투표권 X)",
+   "importance": 0,
+   "time": "2026-09-19T00:45:00",
+   "date_only": false,
+   "kst": "09/19 00:45",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6a85c501367df81e689ca6be",
+   "title": "베이커휴즈 총시추기수",
+   "importance": 2,
+   "time": "2026-09-19T02:00:00",
+   "date_only": false,
+   "kst": "09/19 02:00",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6aa416cf367df81e684d3f87",
+   "title": "굴스비 총재 (매파/투표권 X)",
+   "importance": 0,
+   "time": "2026-09-21T19:30:00",
+   "date_only": false,
+   "kst": "09/21 19:30",
+   "is_today": false,
+   "is_past": false
+  },
+  {
+   "id": "6a886878367df81e68b19c40",
+   "title": "8월 시카고연은 전미경제활동지수",
+   "importance": 1,
+   "time": "2026-09-21T21:30:00",
+   "date_only": false,
+   "kst": "09/21 21:30",
+   "is_today": false,
+   "is_past": false
   }
  ],
  "top_stories": [
+  {
+   "id": "212841",
+   "title": "트럼프 “이란이 합의를 원한다…미국도 대화 가능성은 열어둬”",
+   "title_en": "",
+   "summary": "트럼프 대통령은 이란이 빠르고 절박하게 합의를 원하고 있다고 주장하면서, 미국이 실제로 협상에 참여할지는 자신이 결정하겠다고 밝힘\n\n\n- 다만 ...",
+   "source": "",
+   "time": "2026-09-14T15:34:34.718883Z",
+   "url": "https://www.saveticker.com/news/212841",
+   "tickers": [],
+   "tags": [
+    "속보"
+   ],
+   "is_top": true,
+   "views": 17428,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212766",
+   "title": "트럼프, AI 규제론 강하게 비판…“AI 승자가 모든 걸 차지한다”",
+   "title_en": "",
+   "summary": "트럼프 대통령은 AI에 필요한 규제나 안전장치는 강하고 똑똑한 대통령의 통제면 충분하다고 주장하며, AI 기업들에 대한 추가 규제 필요성을 일축...",
+   "source": "",
+   "time": "2026-09-14T14:01:13.970879Z",
+   "url": "https://www.saveticker.com/news/212766",
+   "tickers": [],
+   "tags": [
+    "속보"
+   ],
+   "is_top": true,
+   "views": 18676,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212676",
+   "title": "(카더라) 공습으로 타격 입은 사우디 핵심 송유관, 수리 위해 수 주간 대부분 가동 중단",
+   "title_en": "",
+   "summary": "AP 통신은 관계자를 인용해,\n공습으로 타격을 입은 사우디아라비아의 핵심 송유관이 수리를 위해 향후 수 주간 대부분 가동 중단될 예정이라고 보도...",
+   "source": "AP",
+   "time": "2026-09-14T12:39:00.450226Z",
+   "url": "https://www.saveticker.com/news/212676",
+   "tickers": [],
+   "tags": [
+    "속보"
+   ],
+   "is_top": true,
+   "views": 14685,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212180",
+   "title": "사우디 핵심 송유관 가동 중단에 유가 상승…",
+   "title_en": "",
+   "summary": "사우디아라비아가 공격 이후 호르무즈 해협 우회로 역할을 해온 '동서 송유관' 가동을 중단하면서, 브렌트유는 배럴당 107달러를 향해 상승했고 W...",
+   "source": "블룸버그",
+   "time": "2026-09-13T22:19:48.245490Z",
+   "url": "https://www.saveticker.com/news/212180",
+   "tickers": [],
+   "tags": [
+    "정보"
+   ],
+   "is_top": true,
+   "views": 25393,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212087",
+   "title": "트럼프 “AI 승자가 세계 주도…미국이 중국에 앞서야”",
+   "title_en": "",
+   "summary": "트럼프 대통령은 아일랜드 골프 리조트에서 기자들과 만나, \n이란 전쟁이 중간선거 직후 혹은 그 이전에 끝날 수 있다며 이란이 미국과의 합의를 간...",
+   "source": "",
+   "time": "2026-09-13T13:35:01.804086Z",
+   "url": "https://www.saveticker.com/news/212087",
+   "tickers": [],
+   "tags": [
+    "속보"
+   ],
+   "is_top": true,
+   "views": 35808,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212046",
+   "title": "AI 개발 속도 조절론에 반도체주 단기 압박…장기 투자 테마는 유지",
+   "title_en": "",
+   "summary": "앤트로픽의 다리오 아모데이 CEO가 토요일 최첨단 AI 모델의 개발 속도를 늦추고 안전장치를 강화하자고 제안했고, OpenAI의 샘 올트먼과 x...",
+   "source": "블룸버그",
+   "time": "2026-09-13T09:26:28.550753Z",
+   "url": "https://www.saveticker.com/news/212046",
+   "tickers": [],
+   "tags": [
+    "정보"
+   ],
+   "is_top": true,
+   "views": 30067,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "212013",
+   "title": "오픈AI CEO, \"오픈AI IPO는 2026년에 일어나지 않을 것\"",
+   "title_en": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
+   "summary": "오픈AI는 지금 기업공개를 서두를 압박을 느끼지 않는다고 올트먼이 말했다\n\n\n회사는 다른 AI 제공업체들과 안전 협약에 근접했을 수 있다\n\n\n앤...",
+   "source": "reuters",
+   "time": "2026-09-12T20:37:12.079933Z",
+   "url": "https://www.saveticker.com/news/212013",
+   "tickers": [],
+   "tags": [],
+   "is_top": true,
+   "views": 15511,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "211958",
+   "title": "트럼프 “캐나다와 비교적 빠른 시일 내 무역 합의 가능”",
+   "title_en": "",
+   "summary": "트럼프 대통령은 아일랜드 더블린에서 미할 마틴 아일랜드 총리와 만난 자리에서,\nUSMCA 탈퇴 가능성을 낮게 시사하며 캐나다와의 무역분쟁이 \"머...",
+   "source": "블룸버그",
+   "time": "2026-09-12T13:40:44.767257Z",
+   "url": "https://www.saveticker.com/news/211958",
+   "tickers": [],
+   "tags": [
+    "정보"
+   ],
+   "is_top": true,
+   "views": 16736,
+   "comments": 0,
+   "positive_pct": null
+  },
+  {
+   "id": "211846",
+   "title": "(카더라) 엔비디아, 앤트로픽 IPO에 최대 100억 달러 투자 검토",
+   "title_en": "",
+   "summary": "로이터 통신은 소식통을 인용해,\n앤트로픽이 11월 미국 중간선거 이전 상장 완료를 목표로 기업가치 약 2조 달러에 최대 1,000억 달러를 조달...",
+   "source": "로이터",
+   "time": "2026-09-11T23:17:15.283641Z",
+   "url": "https://www.saveticker.com/news/211846",
+   "tickers": [
+    "NVDA"
+   ],
+   "tags": [
+    "정보"
+   ],
+   "is_top": true,
+   "views": 16708,
+   "comments": 0,
+   "positive_pct": null
+  },
   {
    "id": "211527",
    "title": "미국 8월 CPI 전월 대비 0.4% 상승…에너지 가격이 물가 상승 주도",
@@ -508,7 +651,7 @@
     "경제지표"
    ],
    "is_top": true,
-   "views": 36600,
+   "views": 49544,
    "comments": 0,
    "positive_pct": null
   },
@@ -525,7 +668,7 @@
     "정보"
    ],
    "is_top": true,
-   "views": 22401,
+   "views": 25426,
    "comments": 0,
    "positive_pct": null
   },
@@ -542,7 +685,7 @@
     "속보"
    ],
    "is_top": true,
-   "views": 16469,
+   "views": 17659,
    "comments": 0,
    "positive_pct": null
   },
@@ -559,221 +702,13 @@
     "정보"
    ],
    "is_top": true,
-   "views": 54655,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "211021",
-   "title": "(카더라) 마이크로소프트, 2032년 데이터센터 용량 3배 확대 추진",
-   "title_en": "",
-   "summary": "블룸버그 통신은 소식통을 인용해,\n마이크로소프트가 현재 약 12GW 수준인 데이터센터 용량을 2032년까지 38GW 이상으로 3배 넘게 확대할 ...",
-   "source": "블룸버그",
-   "time": "2026-09-10T21:02:59.188039Z",
-   "url": "https://www.saveticker.com/news/211021",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "MU",
-    "SNDK",
-    "MSFT",
-    "INTC",
-    "SKHY"
-   ],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 21204,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210858",
-   "title": "드러켄밀러 “미국 금리 인하 더 이상 필요 없어…오히려 금리 아직 낮다”",
-   "title_en": "",
-   "summary": "스탠리 드러켄밀러는 뉴욕에서 열린 파이퍼샌들러 비공개 컨퍼런스에서,\n최근 국채금리가 급등했는데도 경제 상황과 대규모 자본지출을 감안하면 금리가 ...",
-   "source": "파이낸셜타임스",
-   "time": "2026-09-10T17:28:53.798195Z",
-   "url": "https://www.saveticker.com/news/210858",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 18937,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210814",
-   "title": "엔비디아 - 골드만삭스 컨퍼런스 (요약)",
-   "title_en": "",
-   "summary": "엔비디아의 젠슨 황 CEO는 골드만삭스 컨퍼런스에 참석해,\nAI가 과거 전력망이나 인터넷처럼 전 세계에 깔릴 새로운 '컴퓨팅 인프라'가 될 것이...",
-   "source": "",
-   "time": "2026-09-10T16:40:43.385383Z",
-   "url": "https://www.saveticker.com/news/210814",
-   "tickers": [
-    "NVDA"
-   ],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 12053,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210690",
-   "title": "8월 PPI 데이터에서 PCE 계산에 포함되는 항목들",
-   "title_en": "",
-   "summary": "\n",
-   "source": "",
-   "time": "2026-09-10T13:57:04.472144Z",
-   "url": "https://www.saveticker.com/news/210690",
-   "tickers": [],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 16027,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210553",
-   "title": "PPI는 대체로 예상 부합…PCE 관련 항목은 강한 상승",
-   "title_en": "",
-   "summary": "8월 PPI는 전반적으로 시장 예상치에 부합함\n\n\n- 다만 PCE 물가에 직접 반영되는 항공료와 병원비가 크게 올라 월말 발표될 근원 인플레이션...",
-   "source": "블룸버그",
-   "time": "2026-09-10T12:39:47.034435Z",
-   "url": "https://www.saveticker.com/news/210553",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 31474,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210472",
-   "title": "사우디 원유 생산 하루 624만 배럴로 급감… 1990년 이후 최저 수준 ",
-   "title_en": "",
-   "summary": "미국과 이란 간 교전 재격화로 수출길에 차질이 생기면서 사우디아라비아의 원유 생산량이 하루 623만8,000배럴로 급감해 1990년 걸프전 이후...",
-   "source": "블룸버그",
-   "time": "2026-09-10T12:03:32.270137Z",
-   "url": "https://www.saveticker.com/news/210472",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 12887,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210422",
-   "title": "IAEA, 이란의 픽액스 마운틴 활동 증거 포착",
-   "title_en": "IAEA sees evidence of activity by Iran's Pickaxe Mountain.",
-   "summary": "",
-   "source": "financial-juice",
-   "time": "2026-09-10T11:42:58.985780Z",
-   "url": "https://www.saveticker.com/news/210422",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 5404,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210206",
-   "title": "트럼프, 중간선거 승리 조건으로 5,000달러 ‘트럼프 배당금’ 공약",
-   "title_en": "",
-   "summary": "트럼프 대통령이 수요일 댈러스에서 열린 공화당 중간선거 전당대회 연설에서, 공화당이 상·하원을 모두 지킬 경우 미국 성인 시민에게 1인당 5,0...",
-   "source": "블룸버그",
-   "time": "2026-09-10T07:06:59.100106Z",
-   "url": "https://www.saveticker.com/news/210206",
-   "tickers": [],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 23556,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210195",
-   "title": "(카더라) 한국, 미국에 원전 최대 8기 건설 투자 추진…1000억 달러 넘을 수도",
-   "title_en": "",
-   "summary": "월스트리트저널은 소식통을 인용해,\n한국 정부가 미국의 AI 인프라 확충에 필요한 전력을 공급하기 위해 1,000억 달러를 넘어설 수 있는 대규모...",
-   "source": "월스트리트저널",
-   "time": "2026-09-10T06:46:02.901671Z",
-   "url": "https://www.saveticker.com/news/210195",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 20358,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210184",
-   "title": "(카더라) 중국 AI 칩 가격 급등…HBM 부족·수출 규제가 비용 끌어올려",
-   "title_en": "",
-   "summary": "로이터 통신은 소식통을 인용해,\n화웨이와 캄브리콘 등 중국 AI 칩 업체들이 전 세계적인 고대역폭 메모리(HBM) 품귀 현상에 미국의 수출 통제...",
-   "source": "로이터",
-   "time": "2026-09-10T06:24:36.222650Z",
-   "url": "https://www.saveticker.com/news/210184",
-   "tickers": [
-    "NVDA",
-    "AMD",
-    "MU",
-    "SKHY"
-   ],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 12855,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "210127",
-   "title": "TSMC - 8월 매출",
-   "title_en": "",
-   "summary": "8월 월간 매출 (단위: 대만 달러)\n\n\n- 매출: NT$ 5,148억 (전년 동기 대비+53.3% ) (전월 대비 +10.1%)\n\n\n- 1~8...",
-   "source": "",
-   "time": "2026-09-10T05:31:16.532883Z",
-   "url": "https://www.saveticker.com/news/210127",
-   "tickers": [
-    "TSM"
-   ],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 36437,
+   "views": 55492,
    "comments": 0,
    "positive_pct": null
   }
  ],
  "fred": [],
  "breadth_history": [
-  {
-   "date": "2026-07-31",
-   "breadth_pct": 67.9
-  },
   {
    "date": "2026-08-03",
    "breadth_pct": 70.3
@@ -820,7 +755,7 @@
   },
   {
    "date": "2026-08-18",
-   "breadth_pct": 71.8
+   "breadth_pct": 71.6
   },
   {
    "date": "2026-08-19",
@@ -832,7 +767,7 @@
   },
   {
    "date": "2026-08-21",
-   "breadth_pct": 72.4
+   "breadth_pct": 72.2
   },
   {
    "date": "2026-08-24",
@@ -888,19 +823,23 @@
   },
   {
    "date": "2026-09-11",
-   "breadth_pct": 59.3
+   "breadth_pct": 59.5
+  },
+  {
+   "date": "2026-09-14",
+   "breadth_pct": 59.2
   }
  ],
- "short_universe_size": 120,
+ "short_universe_size": 115,
  "market": "us",
  "temperature": {
   "index": "SPY",
-  "close": 762.4,
-  "sma200": 710.95,
+  "close": 760.88,
+  "sma200": 712.55,
   "above_sma200": true,
-  "pct_vs_sma200": 7.2,
-  "breadth_pct": 59.3,
-  "breadth_n": 501,
+  "pct_vs_sma200": 6.8,
+  "breadth_pct": 59.2,
+  "breadth_n": 500,
   "signal": "지금 투입"
  }
 }
