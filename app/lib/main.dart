@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_foreground_task/flutter_foreground_task.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 import 'screens/holdings_screen.dart';
 import 'screens/insight_screen.dart';
+import 'screens/live_screen.dart';
 import 'screens/settings_screen.dart';
 import 'screens/stocks_screen.dart';
 import 'services/alarms.dart';
+import 'services/live_service.dart';
 import 'services/notifications.dart';
 import 'services/settings.dart';
 
@@ -15,6 +18,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   settings = await AppSettings.load();
   await Notifier.init();
+  await LiveService.init();
   runApp(const App());
 }
 
@@ -61,21 +65,24 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return WithForegroundTask(
+      child: Scaffold(
       body: IndexedStack(
         index: _tab,
-        children: const [StocksScreen(), HoldingsScreen(), InsightScreen(), SettingsScreen()],
+        children: const [StocksScreen(), LiveScreen(), HoldingsScreen(), InsightScreen(), SettingsScreen()],
       ),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _tab,
         onDestinationSelected: (i) => setState(() => _tab = i),
         destinations: const [
           NavigationDestination(icon: Icon(Icons.list_alt), label: '종목'),
+          NavigationDestination(icon: Icon(Icons.radar), label: '장중'),
           NavigationDestination(icon: Icon(Icons.account_balance_wallet_outlined), label: '보유'),
           NavigationDestination(icon: Icon(Icons.insights), label: '인사이트'),
           NavigationDestination(icon: Icon(Icons.settings_outlined), label: '설정'),
         ],
       ),
+    ),
     );
   }
 }

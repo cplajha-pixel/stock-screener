@@ -22,7 +22,7 @@ class Notifier {
     final details = NotificationDetails(
       android: AndroidNotificationDetails(
         channel,
-        channel == 'ep' ? 'EP 알림' : (channel == 'holdings' ? '보유 신호' : (channel == 'indicator' ? '지표 발표' : '스크리너 알림')),
+        channel == 'ep' ? 'EP 알림' : (channel == 'holdings' ? '보유 신호' : (channel == 'indicator' ? '지표 발표' : (channel == 'live' ? '장중 실시간' : '스크리너 알림'))),
         channelDescription: '스크리너 결과와 보유 종목 신호',
         importance: Importance.high,
         priority: Priority.high,

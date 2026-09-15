@@ -474,6 +474,63 @@ class AnalysisFile {
         };
 }
 
+// ---------------------------------------------------------------------------
+// 장중 실시간 (live 브랜치 us_live.json + ntfy 알림)
+// ---------------------------------------------------------------------------
+class LiveItem {
+  final String ticker, name, exchange, asof;
+  final double? last, open, prevClose, high, gapPct, changePct, rvol, adr20, r3m, epEntry, epStop, momStop;
+  final List<String> setups;
+  final bool epTriggered;
+  LiveItem.fromJson(Map<String, dynamic> j)
+      : ticker = _s(j['ticker']),
+        name = _s(j['name']),
+        exchange = _s(j['exchange']),
+        asof = _s(j['asof']),
+        last = _d(j['last']),
+        open = _d(j['open']),
+        prevClose = _d(j['prev_close']),
+        high = _d(j['high']),
+        gapPct = _d(j['gap_pct']),
+        changePct = _d(j['change_pct']),
+        rvol = _d(j['rvol']),
+        adr20 = _d(j['adr20']),
+        r3m = _d(j['r3m']),
+        epEntry = _d(j['ep_entry']),
+        epStop = _d(j['ep_stop']),
+        momStop = _d(j['mom_stop']),
+        setups = ((j['setups'] as List?) ?? const []).map((e) => e.toString()).toList(),
+        epTriggered = j['ep_triggered'] == true;
+}
+
+class LiveAlert {
+  final String id, time, ticker, type, title, body;
+  LiveAlert.fromJson(Map<String, dynamic> j)
+      : id = _s(j['id']),
+        time = _s(j['time']),
+        ticker = _s(j['ticker']),
+        type = _s(j['type']),
+        title = _s(j['title']),
+        body = _s(j['body']);
+}
+
+class LiveFile {
+  final String asof, sessionStart, sessionEnd, statsDate;
+  final int elapsedMin, candidatesScanned, count;
+  final List<LiveItem> items;
+  final List<LiveAlert> alerts;
+  LiveFile.fromJson(Map<String, dynamic> j)
+      : asof = _s(j['asof']),
+        sessionStart = _s(j['session_start']),
+        sessionEnd = _s(j['session_end']),
+        statsDate = _s(j['stats_date']),
+        elapsedMin = _i(j['elapsed_min']) ?? 0,
+        candidatesScanned = _i(j['candidates_scanned']) ?? 0,
+        count = _i(j['count']) ?? 0,
+        items = ((j['items'] as List?) ?? const []).map((e) => LiveItem.fromJson(Map<String, dynamic>.from(e as Map))).toList(),
+        alerts = ((j['alerts'] as List?) ?? const []).map((e) => LiveAlert.fromJson(Map<String, dynamic>.from(e as Map))).toList();
+}
+
 String horizonLabel(String h) {
   switch (h) {
     case 'short':

@@ -63,6 +63,12 @@ class AppSettings {
   bool get notifyIndicators => p.getBool('notifyIndicators') ?? true;
   int get indicatorMinStars => p.getInt('indicatorMinStars') ?? 3;
 
+  // ---- 장중 실시간 알림 (PC 스캐너 → ntfy 릴레이 → 앱)
+  String get ntfyTopic => (p.getString('ntfyTopic') ?? '').trim();
+  bool get liveEnabled => p.getBool('liveEnabled') ?? true;
+  String get lastNtfyId => p.getString('lastNtfyId') ?? '';
+  int get lastNtfyTime => p.getInt('lastNtfyTime') ?? 0;
+
   // ---- 증권사 앱
   String get brokerPackage => p.getString('brokerPackage') ?? '';
   Future<void> setBrokerPackage(String v) => p.setString('brokerPackage', v.trim());

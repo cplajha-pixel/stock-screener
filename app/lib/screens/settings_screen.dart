@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../main.dart';
 import '../services/alarms.dart';
+import '../services/live_service.dart';
 import '../services/notifications.dart';
 import '../services/settings.dart';
 import '../util.dart';
@@ -148,6 +149,66 @@ class _SettingsScreenState extends State<SettingsScreen> with AutomaticKeepAlive
                 if (!context.mounted) return;
                 ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('실패: $e')));
               }
+            },
+          ),
+          _section('장중 실시간 알림 (PC 스캐너 → 앱)'),
+          ListTile(
+            title: const Text('알림 토픽'),
+            subtitle: Text(s.ntfyTopic.isEmpty ? '미설정 — PC의 toss.env 에 있는 NTFY_TOPIC 값' : s.ntfyTopic, style: const TextStyle(fontSize: 12)),
+            trailing: const Icon(Icons.edit, size: 18),
+            onTap: () async {
+              final v = await _askText(context, '알림 토픽 (예: stk-abc123...)', s.ntfyTopic);
+              if (v == null) return;
+              await s.setString('ntfyTopic', v.trim());
+              await Alarms.scheduleAll(s);
+              setState(() {});
+            },
+          ),
+          SwitchListTile(
+            title: const Text('미국 정규장에 자동 감시 (1분마다 확인, "감시 중" 알림 표시)'),
+            value: s.liveEnabled,
+            onChanged: (v) async {
+              await s.setBool('liveEnabled', v);
+              await Alarms.scheduleAll(s);
+              if (!v) await LiveService.stop();
+              setState(() {});
+            },
+          ),
+          Row(children: [
+            Expanded(
+              child: OutlinedButton.icon(
+                icon: const Icon(Icons.play_arrow),
+                label: const Text('감시 지금 시작'),
+                onPressed: () async {
+                  final ses = UsSession.next();
+                  await saveSessionEnd(ses[1]);
+                  final m = await LiveService.start();
+                  if (!context.mounted) return;
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(m)));
+                },
+              ),
+            ),
+            const SizedBox(width: 8),
+            Expanded(
+              child: OutlinedButton.icon(
+                icon: const Icon(Icons.stop),
+                label: const Text('감시 중지'),
+                onPressed: () async {
+                  final m = await LiveService.stop();
+                  if (!context.mounted) return;
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text(m)));
+                },
+              ),
+            ),
+          ]),
+          OutlinedButton.icon(
+            icon: const Icon(Icons.notifications_active_outlined),
+            label: const Text('최근 2시간 알림 지금 확인 (테스트)'),
+            onPressed: () async {
+              await s.setInt('lastNtfyTime', 0);
+              final n = await LiveService.pollOnce(s.p);
+              if (!context.mounted) return;
+              ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('새 알림 $n건')));
             },
           ),
           _section('차트'),

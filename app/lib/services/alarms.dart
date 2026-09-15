@@ -9,6 +9,7 @@ import '../models.dart';
 import 'api.dart';
 import 'holdings.dart';
 import 'indicator_alerts.dart';
+import 'live_service.dart';
 import 'notifications.dart';
 import 'settings.dart';
 
@@ -20,6 +21,7 @@ class Alarms {
   static const int morningId = 1001;
   static const int epId = 1002;
   static const int krId = 1003;
+  static const int liveId = 1004;
 
   static bool _tzReady = false;
 
@@ -51,6 +53,38 @@ class Alarms {
     try {
       await IndicatorAlerts.schedule(s);
     } catch (_) {}
+    await AndroidAlarmManager.cancel(liveId);
+    if (s.liveEnabled && s.ntfyTopic.isNotEmpty) {
+      final ses = UsSession.next();
+      final t = ses[0].isAfter(DateTime.now()) ? ses[0] : DateTime.now().add(const Duration(seconds: 30));
+      await AndroidAlarmManager.oneShotAt(t, liveId, liveCallback,
+          exact: true, wakeup: true, rescheduleOnReboot: true, allowWhileIdle: true);
+    }
+  }
+
+  /// 정규장 시작: 장중 감시(포그라운드 서비스) 켜고 다음 날 알람 재등록
+  @pragma('vm:entry-point')
+  static Future<void> liveCallback() async {
+    WidgetsFlutterBinding.ensureInitialized();
+    DartPluginRegistrant.ensureInitialized();
+    final s = await AppSettings.load();
+    try {
+      await LiveService.init();
+      final ses = UsSession.next();
+      await saveSessionEnd(ses[1]);
+      await LiveService.start();
+    } catch (e) {
+      await Notifier.show(9003, '장중 감시 시작 실패', '$e');
+    }
+    try {
+      await AndroidAlarmManager.initialize();
+      final next = UsSession.next();
+      var t = next[0];
+      if (!t.isAfter(DateTime.now().add(const Duration(hours: 1)))) t = t.add(const Duration(days: 1));
+      await AndroidAlarmManager.oneShotAt(t, liveId, liveCallback,
+          exact: true, wakeup: true, rescheduleOnReboot: true, allowWhileIdle: true);
+    } catch (_) {}
+    if (!s.liveEnabled) await LiveService.stop();
   }
 
   static DateTime _nextLocal(int hour, int minute) {

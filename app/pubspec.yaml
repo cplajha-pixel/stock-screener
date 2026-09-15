@@ -19,6 +19,7 @@ dependencies:
   android_intent_plus: ^6.1.0
   intl: ^0.20.0
   timezone: ^0.11.1
+  flutter_foreground_task: ^9.1.0
 
 dev_dependencies:
   flutter_test:
