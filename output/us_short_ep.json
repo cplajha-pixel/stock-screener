@@ -1,41 +1,12 @@
 {
- "date": "2026-09-14",
- "generated_at": "2026-09-14T14:24:45Z",
- "asof_et": "2026-09-14 10:24",
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T14:23:10Z",
+ "asof_et": "2026-09-15 10:23",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 1,
- "items": [
-  {
-   "date": "2026-09-14",
-   "ticker": "FTFT",
-   "name": "Future FinTech Group Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "setup": "ep",
-   "trigger_price": 3.366,
-   "stop_price": 3.0294,
-   "stop_pct": 10.0,
-   "open": 3.3,
-   "high_so_far": 5.25,
-   "last": 4.6998,
-   "prev_close": 2.88,
-   "gap_pct": 14.6,
-   "vol_est": 251980390,
-   "vol20": 8328938,
-   "vol_mult": 30.3,
-   "minutes_elapsed": 55,
-   "triggered": true,
-   "adr20": 26.0,
-   "r1m": -11.1,
-   "r3m": -80.4,
-   "r6m": -86.6,
-   "dv20": 19539397,
-   "qty": 103,
-   "score": -80.4,
-   "asof_et": "2026-09-14 10:24"
-  }
- ]
+ "count": 0,
+ "items": []
 }
