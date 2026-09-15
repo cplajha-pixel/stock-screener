@@ -95,7 +95,15 @@ def run_us(args) -> int:
     lu = long_universe()
     tickers = sorted(set(tickers) | set(lu["ticker"]))
 
-    prices = get_daily(tickers, name="us", offline=args.offline)
+    offline = args.offline
+    if do_ep and not (do_short or do_mid or do_long or do_insight) and not offline:
+        # EP 단독: 마감 후 실행이 남긴 캐시가 4일 안이면 그대로 사용 (다운로드 8분 절약)
+        from src.data import _load_cache
+        c = _load_cache("us")
+        if c is not None and not c.empty and (pd.Timestamp(now_et().date()) - c["date"].max()).days <= 4:
+            offline = True
+            log.info("EP 단독 실행: 캐시(%s)가 최근이라 다운로드 생략", c["date"].max().date())
+    prices = get_daily(tickers, name="us", offline=offline)
     got = prices["ticker"].nunique()
     log.info("가격 데이터 %d/%d 종목", got, len(tickers))
     if got < len(tickers) * 0.5:
@@ -108,6 +116,12 @@ def run_us(args) -> int:
     dates = ind["close"].index
     last_date = dates[-1]
     log.info("최근 거래일: %s", last_date.date())
+
+    # 장중 스캐너(live_scanner.py)용 유니버스 통계: 유동성 통과 종목의 전일 종가·DV20·ADR·Vol20·수익률
+    try:
+        write_universe_stats(ind, names, exchanges, cfg["us_short"], str(last_date.date()))
+    except Exception:  # noqa: BLE001
+        log.error("[유니버스 통계] 실패: %s", traceback.format_exc())
 
     if auto:
         do_long = is_first_trading_day_of_month(dates) or file_age_days("us_long.json") > 27
@@ -234,6 +248,25 @@ def run_us(args) -> int:
                 "insight": bool(do_insight), "context": bool(do_context), "daily": bool(do_daily)},
     })
     return rc
+
+
+def write_universe_stats(ind: dict, names: dict, exchanges: dict, cfg: dict, date: str) -> None:
+    """유동성 통과 종목 통계 → output/us_universe_stats.json (장중 스캐너가 매일 내려받음)."""
+    u = cfg["universe"]
+    pos = len(ind["close"].index) - 1
+    c, dv, adr = ind["close"].iloc[pos], ind["dv20"].iloc[pos], ind["adr20"].iloc[pos]
+    ok = ((c >= u["min_close"]) & (dv >= u["min_dv20"] * 0.5)).fillna(False)  # 스캐너가 다시 거르므로 넉넉히
+    items = {}
+    for tk in ok.index[ok.to_numpy()]:
+        def f(k, d=1):
+            v = ind[k].iloc[pos][tk]
+            return None if pd.isna(v) else round(float(v), d)
+        items[tk] = {"name": names.get(tk, ""), "exchange": exchanges.get(tk, ""), "prev_close": f("close", 4),
+                     "dv20": f("dv20", 0), "adr20": f("adr20", 2), "vol20": f("vol20", 0),
+                     "r1m": f("r1m"), "r3m": f("r3m"), "r6m": f("r6m"), "sma10": f("sma10", 4), "sma20": f("sma20", 4)}
+    write_json("us_universe_stats.json", {"date": date, "generated_at": pd.Timestamp.now("UTC").strftime("%Y-%m-%dT%H:%M:%SZ"),
+                                          "count": len(items), "items": items})
+    log.info("[유니버스 통계] %d 종목", len(items))
 
 
 def breadth_history(ind: dict, tickers: list[str], n: int = 30) -> list[dict]:

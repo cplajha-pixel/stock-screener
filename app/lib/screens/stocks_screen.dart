@@ -204,7 +204,7 @@ class _StocksScreenState extends State<StocksScreen> with AutomaticKeepAliveClie
       out.add(_header('돌파 대기 (내일 트리거가 돌파 시 진입)', f.date, f.generatedAt, stale: f.raw['_stale'] == true));
       out.add(Padding(
         padding: const EdgeInsets.only(left: 4, bottom: 4),
-        child: Text('자금 ${fmtMoney(cap, market)} · 리스크 ${f.riskPct}% · 최대 ${settings.maxPositionsShort}종목 · 수량은 진입가=트리거가 가정 · ★ = 오늘의 1픽',
+        child: Text('자금 ${fmtMoney(cap, market)} · 리스크 ${f.riskPct}% · 최대 ${settings.maxPositionsShort}종목 · 수량은 진입가=트리거가 가정 · ★ = 1픽 규칙 1위 (백테스트에서 우위 없음 — 참고만)',
             style: const TextStyle(fontSize: 11, color: Colors.grey)),
       ));
       if (f.items.isEmpty) out.add(_empty(f.raw['error']?.toString() ?? '오늘은 돌파 대기 종목이 없습니다'));

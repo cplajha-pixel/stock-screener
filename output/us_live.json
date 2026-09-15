@@ -1,0 +1,478 @@
+{
+ "asof": "2026-09-15 10:33",
+ "asof_kst": "2026-09-15T10:33:00.489664+09:00",
+ "session_start": "2026-09-15T10:03:00.489514+09:00",
+ "session_end": "2026-09-16T05:00:00+09:00",
+ "elapsed_min": 30,
+ "candidates_scanned": 34,
+ "count": 16,
+ "items": [
+  {
+   "ticker": "MYSZ",
+   "name": "My Size, Inc. - Common Stock",
+   "exchange": "NASDAQ",
+   "last": 2.57,
+   "open": 2.62,
+   "prev_close": 2.03,
+   "high": 2.65,
+   "gap_pct": 29.1,
+   "change_pct": 26.6,
+   "rvol": 0.6,
+   "cum_volume": 25559,
+   "adr20": 13.41,
+   "r3m": -48.2,
+   "dv20": 1761213.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 2.313
+  },
+  {
+   "ticker": "TLX",
+   "name": "Telix Pharmaceuticals Limited - American Depositary Shares",
+   "exchange": "NASDAQ",
+   "last": 12.98,
+   "open": 12.9,
+   "prev_close": 12.34,
+   "high": 13.08,
+   "gap_pct": 4.5,
+   "change_pct": 5.2,
+   "rvol": 0.0,
+   "cum_volume": 51,
+   "adr20": 2.05,
+   "r3m": 31.1,
+   "dv20": 2058707.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 12.5906
+  },
+  {
+   "ticker": "FTFT",
+   "name": "Future FinTech Group Inc. - Common Stock",
+   "exchange": "NASDAQ",
+   "last": 5.4,
+   "open": 5.37,
+   "prev_close": 2.07,
+   "high": 5.46,
+   "gap_pct": 159.4,
+   "change_pct": 160.9,
+   "rvol": 0.0,
+   "cum_volume": 11792,
+   "adr20": 23.65,
+   "r3m": -85.9,
+   "dv20": 9282389.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 4.86
+  },
+  {
+   "ticker": "MSTR",
+   "name": "Strategy Inc - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 134.17,
+   "open": 133.22,
+   "prev_close": 132.69,
+   "high": 134.25,
+   "gap_pct": 0.4,
+   "change_pct": 1.1,
+   "rvol": 0.0,
+   "cum_volume": 29480,
+   "adr20": 6.48,
+   "r3m": 13.4,
+   "dv20": 3431735799.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 125.4758
+  },
+  {
+   "ticker": "CRCL",
+   "name": "Circle Internet Group, Inc. Class A Common Stock",
+   "exchange": "NYSE",
+   "last": 94.62,
+   "open": 94.28,
+   "prev_close": 92.95,
+   "high": 94.86,
+   "gap_pct": 1.4,
+   "change_pct": 1.8,
+   "rvol": 0.0,
+   "cum_volume": 14809,
+   "adr20": 7.27,
+   "r3m": 14.6,
+   "dv20": 1324812334.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 87.7411
+  },
+  {
+   "ticker": "BMNR",
+   "name": "BitMine Immersion Technologies, Inc. Common Stock",
+   "exchange": "NYSE",
+   "last": 25.33,
+   "open": 25.21,
+   "prev_close": 24.215,
+   "high": 25.38,
+   "gap_pct": 4.1,
+   "change_pct": 4.6,
+   "rvol": 0.0,
+   "cum_volume": 14589,
+   "adr20": 6.36,
+   "r3m": 49.5,
+   "dv20": 1008380781.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 23.719
+  },
+  {
+   "ticker": "COIN",
+   "name": "Coinbase Global, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 187.65,
+   "open": 187.02,
+   "prev_close": 174.71,
+   "high": 187.95,
+   "gap_pct": 7.0,
+   "change_pct": 7.4,
+   "rvol": 0.0,
+   "cum_volume": 7015,
+   "adr20": 5.61,
+   "r3m": 12.4,
+   "dv20": 1728806631.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 177.1228
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 347.85,
+   "open": 347.11,
+   "prev_close": 330.64,
+   "high": 348.08,
+   "gap_pct": 5.0,
+   "change_pct": 5.2,
+   "rvol": 0.0,
+   "cum_volume": 12616,
+   "adr20": 1.7,
+   "r3m": -9.2,
+   "dv20": 7604117893.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 337.4145
+  },
+  {
+   "ticker": "GOOG",
+   "name": "Alphabet Inc. - Class C Capital Stock",
+   "exchange": "NASDAQ",
+   "last": 344.19,
+   "open": 343.58,
+   "prev_close": 328.38,
+   "high": 344.39,
+   "gap_pct": 4.6,
+   "change_pct": 4.8,
+   "rvol": 0.0,
+   "cum_volume": 4255,
+   "adr20": 1.66,
+   "r3m": -9.3,
+   "dv20": 5100937588.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 333.8643
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike Holdings, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 235.35,
+   "open": 235.1,
+   "prev_close": 207.79,
+   "high": 235.4,
+   "gap_pct": 13.1,
+   "change_pct": 13.3,
+   "rvol": 0.0,
+   "cum_volume": 485,
+   "adr20": 5.35,
+   "r3m": 28.9,
+   "dv20": 2164839701.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 222.7588
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms, Inc. - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 663.7,
+   "open": 663.74,
+   "prev_close": 653.415,
+   "high": 664.37,
+   "gap_pct": 1.6,
+   "change_pct": 1.6,
+   "rvol": 0.0,
+   "cum_volume": 1247,
+   "adr20": 3.11,
+   "r3m": 11.9,
+   "dv20": 9995554585.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 643.0589
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft Corporation - Common Stock",
+   "exchange": "NASDAQ",
+   "last": 504.22,
+   "open": 504.35,
+   "prev_close": 491.77,
+   "high": 504.49,
+   "gap_pct": 2.6,
+   "change_pct": 2.5,
+   "rvol": 0.0,
+   "cum_volume": 531,
+   "adr20": 1.86,
+   "r3m": 22.1,
+   "dv20": 10735466010.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 489.0934
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir Technologies Inc. - Class A Common Stock",
+   "exchange": "NASDAQ",
+   "last": 173.05,
+   "open": 173.0,
+   "prev_close": 169.51,
+   "high": 173.09,
+   "gap_pct": 2.1,
+   "change_pct": 2.1,
+   "rvol": 0.0,
+   "cum_volume": 881,
+   "adr20": 4.13,
+   "r3m": 28.3,
+   "dv20": 5333208777.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 165.903
+  },
+  {
+   "ticker": "AAPL",
+   "name": "Apple Inc. - Common Stock",
+   "exchange": "NASDAQ",
+   "last": 331.96,
+   "open": 331.99,
+   "prev_close": 315.41,
+   "high": 332.18,
+   "gap_pct": 5.3,
+   "change_pct": 5.2,
+   "rvol": 0.0,
+   "cum_volume": 731,
+   "adr20": 2.16,
+   "r3m": 8.6,
+   "dv20": 12633768935.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 322.0012
+  },
+  {
+   "ticker": "MRNA",
+   "name": "Moderna, Inc. - Common Stock",
+   "exchange": "NASDAQ",
+   "last": 146.31,
+   "open": 146.23,
+   "prev_close": 135.6,
+   "high": 146.38,
+   "gap_pct": 7.8,
+   "change_pct": 7.9,
+   "rvol": 0.0,
+   "cum_volume": 776,
+   "adr20": 10.96,
+   "r3m": 184.1,
+   "dv20": 5041623507.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 131.679
+  },
+  {
+   "ticker": "TEVA",
+   "name": "Teva Pharmaceutical Industries Limited Ordinary Shares",
+   "exchange": "NYSE",
+   "last": 39.91,
+   "open": 39.91,
+   "prev_close": 36.85,
+   "high": 39.91,
+   "gap_pct": 8.3,
+   "change_pct": 8.3,
+   "rvol": 0.0,
+   "cum_volume": 1,
+   "adr20": 2.72,
+   "r3m": 7.0,
+   "dv20": 183918689.0,
+   "asof": "10:33",
+   "setups": [
+    "momentum"
+   ],
+   "mom_stop": 38.7127
+  }
+ ],
+ "alerts": [
+  {
+   "id": "TEVA:momentum",
+   "time": "10:33",
+   "ticker": "TEVA",
+   "type": "단타",
+   "title": "단타 TEVA +8.3% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 39.91 고가 39.91 · 손절 참고 38.7127"
+  },
+  {
+   "id": "MRNA:momentum",
+   "time": "10:33",
+   "ticker": "MRNA",
+   "type": "단타",
+   "title": "단타 MRNA +7.9% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 146.31 고가 146.38 · 손절 참고 131.679"
+  },
+  {
+   "id": "AAPL:momentum",
+   "time": "10:33",
+   "ticker": "AAPL",
+   "type": "단타",
+   "title": "단타 AAPL +5.2% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 331.96 고가 332.18 · 손절 참고 322.0012"
+  },
+  {
+   "id": "PLTR:momentum",
+   "time": "10:33",
+   "ticker": "PLTR",
+   "type": "단타",
+   "title": "단타 PLTR +2.1% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 173.05 고가 173.09 · 손절 참고 165.903"
+  },
+  {
+   "id": "MSFT:momentum",
+   "time": "10:33",
+   "ticker": "MSFT",
+   "type": "단타",
+   "title": "단타 MSFT +2.5% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 504.22 고가 504.49 · 손절 참고 489.0934"
+  },
+  {
+   "id": "META:momentum",
+   "time": "10:33",
+   "ticker": "META",
+   "type": "단타",
+   "title": "단타 META +1.6% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 663.7 고가 664.37 · 손절 참고 643.0589"
+  },
+  {
+   "id": "CRWD:momentum",
+   "time": "10:33",
+   "ticker": "CRWD",
+   "type": "단타",
+   "title": "단타 CRWD +13.3% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 235.35 고가 235.4 · 손절 참고 222.7588"
+  },
+  {
+   "id": "GOOG:momentum",
+   "time": "10:33",
+   "ticker": "GOOG",
+   "type": "단타",
+   "title": "단타 GOOG +4.8% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 344.19 고가 344.39 · 손절 참고 333.8643"
+  },
+  {
+   "id": "GOOGL:momentum",
+   "time": "10:33",
+   "ticker": "GOOGL",
+   "type": "단타",
+   "title": "단타 GOOGL +5.2% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 347.85 고가 348.08 · 손절 참고 337.4145"
+  },
+  {
+   "id": "COIN:momentum",
+   "time": "10:33",
+   "ticker": "COIN",
+   "type": "단타",
+   "title": "단타 COIN +7.4% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 187.65 고가 187.95 · 손절 참고 177.1228"
+  },
+  {
+   "id": "BMNR:momentum",
+   "time": "10:33",
+   "ticker": "BMNR",
+   "type": "단타",
+   "title": "단타 BMNR +4.6% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 25.33 고가 25.38 · 손절 참고 23.719"
+  },
+  {
+   "id": "CRCL:momentum",
+   "time": "10:33",
+   "ticker": "CRCL",
+   "type": "단타",
+   "title": "단타 CRCL +1.8% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 94.62 고가 94.86 · 손절 참고 87.7411"
+  },
+  {
+   "id": "MSTR:momentum",
+   "time": "10:33",
+   "ticker": "MSTR",
+   "type": "단타",
+   "title": "단타 MSTR +1.1% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 134.17 고가 134.25 · 손절 참고 125.4758"
+  },
+  {
+   "id": "FTFT:momentum",
+   "time": "10:33",
+   "ticker": "FTFT",
+   "type": "단타",
+   "title": "단타 FTFT +160.9% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 5.4 고가 5.46 · 손절 참고 4.86"
+  },
+  {
+   "id": "TLX:momentum",
+   "time": "10:33",
+   "ticker": "TLX",
+   "type": "단타",
+   "title": "단타 TLX +5.2% · 거래량 0.0배 · 고가 근처",
+   "body": "현재 12.98 고가 13.08 · 손절 참고 12.5906"
+  },
+  {
+   "id": "MYSZ:momentum",
+   "time": "10:33",
+   "ticker": "MYSZ",
+   "type": "단타",
+   "title": "단타 MYSZ +26.6% · 거래량 0.6배 · 고가 근처",
+   "body": "현재 2.57 고가 2.65 · 손절 참고 2.313"
+  }
+ ],
+ "stats_date": "2026-09-09"
+}

@@ -60,16 +60,21 @@ class Alarms {
     return t;
   }
 
-  /// 다음 평일 10:00 (America/New_York) 을 로컬 시각으로
+  /// EP 확인 시각: 미국 동부 10:35 과 11:05 (GitHub 가 결과를 올리는 10:25 ET 이후). 다음 평일 슬롯을 로컬 시각으로
+  static const List<List<int>> epSlots = [[10, 35], [11, 5]];
+
   static DateTime nextUsOpenPlus30() {
     _ensureTz();
     final ny = tz.getLocation('America/New_York');
-    var d = tz.TZDateTime.now(ny);
-    var t = tz.TZDateTime(ny, d.year, d.month, d.day, 10, 0);
-    while (!t.isAfter(d.add(const Duration(minutes: 1))) || t.weekday >= 6) {
-      t = tz.TZDateTime(ny, t.year, t.month, t.day + 1, 10, 0);
+    final now = tz.TZDateTime.now(ny);
+    for (var addDays = 0; addDays < 8; addDays++) {
+      for (final slot in epSlots) {
+        final t = tz.TZDateTime(ny, now.year, now.month, now.day + addDays, slot[0], slot[1]);
+        if (t.weekday >= 6) break;
+        if (t.isAfter(now.add(const Duration(minutes: 1)))) return t.toLocal();
+      }
     }
-    return t.toLocal();
+    return now.add(const Duration(days: 1)).toLocal();
   }
 
   // ------------------------------------------------------------------
@@ -174,7 +179,7 @@ class Alarms {
     final api = Api(s);
     final ep = await api.epList('us');
     if (ep.items.isEmpty) return 'EP 후보 없음';
-    final key = '${ep.date}|${ep.asofEt}';
+    final key = '${ep.date}|${ep.generatedAt}';
     if (key == s.lastEpDate) return '이미 알림함';
     final trig = ep.items.where((e) => e.triggered).map((e) => '${e.ticker} 진입 ${e.triggerPrice?.toStringAsFixed(2)}').toList();
     final wait = ep.items.where((e) => !e.triggered).map((e) => e.ticker).toList();
