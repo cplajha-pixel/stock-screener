@@ -30,11 +30,13 @@
     "entry_price": 14.045,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 2.39,
-    "r_multiple": 0.43,
-    "remaining_frac": 1.0,
-    "last_close": 14.38,
-    "notes": []
+    "pnl_pct": 1.89,
+    "r_multiple": 0.34,
+    "remaining_frac": 0.5,
+    "last_close": 14.31,
+    "notes": [
+     "3일째 절반 매도 1.9%"
+    ]
    }
   },
   {
@@ -93,10 +95,10 @@
     "entry_price": 69.67,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 0.63,
-    "r_multiple": 0.11,
+    "pnl_pct": 6.77,
+    "r_multiple": 1.16,
     "remaining_frac": 1.0,
-    "last_close": 70.11,
+    "last_close": 74.39,
     "notes": []
    }
   },
@@ -121,20 +123,51 @@
     "OSCR",
     "MSTR"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-15",
+    "entry_price": 70.46,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": 5.58,
+    "r_multiple": 0.92,
+    "remaining_frac": 1.0,
+    "last_close": 74.39,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ticker": "IOVA",
+   "name": "Iovance Biotherapeutics, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 9.41,
+   "stop_price": 8.7679,
+   "stop_pct": 6.82,
+   "reason": "3개월 +132.3% (후보 중 모멘텀 상위) · 급등 +148.9% 뒤 17일 횡보, 폭 22.8% · 거래량 급등기 대비 52% 로 감소 · 종가가 트리거가의 99.5% 위치",
+   "candidates": [
+    "LIFE",
+    "IOVA",
+    "TEAM",
+    "NAKA",
+    "BLSH",
+    "OSCR",
+    "MSTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 4,
-  "triggered": 2,
+  "total": 5,
+  "triggered": 3,
   "not_triggered": 1,
   "closed": 0,
-  "open": 2,
+  "open": 3,
   "win_rate": 100.0,
-  "avg_pnl_pct": 1.51,
-  "avg_r": 0.27,
-  "sum_pnl_pct": 3.02
+  "avg_pnl_pct": 4.75,
+  "avg_r": 0.81,
+  "sum_pnl_pct": 14.24
  },
- "generated_at": "2026-09-14T21:29:27Z"
+ "generated_at": "2026-09-15T21:28:28Z"
 }
