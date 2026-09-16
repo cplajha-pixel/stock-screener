@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T21:28:29Z",
- "count": 21,
+ "generated_at": "2026-09-16T14:23:21Z",
+ "count": 22,
  "items": {
   "ABCL": {
    "ticker": "ABCL",
@@ -197,7 +197,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 272,
+     "views": 273,
      "comments": 0,
      "positive_pct": null
     },
@@ -256,7 +256,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "ANET": {
    "ticker": "ANET",
@@ -466,7 +466,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 1081,
+     "views": 1082,
      "comments": 0,
      "positive_pct": null
     },
@@ -615,7 +615,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -812,7 +812,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 197,
+     "views": 201,
      "comments": 0,
      "positive_pct": null
     },
@@ -888,7 +888,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -1060,6 +1060,23 @@
    },
    "news": [
     {
+     "id": "214399",
+     "title": "[칼럼] 통합 에너지 시장 없이는 유럽에 AI 경쟁에서 희망 없어: 마르틴 블라디미로프",
+     "title_en": "ROI-Europe has no hope in AI race without a unified energy market: Martin Vladimirov",
+     "summary": "통합 에너지 시장 없이는 AI 경쟁에서 희망 없는 유럽: 마르틴 블라디미로프 여기 표현된 의견은 저자인 민주주의연구센터 지경제학 프로그램 책임자...",
+     "source": "reuters",
+     "time": "2026-09-16T07:01:10.682438Z",
+     "url": "https://www.saveticker.com/news/214399",
+     "tickers": [
+      "ASML"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 123,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "212778",
      "title": "ASML, 2028년에 EUV 장비 110대 초과 생산 방법 검토 중…JPMorgan 밝혀",
      "title_en": "ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says",
@@ -1073,7 +1090,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 351,
+     "views": 355,
      "comments": 0,
      "positive_pct": null
     },
@@ -1093,7 +1110,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8257,
+     "views": 8264,
      "comments": 0,
      "positive_pct": null
     },
@@ -1187,31 +1204,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11505,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208093",
-     "title": "삼성, 2028년까지 DRAM 생산에 ASML 최고급 장비 사용 계획",
-     "title_en": "Samsung plans to use ASML top tool for DRAM production by 2028.",
-     "summary": "",
-     "source": "financial-juice",
-     "time": "2026-09-08T06:06:18.887853Z",
-     "url": "https://www.saveticker.com/news/208093",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 2124,
+     "views": 11515,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "BLSH": {
    "ticker": "BLSH",
@@ -1544,7 +1542,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "CYRX": {
    "ticker": "CYRX",
@@ -1749,7 +1747,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "FIVN": {
    "ticker": "FIVN",
@@ -1933,7 +1931,7 @@
     "peg": 0.2333
    },
    "news": [],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "FROG": {
    "ticker": "FROG",
@@ -2136,7 +2134,179 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
+  },
+  "FTFT": {
+   "ticker": "FTFT",
+   "name": "Future FinTech Group Inc.",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 61799276,
+   "description": "Future FinTech Group Inc., through its subsidiaries, engages in supply-chain financing services and trading businesses in the People's Republic of China. It offers cross-border money transfer, and brokerage and investment banking services, as well as trades in coal, aluminum ingots, sand, and steel. The company also operates an online store e-commerce platform, as well as engages in the sales of non-alcoholic beverages and dairy beverages. In addition, it provides integrated business and financial consulting services The company was formerly known as SkyPeople Fruit Juice, Inc. and changed its",
+   "price": 7.6508,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 2.4,
+    "days_to_cover": 0.23,
+    "level": "낮음",
+    "institutions_pct": 0.1,
+    "insiders_pct": 2.3
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 8.25,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 6.706,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -280.5,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -570.4,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": -43.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "위험"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -18.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -157.6,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": -2.78,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z -2.78 (위험)",
+    "cash": 33307908,
+    "debt": 3665123,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 3829805.0,
+      "operating_income": -34007122.0,
+      "net_income": -4620065.0,
+      "eps": -9.24,
+      "operating_cash_flow": -2546323.0,
+      "free_cash_flow": -2550043.0,
+      "total_debt": 1939396.0,
+      "cash": 2396619.0,
+      "equity": 43957690.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2114410.0,
+      "operating_income": -32885599.0,
+      "net_income": -32955872.0,
+      "eps": -252.0,
+      "operating_cash_flow": -11866556.0,
+      "free_cash_flow": -11900612.0,
+      "total_debt": 925047.0,
+      "cash": 4765111.0,
+      "equity": 14462885.0
+     },
+     {
+      "year": "2023",
+      "revenue": 21697205.0,
+      "operating_income": -9430970.0,
+      "net_income": -33653228.0,
+      "eps": -364.8,
+      "operating_cash_flow": -15752343.0,
+      "free_cash_flow": -15817996.0,
+      "total_debt": 2251335.0,
+      "cash": 17412865.0,
+      "equity": 43983251.0
+     },
+     {
+      "year": "2022",
+      "revenue": 23881006.0,
+      "operating_income": -13565660.0,
+      "net_income": -13627545.0,
+      "eps": -152.0,
+      "operating_cash_flow": -2669273.0,
+      "free_cash_flow": -3826728.0,
+      "total_debt": 4645488.0,
+      "cash": 26071338.0,
+      "equity": 66965221.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": 0.019455804,
+    "forward_pe": null,
+    "price_to_book": 0.08042891,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2333,7 +2503,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 30,
+     "views": 32,
      "comments": 0,
      "positive_pct": null
     },
@@ -2350,7 +2520,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 209,
+     "views": 210,
      "comments": 0,
      "positive_pct": null
     },
@@ -2460,7 +2630,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 545,
+     "views": 546,
      "comments": 0,
      "positive_pct": null
     },
@@ -2519,7 +2689,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "IOVA": {
    "ticker": "IOVA",
@@ -2716,7 +2886,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 255,
+     "views": 264,
      "comments": 0,
      "positive_pct": null
     },
@@ -2824,7 +2994,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 11,
+     "views": 12,
      "comments": 0,
      "positive_pct": null
     },
@@ -2848,7 +3018,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "LIFE": {
    "ticker": "LIFE",
@@ -3030,7 +3200,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 14,
+     "views": 16,
      "comments": 0,
      "positive_pct": null
     },
@@ -3163,7 +3333,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "MSTR": {
    "ticker": "MSTR",
@@ -3363,7 +3533,7 @@
       "암호화폐"
      ],
      "is_top": false,
-     "views": 13508,
+     "views": 13525,
      "comments": 0,
      "positive_pct": null
     },
@@ -3422,7 +3592,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 839,
+     "views": 840,
      "comments": 0,
      "positive_pct": null
     },
@@ -3501,7 +3671,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -3686,6 +3856,144 @@
    },
    "news": [
     {
+     "id": "214396",
+     "title": "메모리 부족 2027년까지 지속…중소 스마트폰·노트북 업체 비상",
+     "title_en": "",
+     "summary": "로이터 통신에 따르면,\n2027년까지 이어질 것으로 보이는 메모리 공급난 속에서, 중소 스마트폰·노트북 제조업체들이 대응책 마련에 나서고 있음\n...",
+     "source": "로이터",
+     "time": "2026-09-16T06:59:38.851170Z",
+     "url": "https://www.saveticker.com/news/214396",
+     "tickers": [
+      "SKHY",
+      "QCOM",
+      "SNDK",
+      "MU"
+     ],
+     "tags": [
+      "정보",
+      "분석"
+     ],
+     "is_top": false,
+     "views": 8936,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "214379",
+     "title": "(카더라) SK하이닉스, 인텔과 미국 내 메모리 반도체 생산 협상…오하이오 공장 활용 검토",
+     "title_en": "",
+     "summary": "로이터 통신은 소식통을 인용해,\nSK하이닉스가 처음으로 미국에서 메모리 반도체를 생산하기 위해 인텔의 오하이오 공장 일부를 빌리거나, 인텔·주요...",
+     "source": "로이터",
+     "time": "2026-09-16T06:25:09.050390Z",
+     "url": "https://www.saveticker.com/news/214379",
+     "tickers": [
+      "INTC",
+      "SKHY",
+      "MU"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 18706,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "214193",
+     "title": "오픈AI CFO “AI 안전과 성장 동시에 가능…더 많은 컴퓨팅 필요”",
+     "title_en": "",
+     "summary": "오픈AI의 사라 프라이어 CFO는 CNBC 인터뷰에서 AI로 인한 재앙적 시나리오가 두렵냐는 질문에 “그렇지 않다”라면서도, AI 안전은 매우 ...",
+     "source": "CNBC",
+     "time": "2026-09-15T23:06:06.195629Z",
+     "url": "https://www.saveticker.com/news/214193",
+     "tickers": [
+      "AMD",
+      "NVDA",
+      "MU",
+      "ORCL",
+      "AVGO",
+      "SKHY",
+      "CBRS"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 21132,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "214170",
+     "title": "젠슨 황 CEO \"AI 규제 필요 없다… AI 팩토리 ROI 1년, 수요 안 꺾인다\"",
+     "title_en": "",
+     "summary": "젠슨 황 엔비디아 CEO는 CNBC 인터뷰에서\nAI 안전은 매우 중요하지만 본질적으로 충분한 테스트와 엔지니어링을 통해 해결해야 할 과제이며, ...",
+     "source": "CNBC",
+     "time": "2026-09-15T22:29:24.274259Z",
+     "url": "https://www.saveticker.com/news/214170",
+     "tickers": [
+      "NVDA",
+      "MU",
+      "CRWV",
+      "NBIS",
+      "SKHY"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 15593,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "214162",
+     "title": "(카더라) AI 규제 갈등 속 트럼프 행정부, 앤트로픽과 안전 문제 논의",
+     "title_en": "",
+     "summary": "블룸버그는 소식통을 인용해,\n미 상무장관과 펜타곤 CTO 등 트럼프 행정부 고위 관계자들이 앤트로픽의 워싱턴 핵심 인사인 톰 브라운과 화상으로 ...",
+     "source": "블룸버그",
+     "time": "2026-09-15T22:09:32.887636Z",
+     "url": "https://www.saveticker.com/news/214162",
+     "tickers": [
+      "NVDA",
+      "AVGO",
+      "SKHY",
+      "SNDK",
+      "MU"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 7034,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "214156",
+     "title": "(카더라) 오픈AI, 1조2,000억달러 밸류로 추가 자금조달 논의",
+     "title_en": "",
+     "summary": "파이낸셜타임스는 소식통을 인용해,\n오픈AI가 기업공개(IPO)에 앞서 기업가치 1조2,000억달러를 기준으로 새로운 비공개 투자 라운드를 놓고 ...",
+     "source": "파이낸셜타임스",
+     "time": "2026-09-15T22:04:55.330809Z",
+     "url": "https://www.saveticker.com/news/214156",
+     "tickers": [
+      "NVDA",
+      "ORCL",
+      "SKHY",
+      "MU",
+      "SNDK"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 8175,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "214072",
      "title": "마이크론, 디어드리 핸퍼드를 마이크론 리서치 랩스 이끌도록 임명",
      "title_en": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
@@ -3698,7 +4006,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 43,
+     "views": 65,
      "comments": 0,
      "positive_pct": null
     },
@@ -3717,137 +4025,12 @@
       "속보"
      ],
      "is_top": false,
-     "views": 12172,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213704",
-     "title": "마이크론, 2027년 하반기 512GB RDIMM 대량 생산 전망",
-     "title_en": "Micron sees 512GB RDIMMs in volume production in 2H 2027.",
-     "summary": "",
-     "source": "financial-juice",
-     "time": "2026-09-15T13:03:20.554865Z",
-     "url": "https://www.saveticker.com/news/213704",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 555,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213706",
-     "title": "마이크론, 차세대 서버용 세계 최초 초고밀도 모듈로 메모리 혁신 진전",
-     "title_en": "Micron Advances Memory Innovation With the World's First Ultra-Dense Module for Next-Generation Servers",
-     "summary": "마이크론의 첨단 DRAM 패키징은 512GB DDR5 RDIMM이 최대 9,200 MT/s의 속도를 내면서 운영 전력을 60% 이상 줄여 데이터...",
-     "source": "globenewswire",
-     "time": "2026-09-15T13:01:00Z",
-     "url": "https://www.saveticker.com/news/213706",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 171,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213342",
-     "title": "마이크론 대만 노조, 이익공유제 요구 압박... 파업 준비 태세 유지",
-     "title_en": "",
-     "summary": "마이크론의 대만 노조가 일회성 보너스가 아닌 '영업이익의 15%를 전 세계 직원들에게 배분'하는 상시적인 이익공유제 도입을 요구하며, 9월 18...",
-     "source": "로이터",
-     "time": "2026-09-15T06:58:44.965169Z",
-     "url": "https://www.saveticker.com/news/213342",
-     "tickers": [
-      "MU",
-      "SKHY",
-      "SNDK"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 6207,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213340",
-     "title": "브로드컴 CEO, 앤트로픽발 AI 우려 일축…2027·2028년 매출 전망 유지",
-     "title_en": "",
-     "summary": "브로드컴 혹 탄 CEO는 월요일 CNBC '매드 머니'에 출연해, \n최근 앤트로픽 등이 촉발한 '최첨단 AI 모델 개발 속도 조절론'이 자사 사...",
-     "source": "CNBC",
-     "time": "2026-09-15T06:51:10.417127Z",
-     "url": "https://www.saveticker.com/news/213340",
-     "tickers": [
-      "AVGO",
-      "NVDA",
-      "MRVL",
-      "MU",
-      "SKHY",
-      "SNDK"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 26410,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213312",
-     "title": "마이크론 대만 노조, 이익 공유 요구 압박하며 파업 준비 지속",
-     "title_en": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive",
-     "summary": "대만 노조, 이익 공유 요구를 둘러싼 파업 준비 계속 유지\n\n\n메모리칩 공급 부족 속 분쟁, 마이크론 최대 제조 거점 위협\n\n\n근로자들, 영업이...",
-     "source": "reuters",
-     "time": "2026-09-15T06:16:26.245923Z",
-     "url": "https://www.saveticker.com/news/213312",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 347,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "212374",
-     "title": "[정정] [5보] 업계 수장들이 개발 속도 둔화를 촉구하면서 글로벌 AI 주식 하락",
-     "title_en": "CORRECTED-UPDATE 4-Global AI stocks fall as industry chiefs call for slowing development",
-     "summary": "제이컵 콕슨의 발언을 “우리 목숨을 걸고 도박하는 것”이 아닌 “AI를 진지하게 개발하는 사람들이 AI가 우리 모두를 죽일 수 있다고 믿는다”로...",
-     "source": "reuters",
-     "time": "2026-09-14T07:18:19.565052Z",
-     "url": "https://www.saveticker.com/news/212374",
-     "tickers": [
-      "NVDA",
-      "AMD",
-      "SPCX",
-      "META",
-      "AMZN",
-      "MU",
-      "LRCX",
-      "AMAT",
-      "BE",
-      "GEV",
-      "MS"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 428,
+     "views": 12939,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "NAKA": {
    "ticker": "NAKA",
@@ -4047,7 +4230,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -4247,7 +4430,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 3014,
+     "views": 3016,
      "comments": 0,
      "positive_pct": null
     },
@@ -4385,12 +4568,12 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 1076,
+     "views": 1077,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "SB": {
    "ticker": "SB",
@@ -4574,7 +4757,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "SBLK": {
    "ticker": "SBLK",
@@ -4793,7 +4976,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "TEAM": {
    "ticker": "TEAM",
@@ -4997,7 +5180,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 369,
+     "views": 370,
      "comments": 0,
      "positive_pct": null
     },
@@ -5075,7 +5258,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 1462,
+     "views": 1466,
      "comments": 0,
      "positive_pct": null
     },
@@ -5137,7 +5320,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -5336,7 +5519,7 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 3471,
+     "views": 3472,
      "comments": 0,
      "positive_pct": null
     },
@@ -5372,7 +5555,7 @@
       "실적"
      ],
      "is_top": false,
-     "views": 7434,
+     "views": 7436,
      "comments": 0,
      "positive_pct": null
     },
@@ -5423,7 +5606,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38047,
+     "views": 38050,
      "comments": 0,
      "positive_pct": null
     },
@@ -5494,7 +5677,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "TWST": {
    "ticker": "TWST",
@@ -5679,6 +5862,41 @@
    },
    "news": [
     {
+     "id": "214755",
+     "title": "[정리] 제약 부문, 비용과 기간 대폭 줄이기 위해 AI에 더욱 집중",
+     "title_en": "FACTBOX-Pharma sector doubles down on AI to slash costs, timelines",
+     "summary": "업데이트: 앤트로픽-노보, 릴리-트위스트 바이오사이언시스 거래 추가\n\n\n9월 16일 (로이터) - 제약회사들이 연구개발을 가속화하기 위해 인공지...",
+     "source": "reuters",
+     "time": "2026-09-16T13:54:14.935381Z",
+     "url": "https://www.saveticker.com/news/214755",
+     "tickers": [
+      "PFE",
+      "IQV",
+      "NVDA",
+      "INCY",
+      "KD",
+      "MSFT",
+      "GEHC",
+      "KVUE",
+      "LLY",
+      "RNA",
+      "JNJ",
+      "SDGR",
+      "TMO",
+      "ILMN",
+      "MRK",
+      "LH",
+      "SLP",
+      "BMY",
+      "TWST"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 75,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "195712",
      "title": "트위스트 바이오, 앤트로픽 AI 단백질 설계 프로젝트 참여에 22% 급등",
      "title_en": "",
@@ -5694,7 +5912,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 5081,
+     "views": 5092,
      "comments": 0,
      "positive_pct": null
     },
@@ -5739,7 +5957,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   },
   "WHD": {
    "ticker": "WHD",
@@ -5944,7 +6162,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-15T21:28:29.119004+00:00"
+   "updated": "2026-09-16T14:23:21.190092+00:00"
   }
  },
  "market": "us"

@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "generated_at": "2026-09-15T21:28:28Z",
+ "generated_at": "2026-09-16T14:22:44Z",
  "count": 3898,
  "items": {
   "A": {
@@ -45452,8 +45452,8 @@
    "sma20": 57.1801
   },
   "TRT": {
-   "name": "Trio-Tech International Common Stock",
-   "exchange": "NYSE American",
+   "name": "Trio-Tech International - Common Stock",
+   "exchange": "NASDAQ",
    "prev_close": 10.25,
    "dv20": 1565844.0,
    "adr20": 6.11,

@@ -414,6 +414,7 @@ AS,"Amer Sports, Inc. Ordinary Shares",NYSE
 ASA,ASA  Gold and Precious Metals Limited,NYSE
 ASAN,"Asana, Inc. Class A Common Stock",NYSE
 ASB,Associated Banc-Corp Common Stock,NYSE
+ASBH,"American Savings Bank, N.A. Common Stock",NYSE
 ASBP,"Aspire-Lakewood Holdings, Inc. - Common Stock",NASDAQ
 ASC,Ardmore Shipping Corporation Common Stock,NYSE
 ASH,Ashland Inc. Common Stock,NYSE
@@ -1821,7 +1822,6 @@ FE,FirstEnergy Corp. Common Stock,NYSE
 FEAM,"5E Advanced Materials, Inc. - Common Stock",NASDAQ
 FEBO,Fenbo Holdings Limited - Class A Ordinary Shares,NASDAQ
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",NYSE
-FEED,"ENvue Medical, Inc. - Common Stock",NASDAQ
 FEIM,"Frequency Electronics, Inc. - Common Stock",NASDAQ
 FELE,"Franklin Electric Co., Inc. - Common Stock",NASDAQ
 FEMY,Femasys Inc. - Common Stock,NASDAQ
@@ -2748,7 +2748,7 @@ KEY,KeyCorp Common Stock,NYSE
 KEYS,Keysight Technologies Inc. Common Stock,NYSE
 KEYY,Keystone Acquisition Corp. - Class A Ordinary Shares,NASDAQ
 KFFB,Kentucky First Federal Bancorp - Common Stock,NASDAQ
-KFII,K&F Growth Acquisition Corp. II - Class A Ordinary shares,NASDAQ
+KFII,K - Class A Ordinary shares,NASDAQ
 KFRC,"Kforce, Inc. Common Stock",NYSE
 KFY,Korn Ferry Common Stock,NYSE
 KG,"Kestrel Group, Ltd. - Common Stock",NASDAQ
@@ -4584,7 +4584,6 @@ SNYR,Synergy CHC Corp. - Common Stock,NASDAQ
 SO,Southern Company (The) Common Stock,NYSE
 SOAR,"Volato Group, Inc. Class A Common Stock",NYSE American
 SOBO,South Bow Corporation Common Shares,NYSE
-SOBR,"SOBR Safe, Inc. - Common Stock",NASDAQ
 SOC,Sable Offshore Corp. Common Stock,NYSE
 SOCA,Solarius Capital Acquisition Corp. - Class A Ordinary Share,NASDAQ
 SOFI,"SoFi Technologies, Inc.  - Common Stock",NASDAQ
@@ -4968,7 +4967,7 @@ TRP,TC Energy Corporation Common Stock,NYSE
 TRS,TriMas Corporation - Common Stock,NASDAQ
 TRSG,Tungray Technologies Inc - Class A Ordinary Shares,NASDAQ
 TRST,TrustCo Bank Corp NY - Common Stock,NASDAQ
-TRT,Trio-Tech International Common Stock,NYSE American
+TRT,Trio-Tech International - Common Stock,NASDAQ
 TRTX,"TPG RE Finance Trust, Inc. Common Stock",NYSE
 TRU,TransUnion Common Stock,NYSE
 TRUG,"TruGolf Holdings, Inc. - Class A Common Stock",NASDAQ
@@ -5298,6 +5297,7 @@ WBTN,WEBTOON Entertainment Inc. - Common stock,NASDAQ
 WBUY,WEBUY GLOBAL LTD. - Class A Ordinary Shares,NASDAQ
 WBX,Wallbox N.V. Class A Ordinary Shares,NYSE
 WCC,"WESCO International, Inc. Common Stock",NYSE
+WCCB,West Coast Community Bancorp - Common Stock,NASDAQ
 WCN,"Waste Connections, Inc. Common Shares",NYSE
 WCT,Wellchange Holdings Company Limited - Class A Ordinary shares,NASDAQ
 WD,"Walker & Dunlop, Inc Common Stock",NYSE
