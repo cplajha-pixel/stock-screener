@@ -1,7 +1,7 @@
 {
  "date": "2026-09-16",
- "generated_at": "2026-09-16T21:30:25Z",
- "count": 3891,
+ "generated_at": "2026-09-17T14:23:48Z",
+ "count": 3890,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -3122,19 +3122,6 @@
    "r6m": 6.8,
    "sma10": 5.676,
    "sma20": 5.6745
-  },
-  "ANY": {
-   "name": "Sphere 3D Corp. - Common Shares",
-   "exchange": "NASDAQ",
-   "prev_close": 2.89,
-   "dv20": 1530070.0,
-   "adr20": 12.24,
-   "vol20": 610331.0,
-   "r1m": 37.6,
-   "r3m": -17.0,
-   "r6m": 81.8,
-   "sma10": 2.572,
-   "sma20": 2.451
   },
   "AOMR": {
    "name": "Angel Oak Mortgage REIT, Inc. Common Stock",

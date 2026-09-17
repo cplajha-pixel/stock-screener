@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T21:30:26Z",
- "count": 22,
+ "generated_at": "2026-09-17T14:24:26Z",
+ "count": 25,
  "items": {
   "AAMI": {
    "ticker": "AAMI",
@@ -181,7 +181,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "ALNT": {
    "ticker": "ALNT",
@@ -365,7 +365,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -562,7 +562,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 201,
+     "views": 203,
      "comments": 0,
      "positive_pct": null
     },
@@ -633,12 +633,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 2121,
+     "views": 2122,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -822,7 +822,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 126,
+     "views": 131,
      "comments": 0,
      "positive_pct": null
     },
@@ -840,7 +840,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 357,
+     "views": 360,
      "comments": 0,
      "positive_pct": null
     },
@@ -860,7 +860,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8266,
+     "views": 8270,
      "comments": 0,
      "positive_pct": null
     },
@@ -954,12 +954,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11515,
+     "views": 11518,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "DXPE": {
    "ticker": "DXPE",
@@ -1143,7 +1143,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1340,7 +1340,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 32,
+     "views": 34,
      "comments": 0,
      "positive_pct": null
     },
@@ -1357,7 +1357,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 211,
+     "views": 213,
      "comments": 0,
      "positive_pct": null
     },
@@ -1395,7 +1395,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 596,
+     "views": 598,
      "comments": 0,
      "positive_pct": null
     },
@@ -1526,7 +1526,166 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
+  },
+  "GLOO": {
+   "ticker": "GLOO",
+   "name": "Gloo Holdings, Inc.",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 422873408,
+   "description": "Gloo Holdings, Inc. designs and develops a vertical technology platform for the faith and flourishing ecosystem. It offers its products and services to network capability providers (NCPs) and the churches and frontline organizations (CFLs). The company's platform includes Gloo Workspace, a subscription-based platform that includes a suite of AI-powered tools that equip customers to create content and communicate with their congregations and extend their ministry; Gloo 360, a solution for NCPs designed to modernize, operate, and transform core IT infrastructure; Gloo Media Network, a full-servi",
+   "price": 4.62,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 6,
+    "target_mean": 11.16667,
+    "target_low": 7.0,
+    "target_high": 17.0,
+    "upside_pct": 141.7,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 5,
+     "hold": 0,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-09-09",
+   "earnings_est": {
+    "eps_avg": -0.04,
+    "revenue_avg": 55078500
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": 2.01,
+    "level": null,
+    "institutions_pct": 25.4,
+    "insiders_pct": 28.2
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 28.238,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.228,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -26.9,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -44.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 188.0,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -178.8,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -81.3,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": null,
+    "altman": {
+     "z": 0.83,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 알트만 Z 0.83 (위험)",
+    "cash": 39282000,
+    "debt": 45064000,
+    "years": [
+     {
+      "year": "2026",
+      "revenue": 94660000.0,
+      "operating_income": -108171000.0,
+      "net_income": -157128000.0,
+      "eps": -8.03,
+      "operating_cash_flow": -80499000.0,
+      "free_cash_flow": -94510000.0,
+      "total_debt": 44298000.0,
+      "cash": 57307000.0,
+      "equity": 135174000.0
+     },
+     {
+      "year": "2025",
+      "revenue": 23216000.0,
+      "operating_income": -55515000.0,
+      "net_income": -85689000.0,
+      "eps": -1.342446,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "cash": null,
+      "equity": null
+     },
+     {
+      "year": "2024",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "eps": -0.756895,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": null,
+      "cash": null,
+      "equity": null
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": 17.11111,
+    "price_to_book": 3.049505,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "KYMR": {
    "ticker": "KYMR",
@@ -1723,7 +1882,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 170,
+     "views": 171,
      "comments": 0,
      "positive_pct": null
     },
@@ -1796,7 +1955,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "LIFE": {
    "ticker": "LIFE",
@@ -1978,7 +2137,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 17,
+     "views": 19,
      "comments": 0,
      "positive_pct": null
     },
@@ -2111,7 +2270,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "LITE": {
    "ticker": "LITE",
@@ -2310,7 +2469,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 6117,
+     "views": 6131,
      "comments": 0,
      "positive_pct": null
     },
@@ -2335,7 +2494,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 13137,
+     "views": 13145,
      "comments": 0,
      "positive_pct": null
     },
@@ -2375,7 +2534,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 21087,
+     "views": 21090,
      "comments": 0,
      "positive_pct": null
     },
@@ -2394,7 +2553,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 381,
+     "views": 383,
      "comments": 0,
      "positive_pct": null
     },
@@ -2413,7 +2572,7 @@
       "실적"
      ],
      "is_top": false,
-     "views": 10593,
+     "views": 10595,
      "comments": 0,
      "positive_pct": null
     },
@@ -2430,7 +2589,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 569,
+     "views": 570,
      "comments": 0,
      "positive_pct": null
     },
@@ -2449,12 +2608,12 @@
       "실적"
      ],
      "is_top": false,
-     "views": 9340,
+     "views": 9343,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "MGNI": {
    "ticker": "MGNI",
@@ -2651,7 +2810,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 33,
+     "views": 34,
      "comments": 0,
      "positive_pct": null
     },
@@ -2668,7 +2827,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 106,
+     "views": 108,
      "comments": 0,
      "positive_pct": null
     },
@@ -2685,7 +2844,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 187,
+     "views": 188,
      "comments": 0,
      "positive_pct": null
     },
@@ -2758,7 +2917,179 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
+  },
+  "MKDW": {
+   "ticker": "MKDW",
+   "name": "MKDWELL Tech Inc.",
+   "sector": "Consumer Cyclical",
+   "industry": "Auto Parts",
+   "market_cap": 311205824,
+   "description": "MKDWELL Tech Inc. designs, manufactures, and sells automotive electronics. The company's product portfolio includes intelligent RV control systems, LiDAR sensors, intelligent container control systems, and vehicle seat control systems; and telematics box, wireless charger, and refitted products. It offers automotive electronic products for passenger cars, modified commercial vehicles, RVs, and logistics vehicles. The company is based in Hsinchu City, Taiwan.",
+   "price": 9.1,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 0.0,
+    "days_to_cover": 2.16,
+    "level": "낮음",
+    "institutions_pct": 0.1,
+    "insiders_pct": 7.7
+   },
+   "health": {
+    "overall": "F",
+    "overall_word": "위험",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 0.304,
+      "unit": "x",
+      "grade": "F",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "위험"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -408.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 12.9,
+      "unit": "%",
+      "grade": "C",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "보통"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -92.6,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 12.43,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 F (위험) · 부채가 현금보다 많음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 12.43 (안전)",
+    "cash": 38252,
+    "debt": 9932777,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 3030680.0,
+      "operating_income": -2668302.0,
+      "net_income": -2572593.0,
+      "eps": -0.66,
+      "operating_cash_flow": -1191664.0,
+      "free_cash_flow": -1719994.0,
+      "total_debt": 7336208.0,
+      "cash": 24084.0,
+      "equity": 5781066.0
+     },
+     {
+      "year": "2024",
+      "revenue": 1998971.0,
+      "operating_income": -2824130.0,
+      "net_income": -2517940.0,
+      "eps": -4.5,
+      "operating_cash_flow": -3112605.0,
+      "free_cash_flow": -3146556.0,
+      "total_debt": 8148906.0,
+      "cash": 542591.0,
+      "equity": -4209317.0
+     },
+     {
+      "year": "2023",
+      "revenue": 3670722.0,
+      "operating_income": -1839857.0,
+      "net_income": -1589628.0,
+      "eps": -2.765176,
+      "operating_cash_flow": -1323385.0,
+      "free_cash_flow": -2076253.0,
+      "total_debt": 6379919.0,
+      "cash": 924428.0,
+      "equity": 595842.0
+     },
+     {
+      "year": "2022",
+      "revenue": 3153486.0,
+      "operating_income": -900314.0,
+      "net_income": -1256278.0,
+      "eps": -2.18531,
+      "operating_cash_flow": -129863.0,
+      "free_cash_flow": -563415.0,
+      "total_debt": 4574848.0,
+      "cash": 417008.0,
+      "equity": null
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": -11.4899,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "MRX": {
    "ticker": "MRX",
@@ -3099,7 +3430,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "MTRN": {
    "ticker": "MTRN",
@@ -3319,7 +3650,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -3504,6 +3835,121 @@
    },
    "news": [
     {
+     "id": "215596",
+     "title": "크루소, AI 추론 수요 겨냥해 ‘초대형 AI 데이터센터에서 소형 모듈형으로’",
+     "title_en": "",
+     "summary": "오픈AI의 초대형 데이터센터를 구축했던 스타트업 크루소(Crusoe)가 공장에서 사전 제작해 이동할 수 있는 소형 데이터센터로 눈을 돌리며, 약...",
+     "source": "월스트리트저널",
+     "time": "2026-09-17T09:21:36.060553Z",
+     "url": "https://www.saveticker.com/news/215596",
+     "tickers": [
+      "NVDA",
+      "MU",
+      "ORCL",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 8748,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "215540",
+     "title": "어플라이드 머티어리얼즈, 모디의 대표 반도체 행사 시작에 맞춰 인도에 50억 달러 투자",
+     "title_en": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off",
+     "summary": "문시프 벤가틸\n\n\n뉴델리, 9월 17일 (로이터) - 미국 반도체 장비 제조업체 어플라이드 머티어리얼스(AMAT.O)는 인도 내 입지를 확대하기...",
+     "source": "reuters",
+     "time": "2026-09-17T08:14:26.943828Z",
+     "url": "https://www.saveticker.com/news/215540",
+     "tickers": [
+      "AMAT",
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 201,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "215462",
+     "title": "엔비디아 GPU 임대료 20% 인상… AI 인프라 수익성 확대",
+     "title_en": "",
+     "summary": "네비우스가 10월 1일부로 엔비디아 주요 GPU(H100, H200, B200, B300)의 임대료를 약 20% 인상함\n\n\n- 양산된 지 4년이...",
+     "source": "블룸버그",
+     "time": "2026-09-17T06:32:06.576468Z",
+     "url": "https://www.saveticker.com/news/215462",
+     "tickers": [
+      "NBIS",
+      "IREN",
+      "CRWV",
+      "NVDA",
+      "AMZN",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "SKHY",
+      "MU"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 19878,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "215411",
+     "title": "마이크론 CEO: 마이크론, 내년 인도에서 수백만 개의 MLN 칩 테스트 및 조립 예정",
+     "title_en": "Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year",
+     "summary": "",
+     "source": "financial-juice",
+     "time": "2026-09-17T05:20:08.388151Z",
+     "url": "https://www.saveticker.com/news/215411",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 1165,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "215245",
+     "title": "버지니아 라우던카운티, 데이터센터 신규 심사 일시 중단 추진",
+     "title_en": "",
+     "summary": "세계 최대 데이터센터 밀집지인 미국 버지니아주 라우던카운티가 신규 데이터센터·변전소 신청 심사를 최대 12개월 멈추는 방안을 추진 중임\n\n\n- ...",
+     "source": "블룸버그",
+     "time": "2026-09-16T22:48:24.168853Z",
+     "url": "https://www.saveticker.com/news/215245",
+     "tickers": [
+      "GOOGL",
+      "CRWV",
+      "NBIS",
+      "META",
+      "MSFT",
+      "AMZN",
+      "NVDA",
+      "SKHY",
+      "SNDK",
+      "MU"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": false,
+     "views": 7559,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "214396",
      "title": "메모리 부족 2027년까지 지속…중소 스마트폰·노트북 업체 비상",
      "title_en": "",
@@ -3522,7 +3968,7 @@
       "분석"
      ],
      "is_top": false,
-     "views": 9099,
+     "views": 9313,
      "comments": 0,
      "positive_pct": null
     },
@@ -3543,7 +3989,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 19141,
+     "views": 19750,
      "comments": 0,
      "positive_pct": null
     },
@@ -3568,117 +4014,12 @@
       "속보"
      ],
      "is_top": true,
-     "views": 21426,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214170",
-     "title": "젠슨 황 CEO \"AI 규제 필요 없다… AI 팩토리 ROI 1년, 수요 안 꺾인다\"",
-     "title_en": "",
-     "summary": "젠슨 황 엔비디아 CEO는 CNBC 인터뷰에서\nAI 안전은 매우 중요하지만 본질적으로 충분한 테스트와 엔지니어링을 통해 해결해야 할 과제이며, ...",
-     "source": "CNBC",
-     "time": "2026-09-15T22:29:24.274259Z",
-     "url": "https://www.saveticker.com/news/214170",
-     "tickers": [
-      "NVDA",
-      "MU",
-      "CRWV",
-      "NBIS",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 15816,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214162",
-     "title": "(카더라) AI 규제 갈등 속 트럼프 행정부, 앤트로픽과 안전 문제 논의",
-     "title_en": "",
-     "summary": "블룸버그는 소식통을 인용해,\n미 상무장관과 펜타곤 CTO 등 트럼프 행정부 고위 관계자들이 앤트로픽의 워싱턴 핵심 인사인 톰 브라운과 화상으로 ...",
-     "source": "블룸버그",
-     "time": "2026-09-15T22:09:32.887636Z",
-     "url": "https://www.saveticker.com/news/214162",
-     "tickers": [
-      "NVDA",
-      "AVGO",
-      "SKHY",
-      "SNDK",
-      "MU"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 7170,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214156",
-     "title": "(카더라) 오픈AI, 1조2,000억달러 밸류로 추가 자금조달 논의",
-     "title_en": "",
-     "summary": "파이낸셜타임스는 소식통을 인용해,\n오픈AI가 기업공개(IPO)에 앞서 기업가치 1조2,000억달러를 기준으로 새로운 비공개 투자 라운드를 놓고 ...",
-     "source": "파이낸셜타임스",
-     "time": "2026-09-15T22:04:55.330809Z",
-     "url": "https://www.saveticker.com/news/214156",
-     "tickers": [
-      "NVDA",
-      "ORCL",
-      "SKHY",
-      "MU",
-      "SNDK"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 8331,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214072",
-     "title": "마이크론, 디어드리 핸퍼드를 마이크론 리서치 랩스 이끌도록 임명",
-     "title_en": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
-     "summary": "아이다호주 보이시, 2026년 9월 15일 (글로브 뉴스와이어) -- 마이크론 테크놀로지(Micron Technology, Inc.)(나스닥: ...",
-     "source": "globenewswire",
-     "time": "2026-09-15T20:01:00Z",
-     "url": "https://www.saveticker.com/news/214072",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 67,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "213714",
-     "title": "마이크론, 차세대 AI 서버용 512GB DDR5 모듈 개발…전력 60% 이상 절감",
-     "title_en": "",
-     "summary": "마이크론이 세계 최초로 512GB DDR5 서버용 모듈(RDIMM)을 여러 서버 플랫폼에서 시연하는 데 성공함\n\n\n- 최대 9,200MT/s 속...",
-     "source": "",
-     "time": "2026-09-15T13:05:53.742299Z",
-     "url": "https://www.saveticker.com/news/213714",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 12958,
+     "views": 21772,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "NAKA": {
    "ticker": "NAKA",
@@ -3878,7 +4219,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "NEU": {
    "ticker": "NEU",
@@ -4055,7 +4396,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -4255,7 +4596,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 3016,
+     "views": 3018,
      "comments": 0,
      "positive_pct": null
     },
@@ -4398,7 +4739,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "SB": {
    "ticker": "SB",
@@ -4582,7 +4923,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "SENS": {
    "ticker": "SENS",
@@ -4780,7 +5121,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 49,
+     "views": 50,
      "comments": 0,
      "positive_pct": null
     },
@@ -4797,7 +5138,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 132,
+     "views": 134,
      "comments": 0,
      "positive_pct": null
     },
@@ -4814,12 +5155,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 20,
+     "views": 22,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "SNOW": {
    "ticker": "SNOW",
@@ -5113,7 +5454,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 106,
+     "views": 107,
      "comments": 0,
      "positive_pct": null
     },
@@ -5162,7 +5503,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -5448,7 +5789,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38051,
+     "views": 38054,
      "comments": 0,
      "positive_pct": null
     },
@@ -5519,7 +5860,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "TWST": {
    "ticker": "TWST",
@@ -5734,7 +6075,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 137,
+     "views": 162,
      "comments": 0,
      "positive_pct": null
     },
@@ -5754,7 +6095,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 5093,
+     "views": 5105,
      "comments": 0,
      "positive_pct": null
     },
@@ -5799,7 +6140,253 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
+  },
+  "VEEA": {
+   "ticker": "VEEA",
+   "name": "Veea Inc.",
+   "sector": "Technology",
+   "industry": "Information Technology Services",
+   "market_cap": 19161960,
+   "description": "Veea Inc., an AI-driven edge infrastructure company, develops edge computing devices and products. The company offers VeeaHub products, a typical Wi-Fi Access Point for indoor and outdoor coverage and are both locally- and cloud-managed; and Linux server with a virtualized software environment, supporting patented secured docker containers, a Wi-Fi Access Point with a mesh router, a firewall, an IoT gateway, NVMe data storage, and 4G/5G modules. It also provides SecureConnect Service Platform, which enable the service providers to deliver an all-in-one solution, with a compact model of VeeaHub",
+   "price": 6.16,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 35.7,
+    "days_to_cover": 3.63,
+    "level": "매우 높음",
+    "institutions_pct": 3.4,
+    "insiders_pct": 46.0
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 166.918,
+      "unit": "%",
+      "grade": "D",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "주의"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.574,
+      "unit": "x",
+      "grade": "B",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -3229.6,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -4013.0,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 141.6,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": {
+     "z": -12.04,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z -12.04 (위험)",
+    "cash": 886966,
+    "debt": 13438310,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 222018.0,
+      "operating_income": -17607781.0,
+      "net_income": -6660038.0,
+      "eps": -0.16,
+      "operating_cash_flow": -15227760.0,
+      "free_cash_flow": -15475097.0,
+      "total_debt": 19759786.0,
+      "cash": 133860.0,
+      "equity": -9751880.0
+     },
+     {
+      "year": "2024",
+      "revenue": 141760.0,
+      "operating_income": -27787763.0,
+      "net_income": -47547768.0,
+      "eps": -1.88,
+      "operating_cash_flow": -25595008.0,
+      "free_cash_flow": -25860453.0,
+      "total_debt": 12797316.0,
+      "cash": 1685633.0,
+      "equity": -17024824.0
+     },
+     {
+      "year": "2023",
+      "revenue": 9072130.0,
+      "operating_income": -10359839.0,
+      "net_income": -15638589.0,
+      "eps": -0.439038,
+      "operating_cash_flow": -12652630.0,
+      "free_cash_flow": -12807684.0,
+      "total_debt": 22163274.0,
+      "cash": 6010075.0,
+      "equity": -11467130.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": -72.47059,
+    "peg": null
+   },
+   "news": [
+    {
+     "id": "213044",
+     "title": "Veea Inc.와 NovaGen, 엣지 AI 기반 글로벌 헬스 플랫폼 출시를 위한 잠재적 합병 발표",
+     "title_en": "Veea Inc. and NovaGen announce potential merger to launch an Edge AI-Powered Global Health Platform",
+     "summary": "제안된 결합은 나스닥 상장 장수 및 정밀 헬스 플랫폼을 구축하고, Veea의 지속적인 엣지 AI 인프라 사업을 보완하는 것을 목표로 한다. Ge...",
+     "source": "globenewswire",
+     "time": "2026-09-14T20:42:16Z",
+     "url": "https://www.saveticker.com/news/213044",
+     "tickers": [
+      "VEEA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 101,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "200895",
+     "title": "Veea와 Telarus, 보안 및 지능형 연결 솔루션 접근성 확대를 위한 기술 서비스 유통 계약 체결",
+     "title_en": "Veea and Telarus Sign Technology Services Distribution Agreement to Expand Access to Secure, Intelligent Connectivity Solutions",
+     "summary": "전략적 계약을 통해 Telarus의 광범위한 파트너 네트워크는 더 단순하고 안전한 기술 인프라를 찾는 기업들에게 Veea의 기업용 보안 연결, ...",
+     "source": "globenewswire",
+     "time": "2026-08-27T11:30:00Z",
+     "url": "https://www.saveticker.com/news/200895",
+     "tickers": [
+      "VEEA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 93,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "200229",
+     "title": "Veea Inc., 주식 병합 발표",
+     "title_en": "Veea Inc. announces reverse stock split",
+     "summary": "뉴욕, 2026년 8월 26일 (글로브 뉴스와이어) -- Veea Inc.(나스닥: “VEEA”, “Veea” 또는 “회사”)는 오늘 이사회의 ...",
+     "source": "globenewswire",
+     "time": "2026-08-26T20:05:00Z",
+     "url": "https://www.saveticker.com/news/200229",
+     "tickers": [
+      "VEEA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 111,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "199799",
+     "title": "Veea와 Totalplay, 멕시코 내 보안 AI 기반 비즈니스 서비스 상용화 계획 추진",
+     "title_en": "Veea and Totalplay Advance Commercial Plans for Secure, AI-Powered Business Services in Mexico",
+     "summary": "VHC25이 Totalplay의 기술 검증을 완료하며, 계획된 SecureConnect 및 VigiLynx 서비스 제공을 향한 주요 이정표를 달...",
+     "source": "globenewswire",
+     "time": "2026-08-26T11:00:00Z",
+     "url": "https://www.saveticker.com/news/199799",
+     "tickers": [
+      "VEEA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 59,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "184777",
+     "title": "MCN 빌드, 시드웰 프렌즈 스쿨에 비아의 Crowdkeep 플랫폼 구축… 제네시스 임팩트와 열 번째 도입",
+     "title_en": "MCN Build Deploys Veea’s Crowdkeep™ Platform at Sidwell Friends School, Marking Tenth Deployment with Genesys Impact",
+     "summary": "반복적인 구축을 통해 Veea의 지능형 엣지 플랫폼으로 디지털 인력, 안전 및 현장 운영을 확장하다\n워싱턴, 2026년 8월 4일 (GLOBE ...",
+     "source": "globenewswire",
+     "time": "2026-08-04T12:00:00Z",
+     "url": "https://www.saveticker.com/news/184777",
+     "tickers": [
+      "VEEA"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 7,
+     "comments": 0,
+     "positive_pct": null
+    }
+   ],
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   },
   "XMTR": {
    "ticker": "XMTR",
@@ -5996,7 +6583,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 42,
+     "views": 44,
      "comments": 0,
      "positive_pct": null
     },
@@ -6013,7 +6600,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 136,
+     "views": 137,
      "comments": 0,
      "positive_pct": null
     },
@@ -6047,7 +6634,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 16,
+     "views": 18,
      "comments": 0,
      "positive_pct": null
     },
@@ -6064,12 +6651,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 19,
+     "views": 20,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-16T21:30:26.182436+00:00"
+   "updated": "2026-09-17T14:24:26.012008+00:00"
   }
  },
  "market": "us"
