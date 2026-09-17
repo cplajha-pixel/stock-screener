@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T14:24:26Z",
- "count": 25,
+ "generated_at": "2026-09-17T14:46:32Z",
+ "count": 24,
  "items": {
   "AAMI": {
    "ticker": "AAMI",
@@ -181,7 +181,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "ALNT": {
    "ticker": "ALNT",
@@ -365,7 +365,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -614,7 +614,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 136,
+     "views": 137,
      "comments": 0,
      "positive_pct": null
     },
@@ -638,7 +638,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -959,7 +959,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "DXPE": {
    "ticker": "DXPE",
@@ -1143,7 +1143,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1526,7 +1526,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "GLOO": {
    "ticker": "GLOO",
@@ -1685,7 +1685,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "KYMR": {
    "ticker": "KYMR",
@@ -1955,7 +1955,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "LIFE": {
    "ticker": "LIFE",
@@ -2270,7 +2270,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "LITE": {
    "ticker": "LITE",
@@ -2469,7 +2469,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 6131,
+     "views": 6133,
      "comments": 0,
      "positive_pct": null
     },
@@ -2613,7 +2613,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "MGNI": {
    "ticker": "MGNI",
@@ -2917,7 +2917,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "MKDW": {
    "ticker": "MKDW",
@@ -3089,7 +3089,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "MRX": {
    "ticker": "MRX",
@@ -3430,7 +3430,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "MTRN": {
    "ticker": "MTRN",
@@ -3650,7 +3650,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -3852,7 +3852,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 8748,
+     "views": 8787,
      "comments": 0,
      "positive_pct": null
     },
@@ -3870,7 +3870,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 201,
+     "views": 204,
      "comments": 0,
      "positive_pct": null
     },
@@ -3898,7 +3898,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 19878,
+     "views": 19972,
      "comments": 0,
      "positive_pct": null
     },
@@ -3917,7 +3917,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 1165,
+     "views": 1168,
      "comments": 0,
      "positive_pct": null
     },
@@ -3945,7 +3945,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 7559,
+     "views": 7563,
      "comments": 0,
      "positive_pct": null
     },
@@ -3968,7 +3968,7 @@
       "분석"
      ],
      "is_top": false,
-     "views": 9313,
+     "views": 9316,
      "comments": 0,
      "positive_pct": null
     },
@@ -3989,7 +3989,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 19750,
+     "views": 19758,
      "comments": 0,
      "positive_pct": null
     },
@@ -4014,12 +4014,12 @@
       "속보"
      ],
      "is_top": true,
-     "views": 21772,
+     "views": 21774,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "NAKA": {
    "ticker": "NAKA",
@@ -4219,7 +4219,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "NEU": {
    "ticker": "NEU",
@@ -4396,7 +4396,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -4739,7 +4739,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "SB": {
    "ticker": "SB",
@@ -4923,7 +4923,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "SENS": {
    "ticker": "SENS",
@@ -5160,7 +5160,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "SNOW": {
    "ticker": "SNOW",
@@ -5503,7 +5503,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -5860,7 +5860,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "TWST": {
    "ticker": "TWST",
@@ -6095,7 +6095,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 5105,
+     "views": 5107,
      "comments": 0,
      "positive_pct": null
     },
@@ -6140,253 +6140,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
-  },
-  "VEEA": {
-   "ticker": "VEEA",
-   "name": "Veea Inc.",
-   "sector": "Technology",
-   "industry": "Information Technology Services",
-   "market_cap": 19161960,
-   "description": "Veea Inc., an AI-driven edge infrastructure company, develops edge computing devices and products. The company offers VeeaHub products, a typical Wi-Fi Access Point for indoor and outdoor coverage and are both locally- and cloud-managed; and Linux server with a virtualized software environment, supporting patented secured docker containers, a Wi-Fi Access Point with a mesh router, a firewall, an IoT gateway, NVMe data storage, and 4G/5G modules. It also provides SecureConnect Service Platform, which enable the service providers to deliver an all-in-one solution, with a compact model of VeeaHub",
-   "price": 6.16,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
-   },
-   "short": {
-    "pct_of_float": 35.7,
-    "days_to_cover": 3.63,
-    "level": "매우 높음",
-    "institutions_pct": 3.4,
-    "insiders_pct": 46.0
-   },
-   "health": {
-    "overall": "C",
-    "overall_word": "보통",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 166.918,
-      "unit": "%",
-      "grade": "D",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "주의"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 1.574,
-      "unit": "x",
-      "grade": "B",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "좋음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": -3229.6,
-      "unit": "%",
-      "grade": "F",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "위험"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -4013.0,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 141.6,
-      "unit": "%",
-      "grade": "A",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
-     }
-    ],
-    "piotroski": {
-     "score": 4,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": false,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": true,
-      "자산회전율 개선": true
-     }
-    },
-    "altman": {
-     "z": -12.04,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z -12.04 (위험)",
-    "cash": 886966,
-    "debt": 13438310,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 222018.0,
-      "operating_income": -17607781.0,
-      "net_income": -6660038.0,
-      "eps": -0.16,
-      "operating_cash_flow": -15227760.0,
-      "free_cash_flow": -15475097.0,
-      "total_debt": 19759786.0,
-      "cash": 133860.0,
-      "equity": -9751880.0
-     },
-     {
-      "year": "2024",
-      "revenue": 141760.0,
-      "operating_income": -27787763.0,
-      "net_income": -47547768.0,
-      "eps": -1.88,
-      "operating_cash_flow": -25595008.0,
-      "free_cash_flow": -25860453.0,
-      "total_debt": 12797316.0,
-      "cash": 1685633.0,
-      "equity": -17024824.0
-     },
-     {
-      "year": "2023",
-      "revenue": 9072130.0,
-      "operating_income": -10359839.0,
-      "net_income": -15638589.0,
-      "eps": -0.439038,
-      "operating_cash_flow": -12652630.0,
-      "free_cash_flow": -12807684.0,
-      "total_debt": 22163274.0,
-      "cash": 6010075.0,
-      "equity": -11467130.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": -72.47059,
-    "peg": null
-   },
-   "news": [
-    {
-     "id": "213044",
-     "title": "Veea Inc.와 NovaGen, 엣지 AI 기반 글로벌 헬스 플랫폼 출시를 위한 잠재적 합병 발표",
-     "title_en": "Veea Inc. and NovaGen announce potential merger to launch an Edge AI-Powered Global Health Platform",
-     "summary": "제안된 결합은 나스닥 상장 장수 및 정밀 헬스 플랫폼을 구축하고, Veea의 지속적인 엣지 AI 인프라 사업을 보완하는 것을 목표로 한다. Ge...",
-     "source": "globenewswire",
-     "time": "2026-09-14T20:42:16Z",
-     "url": "https://www.saveticker.com/news/213044",
-     "tickers": [
-      "VEEA"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 101,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "200895",
-     "title": "Veea와 Telarus, 보안 및 지능형 연결 솔루션 접근성 확대를 위한 기술 서비스 유통 계약 체결",
-     "title_en": "Veea and Telarus Sign Technology Services Distribution Agreement to Expand Access to Secure, Intelligent Connectivity Solutions",
-     "summary": "전략적 계약을 통해 Telarus의 광범위한 파트너 네트워크는 더 단순하고 안전한 기술 인프라를 찾는 기업들에게 Veea의 기업용 보안 연결, ...",
-     "source": "globenewswire",
-     "time": "2026-08-27T11:30:00Z",
-     "url": "https://www.saveticker.com/news/200895",
-     "tickers": [
-      "VEEA"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 93,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "200229",
-     "title": "Veea Inc., 주식 병합 발표",
-     "title_en": "Veea Inc. announces reverse stock split",
-     "summary": "뉴욕, 2026년 8월 26일 (글로브 뉴스와이어) -- Veea Inc.(나스닥: “VEEA”, “Veea” 또는 “회사”)는 오늘 이사회의 ...",
-     "source": "globenewswire",
-     "time": "2026-08-26T20:05:00Z",
-     "url": "https://www.saveticker.com/news/200229",
-     "tickers": [
-      "VEEA"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 111,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "199799",
-     "title": "Veea와 Totalplay, 멕시코 내 보안 AI 기반 비즈니스 서비스 상용화 계획 추진",
-     "title_en": "Veea and Totalplay Advance Commercial Plans for Secure, AI-Powered Business Services in Mexico",
-     "summary": "VHC25이 Totalplay의 기술 검증을 완료하며, 계획된 SecureConnect 및 VigiLynx 서비스 제공을 향한 주요 이정표를 달...",
-     "source": "globenewswire",
-     "time": "2026-08-26T11:00:00Z",
-     "url": "https://www.saveticker.com/news/199799",
-     "tickers": [
-      "VEEA"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 59,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "184777",
-     "title": "MCN 빌드, 시드웰 프렌즈 스쿨에 비아의 Crowdkeep 플랫폼 구축… 제네시스 임팩트와 열 번째 도입",
-     "title_en": "MCN Build Deploys Veea’s Crowdkeep™ Platform at Sidwell Friends School, Marking Tenth Deployment with Genesys Impact",
-     "summary": "반복적인 구축을 통해 Veea의 지능형 엣지 플랫폼으로 디지털 인력, 안전 및 현장 운영을 확장하다\n워싱턴, 2026년 8월 4일 (GLOBE ...",
-     "source": "globenewswire",
-     "time": "2026-08-04T12:00:00Z",
-     "url": "https://www.saveticker.com/news/184777",
-     "tickers": [
-      "VEEA"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 7,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   },
   "XMTR": {
    "ticker": "XMTR",
@@ -6656,7 +6410,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T14:24:26.012008+00:00"
+   "updated": "2026-09-17T14:46:32.475090+00:00"
   }
  },
  "market": "us"
