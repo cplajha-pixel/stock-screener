@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T21:30:22Z",
- "count": 34,
+ "generated_at": "2026-09-18T14:21:40Z",
+ "count": 33,
  "items": {
   "ABSI": {
    "ticker": "ABSI",
@@ -182,7 +182,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 116,
+     "views": 118,
      "comments": 0,
      "positive_pct": null
     },
@@ -203,7 +203,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 250,
+     "views": 251,
      "comments": 0,
      "positive_pct": null
     },
@@ -321,7 +321,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "ACHV": {
    "ticker": "ACHV",
@@ -537,7 +537,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 21,
+     "views": 22,
      "comments": 0,
      "positive_pct": null
     },
@@ -594,7 +594,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -809,7 +809,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 1178,
+     "views": 1179,
      "comments": 0,
      "positive_pct": null
     },
@@ -843,7 +843,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 137,
+     "views": 138,
      "comments": 0,
      "positive_pct": null
     },
@@ -867,7 +867,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -1039,30 +1039,30 @@
    },
    "news": [
     {
-     "id": "214399",
+     "id": "news_CswopYs7F7k3",
      "title": "[칼럼] 통합 에너지 시장 없이는 유럽에 AI 경쟁에서 희망 없어: 마르틴 블라디미로프",
      "title_en": "ROI-Europe has no hope in AI race without a unified energy market: Martin Vladimirov",
      "summary": "통합 에너지 시장 없이는 AI 경쟁에서 희망 없는 유럽: 마르틴 블라디미로프 여기 표현된 의견은 저자인 민주주의연구센터 지경제학 프로그램 책임자...",
      "source": "reuters",
      "time": "2026-09-16T07:01:10.682438Z",
-     "url": "https://www.saveticker.com/news/214399",
+     "url": "https://www.saveticker.com/news/news_CswopYs7F7k3",
      "tickers": [
       "ASML"
      ],
      "tags": [],
      "is_top": false,
-     "views": 131,
+     "views": 133,
      "comments": 0,
      "positive_pct": null
     },
     {
-     "id": "212778",
+     "id": "news_s4h1PGhL0QHV",
      "title": "ASML, 2028년에 EUV 장비 110대 초과 생산 방법 검토 중…JPMorgan 밝혀",
      "title_en": "ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says",
      "summary": "JPMorgan은 ASML이 2028년에 EUV 장비를 110대 넘게 생산할 수 있는 방법을 검토하고 있다고 밝혔다. 암스테르담, 9월 14일 ...",
      "source": "reuters",
      "time": "2026-09-14T14:13:51.007122Z",
-     "url": "https://www.saveticker.com/news/212778",
+     "url": "https://www.saveticker.com/news/news_s4h1PGhL0QHV",
      "tickers": [
       "INTC",
       "ASML"
@@ -1089,7 +1089,7 @@
       "속보"
      ],
      "is_top": false,
-     "views": 8275,
+     "views": 8280,
      "comments": 0,
      "positive_pct": null
     },
@@ -1183,12 +1183,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 11522,
+     "views": 11523,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "AYA": {
    "ticker": "AYA",
@@ -1357,7 +1357,179 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
+  },
+  "BIAF": {
+   "ticker": "BIAF",
+   "name": "bioAffinity Technologies, Inc.",
+   "sector": "Healthcare",
+   "industry": "Diagnostics & Research",
+   "market_cap": 6683188,
+   "description": "bioAffinity Technologies, Inc. engages in developing non-invasive diagnostic laboratory tests to detect early-stage lung cancer and other diseases of the lung using flow cytometry and automated analysis in the United States. The company operates through two segments: Diagnostic Research and Development; and Laboratory Services. The company offers CyPath lung which uses flow cytometry technology to detect and analyze cell populations in a person's sputum, or phlegm, to find characteristics indicative of lung cancer, including cancer and/or cancer-related cells that have shed from a lung tumor. ",
+   "price": 11.125,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 7.5,
+    "days_to_cover": 0.08,
+    "level": "보통",
+    "institutions_pct": 5.6,
+    "insiders_pct": 0.8
+   },
+   "health": {
+    "overall": "D",
+    "overall_word": "주의",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 38.076,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 1.442,
+      "unit": "x",
+      "grade": "C",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "보통"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -117.1,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -220.8,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 19.0,
+      "unit": "%",
+      "grade": "B",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -1860.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -257.3,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": -11.06,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 D (주의) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z -11.06 (위험)",
+    "cash": 2429719,
+    "debt": 1435005,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 6107959.0,
+      "operating_income": -10626508.0,
+      "net_income": -14909754.0,
+      "eps": -129.9,
+      "operating_cash_flow": -9328842.0,
+      "free_cash_flow": -9389410.0,
+      "total_debt": 1160821.0,
+      "cash": 6449782.0,
+      "equity": 7277656.0
+     },
+     {
+      "year": "2024",
+      "revenue": 9362022.0,
+      "operating_income": -8953445.0,
+      "net_income": -9039831.0,
+      "eps": -337.5,
+      "operating_cash_flow": -7264795.0,
+      "free_cash_flow": -7343878.0,
+      "total_debt": 1501194.0,
+      "cash": 1105291.0,
+      "equity": 2602036.0
+     },
+     {
+      "year": "2023",
+      "revenue": 2532499.0,
+      "operating_income": -7973228.0,
+      "net_income": -7937011.0,
+      "eps": -409.5,
+      "operating_cash_flow": -6037806.0,
+      "free_cash_flow": -6060708.0,
+      "total_debt": 1578639.0,
+      "cash": 2821570.0,
+      "equity": 4855255.0
+     },
+     {
+      "year": "2022",
+      "revenue": 4803.0,
+      "operating_income": -4011058.0,
+      "net_income": -8154113.0,
+      "eps": -814.5,
+      "operating_cash_flow": -4070845.0,
+      "free_cash_flow": -4290832.0,
+      "total_debt": 251746.0,
+      "cash": 11413759.0,
+      "equity": 11043443.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -18.541666,
+    "price_to_book": 1.3340929,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "CGEM": {
    "ticker": "CGEM",
@@ -1527,13 +1699,13 @@
    },
    "news": [
     {
-     "id": "212567",
+     "id": "news_neKjxvAcvjQ0",
      "title": "컬리넌 테라퓨틱스, 오늘 가상 애널리스트 및 투자자 행사 개최…IASLC 2026 세계 폐암 학회에서 발표된 지팔레르티닙과 화학요법 병용 3상 REZILIENT3 데이터 소개",
      "title_en": "Cullinan Therapeutics to Host Virtual Analyst and Investor Event Today to Feature Zipalertinib Plus Chemotherapy Phase 3 REZILIENT3 Data Presented at the IASLC 2026 World Conference on Lung Cancer",
      "summary": "회사는 오늘 오전 8시(미 동부시간)에 가상 행사를 개최할 예정이다\n\n\n매사추세츠주 케임브리지, 2026년 9월 14일 (글로브 뉴스와이어) -...",
      "source": "globenewswire",
      "time": "2026-09-14T11:00:00Z",
-     "url": "https://www.saveticker.com/news/212567",
+     "url": "https://www.saveticker.com/news/news_neKjxvAcvjQ0",
      "tickers": [
       "CGEM"
      ],
@@ -1544,19 +1716,19 @@
      "positive_pct": null
     },
     {
-     "id": "210827",
+     "id": "news_RyDGoP4Ny1Yk",
      "title": "컬리넌 테라퓨틱스, IASLC 2026 세계폐암학회에서 발표된 지팔레르티닙과 화학요법 병용 3상 REZILIENT3 데이터 선보일 가상 애널리스트 및 투자자 행사 개최 예정",
      "title_en": "Cullinan Therapeutics to Host Virtual Analyst and Investor Event to Showcase Zipalertinib Plus Chemotherapy Phase 3 REZILIENT3 Data Presented at the IASLC 2026 World Conference on Lung Cancer",
      "summary": "2026년 9월 13일 일요일 Presidential Symposium 2에서 EGFR 엑손 20 삽입 변이 NSCLC의 1차 치료를 위한 지팔...",
      "source": "globenewswire",
      "time": "2026-09-10T17:00:00Z",
-     "url": "https://www.saveticker.com/news/210827",
+     "url": "https://www.saveticker.com/news/news_RyDGoP4Ny1Yk",
      "tickers": [
       "CGEM"
      ],
      "tags": [],
      "is_top": false,
-     "views": 164,
+     "views": 165,
      "comments": 0,
      "positive_pct": null
     },
@@ -1590,12 +1762,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 15,
+     "views": 17,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "CORT": {
    "ticker": "CORT",
@@ -1850,7 +2022,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "DGII": {
    "ticker": "DGII",
@@ -2019,7 +2191,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "ETON": {
    "ticker": "ETON",
@@ -2201,7 +2373,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 153,
+     "views": 154,
      "comments": 0,
      "positive_pct": null
     },
@@ -2218,7 +2390,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 19,
+     "views": 20,
      "comments": 0,
      "positive_pct": null
     },
@@ -2252,7 +2424,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 19,
+     "views": 20,
      "comments": 0,
      "positive_pct": null
     },
@@ -2269,7 +2441,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 3,
+     "views": 4,
      "comments": 0,
      "positive_pct": null
     },
@@ -2308,7 +2480,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "FDMT": {
    "ticker": "FDMT",
@@ -2478,19 +2650,19 @@
    },
    "news": [
     {
-     "id": "211773",
+     "id": "news_FGMTCabXB9Vo",
      "title": "4DMT, 신규 고용 유인 보상 발표",
      "title_en": "4DMT Announces New Employment Inducement Grants",
      "summary": "캘리포니아주 에머리빌, 2026년 9월 11일 (GLOBE NEWSWIRE) -- 지속적인 효과와 질환 표적화된 치료제를 개발해 치료 패러다임을...",
      "source": "globenewswire",
      "time": "2026-09-11T20:05:00Z",
-     "url": "https://www.saveticker.com/news/211773",
+     "url": "https://www.saveticker.com/news/news_FGMTCabXB9Vo",
      "tickers": [
       "FDMT"
      ],
      "tags": [],
      "is_top": false,
-     "views": 62,
+     "views": 63,
      "comments": 0,
      "positive_pct": null
     },
@@ -2507,7 +2679,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 47,
+     "views": 48,
      "comments": 0,
      "positive_pct": null
     },
@@ -2546,7 +2718,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2731,36 +2903,36 @@
    },
    "news": [
     {
-     "id": "213687",
+     "id": "news_di-t7NO9xRFJ",
      "title": "포티넷, 뉴욕시에 신규 회사 소유 혁신 허브 설립하며 미국 내 입지 확대",
      "title_en": "Fortinet Expands U.S. Presence with New Company-Owned Innovation Hub in New York City",
      "summary": "새로운 포티넷 혁신 허브, 고객 및 파트너와의 협력 강화\n\n\n캘리포니아주 서니베일, 2026년 9월 15일 (글로브 뉴스와이어) -- 네트워킹과...",
      "source": "globenewswire",
      "time": "2026-09-15T13:00:00Z",
-     "url": "https://www.saveticker.com/news/213687",
+     "url": "https://www.saveticker.com/news/news_di-t7NO9xRFJ",
      "tickers": [
       "FTNT"
      ],
      "tags": [],
      "is_top": false,
-     "views": 34,
+     "views": 36,
      "comments": 0,
      "positive_pct": null
     },
     {
-     "id": "210756",
+     "id": "news_D5jZLaHcGdHC",
      "title": "Fortinet, 2026년 Gartner® 하이브리드 메시 방화벽 매직 쿼드런트 보고서에서 리더로 선정",
      "title_en": "Fortinet Named a Leader in the 2026 Gartner® Magic Quadrant™ Report for Hybrid Mesh Firewall",
      "summary": "가장 폭넓은 엔터프라이즈 환경에서 입증된 고객 도입과 AI, 네트워킹, 클라우드 및 양자 보안 분야의 지속적인 혁신\n\n\n캘리포니아주 서니베일, ...",
      "source": "globenewswire",
      "time": "2026-09-10T15:11:56Z",
-     "url": "https://www.saveticker.com/news/210756",
+     "url": "https://www.saveticker.com/news/news_D5jZLaHcGdHC",
      "tickers": [
       "FTNT"
      ],
      "tags": [],
      "is_top": false,
-     "views": 214,
+     "views": 215,
      "comments": 0,
      "positive_pct": null
     },
@@ -2853,7 +3025,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 179,
+     "views": 182,
      "comments": 0,
      "positive_pct": null
     },
@@ -2870,7 +3042,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 546,
+     "views": 547,
      "comments": 0,
      "positive_pct": null
     },
@@ -2887,7 +3059,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 69,
+     "views": 72,
      "comments": 0,
      "positive_pct": null
     },
@@ -2924,171 +3096,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 434,
+     "views": 435,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
-  },
-  "GLOO": {
-   "ticker": "GLOO",
-   "name": "Gloo Holdings, Inc.",
-   "sector": "Technology",
-   "industry": "Software - Application",
-   "market_cap": 422873408,
-   "description": "Gloo Holdings, Inc. designs and develops a vertical technology platform for the faith and flourishing ecosystem. It offers its products and services to network capability providers (NCPs) and the churches and frontline organizations (CFLs). The company's platform includes Gloo Workspace, a subscription-based platform that includes a suite of AI-powered tools that equip customers to create content and communicate with their congregations and extend their ministry; Gloo 360, a solution for NCPs designed to modernize, operate, and transform core IT infrastructure; Gloo Media Network, a full-servi",
-   "price": 4.62,
-   "analyst": {
-    "recommendation": "적극 매수",
-    "count": 6,
-    "target_mean": 11.16667,
-    "target_low": 7.0,
-    "target_high": 17.0,
-    "upside_pct": 141.7,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 5,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-09-09",
-   "earnings_est": {
-    "eps_avg": -0.04,
-    "revenue_avg": 55078500
-   },
-   "short": {
-    "pct_of_float": null,
-    "days_to_cover": 2.01,
-    "level": null,
-    "institutions_pct": 25.4,
-    "insiders_pct": 28.2
-   },
-   "health": {
-    "overall": "D",
-    "overall_word": "주의",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 28.238,
-      "unit": "%",
-      "grade": "A",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 1.228,
-      "unit": "x",
-      "grade": "C",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "보통"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": -26.9,
-      "unit": "%",
-      "grade": "F",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "위험"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -44.0,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 188.0,
-      "unit": "%",
-      "grade": "A",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": -178.8,
-      "unit": "%",
-      "grade": "F",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": -81.3,
-      "unit": "%",
-      "grade": "F",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "위험"
-     }
-    ],
-    "piotroski": null,
-    "altman": {
-     "z": 0.83,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 알트만 Z 0.83 (위험)",
-    "cash": 39282000,
-    "debt": 45064000,
-    "years": [
-     {
-      "year": "2026",
-      "revenue": 94660000.0,
-      "operating_income": -108171000.0,
-      "net_income": -157128000.0,
-      "eps": -8.03,
-      "operating_cash_flow": -80499000.0,
-      "free_cash_flow": -94510000.0,
-      "total_debt": 44298000.0,
-      "cash": 57307000.0,
-      "equity": 135174000.0
-     },
-     {
-      "year": "2025",
-      "revenue": 23216000.0,
-      "operating_income": -55515000.0,
-      "net_income": -85689000.0,
-      "eps": -1.342446,
-      "operating_cash_flow": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "cash": null,
-      "equity": null
-     },
-     {
-      "year": "2024",
-      "revenue": null,
-      "operating_income": null,
-      "net_income": null,
-      "eps": -0.756895,
-      "operating_cash_flow": null,
-      "free_cash_flow": null,
-      "total_debt": null,
-      "cash": null,
-      "equity": null
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": 17.11111,
-    "price_to_book": 3.049505,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "KYMR": {
    "ticker": "KYMR",
@@ -3336,7 +3349,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 3,
+     "views": 4,
      "comments": 0,
      "positive_pct": null
     },
@@ -3353,12 +3366,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 4,
+     "views": 5,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "MBX": {
    "ticker": "MBX",
@@ -3540,7 +3553,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 79,
+     "views": 81,
      "comments": 0,
      "positive_pct": null
     },
@@ -3574,7 +3587,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 101,
+     "views": 103,
      "comments": 0,
      "positive_pct": null
     },
@@ -3596,7 +3609,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "MCS": {
    "ticker": "MCS",
@@ -3786,179 +3799,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
-  },
-  "MKDW": {
-   "ticker": "MKDW",
-   "name": "MKDWELL Tech Inc.",
-   "sector": "Consumer Cyclical",
-   "industry": "Auto Parts",
-   "market_cap": 311205824,
-   "description": "MKDWELL Tech Inc. designs, manufactures, and sells automotive electronics. The company's product portfolio includes intelligent RV control systems, LiDAR sensors, intelligent container control systems, and vehicle seat control systems; and telematics box, wireless charger, and refitted products. It offers automotive electronic products for passenger cars, modified commercial vehicles, RVs, and logistics vehicles. The company is based in Hsinchu City, Taiwan.",
-   "price": 9.1,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
-   },
-   "short": {
-    "pct_of_float": 0.0,
-    "days_to_cover": 2.16,
-    "level": "낮음",
-    "institutions_pct": 0.1,
-    "insiders_pct": 7.7
-   },
-   "health": {
-    "overall": "F",
-    "overall_word": "위험",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 0.304,
-      "unit": "x",
-      "grade": "F",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "위험"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -408.2,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 12.9,
-      "unit": "%",
-      "grade": "C",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "보통"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": -92.6,
-      "unit": "%",
-      "grade": "F",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "위험"
-     }
-    ],
-    "piotroski": {
-     "score": 4,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": true,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": false
-     }
-    },
-    "altman": {
-     "z": 12.43,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 F (위험) · 부채가 현금보다 많음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 12.43 (안전)",
-    "cash": 38252,
-    "debt": 9932777,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 3030680.0,
-      "operating_income": -2668302.0,
-      "net_income": -2572593.0,
-      "eps": -0.66,
-      "operating_cash_flow": -1191664.0,
-      "free_cash_flow": -1719994.0,
-      "total_debt": 7336208.0,
-      "cash": 24084.0,
-      "equity": 5781066.0
-     },
-     {
-      "year": "2024",
-      "revenue": 1998971.0,
-      "operating_income": -2824130.0,
-      "net_income": -2517940.0,
-      "eps": -4.5,
-      "operating_cash_flow": -3112605.0,
-      "free_cash_flow": -3146556.0,
-      "total_debt": 8148906.0,
-      "cash": 542591.0,
-      "equity": -4209317.0
-     },
-     {
-      "year": "2023",
-      "revenue": 3670722.0,
-      "operating_income": -1839857.0,
-      "net_income": -1589628.0,
-      "eps": -2.765176,
-      "operating_cash_flow": -1323385.0,
-      "free_cash_flow": -2076253.0,
-      "total_debt": 6379919.0,
-      "cash": 924428.0,
-      "equity": 595842.0
-     },
-     {
-      "year": "2022",
-      "revenue": 3153486.0,
-      "operating_income": -900314.0,
-      "net_income": -1256278.0,
-      "eps": -2.18531,
-      "operating_cash_flow": -129863.0,
-      "free_cash_flow": -563415.0,
-      "total_debt": 4574848.0,
-      "cash": 417008.0,
-      "equity": null
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": -11.4899,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "MRX": {
    "ticker": "MRX",
@@ -4299,7 +4140,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "MT": {
    "ticker": "MT",
@@ -4468,7 +4309,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -4653,13 +4494,137 @@
    },
    "news": [
     {
-     "id": "215596",
+     "id": "news_zbcjhQVEcOh1",
+     "title": "[2보] BYD·CATL·샤오미 경영진, 시진핑의 미국 방문에 동행할 수도 있다고 소식통 전해",
+     "title_en": "UPDATE 1-BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+     "summary": "3번째 문단에 COFCO 그룹 세부 내용 추가\n\n\n미국과 중국, 9월 24일 방문을 위한 시진핑 기업 대표단 최종 조율\n\n\n소식통들에 따르면 중...",
+     "source": "reuters",
+     "time": "2026-09-18T11:41:20.801929Z",
+     "url": "https://www.saveticker.com/news/news_zbcjhQVEcOh1",
+     "tickers": [
+      "MU",
+      "QCOM",
+      "ILMN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 243,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_vUxr4ZjvhziG",
+     "title": "(카더라) 오픈AI·앤트로픽, 빠른 컴퓨팅 용량 확보 위해 소규모 데이터센터 눈독",
+     "title_en": "",
+     "summary": "CNBC는 소식통을 인용해,\n오픈AI와 앤트로픽이 기존의 수백 MW~GW(기가와트)급 대형 데이터센터 계약과 병행해 20~30MW 수준의 소규모...",
+     "source": "CNBC",
+     "time": "2026-09-18T09:44:26.701982Z",
+     "url": "https://www.saveticker.com/news/news_vUxr4ZjvhziG",
+     "tickers": [
+      "AMD",
+      "NVDA",
+      "MU",
+      "CRWV",
+      "INTC",
+      "ORCL",
+      "NBIS",
+      "IREN",
+      "SKHY"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": true,
+     "views": 11216,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_yrW7G7lKHcfu",
+     "title": "소식통에 따르면 BYD·CATL·샤오미 경영진, 시진핑의 미국 방문 동행 가능성",
+     "title_en": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+     "summary": "미·중, 시진핑 대통령의 9월 24일 방문을 위한 기업 대표단 확정 마무리\n\n\n소식통들에 따르면 중국 최고경영자들, 백악관 국빈 만찬 참석 예정...",
+     "source": "reuters",
+     "time": "2026-09-18T07:20:43.740671Z",
+     "url": "https://www.saveticker.com/news/news_yrW7G7lKHcfu",
+     "tickers": [
+      "MU",
+      "QCOM",
+      "ILMN"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 139,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_6qrO9E6VwIsa",
+     "title": "(카더라) 창신메모리, 낸드 시장 진출 추진…삼성·SK하이닉스·마이크론에 도전",
+     "title_en": "",
+     "summary": "로이터 통신은 소식통을 인용해,\n중국 최대 DRAM 업체인 창신메모리(CXMT)가 베이징 신규 공장에 낸드플래시 연구개발(R&D) 생산라인을 구...",
+     "source": "로이터",
+     "time": "2026-09-18T06:21:08.426336Z",
+     "url": "https://www.saveticker.com/news/news_6qrO9E6VwIsa",
+     "tickers": [
+      "SNDK",
+      "MU",
+      "SKHY"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 17840,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_-tKPbkCNhqQA",
+     "title": "(카더라) SK하이닉스 솔리다임, 미국 NAND 공장 건설 검토…뉴욕주 북부 유력 후보",
+     "title_en": "",
+     "summary": "로이터 통신은 소식통을 인용해\nSK하이닉스의 미국 자회사 솔리다임이 미국 내 낸드플래시 공장 신설을 검토 중이며 뉴욕주 북부가 유력한 후보지로 ...",
+     "source": "로이터",
+     "time": "2026-09-18T06:13:07.882877Z",
+     "url": "https://www.saveticker.com/news/news_-tKPbkCNhqQA",
+     "tickers": [
+      "SKHY",
+      "SNDK",
+      "MU"
+     ],
+     "tags": [
+      "정보"
+     ],
+     "is_top": true,
+     "views": 9817,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_Fa0Jp-jOmQau",
+     "title": "[단독] 중국 CXMT, 글로벌 부족 속 플래시 메모리 사업 확대 추진…삼성·YMTC에 도전",
+     "title_en": "EXCLUSIVE-China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
+     "summary": "CXMT, 베이징에 낸드 플래시 연구 라인 계획…소식통들이 전해\n\n\n이번 움직임으로 CXMT의 핵심 D램 사업을 넘어 새로운 시장 열려\n\n\n글로...",
+     "source": "reuters",
+     "time": "2026-09-18T05:22:58.409710Z",
+     "url": "https://www.saveticker.com/news/news_Fa0Jp-jOmQau",
+     "tickers": [
+      "MU"
+     ],
+     "tags": [],
+     "is_top": false,
+     "views": 433,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
+     "id": "news_0kbmbcjlyTfK",
      "title": "크루소, AI 추론 수요 겨냥해 ‘초대형 AI 데이터센터에서 소형 모듈형으로’",
      "title_en": "",
      "summary": "오픈AI의 초대형 데이터센터를 구축했던 스타트업 크루소(Crusoe)가 공장에서 사전 제작해 이동할 수 있는 소형 데이터센터로 눈을 돌리며, 약...",
      "source": "월스트리트저널",
      "time": "2026-09-17T09:21:36.060553Z",
-     "url": "https://www.saveticker.com/news/215596",
+     "url": "https://www.saveticker.com/news/news_0kbmbcjlyTfK",
      "tickers": [
       "NVDA",
       "MU",
@@ -4670,174 +4635,30 @@
       "정보"
      ],
      "is_top": false,
-     "views": 9004,
+     "views": 9345,
      "comments": 0,
      "positive_pct": null
     },
     {
-     "id": "215540",
+     "id": "news_Vfl7Pan7t53Z",
      "title": "어플라이드 머티어리얼즈, 모디의 대표 반도체 행사 시작에 맞춰 인도에 50억 달러 투자",
      "title_en": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off",
      "summary": "문시프 벤가틸\n\n\n뉴델리, 9월 17일 (로이터) - 미국 반도체 장비 제조업체 어플라이드 머티어리얼스(AMAT.O)는 인도 내 입지를 확대하기...",
      "source": "reuters",
      "time": "2026-09-17T08:14:26.943828Z",
-     "url": "https://www.saveticker.com/news/215540",
+     "url": "https://www.saveticker.com/news/news_Vfl7Pan7t53Z",
      "tickers": [
       "AMAT",
       "MU"
      ],
      "tags": [],
      "is_top": false,
-     "views": 220,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "215462",
-     "title": "엔비디아 GPU 임대료 20% 인상… AI 인프라 수익성 확대",
-     "title_en": "",
-     "summary": "네비우스가 10월 1일부로 엔비디아 주요 GPU(H100, H200, B200, B300)의 임대료를 약 20% 인상함\n\n\n- 양산된 지 4년이...",
-     "source": "블룸버그",
-     "time": "2026-09-17T06:32:06.576468Z",
-     "url": "https://www.saveticker.com/news/215462",
-     "tickers": [
-      "NBIS",
-      "IREN",
-      "CRWV",
-      "NVDA",
-      "AMZN",
-      "META",
-      "GOOGL",
-      "MSFT",
-      "SKHY",
-      "MU"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 20658,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "215411",
-     "title": "마이크론 CEO: 마이크론, 내년 인도에서 수백만 개의 MLN 칩 테스트 및 조립 예정",
-     "title_en": "Micron CEO: Micron to test and assemble hundreds of MLN chips in India next year",
-     "summary": "",
-     "source": "financial-juice",
-     "time": "2026-09-17T05:20:08.388151Z",
-     "url": "https://www.saveticker.com/news/215411",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 1182,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "215245",
-     "title": "버지니아 라우던카운티, 데이터센터 신규 심사 일시 중단 추진",
-     "title_en": "",
-     "summary": "세계 최대 데이터센터 밀집지인 미국 버지니아주 라우던카운티가 신규 데이터센터·변전소 신청 심사를 최대 12개월 멈추는 방안을 추진 중임\n\n\n- ...",
-     "source": "블룸버그",
-     "time": "2026-09-16T22:48:24.168853Z",
-     "url": "https://www.saveticker.com/news/215245",
-     "tickers": [
-      "GOOGL",
-      "CRWV",
-      "NBIS",
-      "META",
-      "MSFT",
-      "AMZN",
-      "NVDA",
-      "SKHY",
-      "SNDK",
-      "MU"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 7612,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214396",
-     "title": "메모리 부족 2027년까지 지속…중소 스마트폰·노트북 업체 비상",
-     "title_en": "",
-     "summary": "로이터 통신에 따르면,\n2027년까지 이어질 것으로 보이는 메모리 공급난 속에서, 중소 스마트폰·노트북 제조업체들이 대응책 마련에 나서고 있음\n...",
-     "source": "로이터",
-     "time": "2026-09-16T06:59:38.851170Z",
-     "url": "https://www.saveticker.com/news/214396",
-     "tickers": [
-      "SKHY",
-      "QCOM",
-      "SNDK",
-      "MU"
-     ],
-     "tags": [
-      "정보",
-      "분석"
-     ],
-     "is_top": false,
-     "views": 9332,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214379",
-     "title": "(카더라) SK하이닉스, 인텔과 미국 내 메모리 반도체 생산 협상…오하이오 공장 활용 검토",
-     "title_en": "",
-     "summary": "로이터 통신은 소식통을 인용해,\nSK하이닉스가 처음으로 미국에서 메모리 반도체를 생산하기 위해 인텔의 오하이오 공장 일부를 빌리거나, 인텔·주요...",
-     "source": "로이터",
-     "time": "2026-09-16T06:25:09.050390Z",
-     "url": "https://www.saveticker.com/news/214379",
-     "tickers": [
-      "INTC",
-      "SKHY",
-      "MU"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 19789,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "214193",
-     "title": "오픈AI CFO “AI 안전과 성장 동시에 가능…더 많은 컴퓨팅 필요”",
-     "title_en": "",
-     "summary": "오픈AI의 사라 프라이어 CFO는 CNBC 인터뷰에서 AI로 인한 재앙적 시나리오가 두렵냐는 질문에 “그렇지 않다”라면서도, AI 안전은 매우 ...",
-     "source": "CNBC",
-     "time": "2026-09-15T23:06:06.195629Z",
-     "url": "https://www.saveticker.com/news/214193",
-     "tickers": [
-      "AMD",
-      "NVDA",
-      "MU",
-      "ORCL",
-      "AVGO",
-      "SKHY",
-      "CBRS"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 21811,
+     "views": 236,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "NRIX": {
    "ticker": "NRIX",
@@ -5036,7 +4857,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 22,
+     "views": 24,
      "comments": 0,
      "positive_pct": null
     },
@@ -5093,7 +4914,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "OMER": {
    "ticker": "OMER",
@@ -5262,7 +5083,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "ORKA": {
    "ticker": "ORKA",
@@ -5395,7 +5216,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 179,
+     "views": 180,
      "comments": 0,
      "positive_pct": null
     },
@@ -5412,7 +5233,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 126,
+     "views": 127,
      "comments": 0,
      "positive_pct": null
     },
@@ -5429,7 +5250,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 20,
+     "views": 21,
      "comments": 0,
      "positive_pct": null
     },
@@ -5530,7 +5351,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "P": {
    "ticker": "P",
@@ -5705,13 +5526,13 @@
    },
    "news": [
     {
-     "id": "212654",
+     "id": "news_8lVMZ1QXvQI-",
      "title": "SkyAI, 포워드 인더스트리의 서한에 대해 논평하고 전략 재확인",
      "title_en": "SkyAI Comments on Forward Industries’ Letter and Reaffirms Strategy",
      "summary": "독립 이사들로 구성된 특별위원회는 Forward의 전액 주식 제안을 면밀히 검토한 후 주주들의 최선의 이익에 부합하지 않는다고 판단했다\n\n\nSk...",
      "source": "globenewswire",
      "time": "2026-09-14T12:30:00Z",
-     "url": "https://www.saveticker.com/news/212654",
+     "url": "https://www.saveticker.com/news/news_8lVMZ1QXvQI-",
      "tickers": [
       "SKYA",
       "P",
@@ -5719,7 +5540,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 64,
+     "views": 65,
      "comments": 0,
      "positive_pct": null
     },
@@ -5737,7 +5558,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 160,
+     "views": 161,
      "comments": 0,
      "positive_pct": null
     },
@@ -5759,7 +5580,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 57548,
+     "views": 57560,
      "comments": 0,
      "positive_pct": null
     },
@@ -5801,7 +5622,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -5985,7 +5806,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "PXS": {
    "ticker": "PXS",
@@ -6182,7 +6003,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "SILC": {
    "ticker": "SILC",
@@ -6366,7 +6187,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "SNOW": {
    "ticker": "SNOW",
@@ -6570,7 +6391,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 371,
+     "views": 372,
      "comments": 0,
      "positive_pct": null
     },
@@ -6709,7 +6530,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "SOPH": {
    "ticker": "SOPH",
@@ -6920,7 +6741,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -7119,7 +6940,7 @@
       "투자 의견"
      ],
      "is_top": false,
-     "views": 3472,
+     "views": 3476,
      "comments": 0,
      "positive_pct": null
     },
@@ -7206,7 +7027,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 38055,
+     "views": 38056,
      "comments": 0,
      "positive_pct": null
     },
@@ -7277,7 +7098,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "TGT": {
    "ticker": "TGT",
@@ -7462,13 +7283,13 @@
    },
    "news": [
     {
-     "id": "214768",
+     "id": "news_BWVi1BnUhalQ",
      "title": "[2보] 아마존, 미국 사업장 근로자 최저 시급 1달러 인상해 20달러로",
      "title_en": "UPDATE 1-Amazon raises minimum hourly pay by $1 to $20 for US operations workers",
      "summary": "4번 항목에 배경 정보 추가\n\n\n9월 16일 (로이터) - 아마존닷컴 AMZN.O이 적격 정규직 미국 운영 부문 근로자의 최저 시급을 1달러 인...",
      "source": "reuters",
      "time": "2026-09-16T14:17:39.231528Z",
-     "url": "https://www.saveticker.com/news/214768",
+     "url": "https://www.saveticker.com/news/news_BWVi1BnUhalQ",
      "tickers": [
       "AMZN",
       "WMT",
@@ -7477,18 +7298,18 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 88,
+     "views": 90,
      "comments": 0,
      "positive_pct": null
     },
     {
-     "id": "214588",
+     "id": "news_q5_u3vsnvraU",
      "title": "애드빌 제조사 헤일론, 체중 감량 약물 복용 소비자 공략으로 미국 매출 증대",
      "title_en": "Advil-maker Haleon boosts US sales by targeting consumers on weight-loss drugs",
      "summary": "리차 나이두 기자\n\n\n런던, 9월 16일 (로이터) - 소비자 건강 기업 헤일리온 HLN.L이 미국에서 체중 감량 약물의 부작용을 완화하는 제품...",
      "source": "reuters",
      "time": "2026-09-16T11:27:17.960223Z",
-     "url": "https://www.saveticker.com/news/214588",
+     "url": "https://www.saveticker.com/news/news_q5_u3vsnvraU",
      "tickers": [
       "LLY",
       "CVS",
@@ -7498,18 +7319,18 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 60,
+     "views": 61,
      "comments": 0,
      "positive_pct": null
     },
     {
-     "id": "212388",
+     "id": "news_BW1baOUAuNWA",
      "title": "관세를 피하기 위해 중국을 떠났던 기업들, 이제 일부는 중국으로 돌아가는 중",
      "title_en": "Companies left China to dodge tariffs. Now some are heading back",
      "summary": "해외 공급 공백이 타격을 주면서 주문이 중국으로 되돌아온다\n\n\n중국-동남아 관세 격차 축소로 이전 유인이 약화된다\n\n\n일부 생산업체는 향후 미국...",
      "source": "reuters",
      "time": "2026-09-14T07:50:23.259170Z",
-     "url": "https://www.saveticker.com/news/212388",
+     "url": "https://www.saveticker.com/news/news_BW1baOUAuNWA",
      "tickers": [
       "TGT"
      ],
@@ -7520,13 +7341,13 @@
      "positive_pct": null
     },
     {
-     "id": "211617",
+     "id": "news_G8ZIB1JxfxkO",
      "title": "[6보] 미국, 기록상 최대 규모의 사이클로스포리아증 발병 종료 선언",
      "title_en": "UPDATE 5-US declares end of largest recorded cyclosporiasis outbreak",
      "summary": "13번째 문단에 Taylor Farms의 답변을 추가한다\n\n\nSiddhi Mahatole 기자\n\n\n9월 11일(로이터) - 미국 보건 당국은 금...",
      "source": "reuters",
      "time": "2026-09-11T14:12:18.486609Z",
-     "url": "https://www.saveticker.com/news/211617",
+     "url": "https://www.saveticker.com/news/news_G8ZIB1JxfxkO",
      "tickers": [
       "YUM",
       "SG",
@@ -7536,7 +7357,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 219,
+     "views": 220,
      "comments": 0,
      "positive_pct": null
     },
@@ -7575,7 +7396,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 230,
+     "views": 232,
      "comments": 0,
      "positive_pct": null
     },
@@ -7596,7 +7417,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 164,
+     "views": 165,
      "comments": 0,
      "positive_pct": null
     },
@@ -7615,12 +7436,12 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 251,
+     "views": 253,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "TVTX": {
    "ticker": "TVTX",
@@ -7908,7 +7729,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "URGN": {
    "ticker": "URGN",
@@ -8139,7 +7960,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 23,
+     "views": 25,
      "comments": 0,
      "positive_pct": null
     },
@@ -8156,7 +7977,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 24,
+     "views": 25,
      "comments": 0,
      "positive_pct": null
     },
@@ -8195,7 +8016,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "XGN": {
    "ticker": "XGN",
@@ -8414,7 +8235,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   },
   "ZBRA": {
    "ticker": "ZBRA",
@@ -8718,7 +8539,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-17T21:30:22.995646+00:00"
+   "updated": "2026-09-18T14:21:40.428649+00:00"
   }
  },
  "market": "us"

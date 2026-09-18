@@ -1,7 +1,7 @@
 {
  "date": "2026-09-17",
- "generated_at": "2026-09-17T21:30:22Z",
- "count": 3916,
+ "generated_at": "2026-09-18T14:21:14Z",
+ "count": 3915,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -19010,7 +19010,7 @@
    "sma20": 6.194
   },
   "FWONA": {
-   "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+   "name": "Liberty Media Corporation - Series A Common Stock",
    "exchange": "NASDAQ",
    "prev_close": 85.9,
    "dv20": 12043205.0,
@@ -19023,7 +19023,7 @@
    "sma20": 90.847
   },
   "FWONK": {
-   "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+   "name": "Liberty Media Corporation - Series C Common Stock",
    "exchange": "NASDAQ",
    "prev_close": 94.17,
    "dv20": 177498126.0,
@@ -21387,19 +21387,6 @@
    "r6m": 10.5,
    "sma10": 21.849,
    "sma20": 22.1935
-  },
-  "HCWC": {
-   "name": "Healthy Choice Wellness Corp. Class A Common Stock",
-   "exchange": "NYSE American",
-   "prev_close": 11.33,
-   "dv20": 1236462.0,
-   "adr20": 14.51,
-   "vol20": 121844.0,
-   "r1m": 22.2,
-   "r3m": 32.7,
-   "r6m": 15.2,
-   "sma10": 9.683,
-   "sma20": 9.3285
   },
   "HD": {
    "name": "Home Depot, Inc. (The) Common Stock",
