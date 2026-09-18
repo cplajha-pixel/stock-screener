@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 13.97,
+    "last_close": 13.67,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -95,10 +95,10 @@
     "entry_price": 69.67,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 10.48,
-    "r_multiple": 1.8,
+    "pnl_pct": 10.21,
+    "r_multiple": 1.75,
     "remaining_frac": 0.5,
-    "last_close": 76.97,
+    "last_close": 76.6,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -131,11 +131,13 @@
     "entry_price": 70.46,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 9.24,
-    "r_multiple": 1.52,
-    "remaining_frac": 1.0,
-    "last_close": 76.97,
-    "notes": []
+    "pnl_pct": 8.71,
+    "r_multiple": 1.44,
+    "remaining_frac": 0.5,
+    "last_close": 76.6,
+    "notes": [
+     "3일째 절반 매도 8.7%"
+    ]
    }
   },
   {
@@ -162,10 +164,10 @@
     "entry_price": 9.45,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 6.03,
-    "r_multiple": 0.88,
+    "pnl_pct": 8.47,
+    "r_multiple": 1.24,
     "remaining_frac": 1.0,
-    "last_close": 10.02,
+    "last_close": 10.25,
     "notes": []
    }
   },
@@ -203,20 +205,48 @@
     "XGN",
     "PXS"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-18",
+    "entry_price": 7.97,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": 5.52,
+    "r_multiple": 1.01,
+    "remaining_frac": 1.0,
+    "last_close": 8.41,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-18",
+   "ticker": "XGN",
+   "name": "Exagen Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 8.42,
+   "stop_price": 7.9649,
+   "stop_pct": 5.4,
+   "reason": "3개월 +85.2% (후보 중 모멘텀 상위) · 급등 +97.4% 뒤 19일 횡보, 폭 23.3% · 거래량 급등기 대비 64% 로 감소 · 종가가 트리거가의 99.9% 위치",
+   "candidates": [
+    "XGN",
+    "ALVO",
+    "MSTR",
+    "AMC"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 7,
-  "triggered": 4,
+  "total": 8,
+  "triggered": 5,
   "not_triggered": 2,
   "closed": 1,
-  "open": 3,
+  "open": 4,
   "win_rate": 100.0,
-  "avg_pnl_pct": 6.67,
-  "avg_r": 1.09,
-  "sum_pnl_pct": 26.69
+  "avg_pnl_pct": 6.77,
+  "avg_r": 1.12,
+  "sum_pnl_pct": 33.85
  },
- "generated_at": "2026-09-17T21:30:22Z"
+ "generated_at": "2026-09-18T21:27:54Z"
 }
