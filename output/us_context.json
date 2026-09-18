@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18T14:21:40Z",
- "count": 33,
+ "generated_at": "2026-09-18T14:46:28Z",
+ "count": 32,
  "items": {
   "ABSI": {
    "ticker": "ABSI",
@@ -321,7 +321,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "ACHV": {
    "ticker": "ACHV",
@@ -594,7 +594,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -867,7 +867,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -1188,7 +1188,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "AYA": {
    "ticker": "AYA",
@@ -1357,179 +1357,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
-  },
-  "BIAF": {
-   "ticker": "BIAF",
-   "name": "bioAffinity Technologies, Inc.",
-   "sector": "Healthcare",
-   "industry": "Diagnostics & Research",
-   "market_cap": 6683188,
-   "description": "bioAffinity Technologies, Inc. engages in developing non-invasive diagnostic laboratory tests to detect early-stage lung cancer and other diseases of the lung using flow cytometry and automated analysis in the United States. The company operates through two segments: Diagnostic Research and Development; and Laboratory Services. The company offers CyPath lung which uses flow cytometry technology to detect and analyze cell populations in a person's sputum, or phlegm, to find characteristics indicative of lung cancer, including cancer and/or cancer-related cells that have shed from a lung tumor. ",
-   "price": 11.125,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
-   },
-   "short": {
-    "pct_of_float": 7.5,
-    "days_to_cover": 0.08,
-    "level": "보통",
-    "institutions_pct": 5.6,
-    "insiders_pct": 0.8
-   },
-   "health": {
-    "overall": "D",
-    "overall_word": "주의",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 38.076,
-      "unit": "%",
-      "grade": "A",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 1.442,
-      "unit": "x",
-      "grade": "C",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "보통"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": -117.1,
-      "unit": "%",
-      "grade": "F",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "위험"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -220.8,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 19.0,
-      "unit": "%",
-      "grade": "B",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": -1860.2,
-      "unit": "%",
-      "grade": "F",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": -257.3,
-      "unit": "%",
-      "grade": "F",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "위험"
-     }
-    ],
-    "piotroski": {
-     "score": 3,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": false,
-      "유동비율 개선": true,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": false
-     }
-    },
-    "altman": {
-     "z": -11.06,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z -11.06 (위험)",
-    "cash": 2429719,
-    "debt": 1435005,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 6107959.0,
-      "operating_income": -10626508.0,
-      "net_income": -14909754.0,
-      "eps": -129.9,
-      "operating_cash_flow": -9328842.0,
-      "free_cash_flow": -9389410.0,
-      "total_debt": 1160821.0,
-      "cash": 6449782.0,
-      "equity": 7277656.0
-     },
-     {
-      "year": "2024",
-      "revenue": 9362022.0,
-      "operating_income": -8953445.0,
-      "net_income": -9039831.0,
-      "eps": -337.5,
-      "operating_cash_flow": -7264795.0,
-      "free_cash_flow": -7343878.0,
-      "total_debt": 1501194.0,
-      "cash": 1105291.0,
-      "equity": 2602036.0
-     },
-     {
-      "year": "2023",
-      "revenue": 2532499.0,
-      "operating_income": -7973228.0,
-      "net_income": -7937011.0,
-      "eps": -409.5,
-      "operating_cash_flow": -6037806.0,
-      "free_cash_flow": -6060708.0,
-      "total_debt": 1578639.0,
-      "cash": 2821570.0,
-      "equity": 4855255.0
-     },
-     {
-      "year": "2022",
-      "revenue": 4803.0,
-      "operating_income": -4011058.0,
-      "net_income": -8154113.0,
-      "eps": -814.5,
-      "operating_cash_flow": -4070845.0,
-      "free_cash_flow": -4290832.0,
-      "total_debt": 251746.0,
-      "cash": 11413759.0,
-      "equity": 11043443.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": -18.541666,
-    "price_to_book": 1.3340929,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "CGEM": {
    "ticker": "CGEM",
@@ -1767,7 +1595,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "CORT": {
    "ticker": "CORT",
@@ -2022,7 +1850,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "DGII": {
    "ticker": "DGII",
@@ -2191,7 +2019,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "ETON": {
    "ticker": "ETON",
@@ -2480,7 +2308,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "FDMT": {
    "ticker": "FDMT",
@@ -2718,7 +2546,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -3101,7 +2929,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "KYMR": {
    "ticker": "KYMR",
@@ -3371,7 +3199,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "MBX": {
    "ticker": "MBX",
@@ -3609,7 +3437,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "MCS": {
    "ticker": "MCS",
@@ -3799,7 +3627,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "MRX": {
    "ticker": "MRX",
@@ -4140,7 +3968,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "MT": {
    "ticker": "MT",
@@ -4309,7 +4137,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -4508,7 +4336,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 243,
+     "views": 248,
      "comments": 0,
      "positive_pct": null
     },
@@ -4535,7 +4363,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 11216,
+     "views": 11405,
      "comments": 0,
      "positive_pct": null
     },
@@ -4554,7 +4382,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 139,
+     "views": 141,
      "comments": 0,
      "positive_pct": null
     },
@@ -4575,7 +4403,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 17840,
+     "views": 17899,
      "comments": 0,
      "positive_pct": null
     },
@@ -4596,7 +4424,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 9817,
+     "views": 9852,
      "comments": 0,
      "positive_pct": null
     },
@@ -4613,7 +4441,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 433,
+     "views": 434,
      "comments": 0,
      "positive_pct": null
     },
@@ -4635,7 +4463,7 @@
       "정보"
      ],
      "is_top": false,
-     "views": 9345,
+     "views": 9347,
      "comments": 0,
      "positive_pct": null
     },
@@ -4658,7 +4486,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "NRIX": {
    "ticker": "NRIX",
@@ -4914,7 +4742,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "OMER": {
    "ticker": "OMER",
@@ -5083,7 +4911,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "ORKA": {
    "ticker": "ORKA",
@@ -5351,7 +5179,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "P": {
    "ticker": "P",
@@ -5580,7 +5408,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 57560,
+     "views": 57561,
      "comments": 0,
      "positive_pct": null
     },
@@ -5622,7 +5450,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -5806,7 +5634,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "PXS": {
    "ticker": "PXS",
@@ -6003,7 +5831,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "SILC": {
    "ticker": "SILC",
@@ -6187,7 +6015,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "SNOW": {
    "ticker": "SNOW",
@@ -6530,7 +6358,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "SOPH": {
    "ticker": "SOPH",
@@ -6741,7 +6569,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -7098,7 +6926,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "TGT": {
    "ticker": "TGT",
@@ -7441,7 +7269,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "TVTX": {
    "ticker": "TVTX",
@@ -7729,7 +7557,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "URGN": {
    "ticker": "URGN",
@@ -8016,7 +7844,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "XGN": {
    "ticker": "XGN",
@@ -8235,7 +8063,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   },
   "ZBRA": {
    "ticker": "ZBRA",
@@ -8539,7 +8367,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:21:40.428649+00:00"
+   "updated": "2026-09-18T14:46:28.022894+00:00"
   }
  },
  "market": "us"

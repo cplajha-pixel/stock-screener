@@ -1,41 +1,12 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T14:21:40Z",
- "asof_et": "2026-09-18 10:21",
+ "generated_at": "2026-09-18T14:46:28Z",
+ "asof_et": "2026-09-18 10:46",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 1,
- "items": [
-  {
-   "date": "2026-09-18",
-   "ticker": "BIAF",
-   "name": "bioAffinity Technologies, Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "setup": "ep",
-   "trigger_price": 10.71,
-   "stop_price": 9.639,
-   "stop_pct": 10.0,
-   "open": 10.5,
-   "high_so_far": 12.455,
-   "last": 11.1801,
-   "prev_close": 8.75,
-   "gap_pct": 20.0,
-   "vol_est": 48779842,
-   "vol20": 8659114,
-   "vol_mult": 5.6,
-   "minutes_elapsed": 52,
-   "triggered": true,
-   "adr20": 25.2,
-   "r1m": 23.3,
-   "r3m": -29.9,
-   "r6m": -76.0,
-   "dv20": 84195298,
-   "qty": 32,
-   "score": -29.9,
-   "asof_et": "2026-09-18 10:21"
-  }
- ]
+ "count": 0,
+ "items": []
 }
