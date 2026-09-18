@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T14:46:28Z",
+ "generated_at": "2026-09-18T15:13:38Z",
  "count": 32,
  "items": {
   "ABSI": {
@@ -321,7 +321,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "ACHV": {
    "ticker": "ACHV",
@@ -594,7 +594,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -867,7 +867,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -1188,7 +1188,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "AYA": {
    "ticker": "AYA",
@@ -1357,7 +1357,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "CGEM": {
    "ticker": "CGEM",
@@ -1595,7 +1595,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "CORT": {
    "ticker": "CORT",
@@ -1850,7 +1850,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "DGII": {
    "ticker": "DGII",
@@ -2019,7 +2019,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "ETON": {
    "ticker": "ETON",
@@ -2308,7 +2308,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "FDMT": {
    "ticker": "FDMT",
@@ -2546,7 +2546,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2929,7 +2929,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "KYMR": {
    "ticker": "KYMR",
@@ -3199,7 +3199,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "MBX": {
    "ticker": "MBX",
@@ -3437,7 +3437,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "MCS": {
    "ticker": "MCS",
@@ -3627,7 +3627,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "MRX": {
    "ticker": "MRX",
@@ -3968,7 +3968,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "MT": {
    "ticker": "MT",
@@ -4137,7 +4137,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -4322,6 +4322,32 @@
    },
    "news": [
     {
+     "id": "news_U-AoGAg6Z_uG",
+     "title": "캘리포니아 주지사, AI 안전 규제 강화 행정명령 서명",
+     "title_en": "",
+     "summary": "개빈 뉴섬 캘리포니아 주지사가 AI의 잠재적 위험에 선제적으로 대응하기 위해 행정명령을 발동함\n\n\n- 전문가 그룹을 구성해 2개월 안에 주 차원...",
+     "source": "CNBC",
+     "time": "2026-09-18T15:07:00.250645Z",
+     "url": "https://www.saveticker.com/news/news_U-AoGAg6Z_uG",
+     "tickers": [
+      "NVDA",
+      "SNDK",
+      "MU",
+      "MSFT",
+      "GOOGL",
+      "META",
+      "AMZN",
+      "SKHY"
+     ],
+     "tags": [
+      "속보"
+     ],
+     "is_top": false,
+     "views": 2866,
+     "comments": 0,
+     "positive_pct": null
+    },
+    {
      "id": "news_zbcjhQVEcOh1",
      "title": "[2보] BYD·CATL·샤오미 경영진, 시진핑의 미국 방문에 동행할 수도 있다고 소식통 전해",
      "title_en": "UPDATE 1-BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
@@ -4336,7 +4362,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 248,
+     "views": 255,
      "comments": 0,
      "positive_pct": null
     },
@@ -4363,7 +4389,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 11405,
+     "views": 11579,
      "comments": 0,
      "positive_pct": null
     },
@@ -4382,7 +4408,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 141,
+     "views": 143,
      "comments": 0,
      "positive_pct": null
     },
@@ -4403,7 +4429,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 17899,
+     "views": 17968,
      "comments": 0,
      "positive_pct": null
     },
@@ -4424,7 +4450,7 @@
       "정보"
      ],
      "is_top": true,
-     "views": 9852,
+     "views": 9887,
      "comments": 0,
      "positive_pct": null
     },
@@ -4441,7 +4467,7 @@
      ],
      "tags": [],
      "is_top": false,
-     "views": 434,
+     "views": 435,
      "comments": 0,
      "positive_pct": null
     },
@@ -4463,30 +4489,12 @@
       "정보"
      ],
      "is_top": false,
-     "views": 9347,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_Vfl7Pan7t53Z",
-     "title": "어플라이드 머티어리얼즈, 모디의 대표 반도체 행사 시작에 맞춰 인도에 50억 달러 투자",
-     "title_en": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off",
-     "summary": "문시프 벤가틸\n\n\n뉴델리, 9월 17일 (로이터) - 미국 반도체 장비 제조업체 어플라이드 머티어리얼스(AMAT.O)는 인도 내 입지를 확대하기...",
-     "source": "reuters",
-     "time": "2026-09-17T08:14:26.943828Z",
-     "url": "https://www.saveticker.com/news/news_Vfl7Pan7t53Z",
-     "tickers": [
-      "AMAT",
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 236,
+     "views": 9349,
      "comments": 0,
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "NRIX": {
    "ticker": "NRIX",
@@ -4742,7 +4750,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "OMER": {
    "ticker": "OMER",
@@ -4911,7 +4919,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "ORKA": {
    "ticker": "ORKA",
@@ -5179,7 +5187,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "P": {
    "ticker": "P",
@@ -5408,7 +5416,7 @@
       "속보"
      ],
      "is_top": true,
-     "views": 57561,
+     "views": 57563,
      "comments": 0,
      "positive_pct": null
     },
@@ -5450,7 +5458,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -5634,7 +5642,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "PXS": {
    "ticker": "PXS",
@@ -5831,7 +5839,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "SILC": {
    "ticker": "SILC",
@@ -6015,7 +6023,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "SNOW": {
    "ticker": "SNOW",
@@ -6358,7 +6366,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "SOPH": {
    "ticker": "SOPH",
@@ -6569,7 +6577,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -6926,7 +6934,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "TGT": {
    "ticker": "TGT",
@@ -7269,7 +7277,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "TVTX": {
    "ticker": "TVTX",
@@ -7557,7 +7565,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "URGN": {
    "ticker": "URGN",
@@ -7844,7 +7852,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "XGN": {
    "ticker": "XGN",
@@ -8063,7 +8071,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   },
   "ZBRA": {
    "ticker": "ZBRA",
@@ -8367,7 +8375,7 @@
      "positive_pct": null
     }
    ],
-   "updated": "2026-09-18T14:46:28.022894+00:00"
+   "updated": "2026-09-18T15:13:38.820486+00:00"
   }
  },
  "market": "us"
