@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 13.67,
+    "last_close": 13.44,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -95,10 +95,10 @@
     "entry_price": 69.67,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 10.21,
-    "r_multiple": 1.75,
+    "pnl_pct": 12.01,
+    "r_multiple": 2.06,
     "remaining_frac": 0.5,
-    "last_close": 76.6,
+    "last_close": 79.1,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -131,10 +131,10 @@
     "entry_price": 70.46,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 8.71,
-    "r_multiple": 1.44,
+    "pnl_pct": 10.49,
+    "r_multiple": 1.73,
     "remaining_frac": 0.5,
-    "last_close": 76.6,
+    "last_close": 79.1,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -164,11 +164,13 @@
     "entry_price": 9.45,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 8.47,
-    "r_multiple": 1.24,
-    "remaining_frac": 1.0,
-    "last_close": 10.25,
-    "notes": []
+    "pnl_pct": 7.83,
+    "r_multiple": 1.15,
+    "remaining_frac": 0.5,
+    "last_close": 10.19,
+    "notes": [
+     "3일째 절반 매도 7.8%"
+    ]
    }
   },
   {
@@ -211,10 +213,10 @@
     "entry_price": 7.97,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 5.52,
-    "r_multiple": 1.01,
+    "pnl_pct": 8.16,
+    "r_multiple": 1.49,
     "remaining_frac": 1.0,
-    "last_close": 8.41,
+    "last_close": 8.62,
     "notes": []
    }
   },
@@ -233,20 +235,46 @@
     "MSTR",
     "AMC"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-21",
+    "entry_price": 8.6,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": 0.23,
+    "r_multiple": 0.04,
+    "remaining_frac": 1.0,
+    "last_close": 8.62,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-21",
+   "ticker": "RCEL",
+   "name": "Avita Medical, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 11.25,
+   "stop_price": 10.6329,
+   "stop_pct": 5.49,
+   "reason": "3개월 +169.0% (후보 중 모멘텀 상위) · 급등 +197.4% 뒤 10일 횡보, 폭 17.2% · 거래량 급등기 대비 92% 로 감소 · 종가가 트리거가의 96.4% 위치",
+   "candidates": [
+    "RCEL",
+    "EFOR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 8,
-  "triggered": 5,
+  "total": 9,
+  "triggered": 6,
   "not_triggered": 2,
   "closed": 1,
-  "open": 4,
+  "open": 5,
   "win_rate": 100.0,
-  "avg_pnl_pct": 6.77,
-  "avg_r": 1.12,
-  "sum_pnl_pct": 33.85
+  "avg_pnl_pct": 6.61,
+  "avg_r": 1.11,
+  "sum_pnl_pct": 39.66
  },
- "generated_at": "2026-09-18T21:27:54Z"
+ "generated_at": "2026-09-21T21:28:11Z"
 }

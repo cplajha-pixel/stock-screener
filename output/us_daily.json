@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-09-18T21:28:25Z",
- "date": "2026-09-18",
+ "generated_at": "2026-09-21T21:28:35Z",
+ "date": "2026-09-21",
  "macro": [
   {
    "ticker": "SPY",
    "name": "S&P 500 (SPY)",
-   "last": 761.69,
-   "date": "2026-09-18",
-   "d1": -0.12,
-   "w1": -0.34,
-   "m1": -0.96,
-   "m3": 2.0,
-   "d1_abs": -0.91,
+   "last": 773.5,
+   "date": "2026-09-21",
+   "d1": 1.55,
+   "w1": 1.91,
+   "m1": 1.68,
+   "m3": 3.91,
+   "d1_abs": 11.81,
    "level": false,
-   "high_52w": 777.88,
+   "high_52w": 775.95,
    "low_52w": 630.35
   },
   {
    "ticker": "QQQ",
    "name": "나스닥100 (QQQ)",
-   "last": 721.45,
-   "date": "2026-09-18",
-   "d1": 0.63,
-   "w1": 0.92,
-   "m1": 0.75,
-   "m3": -2.48,
-   "d1_abs": 4.53,
+   "last": 741.47,
+   "date": "2026-09-21",
+   "d1": 2.77,
+   "w1": 4.55,
+   "m1": 4.3,
+   "m3": 0.48,
+   "d1_abs": 20.02,
    "level": false,
    "high_52w": 745.34,
    "low_52w": 557.67
@@ -33,13 +33,13 @@
   {
    "ticker": "IWM",
    "name": "소형주 (IWM)",
-   "last": 284.1,
-   "date": "2026-09-18",
-   "d1": -0.47,
-   "w1": -1.4,
-   "m1": -5.59,
-   "m3": -3.89,
-   "d1_abs": -1.33,
+   "last": 285.58,
+   "date": "2026-09-21",
+   "d1": 0.52,
+   "w1": -0.55,
+   "m1": -3.81,
+   "m3": -4.23,
+   "d1_abs": 1.48,
    "level": false,
    "high_52w": 304.3,
    "low_52w": 227.4
@@ -47,13 +47,13 @@
   {
    "ticker": "^VIX",
    "name": "변동성 VIX",
-   "last": 14.81,
-   "date": "2026-09-18",
-   "d1": -4.08,
-   "w1": -6.5,
-   "m1": -7.5,
-   "m3": -14.29,
-   "d1_abs": -0.63,
+   "last": 14.87,
+   "date": "2026-09-21",
+   "d1": 0.41,
+   "w1": -13.04,
+   "m1": -1.72,
+   "m3": -23.7,
+   "d1_abs": 0.06,
    "level": true,
    "high_52w": 31.05,
    "low_52w": 13.47
@@ -61,13 +61,13 @@
   {
    "ticker": "^TNX",
    "name": "미 10년물 금리",
-   "last": 5.0,
-   "date": "2026-09-18",
-   "d1": 1.03,
-   "w1": 0.46,
-   "m1": 7.41,
-   "m3": 12.29,
-   "d1_abs": 0.05,
+   "last": 4.96,
+   "date": "2026-09-21",
+   "d1": -0.7,
+   "w1": 0.04,
+   "m1": 5.69,
+   "m3": 10.07,
+   "d1_abs": -0.03,
    "level": true,
    "high_52w": 5.01,
    "low_52w": 3.95
@@ -75,13 +75,13 @@
   {
    "ticker": "DX-Y.NYB",
    "name": "달러 인덱스",
-   "last": 100.21,
-   "date": "2026-09-18",
-   "d1": -0.0,
-   "w1": 1.1,
-   "m1": 1.4,
-   "m3": -0.63,
-   "d1_abs": -0.01,
+   "last": 100.39,
+   "date": "2026-09-21",
+   "d1": 0.17,
+   "w1": 0.94,
+   "m1": 1.51,
+   "m3": -0.62,
+   "d1_abs": 0.17,
    "level": true,
    "high_52w": 101.61,
    "low_52w": 96.22
@@ -89,13 +89,13 @@
   {
    "ticker": "CL=F",
    "name": "WTI 원유",
-   "last": 95.47,
-   "date": "2026-09-18",
-   "d1": -6.32,
-   "w1": -4.58,
-   "m1": 11.23,
-   "m3": 24.63,
-   "d1_abs": -6.44,
+   "last": 91.97,
+   "date": "2026-09-21",
+   "d1": -8.31,
+   "w1": -9.29,
+   "m1": 4.71,
+   "m3": 22.92,
+   "d1_abs": -8.33,
    "level": false,
    "high_52w": 112.95,
    "low_52w": 55.27
@@ -103,27 +103,27 @@
   {
    "ticker": "GC=F",
    "name": "금",
-   "last": 4415.9,
-   "date": "2026-09-18",
-   "d1": 0.37,
-   "w1": 0.16,
-   "m1": -2.85,
-   "m3": 4.0,
-   "d1_abs": 16.2,
+   "last": 4381.0,
+   "date": "2026-09-21",
+   "d1": -0.99,
+   "w1": 0.67,
+   "m1": -4.17,
+   "m3": 4.24,
+   "d1_abs": -43.9,
    "level": false,
    "high_52w": 5318.4,
-   "low_52w": 3678.3
+   "low_52w": 3705.8
   },
   {
    "ticker": "BTC-USD",
    "name": "비트코인",
-   "last": 81157.09,
-   "date": "2026-09-18",
-   "d1": 6.22,
-   "w1": 5.62,
-   "m1": 4.27,
-   "m3": 27.01,
-   "d1_abs": 4753.32,
+   "last": 86631.23,
+   "date": "2026-09-21",
+   "d1": 6.76,
+   "w1": 13.76,
+   "m1": 10.29,
+   "m3": 32.81,
+   "d1_abs": 5488.62,
    "level": false,
    "high_52w": 96929.33,
    "low_52w": 58558.86
@@ -131,717 +131,30 @@
   {
    "ticker": "HG=F",
    "name": "구리",
-   "last": 6.72,
-   "date": "2026-09-18",
-   "d1": 1.96,
-   "w1": 3.8,
-   "m1": 3.51,
-   "m3": 5.35,
-   "d1_abs": 0.13,
+   "last": 6.79,
+   "date": "2026-09-21",
+   "d1": 2.68,
+   "w1": 7.3,
+   "m1": 5.14,
+   "m3": 6.85,
+   "d1_abs": 0.18,
    "level": false,
    "high_52w": 6.8,
-   "low_52w": 4.54
+   "low_52w": 4.57
   }
  ],
  "explain": [
-  "SPY가 200일 이동평균보다 6.8% 위, S&P 500 종목 중 52.5%가 200일선 위 → 장기 자금 신호 '지금 투입'",
-  "VIX 14.81: 안정 구간(20 미만) — 추세 매매에 유리한 환경",
-  "미 10년물 5.0% (하루 +0.05p): 큰 변화 없음",
-  "WTI 원유 $95.47 (한 달 +11.23%): 유가 급등 — 에너지주 강세, 소비·항공에 부담, 물가 우려",
-  "달러 인덱스 100.21 (한 달 +1.4%): 달러 안정",
-  "소형주가 대형주보다 한 달 -4.6%p: 대형주 주도 — 소형주 돌파 실패 잦을 수 있음"
+  "SPY가 200일 이동평균보다 8.3% 위, S&P 500 종목 중 51.9%가 200일선 위 → 장기 자금 신호 '지금 투입'",
+  "VIX 14.87: 안정 구간(20 미만) — 추세 매매에 유리한 환경",
+  "미 10년물 4.96% (하루 -0.03p): 큰 변화 없음",
+  "WTI 원유 $91.97 (한 달 +4.71%): 유가 안정",
+  "달러 인덱스 100.39 (한 달 +1.51%): 달러 안정",
+  "소형주가 대형주보다 한 달 -5.5%p: 대형주 주도 — 소형주 돌파 실패 잦을 수 있음"
  ],
- "calendar": [
-  {
-   "id": "6aa6b0e5367df81e68537c29",
-   "title": "물가채 10년 발행금리",
-   "importance": 2,
-   "time": "2026-09-18T02:00:00",
-   "date_only": false,
-   "kst": "09/18 02:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6aa6b12b4990f42300ff1762",
-   "title": "일본 기준금리 결정",
-   "importance": 3,
-   "time": "2026-09-18T12:00:00",
-   "date_only": false,
-   "kst": "09/18 12:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a84746d367df81e68922145",
-   "title": "8월 산업생산 MoM",
-   "importance": 2,
-   "time": "2026-09-18T22:15:00",
-   "date_only": false,
-   "kst": "09/18 22:15",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a84746d367df81e68922146",
-   "title": "8월 산업생산 YoY",
-   "importance": 2,
-   "time": "2026-09-18T22:15:00",
-   "date_only": false,
-   "kst": "09/18 22:15",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6aa3cb1d367df81e684a9a40",
-   "title": "보우먼 부의장 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-18T22:30:00",
-   "date_only": false,
-   "kst": "09/18 22:30",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6a84746d367df81e68922148",
-   "title": "8월 경기선행지수",
-   "importance": 2,
-   "time": "2026-09-18T23:00:00",
-   "date_only": false,
-   "kst": "09/18 23:00",
-   "is_today": false,
-   "is_past": true
-  },
-  {
-   "id": "6aa6b149c5e6076329ee46cc",
-   "title": "연준 슈미드 총재 (매파/투표권 X)",
-   "importance": 0,
-   "time": "2026-09-19T00:45:00",
-   "date_only": false,
-   "kst": "09/19 00:45",
-   "is_today": true,
-   "is_past": true
-  },
-  {
-   "id": "6aad21bc367df81e687c872e",
-   "title": "슈미드 총재 (매파/투표권 X)",
-   "importance": 0,
-   "time": "2026-09-19T00:45:00",
-   "date_only": false,
-   "kst": "09/19 00:45",
-   "is_today": true,
-   "is_past": true
-  },
-  {
-   "id": "6a85c501367df81e689ca6be",
-   "title": "베이커휴즈 총시추기수",
-   "importance": 2,
-   "time": "2026-09-19T02:00:00",
-   "date_only": false,
-   "kst": "09/19 02:00",
-   "is_today": true,
-   "is_past": true
-  },
-  {
-   "id": "6aa416cf367df81e684d3f87",
-   "title": "굴스비 총재 (매파/투표권 X)",
-   "importance": 0,
-   "time": "2026-09-21T19:30:00",
-   "date_only": false,
-   "kst": "09/21 19:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a886878367df81e68b19c40",
-   "title": "8월 시카고연은 전미경제활동지수",
-   "importance": 1,
-   "time": "2026-09-21T21:30:00",
-   "date_only": false,
-   "kst": "09/21 21:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a89b983367df81e68b4b46a",
-   "title": "ADP 주간 고용변화 보고서",
-   "importance": 2,
-   "time": "2026-09-22T21:15:00",
-   "date_only": false,
-   "kst": "09/22 21:15",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a89b983367df81e68b4b46b",
-   "title": "9월 리치몬드연은 제조업지수",
-   "importance": 1,
-   "time": "2026-09-22T23:00:00",
-   "date_only": false,
-   "kst": "09/22 23:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aa416cf367df81e684d3f88",
-   "title": "윌리엄스 총재 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-22T23:05:00",
-   "date_only": false,
-   "kst": "09/22 23:05",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aa416cf367df81e684d3f89",
-   "title": "제퍼슨 부의장 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-22T23:20:00",
-   "date_only": false,
-   "kst": "09/22 23:20",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8b0b07367df81e68b89296",
-   "title": "2년물 국채 입찰",
-   "importance": 2,
-   "time": "2026-09-23T02:00:00",
-   "date_only": false,
-   "kst": "09/23 02:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c3979",
-   "title": "바킨 총재 (중립/투표권 X)",
-   "importance": 0,
-   "time": "2026-09-23T02:00:00",
-   "date_only": false,
-   "kst": "09/23 02:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8b0b07367df81e68b89297",
-   "title": "9월 S&P글로벌 합성 PMI",
-   "importance": 2,
-   "time": "2026-09-23T22:45:00",
-   "date_only": false,
-   "kst": "09/23 22:45",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8b0b07367df81e68b89298",
-   "title": "9월 S&P글로벌 제조업 PMI",
-   "importance": 2,
-   "time": "2026-09-23T22:45:00",
-   "date_only": false,
-   "kst": "09/23 22:45",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8b0b07367df81e68b89299",
-   "title": "9월 S&P글로벌 서비스업 PMI",
-   "importance": 2,
-   "time": "2026-09-23T22:45:00",
-   "date_only": false,
-   "kst": "09/23 22:45",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c397a",
-   "title": "바 이사 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-23T23:05:00",
-   "date_only": false,
-   "kst": "09/23 23:05",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8b0b07367df81e68b8929a",
-   "title": "EIA 원유 재고",
-   "importance": 3,
-   "time": "2026-09-23T23:30:00",
-   "date_only": false,
-   "kst": "09/23 23:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aaaa16c367df81e686e47dc",
-   "title": "President Trump and President Xi Summit",
-   "importance": 0,
-   "time": "2026-09-24T00:00:00",
-   "date_only": true,
-   "kst": "09/24 00:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02301",
-   "title": "5년물 국채 입찰",
-   "importance": 2,
-   "time": "2026-09-24T02:00:00",
-   "date_only": false,
-   "kst": "09/24 02:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c397b",
-   "title": "윌리엄스 총재 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-24T17:10:00",
-   "date_only": false,
-   "kst": "09/24 17:10",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c397c",
-   "title": "바킨 총재 (중립/투표권 X)",
-   "importance": 0,
-   "time": "2026-09-24T21:00:00",
-   "date_only": false,
-   "kst": "09/24 21:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02303",
-   "title": "2분기 경상수지",
-   "importance": 2,
-   "time": "2026-09-24T21:30:00",
-   "date_only": false,
-   "kst": "09/24 21:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02304",
-   "title": "신규실업수당청구건수",
-   "importance": 3,
-   "time": "2026-09-24T21:30:00",
-   "date_only": false,
-   "kst": "09/24 21:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c397d",
-   "title": "해맥 총재 (매파/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-24T21:50:00",
-   "date_only": false,
-   "kst": "09/24 21:50",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02305",
-   "title": "8월 신규주택판매",
-   "importance": 3,
-   "time": "2026-09-24T23:00:00",
-   "date_only": false,
-   "kst": "09/24 23:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02306",
-   "title": "8월 신규주택판매 MoM",
-   "importance": 3,
-   "time": "2026-09-24T23:00:00",
-   "date_only": false,
-   "kst": "09/24 23:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aa416cf367df81e684d3f8b",
-   "title": "폴슨 총재 (비둘기/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-24T23:10:00",
-   "date_only": false,
-   "kst": "09/24 23:10",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8c5c88367df81e68c02307",
-   "title": "EIA 천연가스 재고",
-   "importance": 1,
-   "time": "2026-09-24T23:30:00",
-   "date_only": false,
-   "kst": "09/24 23:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8dae08367df81e68cb8db3",
-   "title": "7년물 국채 입찰",
-   "importance": 2,
-   "time": "2026-09-25T02:00:00",
-   "date_only": false,
-   "kst": "09/25 02:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6aad17f0367df81e687c397e",
-   "title": "윌리엄스 총재 (중립/투표권 O)",
-   "importance": 0,
-   "time": "2026-09-25T18:15:00",
-   "date_only": false,
-   "kst": "09/25 18:15",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8dae08367df81e68cb8db4",
-   "title": "8월 내구재수주",
-   "importance": 2,
-   "time": "2026-09-25T21:30:00",
-   "date_only": false,
-   "kst": "09/25 21:30",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8dae08367df81e68cb8db5",
-   "title": "9월 미시간대 소비자심리지수",
-   "importance": 2,
-   "time": "2026-09-25T23:00:00",
-   "date_only": false,
-   "kst": "09/25 23:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8dae08367df81e68cb8db6",
-   "title": "9월 미시간대 5년 기대인플레이션",
-   "importance": 2,
-   "time": "2026-09-25T23:00:00",
-   "date_only": false,
-   "kst": "09/25 23:00",
-   "is_today": false,
-   "is_past": false
-  },
-  {
-   "id": "6a8dae08367df81e68cb8db7",
-   "title": "9월 미시간대 1년 기대인플레이션",
-   "importance": 2,
-   "time": "2026-09-25T23:00:00",
-   "date_only": false,
-   "kst": "09/25 23:00",
-   "is_today": false,
-   "is_past": false
-  }
- ],
- "top_stories": [
-  {
-   "id": "news_SqBhUM04kg2J",
-   "title": "스코프, 프랑스 국가신용등급 AA-에서 A+로 강등",
-   "title_en": "",
-   "summary": "스코프 레이팅스가 프랑스의 국가신용등급을 AA-에서 A+로 한 단계 강등함\n\n\n- 스코프의 프랑스 신용등급 평가는 피치와 S&P와 같은 수준이 ...",
-   "source": "",
-   "time": "2026-09-18T20:13:46.090227Z",
-   "url": "https://www.saveticker.com/news/news_SqBhUM04kg2J",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 2038,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_Y-5mP4ARddqu",
-   "title": "(카더라) 앤트로픽, 이르면 11월 상장 추진…연환산 매출 1,000억 달러 전망",
-   "title_en": "",
-   "summary": "뉴욕타임스는 소식통을 인용해,\n앤트로픽이 아모데이 CEO의 AI 개발 속도 조절 요구로 안전성 논쟁이 한창인 가운데서도 역대 최대 규모가 될 수...",
-   "source": "뉴욕타임스",
-   "time": "2026-09-18T20:07:58.360373Z",
-   "url": "https://www.saveticker.com/news/news_Y-5mP4ARddqu",
-   "tickers": [
-    "NVDA",
-    "MU",
-    "AVGO",
-    "SKHY"
-   ],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 2318,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_Bu5AhfQttEQp",
-   "title": "트럼프 “이란, 협상 원해…후티와도 대화 중”",
-   "title_en": "",
-   "summary": "트럼프 대통령은 뉴스네이션과 인터뷰에서,\n이란이 현재 합의를 원하고 있지만 \"제대로 된 합의\"가 아니라면 검토조차 하지 않겠다는 단호한 입장을 ...",
-   "source": "뉴스네이션",
-   "time": "2026-09-18T16:30:53.648118Z",
-   "url": "https://www.saveticker.com/news/news_Bu5AhfQttEQp",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 10468,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_kK89DL0HDe5M",
-   "title": "미 증시, 7조달러 옵션 만기·리밸런싱 임박",
-   "title_en": "",
-   "summary": "미 증시 선물은 약 7조 달러 규모의 옵션이 만기를 맞는 ‘트리플 위칭(세 마녀의 날)’과 주요 지수 리밸런싱을 앞두고 있음\n\n\n- 이번 옵션 ...",
-   "source": "블룸버그",
-   "time": "2026-09-18T10:10:13.077367Z",
-   "url": "https://www.saveticker.com/news/news_kK89DL0HDe5M",
-   "tickers": [],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 21825,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_vUxr4ZjvhziG",
-   "title": "(카더라) 오픈AI·앤트로픽, 빠른 컴퓨팅 용량 확보 위해 소규모 데이터센터 눈독",
-   "title_en": "",
-   "summary": "CNBC는 소식통을 인용해,\n오픈AI와 앤트로픽이 기존의 수백 MW~GW(기가와트)급 대형 데이터센터 계약과 병행해 20~30MW 수준의 소규모...",
-   "source": "CNBC",
-   "time": "2026-09-18T09:44:26.701982Z",
-   "url": "https://www.saveticker.com/news/news_vUxr4ZjvhziG",
-   "tickers": [
-    "AMD",
-    "NVDA",
-    "MU",
-    "CRWV",
-    "INTC",
-    "ORCL",
-    "NBIS",
-    "IREN",
-    "SKHY"
-   ],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 12356,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_muzqdiqb3t6G",
-   "title": "일본은행 총재, “정책 국면 변화…이제 인플레 2% 안착이 목표”",
-   "title_en": "",
-   "summary": "일본은행(BOJ) 우에다 총재는 기자회견에서 기조적 물가상승률이 2%에 가까워지면서 금융정책의 국면이 바뀌었다고 평가함\n\n\n- 과거에는 물가를 ...",
-   "source": "",
-   "time": "2026-09-18T07:49:55.020486Z",
-   "url": "https://www.saveticker.com/news/news_muzqdiqb3t6G",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 12574,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_6qrO9E6VwIsa",
-   "title": "(카더라) 창신메모리, 낸드 시장 진출 추진…삼성·SK하이닉스·마이크론에 도전",
-   "title_en": "",
-   "summary": "로이터 통신은 소식통을 인용해,\n중국 최대 DRAM 업체인 창신메모리(CXMT)가 베이징 신규 공장에 낸드플래시 연구개발(R&D) 생산라인을 구...",
-   "source": "로이터",
-   "time": "2026-09-18T06:21:08.426336Z",
-   "url": "https://www.saveticker.com/news/news_6qrO9E6VwIsa",
-   "tickers": [
-    "SNDK",
-    "MU",
-    "SKHY"
-   ],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 18312,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_ETOnu5jKqjVL",
-   "title": "일본은행, 기준금리 1.25%로 인상…위원 2명 반대",
-   "title_en": "",
-   "summary": "일본은행(BOJ)은 기준금리를 0.25%포인트 올려 1.25%로 인상함\n\n\n- 이번 결정은 정책위원 2명이 반대표를 던진 가운데 이뤄졌으며, 직...",
-   "source": "블룸버그",
-   "time": "2026-09-18T06:16:35.831109Z",
-   "url": "https://www.saveticker.com/news/news_ETOnu5jKqjVL",
-   "tickers": [],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 11941,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_-tKPbkCNhqQA",
-   "title": "(카더라) SK하이닉스 솔리다임, 미국 NAND 공장 건설 검토…뉴욕주 북부 유력 후보",
-   "title_en": "",
-   "summary": "로이터 통신은 소식통을 인용해\nSK하이닉스의 미국 자회사 솔리다임이 미국 내 낸드플래시 공장 신설을 검토 중이며 뉴욕주 북부가 유력한 후보지로 ...",
-   "source": "로이터",
-   "time": "2026-09-18T06:13:07.882877Z",
-   "url": "https://www.saveticker.com/news/news_-tKPbkCNhqQA",
-   "tickers": [
-    "SKHY",
-    "SNDK",
-    "MU"
-   ],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 10063,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news__AczxFa6IPAw",
-   "title": "트럼프,  “이란 전쟁 중대 기로에 접근…대규모 공격 재개 여부 결정할 것”",
-   "title_en": "",
-   "summary": "트럼프 대통령은 Axios와의 인터뷰에서 이란과의 전쟁을 끝내기 위한 방안으로 대규모 군사작전을 재개할지 중대한 기로에 서 있다며, “이란 정권...",
-   "source": "Axios",
-   "time": "2026-09-17T17:00:36.120129Z",
-   "url": "https://www.saveticker.com/news/news__AczxFa6IPAw",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 31560,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_LouSSwPMupGX",
-   "title": "엔비디아 CEO, AI 안전 강조…내년 칩 판매 2배 전망",
-   "title_en": "",
-   "summary": "엔비디아 젠슨 황 CEO가 스코틀랜드에서 찰스 3세 국왕과 함께 열린 AI 정상회의에서 AI 안전이 최우선이며, 안전하지 않은 제품은 출시를 보...",
-   "source": "",
-   "time": "2026-09-17T12:36:54.574700Z",
-   "url": "https://www.saveticker.com/news/news_LouSSwPMupGX",
-   "tickers": [
-    "NVDA"
-   ],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 9810,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_ViyampBc47_5",
-   "title": "(카더라) 중국, 사우디 요청 이후 이란에 후티 반군 자제 요청",
-   "title_en": "",
-   "summary": "로이터 통신은 이란 소식통을 인용해\n중국이 사우디아라비아의 요청을 받은 뒤, 이란에 예멘 후티 반군을 자제시키기 위해 영향력을 행사해달라고 비공...",
-   "source": "로이터",
-   "time": "2026-09-17T12:02:09.397207Z",
-   "url": "https://www.saveticker.com/news/news_ViyampBc47_5",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 18618,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_A4H7daqYiLiL",
-   "title": "엔비디아 GPU 임대료 20% 인상… AI 인프라 수익성 확대",
-   "title_en": "",
-   "summary": "네비우스가 10월 1일부로 엔비디아 주요 GPU(H100, H200, B200, B300)의 임대료를 약 20% 인상함\n\n\n- 양산된 지 4년이...",
-   "source": "블룸버그",
-   "time": "2026-09-17T06:32:06.576468Z",
-   "url": "https://www.saveticker.com/news/news_A4H7daqYiLiL",
-   "tickers": [
-    "NBIS",
-    "IREN",
-    "CRWV",
-    "NVDA",
-    "AMZN",
-    "META",
-    "GOOGL",
-    "MSFT",
-    "SKHY",
-    "MU"
-   ],
-   "tags": [
-    "정보"
-   ],
-   "is_top": true,
-   "views": 21631,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_1MbZISYuDU4H",
-   "title": "트럼프 “금리 너무 높아…워시 신뢰하지만 연준 이사회가 문제”",
-   "title_en": "",
-   "summary": "트럼프 대통령은 미국 경제가 역사상 가장 강한 수준이라며, 연준이 금리를 인상하는 것은 자신에게 타격을 주려는 '정치적 의도'라고 비판하며 미국...",
-   "source": "",
-   "time": "2026-09-16T22:41:10.532824Z",
-   "url": "https://www.saveticker.com/news/news_1MbZISYuDU4H",
-   "tickers": [],
-   "tags": [
-    "속보"
-   ],
-   "is_top": true,
-   "views": 34768,
-   "comments": 0,
-   "positive_pct": null
-  },
-  {
-   "id": "news_DNA8q4bFT7z8",
-   "title": "연준 의장, “단일 지표보다 추세 본다…향후 금리 경로는 예단 안 해”",
-   "title_en": "",
-   "summary": "케빈 워시 연준 의장은 기준금리를 만장일치로 0.25%p 인상해 3.75~4.00%로 결정했다고 발표함\n\n\n- 미국 경제와 고용 시장이 예상보다...",
-   "source": "",
-   "time": "2026-09-16T19:05:14.799281Z",
-   "url": "https://www.saveticker.com/news/news_DNA8q4bFT7z8",
-   "tickers": [],
-   "tags": [
-    "연준"
-   ],
-   "is_top": true,
-   "views": 27372,
-   "comments": 0,
-   "positive_pct": null
-  }
- ],
+ "calendar": [],
+ "top_stories": [],
  "fred": [],
  "breadth_history": [
-  {
-   "date": "2026-08-07",
-   "breadth_pct": 73.5
-  },
   {
    "date": "2026-08-10",
    "breadth_pct": 73.1
@@ -957,18 +270,22 @@
   {
    "date": "2026-09-18",
    "breadth_pct": 52.5
+  },
+  {
+   "date": "2026-09-21",
+   "breadth_pct": 51.9
   }
  ],
- "short_universe_size": 116,
+ "short_universe_size": 113,
  "market": "us",
  "temperature": {
   "index": "SPY",
-  "close": 760.88,
-  "sma200": 712.55,
+  "close": 773.5,
+  "sma200": 714.41,
   "above_sma200": true,
-  "pct_vs_sma200": 6.8,
-  "breadth_pct": 52.5,
-  "breadth_n": 500,
+  "pct_vs_sma200": 8.3,
+  "breadth_pct": 51.9,
+  "breadth_n": 501,
   "signal": "지금 투입"
  }
 }
