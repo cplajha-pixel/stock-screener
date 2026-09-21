@@ -1,7 +1,7 @@
 {
  "date": "2026-09-18",
- "generated_at": "2026-09-18T21:27:53Z",
- "count": 3914,
+ "generated_at": "2026-09-21T14:22:12Z",
+ "count": 3913,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -11949,19 +11949,6 @@
    "r6m": 0.9,
    "sma10": 87.073,
    "sma20": 86.207
-  },
-  "CSAN": {
-   "name": "Cosan S.A. ADS",
-   "exchange": "NYSE",
-   "prev_close": 2.75,
-   "dv20": 8305300.0,
-   "adr20": 4.76,
-   "vol20": 2910731.0,
-   "r1m": 8.3,
-   "r3m": 3.4,
-   "r6m": -31.8,
-   "sma10": 2.833,
-   "sma20": 2.8405
   },
   "CSCO": {
    "name": "Cisco Systems, Inc. - Common Stock",

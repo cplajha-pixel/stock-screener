@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-18T21:27:54Z",
- "count": 17,
+ "generated_at": "2026-09-21T14:22:44Z",
+ "count": 18,
  "items": {
   "AGEN": {
    "ticker": "AGEN",
    "name": "Agenus Inc.",
    "sector": "Healthcare",
    "industry": "Biotechnology",
-   "market_cap": 354521024,
+   "market_cap": 362126304,
    "description": "Agenus Inc., a clinical-stage biotechnology company, discovers and develops immunotherapies for cancer and infectious diseases in the United States and internationally. It offers Retrocyte Display, an antibody expression platform for the identification of fully human and humanized monoclonal antibodies; and display technologies. It develops QS-21 Stimulon adjuvant, a saponin-based vaccine adjuvant. The company also develops Balstilimab, a programmed death receptor-1 (PD-1) blocking antibody; AGEN1181, a human Fc-enhanced cytotoxic T-lymphocyte antigen 4 (CTLA-4) blocking antibody that is in Ph",
-   "price": 7.85,
+   "price": 8.0184,
    "analyst": {
-    "recommendation": "의견 없음",
-    "count": 2,
-    "target_mean": 19.5,
+    "recommendation": "적극 매수",
+    "count": 3,
+    "target_mean": 26.33333,
     "target_low": 14.0,
-    "target_high": 25.0,
-    "upside_pct": 148.4,
+    "target_high": 40.0,
+    "upside_pct": 228.4,
     "breakdown": {
      "strong_buy": 0,
-     "buy": 2,
+     "buy": 3,
      "hold": 0,
      "sell": 0,
      "strong_sell": 0
@@ -28,7 +28,7 @@
    "next_earnings": "2026-11-05",
    "earnings_est": {
     "eps_avg": 0.04,
-    "revenue_avg": 35500000
+    "revenue_avg": 28233330
    },
    "short": {
     "pct_of_float": 15.0,
@@ -120,10 +120,10 @@
      }
     },
     "altman": {
-     "z": -12.8,
+     "z": -12.79,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 6/9 (보통) · 알트만 Z -12.8 (위험)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 6/9 (보통) · 알트만 Z -12.79 (위험)",
     "cash": 18738000,
     "debt": 40708000,
     "years": [
@@ -178,29 +178,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 2.625418,
-    "forward_pe": -130.83333,
-    "price_to_book": -1.6805823,
+    "trailing_pe": 2.681739,
+    "forward_pe": -133.64,
+    "price_to_book": -1.7166346,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "ALVO": {
    "ticker": "ALVO",
    "name": "Alvotech",
    "sector": "Healthcare",
    "industry": "Drug Manufacturers - Specialty & Generic",
-   "market_cap": 2094515840,
+   "market_cap": 2062402432,
    "description": "Alvotech, through its subsidiaries, develops and manufactures biosimilar medicines for patients worldwide. It offers biosimilar products in the therapeutic areas of autoimmune, eye, and bone disorders, as well as cancer. The company provides AVT02, a high concentration, low-volume adalimumab formulation biosimilar to Humira to treat various inflammatory conditions, including rheumatoid arthritis, psoriatic arthritis, Crohn's disease, ankylosing spondylitis ulcerative colitis, and other indications; AVT04, a biosimilar to Stelara to treat various inflammatory conditions comprising psoriatic art",
-   "price": 5.87,
+   "price": 5.78,
    "analyst": {
     "recommendation": "매수",
     "count": 5,
     "target_mean": 6.8,
     "target_low": 4.0,
     "target_high": 9.0,
-    "upside_pct": 15.8,
+    "upside_pct": 17.6,
     "breakdown": {
      "strong_buy": 2,
      "buy": 4,
@@ -218,7 +218,7 @@
     "pct_of_float": 3.5,
     "days_to_cover": 5.3,
     "level": "낮음",
-    "institutions_pct": 12.7,
+    "institutions_pct": 12.8,
     "insiders_pct": 59.7
    },
    "health": {
@@ -304,10 +304,10 @@
      }
     },
     "altman": {
-     "z": -0.34,
+     "z": -0.35,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 2/9 (취약) · 알트만 Z -0.34 (위험)",
+    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 2/9 (취약) · 알트만 Z -0.35 (위험)",
     "cash": 142750000,
     "debt": 1451784960,
     "years": [
@@ -363,28 +363,28 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 25.70953,
-    "price_to_book": -10.931099,
+    "forward_pe": 25.315348,
+    "price_to_book": -10.763501,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "AMC": {
    "ticker": "AMC",
    "name": "AMC Entertainment Holdings, Inc",
    "sector": "Communication Services",
    "industry": "Entertainment",
-   "market_cap": 2410032384,
+   "market_cap": 2476977920,
    "description": "AMC Entertainment Holdings, Inc. engages in the theatrical exhibition business in the United States and internationally. It owns, operates, or has interests in theatres. The company was founded in 1920 and is headquartered in Leawood, Kansas.",
-   "price": 2.7,
+   "price": 2.775,
    "analyst": {
     "recommendation": "중립",
     "count": 6,
     "target_mean": 2.88333,
     "target_low": 1.8,
     "target_high": 4.0,
-    "upside_pct": 6.8,
+    "upside_pct": 3.9,
     "breakdown": {
      "strong_buy": 0,
      "buy": 2,
@@ -547,175 +547,28 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -33.75,
-    "price_to_book": -1.6594961,
+    "forward_pe": -34.687504,
+    "price_to_book": -1.7055932,
     "peg": null
    },
-   "news": [
-    {
-     "id": "208261",
-     "title": "AMC, ‘워킹 데드’ 관련 계약 위반 소송 1억2,000만달러에 합의…",
-     "title_en": "",
-     "summary": "AMC는 ‘워킹 데드’ 시리즈 제작진 등과 벌여온 계약 위반 소송을 총 1억 2,000만 달러에 합의함\n\n\n- 이번 합의에 따라 8,500만 달...",
-     "source": "",
-     "time": "2026-09-08T10:10:25.140466Z",
-     "url": "https://www.saveticker.com/news/208261",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 3876,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "172102",
-     "title": "[2보] AMC, 여름 블록버스터 흥행에 힘입어 깜짝 흑자 기록",
-     "title_en": "UPDATE 1-AMC posts surprise profit as summer blockbusters boost US box office",
-     "summary": "AMC, 2분기 조정 주당순이익(EPS) 14센트 기록… 예상치 6센트 손실 상회\n\n\n매출 16억 달러로 사상 최고치 기록, 예상치 14억700...",
-     "source": "reuters",
-     "time": "2026-07-20T15:37:20.899241Z",
-     "url": "https://www.saveticker.com/news/172102",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 142,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "171892",
-     "title": "AMC, 블록버스터 영화 흥행에 힘입어 깜짝 흑자 및 매출 기록 경신",
-     "title_en": "AMC posts surprise profit, record revenue as blockbuster films lift ticket sales",
-     "summary": "7월 20일 (로이터) - 영화관 체인 AMC Entertainment AMC.N은 '슈퍼 마리오 갤럭시 무비'와 '옵세션' 같은 블록버스터 영...",
-     "source": "reuters",
-     "time": "2026-07-20T11:36:42.448928Z",
-     "url": "https://www.saveticker.com/news/171892",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 133,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "154240",
-     "title": "[3보] 웬디스, 개인 투자자들의 밈 주식 같은 매수세에 7개월여 만에 최고치 기록",
-     "title_en": "UPDATE 2-Wendy's hits over seven-month high as retail traders spark meme-like rally",
-     "summary": "ORTEX에 따르면 공매도 잔고는 유동 주식의 34% 수준이다.\n\n\n주식 회전율은 1년 평균 대비 11배 이상으로 급증했다.\n\n\n개인 투자자들은...",
-     "source": "reuters",
-     "time": "2026-06-24T13:43:18.069824Z",
-     "url": "https://www.saveticker.com/news/154240",
-     "tickers": [
-      "WEN",
-      "GME",
-      "AMC",
-      "CAR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 882,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "154213",
-     "title": "웬디스, 개인 투자자들 매수세에 20% 급등하며 밈 주식 랠리 양상",
-     "title_en": "Wendy's jumps 20% as retail traders spark meme-like rally",
-     "summary": "공매도 잔고는 유동주식수의 34% 수준이다\n\n\n거래 활동이 1년 평균치를 상회한다\n\n\n샤슈와트 차우한 기자\n\n\n6월 24일 (로이터) - 공매도...",
-     "source": "reuters",
-     "time": "2026-06-24T13:12:12.296196Z",
-     "url": "https://www.saveticker.com/news/154213",
-     "tickers": [
-      "WEN",
-      "GME",
-      "AMC",
-      "CAR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 856,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "120744",
-     "title": "극장 운영사 AMC, 강력한 박스오피스와 프리미엄 포맷 수요로 매출 예상치 상회",
-     "title_en": "Theater operator AMC beats revenue estimates on strong box office and premium format demand",
-     "summary": "5월 5일 (로이터) - AMC 엔터테인먼트(AMC.N)는 회복되는 박스오피스와 프리미엄 영화 포맷에 대한 강력한 수요 덕분에 더 많은 영화 관...",
-     "source": "reuters",
-     "time": "2026-05-05T20:44:41.302977Z",
-     "url": "https://www.saveticker.com/news/120744",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 892,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "64653",
-     "title": "AMC, 연내 '프리미어 좌석' 도입…A-리스트 회원 우선 접근",
-     "title_en": "BRIEF-AMC Entertainment To Debut Branded Premier Seating With First Access To A-List And Stubs Tier Members Later In The Year At No Added Charge - Conf Call",
-     "summary": "AMC 엔터테인먼트 홀딩스(AMC.N)가 올해 안에 추가 비용 없이 브랜드화된 프리미어 좌석을 선보일 예정이라고 밝혔습니다.\n\n\n이 좌석은 연내...",
-     "source": "reuters",
-     "time": "2026-02-24T23:10:28.594517Z",
-     "url": "https://www.saveticker.com/news/64653",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 86,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "64646",
-     "title": "AMC CEO, 연간 자본 지출 가이던스 중 1억 5천만 달러는 유지보수 자본이라고 밝혀",
-     "title_en": "AMC CEO SAYS $150 MLN OF FULL YEAR CAPEX GUIDANCE IS MAINTENANCE CAPITAL",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-02-24T23:03:37.722917Z",
-     "url": "https://www.saveticker.com/news/64646",
-     "tickers": [
-      "AMC"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 112,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "APH": {
    "ticker": "APH",
    "name": "Amphenol Corporation",
    "sector": "Technology",
    "industry": "Electronic Components",
-   "market_cap": 197080072192,
+   "market_cap": 197203378176,
    "description": "Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products. It also provides value-add products, such as back",
-   "price": 79.92,
+   "price": 79.97,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 17,
     "target_mean": 99.26471,
     "target_low": 85.0,
     "target_high": 115.0,
-    "upside_pct": 24.2,
+    "upside_pct": 24.1,
     "breakdown": {
      "strong_buy": 4,
      "buy": 11,
@@ -877,121 +730,32 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 39.96,
-    "forward_pe": 24.411774,
-    "price_to_book": 12.718014,
-    "peg": 0.95
+    "trailing_pe": 39.985,
+    "forward_pe": 24.427048,
+    "price_to_book": 12.725971,
+    "peg": 0.8778
    },
-   "news": [
-    {
-     "id": "179800",
-     "title": "전자 장비 제조사 암페놀, 데이터 센터 수요 힘입어 긍정적인 분기 매출 전망",
-     "title_en": "Electronic gear maker Amphenol forecasts upbeat quarterly revenue on data center demand",
-     "summary": "7월 29일 - 전자 장비 제조업체 Amphenol APH.N은 수요일, AI 데이터 센터에 대한 지출이 연결 제품 수요를 견인함에 따라 3분기...",
-     "source": "reuters",
-     "time": "2026-07-29T12:49:53.701005Z",
-     "url": "https://www.saveticker.com/news/179800",
-     "tickers": [
-      "APH"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 203,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "125755",
-     "title": "블룸버그, 대출기관들 컴스코프에 1억 5천만 달러 채무 계약 위반 소송 제기 보도",
-     "title_en": "Lenders sue CommScope over alleged $150 million debt agreement breach, Bloomberg reports",
-     "summary": "5월 12일 (로이터) - 현재 비스턴스 네트워크(Vistance Networks, VISN.O)로 알려진 네트워크 인프라 제공업체 컴스코프 홀...",
-     "source": "reuters",
-     "time": "2026-05-12T22:23:22.134812Z",
-     "url": "https://www.saveticker.com/news/125755",
-     "tickers": [
-      "VISN",
-      "APH"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1179,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "116109",
-     "title": "앰페놀, AI 데이터 센터 수요에 힘입어 낙관적인 분기 실적 전망",
-     "title_en": "Amphenol forecasts upbeat quarterly results on AI data center demand",
-     "summary": "4월 29일 (로이터) - 전자 장비 제조업체 앰페놀(APH.N)은 인공지능 데이터 센터에 사용되는 부품에 대한 기업 지출에 힘입어 수요일 월스...",
-     "source": "reuters",
-     "time": "2026-04-29T12:36:18.924141Z",
-     "url": "https://www.saveticker.com/news/116109",
-     "tickers": [
-      "APH"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 621,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "46784",
-     "title": "암페놀, 예상 뛰어넘는 매출 성장 전망에도 투자자들 만족시키지 못해 주가 하락",
-     "title_en": "Amphenol shares fall as upbeat revenue growth forecast fails to impress investors",
-     "summary": "아르나브 미슈라 기자\n\n\n1월 28일 (로이터) - 전자 장비 제조업체 암페놀(APH.N)은 1분기 매출 성장 전망치를 월가 예상을 상회하는 수...",
-     "source": "reuters",
-     "time": "2026-01-28T16:26:30.421343Z",
-     "url": "https://www.saveticker.com/news/46784",
-     "tickers": [
-      "APH"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 138,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "30824",
-     "title": "뱅크오브아메리카, \"암페놀\" US 1 리스트에 추가",
-     "title_en": "",
-     "summary": "뱅크오브아메리카, \"암페놀\" US 1 리스트에 추가",
-     "source": "",
-     "time": "2025-10-24T10:05:10.097000Z",
-     "url": "https://www.saveticker.com/news/30824",
-     "tickers": [
-      "APH"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 2122,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "ASML": {
    "ticker": "ASML",
    "name": "ASML Holding N.V. - New York Re",
    "sector": "Technology",
    "industry": "Semiconductor Equipment & Materials",
-   "market_cap": 615416528896,
+   "market_cap": 646086918144,
    "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wa",
-   "price": 1602.23,
+   "price": 1682.08,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 16,
-    "target_mean": 2145.4258,
-    "target_low": 892.4213,
-    "target_high": 2844.8184,
-    "upside_pct": 33.9,
+    "target_mean": 2134.1985,
+    "target_low": 887.5072,
+    "target_high": 2841.9456,
+    "upside_pct": 26.9,
     "breakdown": {
      "strong_buy": 7,
-     "buy": 32,
+     "buy": 31,
      "hold": 3,
      "sell": 1,
      "strong_sell": 0
@@ -1000,7 +764,7 @@
    "next_earnings": "2026-10-14",
    "earnings_est": {
     "eps_avg": 10.58262,
-    "revenue_avg": 11659883780
+    "revenue_avg": 11659847070
    },
    "short": {
     "pct_of_float": 0.4,
@@ -1079,10 +843,10 @@
     ],
     "piotroski": null,
     "altman": {
-     "z": 13.96,
+     "z": 14.56,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 알트만 Z 13.96 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 알트만 Z 14.56 (안전)",
     "cash": 7581499904,
     "debt": 1984400000,
     "years": [
@@ -1137,253 +901,278 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 54.22098,
-    "forward_pe": 26.702387,
-    "price_to_book": 1350.3315,
-    "peg": 1.5122
+    "trailing_pe": 57.883,
+    "forward_pe": 28.331087,
+    "price_to_book": 1433.1438,
+    "peg": 1.5173
    },
-   "news": [
-    {
-     "id": "news_CswopYs7F7k3",
-     "title": "[칼럼] 통합 에너지 시장 없이는 유럽에 AI 경쟁에서 희망 없어: 마르틴 블라디미로프",
-     "title_en": "ROI-Europe has no hope in AI race without a unified energy market: Martin Vladimirov",
-     "summary": "통합 에너지 시장 없이는 AI 경쟁에서 희망 없는 유럽: 마르틴 블라디미로프 여기 표현된 의견은 저자인 민주주의연구센터 지경제학 프로그램 책임자...",
-     "source": "reuters",
-     "time": "2026-09-16T07:01:10.682438Z",
-     "url": "https://www.saveticker.com/news/news_CswopYs7F7k3",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 133,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_s4h1PGhL0QHV",
-     "title": "ASML, 2028년에 EUV 장비 110대 초과 생산 방법 검토 중…JPMorgan 밝혀",
-     "title_en": "ASML examining ways it can make more than 110 EUV tools in 2028, JPMorgan says",
-     "summary": "JPMorgan은 ASML이 2028년에 EUV 장비를 110대 넘게 생산할 수 있는 방법을 검토하고 있다고 밝혔다. 암스테르담, 9월 14일 ...",
-     "source": "reuters",
-     "time": "2026-09-14T14:13:51.007122Z",
-     "url": "https://www.saveticker.com/news/news_s4h1PGhL0QHV",
-     "tickers": [
-      "INTC",
-      "ASML"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 361,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "209400",
-     "title": "제너두 퀀텀, ASML과 광자 양자칩 제조 기술 공동 연구",
-     "title_en": "",
-     "summary": "자나두와 ASML이 광자 양자컴퓨팅 칩의 광손실을 줄이기 위한 첨단 노광 공정 개발에 협력하기로 함\n\n\n- 노광 공정으로 칩의 미세 패턴 정밀도...",
-     "source": "",
-     "time": "2026-09-09T11:04:17.223454Z",
-     "url": "https://www.saveticker.com/news/209400",
-     "tickers": [
-      "XNDU",
-      "ASML"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 8282,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208354",
-     "title": "ASML, 아인트호벤에 신규 BIC 노스 제조 시설 착공",
-     "title_en": "ASML BREAKS GROUND ON NEW BIC NORTH MANUFACTURING FACILITY IN EINDHOVEN",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-09-08T11:21:44.864183Z",
-     "url": "https://www.saveticker.com/news/208354",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 172,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208353",
-     "title": "ASML, 대규모 확장 속 신규 제조 시설 착공",
-     "title_en": "ASML breaks ground on new manufacturing facilities in major expansion",
-     "summary": "ASML, 두 번째 대규모 생산 캠퍼스 건설 시작\n\n\nBIC 노스 부지는 최종적으로 35헥타르에 걸쳐 조성되며 직원 2만 명을 수용할 공간을 갖...",
-     "source": "reuters",
-     "time": "2026-09-08T11:21:36.724862Z",
-     "url": "https://www.saveticker.com/news/208353",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 237,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208352",
-     "title": "ASML의 BIC 노스 캠퍼스, 장차 최대 2만 명의 근로자 수용 가능",
-     "title_en": "ASML'S BIC NORTH CAMPUS COULD EVENTUALLY HOUSE UP TO 20,000 WORKERS",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-09-08T11:21:26.099163Z",
-     "url": "https://www.saveticker.com/news/208352",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 134,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208351",
-     "title": "ASML, 아인트호벤 캠퍼스의 첫 신규 사무실 및 생산 공간 2029년까지 완공 예정이라고 밝혀",
-     "title_en": "FIRST NEW OFFICE, PRODUCTION SPACE AT EINDHOVEN CAMPUS TO BE COMPLETED BY 2029, ASML SAYS",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-09-08T11:21:07.160478Z",
-     "url": "https://www.saveticker.com/news/208351",
-     "tickers": [
-      "ASML"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 133,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "208114",
-     "title": "삼성·TSMC, ASML 차세대 EUV 도입…AI 반도체 수요 대응",
-     "title_en": "",
-     "summary": "삼성전자와 TSMC가 인텔에 이어 ASML의 차세대 '하이 NA EUV(극자외선)' 노광 장비를 도입하기로 함\n\n\n- 삼성전자는 2028년부터 ...",
-     "source": "블룸버그",
-     "time": "2026-09-08T06:22:44.027572Z",
-     "url": "https://www.saveticker.com/news/208114",
-     "tickers": [
-      "ASML",
-      "TSM"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 11523,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
-  "FDMT": {
-   "ticker": "FDMT",
-   "name": "",
-   "sector": "",
-   "industry": "",
-   "market_cap": null,
-   "description": "",
-   "price": null,
+  "CRML": {
+   "ticker": "CRML",
+   "name": "Critical Metals Corp.",
+   "sector": "Basic Materials",
+   "industry": "Other Industrial Metals & Mining",
+   "market_cap": 1343047936,
+   "description": "Critical Metals Corp. operates as a mining exploration and development company in Austria and Southern Greenland. The company explores for lithium and rare earth element deposits. The company is headquartered in New York, New York.",
+   "price": 9.1433,
    "analyst": {
-    "recommendation": "정보 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
+    "recommendation": "매수",
+    "count": 2,
+    "target_mean": 13.0,
+    "target_low": 8.0,
+    "target_high": 18.0,
+    "upside_pct": 42.2,
+    "breakdown": {
+     "strong_buy": 1,
+     "buy": 0,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
    },
    "short": {
-    "pct_of_float": null,
-    "days_to_cover": null,
-    "level": null,
-    "institutions_pct": null,
-    "insiders_pct": null
+    "pct_of_float": 32.6,
+    "days_to_cover": 3.0,
+    "level": "매우 높음",
+    "institutions_pct": 21.0,
+    "insiders_pct": 45.7
    },
    "health": {
-    "overall": null,
-    "overall_word": null,
+    "overall": "C",
+    "overall_word": "보통",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 1.651,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": null,
+      "value": 0.747,
       "unit": "x",
-      "grade": null,
+      "grade": "F",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": null,
+      "value": 6779.4,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": null,
+      "value": -4516.1,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": null,
+      "value": 57.8,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": -141.0,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": null,
+      "value": 0.0,
       "unit": "%",
-      "grade": null,
+      "grade": "C",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "정보 없음"
+      "word": "보통"
+     }
+    ],
+    "piotroski": null,
+    "altman": null,
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음",
+    "cash": 80923696,
+    "debt": 2375617,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "eps": -0.56,
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "total_debt": 26078.0,
+      "cash": null,
+      "equity": null
+     },
+     {
+      "year": "2024",
+      "revenue": 0.0,
+      "operating_income": -3770173.0,
+      "net_income": -139446204.0,
+      "eps": -527.0,
+      "operating_cash_flow": -15122354.0,
+      "free_cash_flow": -16190926.0,
+      "total_debt": 33638.0,
+      "cash": 1259242.0,
+      "equity": -11065749.0
+     },
+     {
+      "year": "2023",
+      "revenue": 0.0,
+      "operating_income": -439423.0,
+      "net_income": -5450213.0,
+      "eps": -0.066759,
+      "operating_cash_flow": -2378789.0,
+      "free_cash_flow": -5372367.0,
+      "total_debt": 0.0,
+      "cash": 137451.0,
+      "equity": 31678523.0
+     },
+     {
+      "year": "2022",
+      "revenue": 0.0,
+      "operating_income": -260735.0,
+      "net_income": -284601.0,
+      "eps": -0.003486,
+      "operating_cash_flow": -182397.0,
+      "free_cash_flow": -6216764.0,
+      "total_debt": null,
+      "cash": 136097.0,
+      "equity": 30379458.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": -48.12263,
+    "price_to_book": 7.709359,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
+  },
+  "FDMT": {
+   "ticker": "FDMT",
+   "name": "4D Molecular Therapeutics, Inc.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 846424192,
+   "description": "4D Molecular Therapeutics, Inc., a late-stage biotechnology company, engages in the development of adeno-associated virus vectors from its proprietary synthetic vector discovery platform, Therapeutic Vector Evolution in the Netherlands and the United States. The company's lead product candidate is 4D-150 for the treatment of retinal vascular diseases by providing multi-year sustained production of anti-VEGF from the retina with intravitreal injection, as well as for treating wet age-related macular degeneration and diabetic macular edema. It is also developing 4D-710, which is in early-stage s",
+   "price": 15.3215,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 11,
+    "target_mean": 27.81818,
+    "target_low": 18.0,
+    "target_high": 37.0,
+    "upside_pct": 81.6,
+    "breakdown": {
+     "strong_buy": 2,
+     "buy": 9,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "next_earnings": "2026-11-10",
+   "earnings_est": {
+    "eps_avg": -1.041,
+    "revenue_avg": 3160120
+   },
+   "short": {
+    "pct_of_float": 25.1,
+    "days_to_cover": 11.6,
+    "level": "매우 높음",
+    "institutions_pct": 105.9,
+    "insiders_pct": 2.9
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 9.62,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 8.033,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": -98.7,
+      "unit": "%",
+      "grade": "F",
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "위험"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": -2037.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": 25106.7,
+      "unit": "%",
+      "grade": "A",
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -43.2,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": -194.7,
+      "unit": "%",
+      "grade": "F",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "위험"
      }
     ],
     "piotroski": {
@@ -1400,10 +1189,13 @@
       "자산회전율 개선": true
      }
     },
-    "altman": null,
-    "summary": "피오트로스키 F점수 3/9 (취약)",
-    "cash": null,
-    "debt": null,
+    "altman": {
+     "z": 6.55,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 6.55 (안전)",
+    "cash": 361334016,
+    "debt": 39217000,
     "years": [
      {
       "year": "2025",
@@ -1457,97 +1249,28 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": null,
+    "forward_pe": -3.7461796,
+    "price_to_book": 2.0752404,
     "peg": null
    },
-   "news": [
-    {
-     "id": "news_FGMTCabXB9Vo",
-     "title": "4DMT, 신규 고용 유인 보상 발표",
-     "title_en": "4DMT Announces New Employment Inducement Grants",
-     "summary": "캘리포니아주 에머리빌, 2026년 9월 11일 (GLOBE NEWSWIRE) -- 지속적인 효과와 질환 표적화된 치료제를 개발해 치료 패러다임을...",
-     "source": "globenewswire",
-     "time": "2026-09-11T20:05:00Z",
-     "url": "https://www.saveticker.com/news/news_FGMTCabXB9Vo",
-     "tickers": [
-      "FDMT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 63,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "199013",
-     "title": "4DMT, 다가오는 투자자 컨퍼런스 참가 예정",
-     "title_en": "4DMT to Participate in Upcoming Investor Conferences",
-     "summary": "캘리포니아주 에머리빌, 2026년 8월 25일 (GLOBE NEWSWIRE) -- 치료 패러다임을 전환하고 환자들에게 전례 없는 혜택을 제공할 ...",
-     "source": "globenewswire",
-     "time": "2026-08-25T12:00:00Z",
-     "url": "https://www.saveticker.com/news/199013",
-     "tickers": [
-      "FDMT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 48,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "193406",
-     "title": "4DMT, 신규 채용 유인 보상(Employment Inducement Grants) 발표",
-     "title_en": "4DMT Announces New Employment Inducement Grants",
-     "summary": "캘리포니아주 에머리빌, 2026년 8월 14일 (GLOBE NEWSWIRE) -- 치료 패러다임을 전환하고 환자들에게 전례 없는 혜택을 제공할 ...",
-     "source": "globenewswire",
-     "time": "2026-08-14T20:05:00Z",
-     "url": "https://www.saveticker.com/news/193406",
-     "tickers": [
-      "FDMT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 21,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "192568",
-     "title": "4DMT, 2026년 2분기 재무 실적 및 운영 하이라이트와 향후 예상 마일스톤 발표",
-     "title_en": "4DMT Reports Second Quarter 2026 Financial Results, Operational Highlights and Expected Upcoming Milestones",
-     "summary": "4D-150 4FRONT-2 습성 AMD 임상 3상 등록 완료; 2027년 하반기 톱라인 데이터 예상\n\n\n4D-150 4FRONT-1 임상 3상...",
-     "source": "globenewswire",
-     "time": "2026-08-13T20:05:00Z",
-     "url": "https://www.saveticker.com/news/192568",
-     "tickers": [
-      "FDMT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 14,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
    "name": "Fortinet, Inc.",
    "sector": "Technology",
    "industry": "Software - Infrastructure",
-   "market_cap": 121536004096,
+   "market_cap": 126264778752,
    "description": "Fortinet, Inc. provides cybersecurity and convergence of networking and security solutions worldwide. The company offers FortiOS, a unified operating system designed to address cybersecurity threats; FortiASIC application-specific integrated circuit (ASIC)-based security processing units; FortiCloud, a private cloud software as a service platform; FortiAI, which provides a dual-layered defense across the Fortinet Security Fabric; FortiEndpoint, which converges secure connectivity, endpoint protection, and capabilities into a single agent; and OT Security, which protect the engineered systems t",
-   "price": 165.645,
+   "price": 172.09,
    "analyst": {
     "recommendation": "중립",
     "count": 36,
-    "target_mean": 163.125,
-    "target_low": 102.0,
+    "target_mean": 164.31944,
+    "target_low": 104.0,
     "target_high": 220.0,
-    "upside_pct": -1.5,
+    "upside_pct": -4.5,
     "breakdown": {
      "strong_buy": 1,
      "buy": 8,
@@ -1565,7 +1288,7 @@
     "pct_of_float": 2.2,
     "days_to_cover": 2.89,
     "level": "낮음",
-    "institutions_pct": 71.5,
+    "institutions_pct": 71.6,
     "insiders_pct": 17.4
    },
    "health": {
@@ -1651,10 +1374,10 @@
      }
     },
     "altman": {
-     "z": 9.39,
+     "z": 9.7,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 9.39 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 9.7 (안전)",
     "cash": 4069600000,
     "debt": 561400000,
     "years": [
@@ -1709,228 +1432,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 58.739365,
-    "forward_pe": 43.85728,
-    "price_to_book": 78.35619,
-    "peg": 1.7117
+    "trailing_pe": 60.59507,
+    "forward_pe": 45.55333,
+    "price_to_book": 81.404915,
+    "peg": 1.8651
    },
-   "news": [
-    {
-     "id": "news_di-t7NO9xRFJ",
-     "title": "포티넷, 뉴욕시에 신규 회사 소유 혁신 허브 설립하며 미국 내 입지 확대",
-     "title_en": "Fortinet Expands U.S. Presence with New Company-Owned Innovation Hub in New York City",
-     "summary": "새로운 포티넷 혁신 허브, 고객 및 파트너와의 협력 강화\n\n\n캘리포니아주 서니베일, 2026년 9월 15일 (글로브 뉴스와이어) -- 네트워킹과...",
-     "source": "globenewswire",
-     "time": "2026-09-15T13:00:00Z",
-     "url": "https://www.saveticker.com/news/news_di-t7NO9xRFJ",
-     "tickers": [
-      "FTNT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 38,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_D5jZLaHcGdHC",
-     "title": "Fortinet, 2026년 Gartner® 하이브리드 메시 방화벽 매직 쿼드런트 보고서에서 리더로 선정",
-     "title_en": "Fortinet Named a Leader in the 2026 Gartner® Magic Quadrant™ Report for Hybrid Mesh Firewall",
-     "summary": "가장 폭넓은 엔터프라이즈 환경에서 입증된 고객 도입과 AI, 네트워킹, 클라우드 및 양자 보안 분야의 지속적인 혁신\n\n\n캘리포니아주 서니베일, ...",
-     "source": "globenewswire",
-     "time": "2026-09-10T15:11:56Z",
-     "url": "https://www.saveticker.com/news/news_D5jZLaHcGdHC",
-     "tickers": [
-      "FTNT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 215,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "206841",
-     "title": "[정리] 미국 기업들, 사이버 공격 증가에 직면",
-     "title_en": "FACTBOX-US companies face rise in cyber attacks",
-     "summary": "보스턴사이언티픽의 배송 재개 및 침해 범위에 관한 세부 내용 업데이트\n\n\n9월 4일 (로이터) - 전 세계 기업들이 민감한 데이터를 훔치고 운영...",
-     "source": "reuters",
-     "time": "2026-09-04T10:09:23.570011Z",
-     "url": "https://www.saveticker.com/news/206841",
-     "tickers": [
-      "NKE",
-      "BMBL",
-      "MTCH",
-      "WYNN",
-      "SYK",
-      "HAS",
-      "TTWO",
-      "WST",
-      "CCL",
-      "IRTC",
-      "AHCO",
-      "FTNT",
-      "KO",
-      "CLOV",
-      "ABT",
-      "LEVI",
-      "UBER",
-      "GE",
-      "FISV",
-      "APO",
-      "BSX",
-      "NVCR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 599,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "203819",
-     "title": "[정리] 미국 기업들, 사이버 공격 증가 직면",
-     "title_en": "FACTBOX-US companies face rise in cyber attacks",
-     "summary": "노보큐어(NovoCure)가 보고한 사이버 보안 사고 추가\n\n\n9월 1일 (로이터) - 전 세계 기업들이 민감한 데이터를 탈취하고 운영을 방해하...",
-     "source": "reuters",
-     "time": "2026-09-01T12:05:31.668398Z",
-     "url": "https://www.saveticker.com/news/203819",
-     "tickers": [
-      "NKE",
-      "BMBL",
-      "MTCH",
-      "WYNN",
-      "SYK",
-      "HAS",
-      "TTWO",
-      "WST",
-      "CCL",
-      "IRTC",
-      "AHCO",
-      "FTNT",
-      "KO",
-      "CLOV",
-      "ABT",
-      "LEVI",
-      "UBER",
-      "GE",
-      "FISV",
-      "APO",
-      "BSX",
-      "NVCR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 502,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "202838",
-     "title": "포티넷, 차세대 사이버 방어자 양성을 위한 무료 고등학교 사이버 보안 커리큘럼 출시",
-     "title_en": "Fortinet Launches Free High School Cybersecurity Curriculum to Build the Next Generation of Cyber Defenders",
-     "summary": "Fortinet Training Institute의 새로운 기술 고등학교 사이버 보안 커리큘럼은 미국 중등 학교에 비용 부담 없이 표준을 준수하...",
-     "source": "globenewswire",
-     "time": "2026-08-31T13:00:00Z",
-     "url": "https://www.saveticker.com/news/202838",
-     "tickers": [
-      "FTNT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 182,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "202073",
-     "title": "스탠퍼드 애슬레틱스, 사이버 보안 기업 포티넷과 다년간의 스폰서십 체결",
-     "title_en": "Stanford Athletics and Cybersecurity Leader Fortinet Team Up for Multi-Year Sponsorship",
-     "summary": "글로벌 사이버 보안 선도 기업 포티넷(Fortinet)과의 파트너십은 학생 선수들의 경험을 증진하는 데 기여할 것이다.\n\n\n캘리포니아주 스탠퍼드...",
-     "source": "globenewswire",
-     "time": "2026-08-28T17:30:00Z",
-     "url": "https://www.saveticker.com/news/202073",
-     "tickers": [
-      "FTNT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 547,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "199955",
-     "title": "포티넷 페더럴, CMMC 레벨 2 인증 획득",
-     "title_en": "Fortinet Federal Achieves CMMC Level 2 Certification",
-     "summary": "이번 인증은 포티넷 페더럴(Fortinet Federal)의 평가 환경 내에서 요구되는 사이버 보안 안전장치가 구현되었음을 입증한다.\n\n\n버지니...",
-     "source": "globenewswire",
-     "time": "2026-08-26T13:00:00Z",
-     "url": "https://www.saveticker.com/news/199955",
-     "tickers": [
-      "FTNT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 72,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "199840",
-     "title": "[정리] 미국 기업들, 사이버 공격 증가 직면",
-     "title_en": "FACTBOX-US companies face rise in cyber attacks",
-     "summary": "8월 7일 이후 일부 미국 기업들이 보고한 사이버 보안 사고를 추가하며, 8월 26일 보스턴 사이언티픽 사례를 포함한다.\n\n\n8월 26일 (로이...",
-     "source": "reuters",
-     "time": "2026-08-26T11:37:58.399661Z",
-     "url": "https://www.saveticker.com/news/199840",
-     "tickers": [
-      "NKE",
-      "BMBL",
-      "MTCH",
-      "WYNN",
-      "SYK",
-      "HAS",
-      "TTWO",
-      "WST",
-      "CCL",
-      "IRTC",
-      "AHCO",
-      "FTNT",
-      "KO",
-      "CLOV",
-      "ABT",
-      "LEVI",
-      "UBER",
-      "GE",
-      "FISV",
-      "APO",
-      "BSX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 435,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "HBM": {
    "ticker": "HBM",
    "name": "Hudbay Minerals Inc.",
    "sector": "Basic Materials",
    "industry": "Copper",
-   "market_cap": 11947494400,
+   "market_cap": 11672124416,
    "description": "Hudbay Minerals Inc., a diversified mining company, focuses on the exploration, development, operation, and optimization of properties in North and South America. It primarily explores for copper concentrates containing copper, gold, zinc, molybdenum concentrates, and silver. It owns 100% interest in Copper Mountain mine located approximately 20 kilometers south of Princeton, British Columbia, in the Similkameen valley. Hudbay Minerals Inc. was founded in 1927 and is based in Toronto, Canada.",
-   "price": 26.9,
+   "price": 26.28,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 6,
     "target_mean": 34.935,
     "target_low": 29.5,
     "target_high": 43.0,
-    "upside_pct": 29.9,
+    "upside_pct": 32.9,
     "breakdown": {
      "strong_buy": 8,
      "buy": 14,
@@ -1941,7 +1465,7 @@
    },
    "next_earnings": "2026-10-29",
    "earnings_est": {
-    "eps_avg": 0.38238,
+    "eps_avg": 0.37709,
     "revenue_avg": 757375740
    },
    "short": {
@@ -2034,10 +1558,10 @@
      }
     },
     "altman": {
-     "z": 3.37,
+     "z": 3.32,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 3.37 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 3.32 (안전)",
     "cash": 890899968,
     "debt": 1044499968,
     "years": [
@@ -2092,47 +1616,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 16.503067,
-    "forward_pe": 13.989432,
-    "price_to_book": 2.4905102,
+    "trailing_pe": 16.1227,
+    "forward_pe": 13.667,
+    "price_to_book": 2.433108,
     "peg": null
    },
-   "news": [
-    {
-     "id": "69450",
-     "title": "허드베이 미네랄스, 애리조나 소노란 지분 14.8억 달러에 인수 완료",
-     "title_en": "UPDATE 3-Hudbay Minerals to buy remaining Arizona Sonoran stake for $1.48 billion",
-     "summary": "캐나다 광산업체 허드베이 미네랄스(Hudbay Minerals)가 3월 2일(현지시간) 월요일, 애리조나 소노란 코퍼 컴퍼니(Arizona So...",
-     "source": "reuters",
-     "time": "2026-03-02T11:20:52.503028Z",
-     "url": "https://www.saveticker.com/news/69450",
-     "tickers": [
-      "HBM"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 81,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "IMAX": {
    "ticker": "IMAX",
    "name": "Imax Corporation",
    "sector": "Communication Services",
    "industry": "Entertainment",
-   "market_cap": 2894018304,
+   "market_cap": 2948586240,
    "description": "IMAX Corporation, together with its subsidiaries, operates as a technology platform for entertainment and events in the United States, Canada, Greater China, rest of Asia, Western Europe, Latin America, and internationally. It operates through Content Solutions; and Technology Products and Services segments. The company offers IMAX film remastering, a proprietary technology that digitally remasters films and other content into IMAX formats for distribution to the IMAX network; IMAX Enhanced, which provides end-to-end technology across streaming content and entertainment devices at home; AI-dri",
-   "price": 52.77,
+   "price": 53.765,
    "analyst": {
     "recommendation": "매수",
     "count": 11,
     "target_mean": 56.10818,
     "target_low": 45.0,
     "target_high": 69.19,
-    "upside_pct": 6.3,
+    "upside_pct": 4.4,
     "breakdown": {
      "strong_buy": 2,
      "buy": 7,
@@ -2236,10 +1742,10 @@
      }
     },
     "altman": {
-     "z": 4.48,
+     "z": 4.55,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 4.48 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 4.55 (안전)",
     "cash": 159916992,
     "debt": 282636992,
     "years": [
@@ -2294,118 +1800,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 72.28767,
-    "forward_pe": 25.11972,
-    "price_to_book": 8.132224,
+    "trailing_pe": 73.65068,
+    "forward_pe": 25.593363,
+    "price_to_book": 8.285561,
     "peg": null
    },
-   "news": [
-    {
-     "id": "171524",
-     "title": "[3보] '오디세이', 전 세계 티켓 매출 2억 6,410만 달러 기록했다고 스튜디오 밝혀",
-     "title_en": "UPDATE 2-'The Odyssey' brings in $264.1 million in worldwide ticket sales, studio says",
-     "summary": "\"The Odyssey\"가 개봉 첫 주말 2억 6410만 달러의 티켓 매출을 기록했다고 유니버설이 밝혔다.\n\n\n박스오피스 집계에는 미국과 캐나다...",
-     "source": "reuters",
-     "time": "2026-07-19T16:58:16.932699Z",
-     "url": "https://www.saveticker.com/news/171524",
-     "tickers": [
-      "CMCSA",
-      "IMAX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1122,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "132191",
-     "title": "IMAX, 매각 검토 중…WSJ 보도",
-     "title_en": "IMAX is exploring sale, WSJ reports",
-     "summary": "5월 21일 (로이터) - 영화관 운영업체 IMAX(IMAX.N)가 매각을 검토 중이며 잠재적 구매자로 엔터테인먼트 기업들에 접근했다고 월스트리...",
-     "source": "reuters",
-     "time": "2026-05-21T22:39:21.051783Z",
-     "url": "https://www.saveticker.com/news/132191",
-     "tickers": [
-      "IMAX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1567,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "132150",
-     "title": "[단신] IMAX 매각 검토 중 - WSJ",
-     "title_en": "BRIEF-IMAX Is Exploring A Sale - WSJ",
-     "summary": "5월 21일 (로이터) -\n\n\nIMAX 매각 검토 중 - WSJ\n\n\nIMAX는 매각을 검토 중이며 잠재적 구매자로 엔터테인먼트 기업들에 접근했다...",
-     "source": "reuters",
-     "time": "2026-05-21T21:21:29.953186Z",
-     "url": "https://www.saveticker.com/news/132150",
-     "tickers": [
-      "IMAX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1206,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "132148",
-     "title": "IMAX 매각 검토 중 - WSJ",
-     "title_en": "RPT-IMAX IS EXPLORING A SALE - WSJ",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-05-21T21:14:34.875501Z",
-     "url": "https://www.saveticker.com/news/132148",
-     "tickers": [
-      "IMAX"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 1282,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "94530",
-     "title": "IMAX CEO, 폐렴 치료로 일시적 의료 휴가",
-     "title_en": "IMAX says CEO taking medical leave",
-     "summary": "3월 30일 (로이터) - IMAX IMAX.N은 월요일에 폐렴 치료 중인 리처드 겔폰드 최고경영자(CEO)가 일시적으로 의료 휴가를 떠난다고 ...",
-     "source": "reuters",
-     "time": "2026-03-30T21:25:21.267897Z",
-     "url": "https://www.saveticker.com/news/94530",
-     "tickers": [
-      "IMAX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 180,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "MRX": {
    "ticker": "MRX",
    "name": "Marex Group Limited",
    "sector": "Financial Services",
    "industry": "Capital Markets",
-   "market_cap": 5206356480,
+   "market_cap": 5381508608,
    "description": "Marex Group Limited, a financial services platform company, provides liquidity, market access, and infrastructure services to clients in the commodity and financial markets in the United Kingdom, the United States, and internationally. It operates through Clearing, Agency and Execution, Market Making, and Hedging and Investment Solutions segments. The company offers execution and clearing services in metals, agricultural products, energy and fixed income, financial securities, digital assets, and equity futures and options; liquidity, execution, and risk management solutions to financial marke",
-   "price": 72.38,
+   "price": 74.815,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 8,
     "target_mean": 79.875,
     "target_low": 36.0,
     "target_high": 100.0,
-    "upside_pct": 10.4,
+    "upside_pct": 6.8,
     "breakdown": {
      "strong_buy": 3,
      "buy": 4,
@@ -2564,189 +1981,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 14.711381,
-    "forward_pe": 11.323635,
-    "price_to_book": 3.8215415,
+    "trailing_pe": 15.175457,
+    "forward_pe": 11.704584,
+    "price_to_book": 3.9501057,
     "peg": null
    },
-   "news": [
-    {
-     "id": "170181",
-     "title": "시장, 엘니뇨의 잠재적 영향 과소평가 가능성 - 마렉스 솔루션스 CEO",
-     "title_en": "Markets may be underpricing potential El Nino impact, broker says",
-     "summary": "뉴욕, 7월 16일 (로이터) - 글로벌 금융시장이 매우 강력한 엘니뇨 기상 현상이 세계에 가져올 수 있는 잠재적 영향을 과소평가하고 있을 수 ...",
-     "source": "reuters",
-     "time": "2026-07-16T17:36:21.779164Z",
-     "url": "https://www.saveticker.com/news/170181",
-     "tickers": [
-      "MRX"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 98,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "48392",
-     "title": "런던금속거래소(LME)가 금요일 시장 개장을 지연할 것이라고 알려짐. 재개 시점은 추정되지 않음.",
-     "title_en": "London Metal Exchange said to delay market opening on Friday without estimated time for restart",
-     "summary": "",
-     "source": "financial-juice",
-     "time": "2026-01-30T01:42:16.896638Z",
-     "url": "https://www.saveticker.com/news/48392",
-     "tickers": [
-      "MRX"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 120,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "48391",
-     "title": "런던금속거래소(LME)가 기술 문제로 인해 금요일 거래 시작을 연기함.",
-     "title_en": "London Metal Exchange has postponed the start of trading on Friday due to technical issue.",
-     "summary": "",
-     "source": "financial-juice",
-     "time": "2026-01-30T01:39:15.151401Z",
-     "url": "https://www.saveticker.com/news/48391",
-     "tickers": [
-      "MRX"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 114,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "48119",
-     "title": "[귀금속] 사상 최고가 경신 후 투자자들 차익실현에 금 하락",
-     "title_en": "PRECIOUS-Gold falls as investors take profits after record high",
-     "summary": "정산 가격 기준 시세 업데이트 반영\n\n\n현물 금 1월 들어 현재까지 24% 상승\n\n\n금, 세션 최저가 5,109.62달러 기록\n\n\n현물 은, 사...",
-     "source": "reuters",
-     "time": "2026-01-29T18:35:06.938779Z",
-     "url": "https://www.saveticker.com/news/48119",
-     "tickers": [
-      "UBS",
-      "GOLD",
-      "T",
-      "FUND",
-      "MRX",
-      "PCF"
-     ],
-     "tags": [
-      "시황/분석"
-     ],
-     "is_top": false,
-     "views": 55,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "47980",
-     "title": "금, 사상 최고치 경신 후 차익 실현 매물 출회하며 4% 이상 하락세",
-     "title_en": "PRECIOUS-Gold drops over 4% as investors take profits after record high",
-     "summary": "현물 금 가격, 2026년 들어 현재까지 19% 상승\n\n\n현물 은 가격, 사상 최고치 $121.64 기록 후 6% 이상 하락\n\n\n트럼프, 이란에...",
-     "source": "reuters",
-     "time": "2026-01-29T16:07:43.541658Z",
-     "url": "https://www.saveticker.com/news/47980",
-     "tickers": [
-      "GOLD",
-      "T",
-      "FUND",
-      "MRX",
-      "PCF"
-     ],
-     "tags": [
-      "시황/분석"
-     ],
-     "is_top": false,
-     "views": 190,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "47949",
-     "title": "구리 가격 14,000달러 돌파, 투자자 딜레마 야기함",
-     "title_en": "Copper's ascent above $14,000 creates investor dilemma",
-     "summary": "에릭 온스태드 기자\n\n\n런던, 1월 29일 (로이터) - 목요일 구리 가격이 톤당 14,000달러를 넘어서며 급등세를 보이자 투자자들은 시장을 ...",
-     "source": "reuters",
-     "time": "2026-01-29T15:43:40.022530Z",
-     "url": "https://www.saveticker.com/news/47949",
-     "tickers": [
-      "MRX",
-      "CME"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 127,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "47860",
-     "title": "발틱 지수, 케이프사이즈 선박 운임 약세로 하락함",
-     "title_en": "Baltic index falls on weak capesize vessel rates",
-     "summary": "1월 29일 (로이터) - 건화물 운송 선박의 운임을 측정하는 발틱 거래소의 주요 해상 운임 지수가 목요일 케이프사이즈 선박 부문에 대한 수요 ...",
-     "source": "reuters",
-     "time": "2026-01-29T14:09:54.767802Z",
-     "url": "https://www.saveticker.com/news/47860",
-     "tickers": [
-      "DHT",
-      "MRX",
-      "SSRM"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 83,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "47511",
-     "title": "구리, 지정학적 위험 및 약달러로 사상 최고치 경신, 금속 전반 강세",
-     "title_en": "METALS-Copper hits record high as geopolitical risks, weak dollar boost metals",
-     "summary": "아시아 시장 마감 가격 업데이트\n\n\n1월 29일 (로이터) - 구리가 목요일 사상 최고치를 기록하며 광범위한 금속 랠리의 일부를 형성함. 이는 ...",
-     "source": "reuters",
-     "time": "2026-01-29T07:41:58.480647Z",
-     "url": "https://www.saveticker.com/news/47511",
-     "tickers": [
-      "MRX",
-      "CME"
-     ],
-     "tags": [
-      "시황/분석"
-     ],
-     "is_top": false,
-     "views": 102,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "MSTR": {
    "ticker": "MSTR",
    "name": "Strategy Inc",
    "sector": "Technology",
    "industry": "Software - Application",
-   "market_cap": 61149593600,
+   "market_cap": 65746104320,
    "description": "Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments. The company also provides AI-powered enterprise analytics software, including Strategy One, which provides non-technical users with the ability to directly access novel and actionable insights for decision-making. In addition, the company provides Strategy Mosaic, a universal intelligence",
-   "price": 153.92,
+   "price": 165.45,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 15,
     "target_mean": 228.53333,
     "target_low": 136.0,
     "target_high": 435.0,
-    "upside_pct": 48.5,
+    "upside_pct": 38.1,
     "breakdown": {
      "strong_buy": 2,
      "buy": 13,
@@ -2850,10 +2107,10 @@
      }
     },
     "altman": {
-     "z": 3.36,
+     "z": 3.62,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 3.36 (안전)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z 3.62 (안전)",
     "cash": 2447982080,
     "debt": 6770777088,
     "years": [
@@ -2909,182 +2166,28 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 3.1101232,
-    "price_to_book": 1.8518697,
+    "forward_pe": 3.3439057,
+    "price_to_book": 1.9910716,
     "peg": null
    },
-   "news": [
-    {
-     "id": "202782",
-     "title": "스트레티지, 지난 주 비트코인 4,603개 매입",
-     "title_en": "",
-     "summary": "스트레티지, 지난 주 비트코인 4,603개 매입",
-     "source": "",
-     "time": "2026-08-31T12:03:44.015123Z",
-     "url": "https://www.saveticker.com/news/202782",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [
-      "속보",
-      "암호화폐"
-     ],
-     "is_top": false,
-     "views": 13542,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "198255",
-     "title": "마이클 세일러의 스트래티지, 재무 운영 및 자사주 매입 위해 16억 달러 현금 풀 확보",
-     "title_en": "Strategy earmarks $1.6 billion cash pool for treasury operations, buybacks",
-     "summary": "8월 24일 (로이터) - 마이클 세일러의 스트래티지 MSTR.O는 향후 재무 운영을 위한 자금으로 약 16억 달러를 별도로 책정했으며, 여기에...",
-     "source": "reuters",
-     "time": "2026-08-24T13:25:17.097498Z",
-     "url": "https://www.saveticker.com/news/198255",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 504,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "196716",
-     "title": "[3보] 미 재무부의 바이백 규모 확대에 따른 위험자산 선호 심리 강화로 암호화폐 관련주 상승",
-     "title_en": "UPDATE 2-Crypto shares climb after Treasury's doubled buybacks boost risk assets",
-     "summary": "미국 재무부의 바이백 규모 두 배 확대 관련 2~5문단 추가, 가격 업데이트\n\n\n기자: 프리탐 비스와스, 아라스 카나기 바실, 해나 랭\n\n\n8월...",
-     "source": "reuters",
-     "time": "2026-08-20T15:26:44.480389Z",
-     "url": "https://www.saveticker.com/news/196716",
-     "tickers": [
-      "COIN",
-      "MSTR",
-      "CAN",
-      "CRCL",
-      "HOOD"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 581,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "196631",
-     "title": "[2보] 트럼프 대통령의 Clarity Act 지지 발언에 암호화폐 관련주 상승",
-     "title_en": "UPDATE 1-Crypto shares climb after Trump advocates for Clarity Act",
-     "summary": "주가 업데이트, 3단락 및 8단락에 애널리스트 의견 추가\n\n\n기자: 프리탐 비스와스, 아라스 카나기 바실\n\n\n8월 20일 (로이터) - 암호화폐...",
-     "source": "reuters",
-     "time": "2026-08-20T14:20:26.815825Z",
-     "url": "https://www.saveticker.com/news/196631",
-     "tickers": [
-      "COIN",
-      "MSTR",
-      "CAN",
-      "CRCL",
-      "HOOD"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 842,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "189519",
-     "title": "스트레티지, 지난 주 비트코인 1690개 매도",
-     "title_en": "",
-     "summary": "스트래티지는 8월 3일부터 9일까지 비트코인 1,690개를 총 1.08억 달러에 매도함",
-     "source": "",
-     "time": "2026-08-10T12:16:58.285167Z",
-     "url": "https://www.saveticker.com/news/189519",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 12743,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "183723",
-     "title": "스트레티지, 지난 주 비트코인 1,638개 매도",
-     "title_en": "",
-     "summary": "스트레티지, 지난 주 비트코인 1,638개 매도",
-     "source": "",
-     "time": "2026-08-03T12:13:53.278930Z",
-     "url": "https://www.saveticker.com/news/183723",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [
-      "암호화폐"
-     ],
-     "is_top": false,
-     "views": 16032,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "182394",
-     "title": "스트래티지, 2분기 82억 달러 손실… 유동성 확보로 방향 전환",
-     "title_en": "",
-     "summary": "스트래티지는 보유 중인 비트코인의 가치 하락으로 인해 2분기에 82억 2,000만 달러 규모의 대규모 평가손실을 기록함\n\n\n- 앞서 비트코인이 ...",
-     "source": "블룸버그",
-     "time": "2026-07-31T07:57:58.384163Z",
-     "url": "https://www.saveticker.com/news/182394",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 8918,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "181897",
-     "title": "세일러가 이끄는 스트래티지, 비트코인 가격 하락에 2분기 순손실 기록",
-     "title_en": "Saylor-led Strategy reports second-quarter loss as bitcoin prices tumble",
-     "summary": "7월 30일(로이터) - 마이클 세일러의 스트래티지 MSTR.O는 목요일, 비트코인 가격 하락으로 고조된 시장 변동성 속에서 막대한 암호화폐 보...",
-     "source": "reuters",
-     "time": "2026-07-30T21:16:44.248545Z",
-     "url": "https://www.saveticker.com/news/181897",
-     "tickers": [
-      "MSTR"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 429,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "MU": {
    "ticker": "MU",
    "name": "Micron Technology, Inc.",
    "sector": "Technology",
    "industry": "Semiconductors",
-   "market_cap": 1038262403072,
+   "market_cap": 1165797490688,
    "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (M",
-   "price": 919.31,
+   "price": 1032.46,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 45,
     "target_mean": 1513.1111,
     "target_low": 361.0,
     "target_high": 2200.0,
-    "upside_pct": 64.6,
+    "upside_pct": 46.6,
     "breakdown": {
      "strong_buy": 9,
      "buy": 36,
@@ -3095,8 +2198,8 @@
    },
    "next_earnings": "2026-09-30",
    "earnings_est": {
-    "eps_avg": 31.33121,
-    "revenue_avg": 50787211780
+    "eps_avg": 31.35415,
+    "revenue_avg": 50972182430
    },
    "short": {
     "pct_of_float": 2.6,
@@ -3188,10 +2291,10 @@
      }
     },
     "altman": {
-     "z": 23.69,
+     "z": 26.36,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 23.69 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 26.36 (안전)",
     "cash": 26022000640,
     "debt": 6376000000,
     "years": [
@@ -3246,202 +2349,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 20.761292,
-    "forward_pe": 5.890518,
-    "price_to_book": 10.304434,
-    "peg": 0.1433
+    "trailing_pe": 23.306242,
+    "forward_pe": 6.5944877,
+    "price_to_book": 11.57018,
+    "peg": 0.1492
    },
-   "news": [
-    {
-     "id": "news_Y-5mP4ARddqu",
-     "title": "(카더라) 앤트로픽, 이르면 11월 상장 추진…연환산 매출 1,000억 달러 전망",
-     "title_en": "",
-     "summary": "뉴욕타임스는 소식통을 인용해,\n앤트로픽이 아모데이 CEO의 AI 개발 속도 조절 요구로 안전성 논쟁이 한창인 가운데서도 역대 최대 규모가 될 수...",
-     "source": "뉴욕타임스",
-     "time": "2026-09-18T20:07:58.360373Z",
-     "url": "https://www.saveticker.com/news/news_Y-5mP4ARddqu",
-     "tickers": [
-      "NVDA",
-      "MU",
-      "AVGO",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 2319,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_U-AoGAg6Z_uG",
-     "title": "캘리포니아 주지사, AI 안전 규제 강화 행정명령 서명",
-     "title_en": "",
-     "summary": "개빈 뉴섬 캘리포니아 주지사가 AI의 잠재적 위험에 선제적으로 대응하기 위해 행정명령을 발동함\n\n\n- 전문가 그룹을 구성해 2개월 안에 주 차원...",
-     "source": "CNBC",
-     "time": "2026-09-18T15:07:00.250645Z",
-     "url": "https://www.saveticker.com/news/news_U-AoGAg6Z_uG",
-     "tickers": [
-      "NVDA",
-      "SNDK",
-      "MU",
-      "MSFT",
-      "GOOGL",
-      "META",
-      "AMZN",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 6184,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_zbcjhQVEcOh1",
-     "title": "[2보] BYD·CATL·샤오미 경영진, 시진핑의 미국 방문에 동행할 수도 있다고 소식통 전해",
-     "title_en": "UPDATE 1-BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-     "summary": "3번째 문단에 COFCO 그룹 세부 내용 추가\n\n\n미국과 중국, 9월 24일 방문을 위한 시진핑 기업 대표단 최종 조율\n\n\n소식통들에 따르면 중...",
-     "source": "reuters",
-     "time": "2026-09-18T11:41:20.801929Z",
-     "url": "https://www.saveticker.com/news/news_zbcjhQVEcOh1",
-     "tickers": [
-      "MU",
-      "QCOM",
-      "ILMN"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 284,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_vUxr4ZjvhziG",
-     "title": "(카더라) 오픈AI·앤트로픽, 빠른 컴퓨팅 용량 확보 위해 소규모 데이터센터 눈독",
-     "title_en": "",
-     "summary": "CNBC는 소식통을 인용해,\n오픈AI와 앤트로픽이 기존의 수백 MW~GW(기가와트)급 대형 데이터센터 계약과 병행해 20~30MW 수준의 소규모...",
-     "source": "CNBC",
-     "time": "2026-09-18T09:44:26.701982Z",
-     "url": "https://www.saveticker.com/news/news_vUxr4ZjvhziG",
-     "tickers": [
-      "AMD",
-      "NVDA",
-      "MU",
-      "CRWV",
-      "INTC",
-      "ORCL",
-      "NBIS",
-      "IREN",
-      "SKHY"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": true,
-     "views": 12356,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_yrW7G7lKHcfu",
-     "title": "소식통에 따르면 BYD·CATL·샤오미 경영진, 시진핑의 미국 방문 동행 가능성",
-     "title_en": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-     "summary": "미·중, 시진핑 대통령의 9월 24일 방문을 위한 기업 대표단 확정 마무리\n\n\n소식통들에 따르면 중국 최고경영자들, 백악관 국빈 만찬 참석 예정...",
-     "source": "reuters",
-     "time": "2026-09-18T07:20:43.740671Z",
-     "url": "https://www.saveticker.com/news/news_yrW7G7lKHcfu",
-     "tickers": [
-      "MU",
-      "QCOM",
-      "ILMN"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 151,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_6qrO9E6VwIsa",
-     "title": "(카더라) 창신메모리, 낸드 시장 진출 추진…삼성·SK하이닉스·마이크론에 도전",
-     "title_en": "",
-     "summary": "로이터 통신은 소식통을 인용해,\n중국 최대 DRAM 업체인 창신메모리(CXMT)가 베이징 신규 공장에 낸드플래시 연구개발(R&D) 생산라인을 구...",
-     "source": "로이터",
-     "time": "2026-09-18T06:21:08.426336Z",
-     "url": "https://www.saveticker.com/news/news_6qrO9E6VwIsa",
-     "tickers": [
-      "SNDK",
-      "MU",
-      "SKHY"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 18313,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_-tKPbkCNhqQA",
-     "title": "(카더라) SK하이닉스 솔리다임, 미국 NAND 공장 건설 검토…뉴욕주 북부 유력 후보",
-     "title_en": "",
-     "summary": "로이터 통신은 소식통을 인용해\nSK하이닉스의 미국 자회사 솔리다임이 미국 내 낸드플래시 공장 신설을 검토 중이며 뉴욕주 북부가 유력한 후보지로 ...",
-     "source": "로이터",
-     "time": "2026-09-18T06:13:07.882877Z",
-     "url": "https://www.saveticker.com/news/news_-tKPbkCNhqQA",
-     "tickers": [
-      "SKHY",
-      "SNDK",
-      "MU"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 10063,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "news_Fa0Jp-jOmQau",
-     "title": "[단독] 중국 CXMT, 글로벌 부족 속 플래시 메모리 사업 확대 추진…삼성·YMTC에 도전",
-     "title_en": "EXCLUSIVE-China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
-     "summary": "CXMT, 베이징에 낸드 플래시 연구 라인 계획…소식통들이 전해\n\n\n이번 움직임으로 CXMT의 핵심 D램 사업을 넘어 새로운 시장 열려\n\n\n글로...",
-     "source": "reuters",
-     "time": "2026-09-18T05:22:58.409710Z",
-     "url": "https://www.saveticker.com/news/news_Fa0Jp-jOmQau",
-     "tickers": [
-      "MU"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 436,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "STX": {
    "ticker": "STX",
    "name": "Seagate Technology Holdings PLC",
    "sector": "Technology",
    "industry": "Computer Hardware",
-   "market_cap": 195282829312,
+   "market_cap": 197738692608,
    "description": "Seagate Technology Holdings plc engages in providing data storage solutions in Singapore, the United States, the Netherlands, and internationally. The company offers External and internal hard drives; external and internal solid-state drives (SSDs); enterprise hard drives and SSDs; data storage systems; network attached storage (NAS) hard drives; video and analytics hard drives; and hyperscale and cloud solution. It offers its products for Healthcare, Media & Entertainment, Surveillance & Security, and telecommunication industry. The company sells its products primarily to original equipment m",
-   "price": 858.79,
+   "price": 869.59,
    "analyst": {
-    "recommendation": "적극 매수",
+    "recommendation": "의견 없음",
     "count": 23,
     "target_mean": 1125.0,
     "target_low": 700.0,
     "target_high": 1600.0,
-    "upside_pct": 31.0,
+    "upside_pct": 29.4,
     "breakdown": {
      "strong_buy": 4,
      "buy": 18,
@@ -3459,7 +2389,7 @@
     "pct_of_float": 4.3,
     "days_to_cover": 1.98,
     "level": "낮음",
-    "institutions_pct": 84.4,
+    "institutions_pct": 84.5,
     "insiders_pct": 0.3
    },
    "health": {
@@ -3545,10 +2475,10 @@
      }
     },
     "altman": {
-     "z": 16.97,
+     "z": 17.16,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 16.97 (안전)",
+    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 17.16 (안전)",
     "cash": 1704000000,
     "debt": 3897999872,
     "years": [
@@ -3603,204 +2533,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 61.82793,
-    "forward_pe": 15.509631,
-    "price_to_book": 89.87859,
-    "peg": 0.4594
+    "trailing_pe": 62.51546,
+    "forward_pe": 15.704679,
+    "price_to_book": 91.008896,
+    "peg": 0.4912
    },
-   "news": [
-    {
-     "id": "news_WsfPYRABy1ai",
-     "title": "[수정] Seagate Technology CFO, 데이터센터 환경에서 물량의 80~90%가 자사의 HAMR 기술을 통해 판매될 것이라고 밝혀 - 골드만삭스 콘퍼런스(오타 수정)",
-     "title_en": "REFILE-SEAGATE TECHNOLOGY CFO SAYS IN THE DATA CENTER ENVIRONMENT, 80-90% OF THE VOLUME WILL BE SOLD THROUGH ITS HAMR TECHNOLOGY - GOLDMAN SACHS CONF (FIXES TYPO)",
-     "summary": "",
-     "source": "reuters",
-     "time": "2026-09-10T17:37:17.909283Z",
-     "url": "https://www.saveticker.com/news/news_WsfPYRABy1ai",
-     "tickers": [
-      "STX"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 306,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "203046",
-     "title": "블룸버그, “메모리 공급 2028년까지 타이트…AI가 장기 수요 견인”",
-     "title_en": "",
-     "summary": "블룸버그 인텔리전스(BI)에 따르면,\n8월 DDR5 D램 계약가격은 전월 대비 2% 오르는 데 그쳐 7월(18% 급등) 대비 상승세가 크게 둔화...",
-     "source": "블룸버그",
-     "time": "2026-08-31T16:21:06.304292Z",
-     "url": "https://www.saveticker.com/news/203046",
-     "tickers": [
-      "MU",
-      "SKHY",
-      "WDC",
-      "SNDK",
-      "STX"
-     ],
-     "tags": [
-      "분석"
-     ],
-     "is_top": false,
-     "views": 8513,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "201610",
-     "title": "이와이코스모, “키옥시아 증설 계획, 공급과잉 우려 키워”",
-     "title_en": "",
-     "summary": "이와이코스모증권의 사이토 카즈요시 애널리스트는 키옥시아와 샌디스크가 반도체 생산능력 확대를 위해 5조 엔(약 314억 달러) 이상을 투자한다는 ...",
-     "source": "",
-     "time": "2026-08-28T07:01:09.707505Z",
-     "url": "https://www.saveticker.com/news/201610",
-     "tickers": [
-      "WDC",
-      "MU",
-      "SNDK",
-      "STX",
-      "SKHY"
-     ],
-     "tags": [
-      "분석"
-     ],
-     "is_top": false,
-     "views": 8574,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "197192",
-     "title": "[분석 기사] 메모리주, 실적보다 금리·매크로 부담에 발목",
-     "title_en": "",
-     "summary": "올 상반기 폭발적인 상승세를 보였던 메모리·스토리지주(샌디스크, 마이크론, 웨스턴디지털, 씨게이트 등)가 최근 ‘스마트 머니’의 이탈과 금리 상...",
-     "source": "블룸버그",
-     "time": "2026-08-21T08:35:51.163636Z",
-     "url": "https://www.saveticker.com/news/197192",
-     "tickers": [
-      "SNDK",
-      "MU",
-      "WDC",
-      "STX"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": false,
-     "views": 11296,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "193780",
-     "title": "William O'Neil, '시게이트' 매수 투자의견",
-     "title_en": "",
-     "summary": "William O'Neil, '시게이트' 매수 투자의견",
-     "source": "",
-     "time": "2026-08-17T06:22:30.289800Z",
-     "url": "https://www.saveticker.com/news/193780",
-     "tickers": [
-      "STX"
-     ],
-     "tags": [
-      "투자 의견"
-     ],
-     "is_top": false,
-     "views": 6080,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "187586",
-     "title": "웨스턴디지털 CEO “주가 하락에도 AI용 데이터 저장 수요는 여전히 강하다”",
-     "title_en": "",
-     "summary": "웨스턴디지털 CEO는 실적 발표 후 주가가 급락한 데 대해, 매출이 40% 이상 증가하고 총이익률이 54%를 웃도는 등 실적 펀더멘털은 견조했으...",
-     "source": "블룸버그",
-     "time": "2026-08-06T15:25:59.608263Z",
-     "url": "https://www.saveticker.com/news/187586",
-     "tickers": [
-      "WDC",
-      "STX"
-     ],
-     "tags": [
-      "속보"
-     ],
-     "is_top": false,
-     "views": 8871,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "187505",
-     "title": "[2보] 샌디스크·웨스턴디지털, 높은 기대치가 호실적 압도하며 반도체 섹터 하락 견인",
-     "title_en": "UPDATE 1-Sandisk, Western Digital weigh on chip sector as high expectations eclipse strong earnings",
-     "summary": "매출 전망치가 높은 투자자 기대치에 미치지 못하다\n\n\n샌디스크와 웨스턴 디지털, 올해 들어 눈부신 랠리 펼쳐\n\n\n더 넓은 섹터 후퇴; 씨게이트,...",
-     "source": "reuters",
-     "time": "2026-08-06T13:52:54.145241Z",
-     "url": "https://www.saveticker.com/news/187505",
-     "tickers": [
-      "SNDK",
-      "WDC",
-      "STX",
-      "MU",
-      "SKHY",
-      "INTC",
-      "AMD",
-      "MRVL"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 650,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "187177",
-     "title": "샌디스크·웨스턴디지털, 높은 기대감이 호실적 압도하며 반도체주 하락 견인",
-     "title_en": "Sandisk, Western Digital drag on chip stocks as lofty expectations eclipse strong earnings",
-     "summary": "8월 6일(로이터) - 샌디스크와 웨스턴디지털의 분기 실적이 올해 월스트리트에서 가장 뜨거운 투자 종목 중 하나로 꼽히는 업계의 상승세를 이어가...",
-     "source": "reuters",
-     "time": "2026-08-06T10:51:32.819254Z",
-     "url": "https://www.saveticker.com/news/187177",
-     "tickers": [
-      "SNDK",
-      "WDC",
-      "STX",
-      "MU",
-      "SKHY",
-      "INTC",
-      "AMD",
-      "MRVL"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1188,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "TER": {
    "ticker": "TER",
    "name": "Teradyne, Inc.",
    "sector": "Technology",
    "industry": "Semiconductor Equipment & Materials",
-   "market_cap": 53681160192,
+   "market_cap": 58477694976,
    "description": "Teradyne, Inc. engages in the design, development, manufacture, and sale of automated test systems and robotics products in the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor Test, Robotics, and Other segments. The Semiconductor Test segment offers products and services for wafer level and device package testing, and system level testing of semiconductor devices in automotive, industrial, communications, consumer, smartphones, cloud, computer and electronic game, and other applications. This segment also provides FLEX test platform ",
-   "price": 343.36,
+   "price": 374.04,
    "analyst": {
     "recommendation": "매수",
     "count": 15,
     "target_mean": 446.46667,
     "target_low": 350.0,
     "target_high": 550.0,
-    "upside_pct": 30.0,
+    "upside_pct": 19.4,
     "breakdown": {
      "strong_buy": 1,
      "buy": 11,
@@ -3818,7 +2573,7 @@
     "pct_of_float": 5.2,
     "days_to_cover": 2.65,
     "level": "보통",
-    "institutions_pct": 100.6,
+    "institutions_pct": 100.7,
     "insiders_pct": 0.2
    },
    "health": {
@@ -3904,10 +2659,10 @@
      }
     },
     "altman": {
-     "z": 24.98,
+     "z": 27.05,
      "zone": "안전"
     },
-    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 24.98 (안전)",
+    "summary": "재무건전성 종합 A (매우 좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 27.05 (안전)",
     "cash": 354828992,
     "debt": 100127000,
     "years": [
@@ -3962,202 +2717,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 47.100136,
-    "forward_pe": 29.466713,
-    "price_to_book": 17.097046,
-    "peg": 0.6949
+    "trailing_pe": 51.37912,
+    "forward_pe": 32.099632,
+    "price_to_book": 17.02736,
+    "peg": 0.6798
    },
-   "news": [
-    {
-     "id": "197087",
-     "title": "Baird, '테러다인' 투자의견 하향 (Outperform→중립); 목표가 $420",
-     "title_en": "",
-     "summary": "Baird, '테러다인' 투자의견 하향 (Outperform→중립); 목표가 $420\n\n",
-     "source": "",
-     "time": "2026-08-21T06:21:44.006469Z",
-     "url": "https://www.saveticker.com/news/197087",
-     "tickers": [
-      "TER"
-     ],
-     "tags": [
-      "투자 의견"
-     ],
-     "is_top": false,
-     "views": 3476,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "179058",
-     "title": "테라다인, 반도체 장비 수요 강세에 긍정적 매출 전망…주가 급등",
-     "title_en": "Teradyne forecasts upbeat revenue on strong chip equipment demand, shares jump",
-     "summary": "7월 28일 (로이터) - 반도체 테스트 장비 제조업체 테라다인(Teradyne) TER.O은 화요일, 웨이퍼 제조 장비에 대한 투자 증가세가 ...",
-     "source": "reuters",
-     "time": "2026-07-28T21:00:22.980652Z",
-     "url": "https://www.saveticker.com/news/179058",
-     "tickers": [
-      "TER"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 656,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "179045",
-     "title": "테러다인 - 실적발표",
-     "title_en": "",
-     "summary": "2분기 실적\n- 조정 EPS: 2.47달러 (전년 동기: 0.57달러, 예상: 2.04달러)\n- 순매출: 13억 3,000만 달러 (전년 동기:...",
-     "source": "",
-     "time": "2026-07-28T20:36:21.247999Z",
-     "url": "https://www.saveticker.com/news/179045",
-     "tickers": [
-      "TER"
-     ],
-     "tags": [
-      "실적"
-     ],
-     "is_top": false,
-     "views": 7436,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "178342",
-     "title": "블룸에너지·시게이트·코닝 등 - 실적 컨센서스 (위스퍼링 넘버 및 내재 변동성)",
-     "title_en": "",
-     "summary": "\n",
-     "source": "",
-     "time": "2026-07-28T09:36:13.793232Z",
-     "url": "https://www.saveticker.com/news/178342",
-     "tickers": [
-      "V",
-      "TER",
-      "ENPH",
-      "BE",
-      "KO",
-      "STX",
-      "PYPL",
-      "GLW",
-      "KLAC",
-      "UPS"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 34275,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "145320",
-     "title": "나스닥 100 - 편입/편출 (로켓랩, 코어위브, 네비우스, 아스테라랩스, 테러다인)",
-     "title_en": "",
-     "summary": "나스닥100 편입/편출 (6월 22일 예정)\n\n\n- 편입: 아스테라랩스, 코어위브, 네비우스, 로켓랩, 테라다인\n\n\n- 편출: 차터 커뮤니케이션...",
-     "source": "",
-     "time": "2026-06-12T06:38:16.509876Z",
-     "url": "https://www.saveticker.com/news/145320",
-     "tickers": [
-      "NBIS",
-      "ALAB",
-      "CRWV",
-      "TER",
-      "RKLB"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 38059,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "115508",
-     "title": "테라다인, 분기 매출 및 이익 순차적 감소 전망…주가 하락",
-     "title_en": "Teradyne forecasts sequential decline in quarterly revenue and profit, shares fall",
-     "summary": "4월 28일 (로이터) - 반도체 테스트 장비 제조업체 테라다인(TER.O)은 화요일 2분기 매출과 조정 이익이 순차적으로 감소할 것으로 전망했...",
-     "source": "reuters",
-     "time": "2026-04-28T21:51:07.628944Z",
-     "url": "https://www.saveticker.com/news/115508",
-     "tickers": [
-      "TER",
-      "AAPL"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 1112,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "115463",
-     "title": "실적발표 (부킹, 티모바일, 시게이트, 웰타워, 엔페이즈, 로저스 등)",
-     "title_en": "",
-     "summary": "부킹 홀딩스(BKNG) – EPS/매출 상회; 총 예약 하회\n\n\n티모바일(TMUS) – EPS/매출 상회; 연간 전망 하향 조정\n\n\n로빈후드(H...",
-     "source": "",
-     "time": "2026-04-28T20:43:12.695743Z",
-     "url": "https://www.saveticker.com/news/115463",
-     "tickers": [
-      "BKNG",
-      "TMUS",
-      "STX",
-      "WELL",
-      "V",
-      "SBUX",
-      "NXPI",
-      "BE",
-      "TER",
-      "ROG"
-     ],
-     "tags": [
-      "정보"
-     ],
-     "is_top": true,
-     "views": 22660,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "115451",
-     "title": "테러다인 - 실적발표",
-     "title_en": "",
-     "summary": "2분기 전망\n- 조정 EPS: $1.86~$2.15 (예상: $1.98)\n- 매출: $11.5억~$12.5억 (예상: $12.0억) \n\n\n1분기...",
-     "source": "",
-     "time": "2026-04-28T20:36:49.152067Z",
-     "url": "https://www.saveticker.com/news/115451",
-     "tickers": [
-      "TER"
-     ],
-     "tags": [
-      "실적",
-      "정보"
-     ],
-     "is_top": false,
-     "views": 6562,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "TGB": {
    "ticker": "TGB",
    "name": "Trekor Metals Limited",
    "sector": "Basic Materials",
    "industry": "Copper",
-   "market_cap": 3162441728,
+   "market_cap": 3105707776,
    "description": "Trekor Metals Limited, a mining company, acquires and develops mineral properties. It explores for copper, molybdenum, gold, niobium, and silver deposits. The company's principal assets consist of 100% owned the Gibraltar mine located in south-central British Columbia; and the Florence Copper project in Arizona. The company was formerly known as Taseko Mines Limited and changed its name Trekor Metals Limited in June 2026. Trekor Metals Limited was incorporated in 1966 and is headquartered in Vancouver, Canada.",
-   "price": 8.64,
+   "price": 8.485,
    "analyst": {
     "recommendation": "의견 없음",
     "count": 1,
-    "target_mean": 10.534068,
-    "target_low": 10.534068,
-    "target_high": 10.534068,
-    "upside_pct": 21.9,
+    "target_mean": 10.510097,
+    "target_low": 10.510097,
+    "target_high": 10.510097,
+    "upside_pct": 23.9,
     "breakdown": {
      "strong_buy": 2,
      "buy": 6,
@@ -4261,10 +2843,10 @@
      }
     },
     "altman": {
-     "z": 1.44,
+     "z": 1.42,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 1.44 (위험)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 1.42 (위험)",
     "cash": 187324000,
     "debt": 765284992,
     "years": [
@@ -4319,29 +2901,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 432.00003,
-    "forward_pe": 10.864531,
-    "price_to_book": 5.1537232,
+    "trailing_pe": 424.25,
+    "forward_pe": 10.671413,
+    "price_to_book": 5.04932,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "WT": {
    "ticker": "WT",
    "name": "WisdomTree, Inc.",
    "sector": "Financial Services",
    "industry": "Asset Management",
-   "market_cap": 3495384320,
+   "market_cap": 3512050688,
    "description": "WisdomTree, Inc., through its subsidiaries, operates as an exchange-traded funds (ETFs) sponsor and asset manager. It offers ETFs in equities, currency, fixed income, and alternatives asset classes. The company also licenses its indexes to third parties for proprietary products, as well as offers a platform to promote the use of WisdomTree ETFs in 401(k) plans. It develops index using its fundamentally weighted index methodology. In addition, the company provides investment advisory services. The company was founded in 1985 and is based in New York, New York.",
-   "price": 23.07,
+   "price": 23.18,
    "analyst": {
     "recommendation": "매수",
     "count": 7,
     "target_mean": 24.32857,
     "target_low": 18.3,
     "target_high": 27.0,
-    "upside_pct": 5.5,
+    "upside_pct": 5.0,
     "breakdown": {
      "strong_buy": 1,
      "buy": 4,
@@ -4500,64 +3082,29 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 41.945454,
-    "forward_pe": 17.383245,
-    "price_to_book": 8.149063,
+    "trailing_pe": 42.145454,
+    "forward_pe": 17.466131,
+    "price_to_book": 7.284727,
     "peg": null
    },
-   "news": [
-    {
-     "id": "163686",
-     "title": "[2보] 트럼프 대통령, 이란 합의 '끝났다' 발언에 유로존 국채 금리 급등",
-     "title_en": "UPDATE 1-Euro zone bond yields surge after Trump says Iran deal is 'over'",
-     "summary": "유로존 국채 금리 전반적으로 8~12bp 상승\n\n\n트럼프 대통령, 이란 MOU는 '끝났다'고 생각한다고 밝혀\n\n\n유가 6% 급등, 유럽중앙은행 ...",
-     "source": "reuters",
-     "time": "2026-07-08T15:06:48.717049Z",
-     "url": "https://www.saveticker.com/news/163686",
-     "tickers": [
-      "WT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 562,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "63620",
-     "title": "미국 증권거래위원회, 토큰화된 머니마켓펀드 일중 거래 허용",
-     "title_en": "Wall Street regulator allows intraday trading of tokenized WisdomTree money market fund",
-     "summary": "워싱턴, 2월 23일 (로이터) - 미국 증권거래위원회(SEC)는 월요일 자산운용사 위즈덤트리(WisdomTree WT.N)의 특별 요청을 승인...",
-     "source": "reuters",
-     "time": "2026-02-23T22:31:21.171210Z",
-     "url": "https://www.saveticker.com/news/63620",
-     "tickers": [
-      "WT"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 76,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   },
   "XGN": {
    "ticker": "XGN",
    "name": "Exagen Inc.",
    "sector": "Healthcare",
    "industry": "Diagnostics & Research",
-   "market_cap": 190653424,
+   "market_cap": 207126656,
    "description": "Exagen Inc. designs, develops, and commercializes various testing products under the AVISE brand in the United States. The company enables healthcare providers to care for patients through the diagnosis, prognosis, and monitoring of complex rheumatic, and autoimmune and autoimmune-related diseases, including systemic lupus erythematosus (SLE) and rheumatoid arthritis (RA). The company's lead testing product is AVISE CTD that enables differential diagnosis for patients presenting with symptoms indicative of various connective tissue diseases (CTDs) and other related diseases with overlapping sy",
-   "price": 7.87,
+   "price": 8.55,
    "analyst": {
     "recommendation": "적극 매수",
     "count": 7,
     "target_mean": 9.85714,
     "target_low": 9.0,
     "target_high": 12.0,
-    "upside_pct": 25.2,
+    "upside_pct": 15.3,
     "breakdown": {
      "strong_buy": 0,
      "buy": 7,
@@ -4661,10 +3208,10 @@
      }
     },
     "altman": {
-     "z": -3.78,
+     "z": -3.54,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z -3.78 (위험)",
+    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 3/9 (취약) · 알트만 Z -3.54 (위험)",
     "cash": 24588000,
     "debt": 27656000,
     "years": [
@@ -4720,47 +3267,12 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -16.74468,
-    "price_to_book": 15.584158,
+    "forward_pe": -18.19149,
+    "price_to_book": 16.930693,
     "peg": null
    },
-   "news": [
-    {
-     "id": "184789",
-     "title": "Exagen Inc., 2026년 2분기 실적 발표",
-     "title_en": "Exagen Inc. Reports Second Quarter 2026 Financial Results",
-     "summary": "기록적인 총 매출, 검사 건수 및 최근 12개월 평균 판매 가격(ASP) 달성\n순손실을 약 30% 줄이고 조정 EBITDA 손실을 10만 달러로...",
-     "source": "globenewswire",
-     "time": "2026-08-04T12:00:00Z",
-     "url": "https://www.saveticker.com/news/184789",
-     "tickers": [
-      "XGN"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 9,
-     "comments": 0,
-     "positive_pct": null
-    },
-    {
-     "id": "178669",
-     "title": "Exagen Inc., 다가오는 투자자 컨퍼런스 참가 예정",
-     "title_en": "Exagen Inc. to Participate in Upcoming Investor Conference",
-     "summary": "캘리포니아주 칼즈배드, 2026년 7월 28일 (GLOBE NEWSWIRE) -- 자가면역 검사 분야의 선도적 공급업체인 Exagen Inc.(...",
-     "source": "globenewswire",
-     "time": "2026-07-28T13:00:00Z",
-     "url": "https://www.saveticker.com/news/178669",
-     "tickers": [
-      "XGN"
-     ],
-     "tags": [],
-     "is_top": false,
-     "views": 5,
-     "comments": 0,
-     "positive_pct": null
-    }
-   ],
-   "updated": "2026-09-18T21:27:54.700514+00:00"
+   "news": [],
+   "updated": "2026-09-21T14:22:44.810011+00:00"
   }
  },
  "market": "us"
