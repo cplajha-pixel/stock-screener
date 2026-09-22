@@ -1,7 +1,7 @@
 {
  "date": "2026-09-21",
- "generated_at": "2026-09-21T21:28:11Z",
- "count": 3908,
+ "generated_at": "2026-09-22T14:22:19Z",
+ "count": 3906,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -7490,19 +7490,6 @@
    "r6m": -21.7,
    "sma10": 42.492,
    "sma20": 45.796
-  },
-  "BRR": {
-   "name": "ProCap Financial, Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "prev_close": 4.07,
-   "dv20": 7383606.0,
-   "adr20": 8.32,
-   "vol20": 2310146.0,
-   "r1m": 81.7,
-   "r3m": 175.0,
-   "r6m": 51.3,
-   "sma10": 3.257,
-   "sma20": 2.768
   },
   "BRSL": {
    "name": "Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",
@@ -31644,19 +31631,6 @@
    "r6m": -15.2,
    "sma10": 69.487,
    "sma20": 70.8475
-  },
-  "NHIC": {
-   "name": "NewHold Investment Corp III - Class A Ordinary shares",
-   "exchange": "NASDAQ",
-   "prev_close": 8.64,
-   "dv20": 8542634.0,
-   "adr20": 3.01,
-   "vol20": 855418.0,
-   "r1m": -18.6,
-   "r3m": -21.7,
-   "r6m": -16.8,
-   "sma10": 9.896,
-   "sma20": 10.253
   },
   "NHP": {
    "name": "National Healthcare Properties, Inc. - Class A Common Stock",

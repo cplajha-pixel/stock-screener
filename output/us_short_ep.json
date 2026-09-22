@@ -1,41 +1,12 @@
 {
- "date": "2026-09-21",
- "generated_at": "2026-09-21T15:12:50Z",
- "asof_et": "2026-09-21 11:12",
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T14:23:08Z",
+ "asof_et": "2026-09-22 10:23",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 1,
- "items": [
-  {
-   "date": "2026-09-21",
-   "ticker": "CRML",
-   "name": "Critical Metals Corp. - Ordinary Shares",
-   "exchange": "NASDAQ",
-   "setup": "ep",
-   "trigger_price": 8.8842,
-   "stop_price": 8.093,
-   "stop_pct": 8.91,
-   "open": 8.71,
-   "high_so_far": 9.64,
-   "last": 9.295,
-   "prev_close": 6.73,
-   "gap_pct": 29.4,
-   "vol_est": 136753511,
-   "vol20": 7765196,
-   "vol_mult": 17.6,
-   "minutes_elapsed": 103,
-   "triggered": true,
-   "adr20": 8.91,
-   "r1m": 9.1,
-   "r3m": -33.7,
-   "r6m": -20.0,
-   "dv20": 56147514,
-   "qty": 39,
-   "score": -33.7,
-   "asof_et": "2026-09-21 11:12"
-  }
- ]
+ "count": 0,
+ "items": []
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T21:28:12Z",
- "count": 27,
+ "generated_at": "2026-09-22T14:23:08Z",
+ "count": 26,
  "items": {
   "AMCX": {
    "ticker": "AMCX",
@@ -184,7 +184,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -368,7 +368,7 @@
     "peg": 0.8778
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -539,7 +539,7 @@
     "peg": 1.5173
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "AXGN": {
    "ticker": "AXGN",
@@ -723,170 +723,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
-  },
-  "CRML": {
-   "ticker": "CRML",
-   "name": "Critical Metals Corp.",
-   "sector": "Basic Materials",
-   "industry": "Other Industrial Metals & Mining",
-   "market_cap": 1343047936,
-   "description": "Critical Metals Corp. operates as a mining exploration and development company in Austria and Southern Greenland. The company explores for lithium and rare earth element deposits. The company is headquartered in New York, New York.",
-   "price": 9.1433,
-   "analyst": {
-    "recommendation": "매수",
-    "count": 2,
-    "target_mean": 13.0,
-    "target_low": 8.0,
-    "target_high": 18.0,
-    "upside_pct": 42.2,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 0,
-     "hold": 1,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "short": {
-    "pct_of_float": 32.6,
-    "days_to_cover": 3.0,
-    "level": "매우 높음",
-    "institutions_pct": 21.0,
-    "insiders_pct": 45.7
-   },
-   "health": {
-    "overall": "C",
-    "overall_word": "보통",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 1.651,
-      "unit": "%",
-      "grade": "A",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 0.747,
-      "unit": "x",
-      "grade": "F",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "위험"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": 6779.4,
-      "unit": "%",
-      "grade": "A",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -4516.1,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 57.8,
-      "unit": "%",
-      "grade": "A",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": -141.0,
-      "unit": "%",
-      "grade": "F",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
-     }
-    ],
-    "piotroski": null,
-    "altman": null,
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음",
-    "cash": 80923696,
-    "debt": 2375617,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": null,
-      "operating_income": null,
-      "net_income": null,
-      "eps": -0.56,
-      "operating_cash_flow": null,
-      "free_cash_flow": null,
-      "total_debt": 26078.0,
-      "cash": null,
-      "equity": null
-     },
-     {
-      "year": "2024",
-      "revenue": 0.0,
-      "operating_income": -3770173.0,
-      "net_income": -139446204.0,
-      "eps": -527.0,
-      "operating_cash_flow": -15122354.0,
-      "free_cash_flow": -16190926.0,
-      "total_debt": 33638.0,
-      "cash": 1259242.0,
-      "equity": -11065749.0
-     },
-     {
-      "year": "2023",
-      "revenue": 0.0,
-      "operating_income": -439423.0,
-      "net_income": -5450213.0,
-      "eps": -0.066759,
-      "operating_cash_flow": -2378789.0,
-      "free_cash_flow": -5372367.0,
-      "total_debt": 0.0,
-      "cash": 137451.0,
-      "equity": 31678523.0
-     },
-     {
-      "year": "2022",
-      "revenue": 0.0,
-      "operating_income": -260735.0,
-      "net_income": -284601.0,
-      "eps": -0.003486,
-      "operating_cash_flow": -182397.0,
-      "free_cash_flow": -6216764.0,
-      "total_debt": null,
-      "cash": 136097.0,
-      "equity": 30379458.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": -48.12263,
-    "price_to_book": 7.709359,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -1070,7 +907,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "FLXS": {
    "ticker": "FLXS",
@@ -1254,7 +1091,7 @@
     "peg": 1.2613
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1438,7 +1275,7 @@
     "peg": 1.8651
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "KELYA": {
    "ticker": "KELYA",
@@ -1622,7 +1459,7 @@
     "peg": 0.6643
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "LFST": {
    "ticker": "LFST",
@@ -1806,7 +1643,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -1990,7 +1827,7 @@
     "peg": 0.1492
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "NMAX": {
    "ticker": "NMAX",
@@ -2162,7 +1999,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "OOMA": {
    "ticker": "OOMA",
@@ -2346,7 +2183,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -2530,7 +2367,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "PK": {
    "ticker": "PK",
@@ -2714,7 +2551,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "PRCH": {
    "ticker": "PRCH",
@@ -2895,7 +2732,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "PTGX": {
    "ticker": "PTGX",
@@ -3079,7 +2916,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "RCEL": {
    "ticker": "RCEL",
@@ -3263,7 +3100,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "RSKD": {
    "ticker": "RSKD",
@@ -3447,7 +3284,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "SSRM": {
    "ticker": "SSRM",
@@ -3631,7 +3468,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "STRZ": {
    "ticker": "STRZ",
@@ -3803,7 +3640,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "TECK": {
    "ticker": "TECK",
@@ -3974,7 +3811,7 @@
     "peg": 3.9743
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -4158,7 +3995,7 @@
     "peg": 0.6798
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "TGB": {
    "ticker": "TGB",
@@ -4342,7 +4179,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "WHD": {
    "ticker": "WHD",
@@ -4526,7 +4363,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "WT": {
    "ticker": "WT",
@@ -4707,7 +4544,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   },
   "ZETA": {
    "ticker": "ZETA",
@@ -4891,7 +4728,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-21T21:28:12.257444+00:00"
+   "updated": "2026-09-22T14:23:08.964081+00:00"
   }
  },
  "market": "us"
