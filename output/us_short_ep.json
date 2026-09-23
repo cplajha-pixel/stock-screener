@@ -1,7 +1,7 @@
 {
  "date": "2026-09-23",
- "generated_at": "2026-09-23T14:23:12Z",
- "asof_et": "2026-09-23 10:23",
+ "generated_at": "2026-09-23T14:48:06Z",
+ "asof_et": "2026-09-23 10:48",
  "market": "us",
  "setup": "ep",
  "capital": 700,
@@ -20,13 +20,13 @@
    "stop_pct": 10.0,
    "open": 17.49,
    "high_so_far": 17.99,
-   "last": 13.33,
+   "last": 12.8897,
    "prev_close": 14.15,
    "gap_pct": 23.6,
-   "vol_est": 205372209,
+   "vol_est": 159477865,
    "vol20": 16900976,
-   "vol_mult": 12.2,
-   "minutes_elapsed": 54,
+   "vol_mult": 9.4,
+   "minutes_elapsed": 78,
    "triggered": true,
    "adr20": 17.63,
    "r1m": 39.4,
@@ -35,7 +35,7 @@
    "dv20": 178334733,
    "qty": 19,
    "score": 10.5,
-   "asof_et": "2026-09-23 10:23"
+   "asof_et": "2026-09-23 10:47"
   }
  ]
 }
