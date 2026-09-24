@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T21:31:05Z",
- "count": 14,
+ "generated_at": "2026-09-24T14:23:50Z",
+ "count": 16,
  "items": {
   "AMPL": {
    "ticker": "AMPL",
@@ -169,7 +169,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "AOUT": {
    "ticker": "AOUT",
@@ -338,7 +338,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -522,7 +522,7 @@
     "peg": 0.8778
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -693,7 +693,7 @@
     "peg": 1.5173
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "ASST": {
    "ticker": "ASST",
@@ -838,7 +838,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "DELL": {
    "ticker": "DELL",
@@ -1007,7 +1007,7 @@
     "peg": 0.6448
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -1176,7 +1176,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1360,7 +1360,276 @@
     "peg": 1.8651
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
+  },
+  "GLND": {
+   "ticker": "GLND",
+   "name": "Greenland Energy Company",
+   "sector": "Energy",
+   "industry": "Oil & Gas E&P",
+   "market_cap": 205098976,
+   "description": "Greenland Energy Company operates as an early-stage oil and gas exploration company. It focuses on the Jameson Land Basin in East Greenland. The company is headquartered in Denver, Colorado.",
+   "price": 4.6901,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 1,
+    "target_mean": 6.0,
+    "target_low": 6.0,
+    "target_high": 6.0,
+    "upside_pct": 27.9,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 1,
+     "hold": 0,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": 1.02,
+    "level": null,
+    "institutions_pct": 13.9,
+    "insiders_pct": 30.6
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": null,
+    "altman": null,
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음",
+    "cash": 37423184,
+    "debt": 0,
+    "years": []
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": 3.0978203,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-24T14:23:50.134916+00:00"
+  },
+  "GRML": {
+   "ticker": "GRML",
+   "name": "Greenland Mines Ltd",
+   "sector": "Basic Materials",
+   "industry": "Other Precious Metals & Mining",
+   "market_cap": 49529632,
+   "description": "Greenland Mines Ltd engages in the cell and gene therapy, and natural resources businesses. The company primarily explores palladium, gold, and platinum deposits. It focuses on the exploration and development of Skaergaard project located in Southeast Greenland and the Sarartoq neodymium-praseodymium (Nd-Pr) rare earths project in Southwest Greenland. The company is also involved in the development of KLTO-202, a gene therapy for the treatment and prevention of amyotrophic lateral sclerosis; and KLTO-101 for the treatment or prevention of Alzheimer's disease, as well as therapies to treat Park",
+   "price": 15.68,
+   "analyst": {
+    "recommendation": "적극 매수",
+    "count": 1,
+    "target_mean": 110.0,
+    "target_low": 110.0,
+    "target_high": 110.0,
+    "upside_pct": 601.5,
+    "breakdown": {
+     "strong_buy": 0,
+     "buy": 1,
+     "hold": 0,
+     "sell": 0,
+     "strong_sell": 0
+    }
+   },
+   "short": {
+    "pct_of_float": 22.0,
+    "days_to_cover": 1.27,
+    "level": "높음",
+    "institutions_pct": 13.0,
+    "insiders_pct": 7.8
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": 0.515,
+      "unit": "%",
+      "grade": "A",
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": 10.092,
+      "unit": "x",
+      "grade": "A",
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "매우 좋음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": -63.5,
+      "unit": "%",
+      "grade": "F",
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "위험"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 224.41,
+     "zone": "안전"
+    },
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 224.41 (안전)",
+    "cash": 9344357,
+    "debt": 297968,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 0.0,
+      "operating_income": -7146265.0,
+      "net_income": -10551674.0,
+      "eps": -0.087032,
+      "operating_cash_flow": -5889254.0,
+      "free_cash_flow": -5889254.0,
+      "total_debt": null,
+      "cash": 7176615.0,
+      "equity": 9463476.0
+     },
+     {
+      "year": "2024",
+      "revenue": 0.0,
+      "operating_income": -5540236.0,
+      "net_income": -6150372.0,
+      "eps": -0.050729,
+      "operating_cash_flow": -2946512.0,
+      "free_cash_flow": -3070009.0,
+      "total_debt": 271753.0,
+      "cash": 63741.0,
+      "equity": 1185345.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": 0.8553715,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -1544,7 +1813,7 @@
     "peg": 0.1492
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "OESX": {
    "ticker": "OESX",
@@ -1713,7 +1982,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "RDVT": {
    "ticker": "RDVT",
@@ -1882,7 +2151,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "SXC": {
    "ticker": "SXC",
@@ -2051,7 +2320,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -2235,7 +2504,7 @@
     "peg": 0.6798
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   },
   "TOP": {
    "ticker": "TOP",
@@ -2404,7 +2673,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-23T21:31:05.418032+00:00"
+   "updated": "2026-09-24T14:23:50.134916+00:00"
   }
  },
  "market": "us"
