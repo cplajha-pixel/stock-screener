@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24T21:29:34Z",
- "count": 25,
+ "generated_at": "2026-09-25T14:23:48Z",
+ "count": 24,
  "items": {
   "AAMI": {
    "ticker": "AAMI",
@@ -181,7 +181,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "AMCX": {
    "ticker": "AMCX",
@@ -365,7 +365,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "AMPL": {
    "ticker": "AMPL",
@@ -534,7 +534,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "AOUT": {
    "ticker": "AOUT",
@@ -703,7 +703,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -887,7 +887,7 @@
     "peg": 0.8778
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -1058,7 +1058,7 @@
     "peg": 1.5173
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "CHEF": {
    "ticker": "CHEF",
@@ -1242,7 +1242,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "CXW": {
    "ticker": "CXW",
@@ -1426,7 +1426,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "ECPG": {
    "ticker": "ECPG",
@@ -1607,7 +1607,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -1776,7 +1776,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "ETON": {
    "ticker": "ETON",
@@ -1960,7 +1960,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "FROG": {
    "ticker": "FROG",
@@ -2144,7 +2144,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2328,121 +2328,7 @@
     "peg": 1.8651
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
-  },
-  "GLND": {
-   "ticker": "GLND",
-   "name": "Greenland Energy Company",
-   "sector": "Energy",
-   "industry": "Oil & Gas E&P",
-   "market_cap": 205098976,
-   "description": "Greenland Energy Company operates as an early-stage oil and gas exploration company. It focuses on the Jameson Land Basin in East Greenland. The company is headquartered in Denver, Colorado.",
-   "price": 4.6901,
-   "analyst": {
-    "recommendation": "적극 매수",
-    "count": 1,
-    "target_mean": 6.0,
-    "target_low": 6.0,
-    "target_high": 6.0,
-    "upside_pct": 27.9,
-    "breakdown": {
-     "strong_buy": 0,
-     "buy": 1,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "short": {
-    "pct_of_float": null,
-    "days_to_cover": 1.02,
-    "level": null,
-    "institutions_pct": 13.9,
-    "insiders_pct": 30.6
-   },
-   "health": {
-    "overall": "C",
-    "overall_word": "보통",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": null,
-      "unit": "x",
-      "grade": null,
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
-     }
-    ],
-    "piotroski": null,
-    "altman": null,
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음",
-    "cash": 37423184,
-    "debt": 0,
-    "years": []
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": 3.0978203,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "INSW": {
    "ticker": "INSW",
@@ -2626,7 +2512,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "LPG": {
    "ticker": "LPG",
@@ -2810,7 +2696,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -2994,7 +2880,7 @@
     "peg": 0.1492
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "OESX": {
    "ticker": "OESX",
@@ -3163,7 +3049,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "PAYS": {
    "ticker": "PAYS",
@@ -3347,7 +3233,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "PSNL": {
    "ticker": "PSNL",
@@ -3531,7 +3417,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "RVMD": {
    "ticker": "RVMD",
@@ -3715,7 +3601,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "SN": {
    "ticker": "SN",
@@ -3899,7 +3785,7 @@
     "peg": 2.3081
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "SOPH": {
    "ticker": "SOPH",
@@ -4083,7 +3969,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -4267,7 +4153,7 @@
     "peg": 0.6798
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   },
   "TOP": {
    "ticker": "TOP",
@@ -4436,7 +4322,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-24T21:29:34.564720+00:00"
+   "updated": "2026-09-25T14:23:48.396092+00:00"
   }
  },
  "market": "us"
