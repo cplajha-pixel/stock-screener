@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.38,
+    "last_close": 12.41,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -95,10 +95,10 @@
     "entry_price": 69.67,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 15.6,
-    "r_multiple": 2.68,
+    "pnl_pct": 16.75,
+    "r_multiple": 2.88,
     "remaining_frac": 0.5,
-    "last_close": 84.11,
+    "last_close": 85.71,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -131,10 +131,10 @@
     "entry_price": 70.46,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 14.04,
-    "r_multiple": 2.32,
+    "pnl_pct": 15.18,
+    "r_multiple": 2.5,
     "remaining_frac": 0.5,
-    "last_close": 84.11,
+    "last_close": 85.71,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -164,10 +164,10 @@
     "entry_price": 9.45,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 11.06,
-    "r_multiple": 1.62,
+    "pnl_pct": 12.12,
+    "r_multiple": 1.78,
     "remaining_frac": 0.5,
-    "last_close": 10.8,
+    "last_close": 11.0,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -213,10 +213,10 @@
     "entry_price": 7.97,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 8.47,
-    "r_multiple": 1.54,
+    "pnl_pct": 8.34,
+    "r_multiple": 1.52,
     "remaining_frac": 0.5,
-    "last_close": 8.74,
+    "last_close": 8.72,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -243,10 +243,10 @@
     "entry_price": 8.59,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 1.75,
-    "r_multiple": 0.32,
+    "pnl_pct": 1.63,
+    "r_multiple": 0.3,
     "remaining_frac": 0.5,
-    "last_close": 8.74,
+    "last_close": 8.72,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,11 +271,13 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 2.93,
-    "r_multiple": 0.53,
-    "remaining_frac": 1.0,
-    "last_close": 11.58,
-    "notes": []
+    "pnl_pct": 5.24,
+    "r_multiple": 0.96,
+    "remaining_frac": 0.5,
+    "last_close": 11.84,
+    "notes": [
+     "3일째 절반 매도 5.2%"
+    ]
    }
   },
   {
@@ -322,10 +324,10 @@
     "entry_price": 29.55,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": -1.02,
-    "r_multiple": -0.11,
+    "pnl_pct": 3.52,
+    "r_multiple": 0.38,
     "remaining_frac": 1.0,
-    "last_close": 29.25,
+    "last_close": 30.59,
     "notes": []
    }
   },
@@ -345,20 +347,48 @@
     "EFOR",
     "AOUT"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-25",
+    "entry_price": 30.6,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": -0.03,
+    "r_multiple": -0.0,
+    "remaining_frac": 1.0,
+    "last_close": 30.59,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-25",
+   "ticker": "OESX",
+   "name": "Orion Energy Systems, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 30.6,
+   "stop_price": 27.7333,
+   "stop_pct": 9.37,
+   "reason": "3개월 +170.2% (후보 중 모멘텀 상위) · 급등 +226.0% 뒤 12일 횡보, 폭 22.4% · 거래량 급등기 대비 49% 로 감소 · 종가가 트리거가의 100.0% 위치",
+   "candidates": [
+    "OESX",
+    "TOP",
+    "AOUT",
+    "DELL"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 12,
-  "triggered": 8,
+  "total": 13,
+  "triggered": 9,
   "not_triggered": 3,
   "closed": 1,
-  "open": 7,
-  "win_rate": 87.5,
-  "avg_pnl_pct": 6.72,
-  "avg_r": 1.13,
-  "sum_pnl_pct": 53.77
+  "open": 8,
+  "win_rate": 88.9,
+  "avg_pnl_pct": 7.08,
+  "avg_r": 1.17,
+  "sum_pnl_pct": 63.69
  },
- "generated_at": "2026-09-24T21:29:34Z"
+ "generated_at": "2026-09-25T21:31:02Z"
 }
