@@ -1,7 +1,7 @@
 {
  "date": "2026-09-25",
- "generated_at": "2026-09-25T21:31:02Z",
- "count": 3896,
+ "generated_at": "2026-09-28T14:25:57Z",
+ "count": 3894,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -17215,19 +17215,6 @@
    "sma10": 4.4365,
    "sma20": 7.7727
   },
-  "FGNX": {
-   "name": "FG Nexus Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "prev_close": 7.8,
-   "dv20": 901837.0,
-   "adr20": 8.67,
-   "vol20": 116142.0,
-   "r1m": -2.5,
-   "r3m": 36.8,
-   "r6m": 23.8,
-   "sma10": 7.7365,
-   "sma20": 7.9405
-  },
   "FHB": {
    "name": "First Hawaiian, Inc. - Common Stock",
    "exchange": "NASDAQ",
@@ -23935,19 +23922,6 @@
    "r6m": 29.9,
    "sma10": 113.93,
    "sma20": 113.8862
-  },
-  "IPEX": {
-   "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
-   "exchange": "NASDAQ",
-   "prev_close": 3.16,
-   "dv20": 737845.0,
-   "adr20": 27.62,
-   "vol20": 106336.0,
-   "r1m": -70.2,
-   "r3m": -69.9,
-   "r6m": -69.6,
-   "sma10": 8.881,
-   "sma20": 9.2315
   },
   "IPFX": {
    "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",

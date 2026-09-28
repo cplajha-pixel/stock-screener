@@ -59,13 +59,13 @@ BALL,Ball Corporation,Materials,True,False
 BAX,Baxter International,Health Care,True,False
 BBY,Best Buy,Consumer Discretionary,True,False
 BDX,Becton Dickinson,Health Care,True,False
+BE,Bloom Energy,Industrials,True,False
 BEN,Franklin Resources,Financials,True,False
 BF-B,Brown–Forman,Consumer Staples,True,False
 BG,Bunge Global,Consumer Staples,True,False
 BIIB,Biogen,Health Care,True,False
 BKNG,Booking Holdings,Consumer Discretionary,True,True
 BKR,Baker Hughes,Energy,True,True
-BLDR,Builders FirstSource,Industrials,True,False
 BLK,BlackRock,Financials,True,False
 BMY,Bristol Myers Squibb,Health Care,True,False
 BNY,BNY Mellon,Financials,True,False
@@ -249,6 +249,7 @@ ICE,Intercontinental Exchange,Financials,True,False
 IDXX,Idexx Laboratories,Health Care,True,True
 IEX,IDEX Corporation,Industrials,True,False
 IFF,International Flavors & Fragrances,Materials,True,False
+ILMN,"Illumina, Inc.",Health Care,True,False
 INCY,Incyte,Health Care,True,False
 INTC,Intel,Information Technology,True,True
 INTU,Intuit,Information Technology,True,True
@@ -271,7 +272,7 @@ JPM,JPMorgan Chase,Financials,True,False
 KDP,Keurig Dr Pepper,Consumer Staples,True,True
 KEY,KeyCorp,Financials,True,False
 KEYS,Keysight Technologies,Information Technology,True,False
-KHC,Kraft Heinz,Consumer Staples,True,True
+KHC,Kraft Heinz,Consumer Staples,True,False
 KIM,Kimco Realty,Real Estate,True,False
 KKR,KKR & Co.,Financials,True,False
 KLAC,KLA Corporation,Information Technology,True,True
@@ -362,6 +363,7 @@ ORCL,Oracle Corporation,Information Technology,True,False
 ORLY,O'Reilly Automotive,Consumer Discretionary,True,True
 OTIS,Otis Worldwide,Industrials,True,False
 OXY,Occidental Petroleum,Energy,True,False
+P,Everpure,Information Technology,True,False
 PANW,Palo Alto Networks,Information Technology,True,True
 PAYX,Paychex,Industrials,True,True
 PCAR,Paccar,Industrials,True,True
@@ -439,7 +441,6 @@ SYF,Synchrony Financial,Financials,True,False
 SYK,Stryker Corporation,Health Care,True,False
 SYY,Sysco,Consumer Staples,True,False
 T,AT&T,Communication Services,True,False
-TAP,Molson Coors Beverage Company,Consumer Staples,True,False
 TDG,TransDigm Group,Industrials,True,False
 TDY,Teledyne Technologies,Information Technology,True,False
 TECH,Bio-Techne,Health Care,True,False
@@ -462,7 +463,6 @@ TSCO,Tractor Supply,Consumer Discretionary,True,False
 TSLA,"Tesla, Inc.",Consumer Discretionary,True,True
 TSN,Tyson Foods,Consumer Staples,True,False
 TT,Trane Technologies,Industrials,True,False
-TTD,Trade Desk (The),Communication Services,True,False
 TTWO,Take-Two Interactive,Communication Services,True,True
 TXN,Texas Instruments,Information Technology,True,True
 TXT,Textron,Industrials,True,False
