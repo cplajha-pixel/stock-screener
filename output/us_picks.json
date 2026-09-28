@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.41,
+    "last_close": 12.69,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -95,10 +95,10 @@
     "entry_price": 69.67,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 16.75,
-    "r_multiple": 2.88,
+    "pnl_pct": 18.75,
+    "r_multiple": 3.22,
     "remaining_frac": 0.5,
-    "last_close": 85.71,
+    "last_close": 88.5,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -131,10 +131,10 @@
     "entry_price": 70.46,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 15.18,
-    "r_multiple": 2.5,
+    "pnl_pct": 17.16,
+    "r_multiple": 2.83,
     "remaining_frac": 0.5,
-    "last_close": 85.71,
+    "last_close": 88.5,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -164,10 +164,10 @@
     "entry_price": 9.45,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 12.12,
-    "r_multiple": 1.78,
+    "pnl_pct": 12.06,
+    "r_multiple": 1.77,
     "remaining_frac": 0.5,
-    "last_close": 11.0,
+    "last_close": 10.99,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -213,10 +213,10 @@
     "entry_price": 7.97,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 8.34,
-    "r_multiple": 1.52,
+    "pnl_pct": 6.84,
+    "r_multiple": 1.25,
     "remaining_frac": 0.5,
-    "last_close": 8.72,
+    "last_close": 8.48,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -237,16 +237,16 @@
     "MSTR",
     "AMC"
    ],
-   "status": "진행 중",
+   "status": "종료",
    "result": {
     "entry_date": "2026-09-21",
     "entry_price": 8.59,
-    "exit_date": null,
-    "exit_reason": null,
-    "pnl_pct": 1.63,
-    "r_multiple": 0.3,
-    "remaining_frac": 0.5,
-    "last_close": 8.72,
+    "exit_date": "2026-09-28",
+    "exit_reason": "손절",
+    "pnl_pct": 0.87,
+    "r_multiple": 0.16,
+    "remaining_frac": 0.0,
+    "last_close": 8.48,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,10 +271,10 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 5.24,
-    "r_multiple": 0.96,
+    "pnl_pct": 4.49,
+    "r_multiple": 0.82,
     "remaining_frac": 0.5,
-    "last_close": 11.84,
+    "last_close": 11.67,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -324,10 +324,10 @@
     "entry_price": 29.55,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 3.52,
-    "r_multiple": 0.38,
+    "pnl_pct": 3.08,
+    "r_multiple": 0.33,
     "remaining_frac": 1.0,
-    "last_close": 30.59,
+    "last_close": 30.46,
     "notes": []
    }
   },
@@ -353,10 +353,10 @@
     "entry_price": 30.6,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": -0.03,
-    "r_multiple": -0.0,
+    "pnl_pct": -0.46,
+    "r_multiple": -0.05,
     "remaining_frac": 1.0,
-    "last_close": 30.59,
+    "last_close": 30.46,
     "notes": []
    }
   },
@@ -375,20 +375,47 @@
     "AOUT",
     "DELL"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-09-28",
+    "entry_price": 31.0472,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": -1.89,
+    "r_multiple": -0.2,
+    "remaining_frac": 1.0,
+    "last_close": 30.46,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-09-28",
+   "ticker": "ASST",
+   "name": "Strive, Inc. - Class A Common Stock",
+   "setup": "breakout",
+   "trigger_price": 31.95,
+   "stop_price": 29.6127,
+   "stop_pct": 7.32,
+   "reason": "3개월 +149.6% (후보 중 모멘텀 상위) · 급등 +170.1% 뒤 10일 횡보, 폭 20.0% · 거래량 급등기 대비 88% 로 감소 · 종가가 트리거가의 90.8% 위치",
+   "candidates": [
+    "ASST",
+    "TOP",
+    "AOUT"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 13,
-  "triggered": 9,
+  "total": 14,
+  "triggered": 10,
   "not_triggered": 3,
-  "closed": 1,
+  "closed": 2,
   "open": 8,
-  "win_rate": 88.9,
-  "avg_pnl_pct": 7.08,
-  "avg_r": 1.17,
-  "sum_pnl_pct": 63.69
+  "win_rate": 80.0,
+  "avg_pnl_pct": 6.18,
+  "avg_r": 1.03,
+  "sum_pnl_pct": 61.84
  },
- "generated_at": "2026-09-25T21:31:02Z"
+ "generated_at": "2026-09-28T21:31:22Z"
 }
