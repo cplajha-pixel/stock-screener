@@ -1,7 +1,7 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T21:31:21Z",
- "count": 3886,
+ "generated_at": "2026-09-29T14:24:31Z",
+ "count": 3885,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -18956,19 +18956,6 @@
    "r6m": -26.2,
    "sma10": 19.19,
    "sma20": 19.554
-  },
-  "GBTG": {
-   "name": "Global Business Travel Group, Inc. Class A Common Stock",
-   "exchange": "NYSE",
-   "prev_close": 9.5,
-   "dv20": 24380273.0,
-   "adr20": 0.26,
-   "vol20": 2573373.0,
-   "r1m": 0.4,
-   "r3m": 1.2,
-   "r6m": 78.2,
-   "sma10": 9.471,
-   "sma20": 9.472
   },
   "GBX": {
    "name": "Greenbrier Companies, Inc. (The) Common Stock",

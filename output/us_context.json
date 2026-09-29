@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T21:31:23Z",
+ "generated_at": "2026-09-29T14:24:53Z",
  "count": 15,
  "items": {
   "AOUT": {
@@ -184,7 +184,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "APH": {
    "ticker": "APH",
@@ -368,7 +368,7 @@
     "peg": 0.9304
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "ASML": {
    "ticker": "ASML",
@@ -539,7 +539,7 @@
     "peg": 1.5764
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "ASST": {
    "ticker": "ASST",
@@ -684,7 +684,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "BWLP": {
    "ticker": "BWLP",
@@ -853,7 +853,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1037,7 +1037,7 @@
     "peg": 1.9161
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "KNSA": {
    "ticker": "KNSA",
@@ -1206,16 +1206,16 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
-  "MEDS": {
-   "ticker": "MEDS",
-   "name": "DataMeds AI, Inc.",
-   "sector": "Healthcare",
-   "industry": "Medical Distribution",
-   "market_cap": 12119029,
-   "description": "DataMEDS AI, Inc. operates as a health IT company in the United States. The company focuses on the vertical integration of technology, pharmacy, pharmaceutical-adjacent, and telemedicine business units to deliver an enhanced healthcare experience for consumers. It offers tools, such as the EinsteinRx, a pharmacy dispensing AI platform; the PharmacyChain, a smart contracts platform; Patient Rx Adherence Tool; and HubRx AI. It also operates as a pharmacy distributor; and provides clinical concierge services. DataMEDS AI, Inc., through its subsidiary develops and delivers a portfolio of products ",
-   "price": 3.79,
+  "MSGY": {
+   "ticker": "MSGY",
+   "name": "Masonglory Limited",
+   "sector": "Industrials",
+   "industry": "Engineering & Construction",
+   "market_cap": 6846389,
+   "description": "Masonglory Limited, through its subsidiaries, provides wet trades and other ancillary services in Hong Kong. The company offers plastering on floors, ceilings, and walls; tile laying on internal and external walls and floors; brick laying; floor screeding; and marble works. It also provides project portfolio which includes private sector projects, such as private residential and commercial development; and public sector projects, including infrastructure and public facilities developments. The company was founded in 2018 and is based in Kowloon, Hong Kong. Masonglory Limited is a subsidiary of",
+   "price": 3.23,
    "analyst": {
     "recommendation": "의견 없음",
     "count": null,
@@ -1225,47 +1225,47 @@
     "upside_pct": null
    },
    "short": {
-    "pct_of_float": 20.0,
-    "days_to_cover": 0.12,
+    "pct_of_float": 15.5,
+    "days_to_cover": 1.2,
     "level": "높음",
-    "institutions_pct": 1.6,
-    "insiders_pct": 53.7
+    "institutions_pct": 1.7,
+    "insiders_pct": 35.4
    },
    "health": {
-    "overall": "D",
-    "overall_word": "주의",
+    "overall": "C",
+    "overall_word": "보통",
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": null,
+      "value": 1.84,
       "unit": "%",
-      "grade": null,
+      "grade": "A",
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "매우 좋음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 0.143,
+      "value": 3.128,
       "unit": "x",
-      "grade": "F",
+      "grade": "A",
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "위험"
+      "word": "매우 좋음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 29.5,
+      "value": -7.6,
       "unit": "%",
-      "grade": "A",
+      "grade": "D",
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "주의"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": -412.7,
+      "value": -56.1,
       "unit": "%",
       "grade": "F",
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
@@ -1274,29 +1274,29 @@
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": -77.2,
+      "value": 21.0,
       "unit": "%",
-      "grade": "F",
+      "grade": "B",
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "위험"
+      "word": "좋음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": null,
+      "value": -135.4,
       "unit": "%",
-      "grade": null,
+      "grade": "F",
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
+      "word": "위험"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 0.0,
+      "value": -34.0,
       "unit": "%",
-      "grade": "C",
+      "grade": "F",
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
+      "word": "위험"
      }
     ],
     "piotroski": {
@@ -1307,78 +1307,78 @@
       "ROA 개선": false,
       "현금흐름 > 순이익": true,
       "장기부채 감소": false,
-      "유동비율 개선": false,
+      "유동비율 개선": true,
       "신주 발행 없음": false,
       "매출총이익률 개선": false,
-      "자산회전율 개선": true
+      "자산회전율 개선": false
      }
     },
     "altman": {
-     "z": -15.71,
+     "z": 1.21,
      "zone": "위험"
     },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 2/9 (취약) · 알트만 Z -15.71 (위험)",
-    "cash": 2456373,
-    "debt": 32622248,
+    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 2/9 (취약) · 알트만 Z 1.21 (위험)",
+    "cash": 318311,
+    "debt": 153846,
     "years": [
      {
+      "year": "2026",
+      "revenue": 23555839.0,
+      "operating_income": -7813657.0,
+      "net_income": -8004730.0,
+      "eps": null,
+      "operating_cash_flow": -3813420.0,
+      "free_cash_flow": -5785728.0,
+      "total_debt": null,
+      "cash": 315721.0,
+      "equity": 8363242.0
+     },
+     {
       "year": "2025",
-      "revenue": 23337860.0,
-      "operating_income": -81194831.0,
-      "net_income": -101274530.0,
-      "eps": -71.5,
-      "operating_cash_flow": -10855029.0,
-      "free_cash_flow": -11736555.0,
-      "total_debt": 24767836.0,
-      "cash": 42571.0,
-      "equity": -12447801.0
+      "revenue": 23318482.0,
+      "operating_income": 1502951.0,
+      "net_income": 1275882.0,
+      "eps": 0.729075,
+      "operating_cash_flow": 3391813.0,
+      "free_cash_flow": 3391813.0,
+      "total_debt": null,
+      "cash": 2365532.0,
+      "equity": 3460293.0
      },
      {
       "year": "2024",
-      "revenue": 18128831.0,
-      "operating_income": -6145132.0,
-      "net_income": -6856226.0,
-      "eps": -7.5,
-      "operating_cash_flow": -1224993.0,
-      "free_cash_flow": -1602281.0,
-      "total_debt": 25108964.0,
-      "cash": 1028336.0,
-      "equity": 6734446.0
+      "revenue": 20628643.0,
+      "operating_income": 1519996.0,
+      "net_income": 1296203.0,
+      "eps": 0.740687,
+      "operating_cash_flow": -1666207.0,
+      "free_cash_flow": -1666207.0,
+      "total_debt": 0.0,
+      "cash": 189474.0,
+      "equity": 2019061.0
      },
      {
       "year": "2023",
-      "revenue": 0.0,
-      "operating_income": -2880603.0,
-      "net_income": -2895684.0,
-      "eps": -3.0,
-      "operating_cash_flow": -349136.0,
-      "free_cash_flow": -349136.0,
-      "total_debt": 350000.0,
-      "cash": 1364.0,
-      "equity": -2900434.0
-     },
-     {
-      "year": "2022",
-      "revenue": 32777728.0,
-      "operating_income": -3422729.0,
-      "net_income": -2743800.0,
-      "eps": -2.903366,
-      "operating_cash_flow": 0.0,
-      "free_cash_flow": 0.0,
-      "total_debt": null,
-      "cash": 0.0,
-      "equity": -5250.0
+      "revenue": 7951931.0,
+      "operating_income": 350709.0,
+      "net_income": 332354.0,
+      "eps": 0.189917,
+      "operating_cash_flow": -1453594.0,
+      "free_cash_flow": -1453594.0,
+      "total_debt": 12835.0,
+      "cash": 171162.0,
+      "equity": 722858.0
      }
     ]
    },
    "valuation": {
     "trailing_pe": null,
     "forward_pe": null,
-    "price_to_book": -0.5511926,
+    "price_to_book": 0.8185504,
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -1562,7 +1562,7 @@
     "peg": 0.1598
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -1746,7 +1746,7 @@
     "peg": 0.7296
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "TOP": {
    "ticker": "TOP",
@@ -1915,7 +1915,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "TRMD": {
    "ticker": "TRMD",
@@ -2084,7 +2084,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "VCTR": {
    "ticker": "VCTR",
@@ -2265,7 +2265,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "VLO": {
    "ticker": "VLO",
@@ -2434,7 +2434,7 @@
     "peg": 1.8505
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   },
   "XNCR": {
    "ticker": "XNCR",
@@ -2603,7 +2603,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-09-28T21:31:23.266701+00:00"
+   "updated": "2026-09-29T14:24:53.068516+00:00"
   }
  },
  "market": "us"
