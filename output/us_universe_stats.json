@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
- "generated_at": "2026-09-29T21:31:16Z",
- "count": 3884,
+ "generated_at": "2026-09-30T14:26:33Z",
+ "count": 3883,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -6972,7 +6972,7 @@
    "sma20": 8.0455
   },
   "BNC": {
-   "name": "CEA Industries Inc. - Common Stock",
+   "name": "BNB Standard Corporation - Common Stock",
    "exchange": "NASDAQ",
    "prev_close": 5.87,
    "dv20": 29269837.0,
@@ -12963,19 +12963,6 @@
    "r6m": 19.1,
    "sma10": 6.1663,
    "sma20": 5.8582
-  },
-  "DBRG": {
-   "name": "DigitalBridge Group, Inc.",
-   "exchange": "NYSE",
-   "prev_close": 16.0,
-   "dv20": 93003949.0,
-   "adr20": 0.2,
-   "vol20": 5834757.0,
-   "r1m": 0.4,
-   "r3m": 1.4,
-   "r6m": 4.0,
-   "sma10": 15.95,
-   "sma20": 15.934
   },
   "DBVT": {
    "name": "DBV Technologies S.A. - American Depositary Shares",
