@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T14:26:40Z",
- "asof_et": "2026-10-01 10:26",
+ "generated_at": "2026-10-01T14:51:21Z",
+ "asof_et": "2026-10-01 10:51",
  "market": "us",
  "setup": "ep",
  "capital": 700,
@@ -20,13 +20,13 @@
    "stop_pct": 10.0,
    "open": 3.92,
    "high_so_far": 4.35,
-   "last": 4.0682,
+   "last": 3.94,
    "prev_close": 3.17,
    "gap_pct": 23.7,
-   "vol_est": 196551707,
+   "vol_est": 139975357,
    "vol20": 15956453,
-   "vol_mult": 12.3,
-   "minutes_elapsed": 57,
+   "vol_mult": 8.8,
+   "minutes_elapsed": 82,
    "triggered": true,
    "adr20": 46.08,
    "r1m": 229.2,
@@ -35,7 +35,7 @@
    "dv20": 75164501,
    "qty": 87,
    "score": 3.3,
-   "asof_et": "2026-10-01 10:26"
+   "asof_et": "2026-10-01 10:51"
   },
   {
    "date": "2026-10-01",
@@ -48,13 +48,13 @@
    "stop_pct": 10.0,
    "open": 2.98,
    "high_so_far": 3.93,
-   "last": 3.295,
+   "last": 3.2699,
    "prev_close": 2.17,
    "gap_pct": 37.3,
-   "vol_est": 371599663,
+   "vol_est": 284706311,
    "vol20": 13425352,
-   "vol_mult": 27.7,
-   "minutes_elapsed": 57,
+   "vol_mult": 21.2,
+   "minutes_elapsed": 82,
    "triggered": true,
    "adr20": 23.37,
    "r1m": 20.6,
@@ -63,7 +63,7 @@
    "dv20": 70768942,
    "qty": 115,
    "score": -54.4,
-   "asof_et": "2026-10-01 10:26"
+   "asof_et": "2026-10-01 10:51"
   }
  ]
 }
