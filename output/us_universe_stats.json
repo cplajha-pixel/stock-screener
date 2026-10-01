@@ -1,7 +1,7 @@
 {
  "date": "2026-09-30",
- "generated_at": "2026-09-30T21:34:06Z",
- "count": 3876,
+ "generated_at": "2026-10-01T14:26:17Z",
+ "count": 3875,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -21181,7 +21181,7 @@
    "sma20": 27.9655
   },
   "HELP": {
-   "name": "Cybin Inc. - Common Stock",
+   "name": "Helus Pharma Inc.  - Common Stock",
    "exchange": "NASDAQ",
    "prev_close": 12.29,
    "dv20": 22781724.0,
@@ -47725,19 +47725,6 @@
    "r6m": -25.6,
    "sma10": 9.6585,
    "sma20": 9.9495
-  },
-  "VRME": {
-   "name": "VerifyMe, Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "prev_close": 8.98,
-   "dv20": 9945971.0,
-   "adr20": 17.54,
-   "vol20": 812416.0,
-   "r1m": 41.1,
-   "r3m": 47.2,
-   "r6m": 10.9,
-   "sma10": 9.9669,
-   "sma20": 8.1123
   },
   "VRNS": {
    "name": "Varonis Systems, Inc. - Common Stock",
