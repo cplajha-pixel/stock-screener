@@ -1,7 +1,7 @@
 {
  "date": "2026-10-01",
- "generated_at": "2026-10-01T21:32:43Z",
- "count": 3866,
+ "generated_at": "2026-10-02T14:25:47Z",
+ "count": 3865,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -10844,19 +10844,6 @@
    "r6m": -6.7,
    "sma10": 190.119,
    "sma20": 192.1785
-  },
-  "COLA": {
-   "name": "Columbus Acquisition Corp - Ordinary Shares",
-   "exchange": "NASDAQ",
-   "prev_close": 2.86,
-   "dv20": 500163.0,
-   "adr20": 17.36,
-   "vol20": 60950.0,
-   "r1m": -73.2,
-   "r3m": -73.1,
-   "r6m": -72.8,
-   "sma10": 9.5788,
-   "sma20": 9.9409
   },
   "COLB": {
    "name": "Columbia Banking System, Inc. - Common Stock",
@@ -36846,7 +36833,7 @@
    "sma20": 12.481
   },
   "PUSA": {
-   "name": "Aureus Greenway Holdings Inc. - Common Stock",
+   "name": "Powerus Corporation - Common Stock",
    "exchange": "NASDAQ",
    "prev_close": 3.2,
    "dv20": 2389789.0,
