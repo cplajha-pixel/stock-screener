@@ -1409,8 +1409,8 @@ DDD,3D Systems Corporation Common Stock,NYSE
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE
 DDOG,"Datadog, Inc. - Class A Common Stock",NASDAQ
-DDS,"Dillard's, Inc. Common Stock",NYSE
-DDT,Dillard's Capital Trust I,NYSE
+DDS,"Dillard's, Inc. Common Stock",F
+DDT,Dillard's Capital Trust I,F
 DE,Deere & Company Common Stock,NYSE
 DEA,"Easterly Government Properties, Inc. Common Stock",NYSE
 DEC,Diversified Energy Company Common Stock,NYSE
@@ -1495,7 +1495,6 @@ DPRO,Draganfly Inc. - Common Shares,NASDAQ
 DPU,Top KingWin Ltd - Class A Ordinary Shares,NASDAQ
 DPZ,Domino's Pizza Inc - Common Stock,NASDAQ
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",NYSE
-DRCT,"Direct Digital Holdings, Inc. - Class A Common Stock",NASDAQ
 DRD,DRDGOLD Limited American Depositary Shares,NYSE
 DRDB,Roman DBDR Acquisition Corp. II - Ordinary shares,NASDAQ
 DRH,Diamondrock Hospitality Company - Common Stock,NASDAQ
@@ -2231,7 +2230,6 @@ GUTS,"Fractyl Health, Inc. - Common Stock",NASDAQ
 GVA,Granite Construction Incorporated Common Stock,NYSE
 GVH,Globavend Holdings Limited - Ord Shares,NASDAQ
 GWAV,"Greenwave Technology Solutions, Inc. - Common Stock",NASDAQ
-GWH,"ESS Tech, Inc. Common Stock",NYSE
 GWRE,"Guidewire Software, Inc. Common Stock",NYSE
 GWRS,"Global Water Resources, Inc. - common stock",NASDAQ
 GWW,"W.W. Grainger, Inc. Common Stock",NYSE
@@ -2588,6 +2586,7 @@ IPDN,"Professional Diversity Network, Inc. - Common Stock",NASDAQ
 IPFX,Inflection Point Acquisition Corp. VI - Class A Ordinary Shares,NASDAQ
 IPGP,IPG Photonics Corporation - Common Stock,NASDAQ
 IPHA,Innate Pharma S.A. - American Depositary Shares,NASDAQ
+IPHX,Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares,NASDAQ
 IPI,"Intrepid Potash, Inc Common Stock",NYSE
 IPM,Intelligent Protection Management Corp.  - Common Stock,NASDAQ
 IPSC,"Century Therapeutics, Inc. - Common Stock",NASDAQ
@@ -4786,6 +4785,7 @@ TAYD,"Taylor Devices, Inc. - Common Stock",NASDAQ
 TBBB,BBB Foods Inc. Class A Common Shares,NYSE
 TBBK,"The Bancorp, Inc. - Common Stock",NASDAQ
 TBCH,Turtle Beach Corporation - Common Stock,NASDAQ
+TBCV,"Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",NASDAQ
 TBI,"TrueBlue, Inc. Common Stock",NYSE
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ
 TBN,Tamboran Resources Corporation Common stock,NYSE
@@ -5201,6 +5201,7 @@ VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Com
 VIVK,"Vivakor, Inc. - Common Stock",NASDAQ
 VIVO,VivoPower PLC - Class A Ordinary Shares,NASDAQ
 VIVS,"VivoSim Labs, Inc. - Common Stock",NASDAQ
+VJET,"Flyte Aviation, Inc. Common Stock",NYSE American
 VKTX,"Viking Therapeutics, Inc. - Common Stock",NASDAQ
 VLGEA,"Village Super Market, Inc. - Class A Common Stock",NASDAQ
 VLN,Valens Semiconductor Ltd. Ordinary Shares,NYSE
@@ -5256,7 +5257,6 @@ VST,Vistra Corp. Common Stock,NYSE
 VSTM,"Verastem, Inc. - Common Stock",NASDAQ
 VSTS,Vestis Corporation Common Stock,NYSE
 VSXY,Victorias Secret & Co. Common Stock,NYSE
-VTAK,"Catheter Precision, Inc. Common Stock",NYSE American
 VTEX,VTEX Class A Common Shares,NYSE
 VTGN,"Vistagen Therapeutics, Inc. - Common Stock",NASDAQ
 VTIX,Virtuix Holdings Inc. - Class A Common Stock,NASDAQ
@@ -5284,7 +5284,6 @@ WAFD,"WaFd, Inc. - Common Stock",NASDAQ
 WAFDP,"WaFd, Inc. - Depositary Shares",NASDAQ
 WAFU,Wah Fu Education Group Limited - Ordinary Shares,NASDAQ
 WAL,Western Alliance Bancorporation Common Stock (DE),NYSE
-WALD,Waldencast plc - Class A Ordinary Share,NASDAQ
 WASH,"Washington Trust Bancorp, Inc. - Common Stock",NASDAQ
 WAT,Waters Corporation Common Stock,NYSE
 WATR,Air Water Ventures Limited - Ordinary Shares,NASDAQ
@@ -5340,7 +5339,6 @@ WIT,Wipro Limited Common Stock,NYSE
 WIX,Wix.com Ltd. - Ordinary Shares,NASDAQ
 WK,Workiva Inc. Class A Common Stock,NYSE
 WKC,World Kinect Corporation Common Stock,NYSE
-WKEY,WISeKey International Holding Ltd - American Depositary Shares,NASDAQ
 WKHS,"Workhorse Group, Inc. - Common Stock",NASDAQ
 WKSP,"Worksport, Ltd. - Common Stock",NASDAQ
 WLCO,Wilco 63 Corporation - Class A Ordinary Shares,NASDAQ
@@ -5370,6 +5368,7 @@ WPC,W. P. Carey Inc. REIT,NYSE
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),NYSE
 WPP,WPP plc American Depositary Shares,NYSE
 WPRT,Westport Fuel Systems Inc - Common Shares,NASDAQ
+WQEY,WISeQey Corp - Ordinary Shares,NASDAQ
 WRAP,"Wrap Technologies, Inc. - Common Stock",NASDAQ
 WRB,W.R. Berkley Corporation Common Stock,NYSE
 WRBY,Warby Parker Inc. Class A Common Stock,NYSE
