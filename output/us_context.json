@@ -1,179 +1,7 @@
 {
- "generated_at": "2026-10-05T21:38:12Z",
- "count": 15,
+ "generated_at": "2026-10-06T14:25:52Z",
+ "count": 14,
  "items": {
-  "AMOD": {
-   "ticker": "AMOD",
-   "name": "Alpha Modus Holdings, Inc.",
-   "sector": "Technology",
-   "industry": "Software - Application",
-   "market_cap": 216807968,
-   "description": "Alpha Modus Holdings, Inc. engages in creating, developing, and licensing data-driven technologies to enhance consumers in-store digital experience at the point of decision in the United States. The company was founded in 2014 and is headquartered in Cornelius, North Carolina.",
-   "price": 3.83,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": 1,
-    "target_mean": 60.0,
-    "target_low": 60.0,
-    "target_high": 60.0,
-    "upside_pct": 1466.6
-   },
-   "short": {
-    "pct_of_float": 0.1,
-    "days_to_cover": 0.11,
-    "level": "낮음",
-    "institutions_pct": 1.0,
-    "insiders_pct": 88.3
-   },
-   "health": {
-    "overall": "F",
-    "overall_word": "위험",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 0.345,
-      "unit": "x",
-      "grade": "F",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "위험"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": -62858.6,
-      "unit": "%",
-      "grade": "F",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "위험"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -127536.2,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "정보 없음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
-     }
-    ],
-    "piotroski": {
-     "score": 4,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": false,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
-      "신주 발행 없음": true,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": true
-     }
-    },
-    "altman": {
-     "z": -195.92,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 F (위험) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z -195.92 (위험)",
-    "cash": 2001007,
-    "debt": 6235651,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 7138.0,
-      "operating_income": -5244188.0,
-      "net_income": -8021235.0,
-      "eps": -11.6,
-      "operating_cash_flow": -3210182.0,
-      "free_cash_flow": -3218232.0,
-      "total_debt": 6255376.0,
-      "cash": 68000.0,
-      "equity": -48950162.0
-     },
-     {
-      "year": "2024",
-      "revenue": 0.0,
-      "operating_income": -834895.0,
-      "net_income": 4103067.0,
-      "eps": 5.2,
-      "operating_cash_flow": -1676499.0,
-      "free_cash_flow": -1676499.0,
-      "total_debt": 5008816.0,
-      "cash": 735814.0,
-      "equity": -80600359.0
-     },
-     {
-      "year": "2023",
-      "revenue": 0.0,
-      "operating_income": -391949.0,
-      "net_income": -501295.0,
-      "eps": -1.517664,
-      "operating_cash_flow": -515181.0,
-      "free_cash_flow": -515181.0,
-      "total_debt": null,
-      "cash": 106809.0,
-      "equity": -965324.0
-     },
-     {
-      "year": "2022",
-      "revenue": 0.0,
-      "operating_income": -27403.0,
-      "net_income": -27403.0,
-      "eps": -0.082962,
-      "operating_cash_flow": -27403.0,
-      "free_cash_flow": -27403.0,
-      "total_debt": null,
-      "cash": 3006.0,
-      "equity": -157923.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": -3.083736,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
-  },
   "ASST": {
    "ticker": "ASST",
    "name": "Strive, Inc.",
@@ -329,7 +157,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "BNC": {
    "ticker": "BNC",
@@ -493,7 +321,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -677,7 +505,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -861,7 +689,7 @@
     "peg": 1.9161
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "HPE": {
    "ticker": "HPE",
@@ -1045,7 +873,7 @@
     "peg": 0.498
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "HTFL": {
    "ticker": "HTFL",
@@ -1217,7 +1045,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "LFST": {
    "ticker": "LFST",
@@ -1401,7 +1229,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "LRCX": {
    "ticker": "LRCX",
@@ -1585,7 +1413,7 @@
     "peg": 1.4467
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -1769,7 +1597,7 @@
     "peg": 0.1598
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "OMER": {
    "ticker": "OMER",
@@ -1953,7 +1781,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "OSCR": {
    "ticker": "OSCR",
@@ -2134,7 +1962,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "SNDK": {
    "ticker": "SNDK",
@@ -2318,7 +2146,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "STX": {
    "ticker": "STX",
@@ -2502,7 +2330,7 @@
     "peg": 0.5262
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -2686,7 +2514,7 @@
     "peg": 0.7296
    },
    "news": [],
-   "updated": "2026-10-05T21:38:12.844830+00:00"
+   "updated": "2026-10-06T14:25:52.009331+00:00"
   }
  },
  "market": "us"

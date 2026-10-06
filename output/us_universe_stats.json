@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "generated_at": "2026-10-05T21:38:11Z",
+ "generated_at": "2026-10-06T14:25:19Z",
  "count": 3856,
  "items": {
   "A": {
@@ -27265,8 +27265,8 @@
    "sma20": 98.9105
   },
   "LUMN": {
-   "name": "Lumen Technologies, Inc. Common Stock",
-   "exchange": "NYSE",
+   "name": "Lumen Technologies, Inc.  - Common Stock",
+   "exchange": "NASDAQ",
    "prev_close": 5.62,
    "dv20": 84340447.0,
    "adr20": 4.78,
@@ -36404,8 +36404,8 @@
    "sma20": 44.1985
   },
   "PSKY": {
-   "name": "Paramount Skydance Corporation - Class B Common Stock",
-   "exchange": "NASDAQ",
+   "name": "",
+   "exchange": "",
    "prev_close": 9.775,
    "dv20": 284865765.0,
    "adr20": 5.7,
