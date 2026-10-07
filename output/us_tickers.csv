@@ -568,6 +568,7 @@ BAX,Baxter International Inc. Common Stock,NYSE
 BB,BlackBerry Limited Common Stock,NYSE
 BBAI,"BigBear.ai, Inc. Common Stock",NYSE
 BBAR,Banco BBVA Argentina S.A. ADS,NYSE
+BBCI,Bradbury Capital Inc. - Ordinary Shares,NASDAQ
 BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",NASDAQ
 BBD,Banco Bradesco Sa American Depositary Shares,NYSE
 BBDC,"Barings BDC, Inc. Common Stock",NYSE
@@ -705,7 +706,6 @@ BLBD,Blue Bird Corporation - Common Stock,NASDAQ
 BLCO,Bausch + Lomb Corporation Common Shares,NYSE
 BLDP,"Ballard Power Systems, Inc. - Common Shares",NASDAQ
 BLDR,"Builders FirstSource, Inc. Common Stock",NYSE
-BLFS,"BioLife Solutions, Inc. - Common Stock",NASDAQ
 BLIN,"Bridgeline Digital, Inc. - Common Stock",NASDAQ
 BLIV,BeLive Holdings - ordinary shares,NASDAQ
 BLK,"BlackRock, Inc. Common Stock",NYSE
@@ -2490,7 +2490,6 @@ IIIV,"i3 Verticals, Inc. - Common Stock",NASDAQ
 IIPR,"Innovative Industrial Properties, Inc. Common Stock",NYSE
 IKT,"Inhibikase Therapeutics, Inc. - Common Stock",NASDAQ
 ILAG,Intelligent Living Application Group Inc. - Ordinary Shares,NASDAQ
-ILLR,Triller Group Inc. - Common Stock,NASDAQ
 ILLU,Illumination Acquisition Corp I - Class A Ordinary Shares,NASDAQ
 ILMN,"Illumina, Inc. - Common Stock",NASDAQ
 ILPT,Industrial Logistics Properties Trust - Common Shares of Beneficial Interest,NASDAQ
@@ -4525,7 +4524,6 @@ SLN,Silence Therapeutics Plc - American Depository Share,NASDAQ
 SLND,"Southland Holdings, Inc. Common Stock",NYSE American
 SLNG,"Stabilis Solutions, Inc. - Common Stock",NASDAQ
 SLNH,"Soluna Holdings, Inc. - Common Stock",NASDAQ
-SLP,"Simulations Plus, Inc. - Common Stock",NASDAQ
 SLQT,"SelectQuote, Inc. Common Stock",NYSE
 SLS,"SELLAS Life Sciences Group, Inc.  - Common Stock",NASDAQ
 SLSN,"Solesence, Inc. - Common stock",NASDAQ
@@ -4615,7 +4613,6 @@ SPH,"Suburban Propane Partners, L.P. Common Stock",NYSE
 SPHL,Springview Holdings Ltd - Ordinary shares,NASDAQ
 SPHR,Sphere Entertainment Co. Class A Common Stock,NYSE
 SPIR,"Spire Global, Inc. Class A Common Stock",NYSE
-SPKL,Spark I Acquisition Corp. - Class A Ordinary Share,NASDAQ
 SPMC,"Sound Point Meridian Capital, Inc. Common Stock",NYSE
 SPNT,SiriusPoint Ltd. Common Shares,NYSE
 SPOK,"Spok Holdings, Inc. - Common Stock",NASDAQ
@@ -5289,7 +5286,6 @@ WATT,Energous Corporation - Common Stock,NASDAQ
 WAVE,Eco Wave Power Global AB (publ) - American Depositary Shares,NASDAQ
 WAY,Waystar Holding Corp. - Common Stock,NASDAQ
 WB,Weibo Corporation - American Depositary Shares,NASDAQ
-WBD,"Warner Bros. Discovery, Inc. - Series A Common Stock",NASDAQ
 WBI,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests,NYSE
 WBTN,WEBTOON Entertainment Inc. - Common stock,NASDAQ
 WBUY,WEBUY GLOBAL LTD. - Class A Ordinary Shares,NASDAQ
@@ -5361,6 +5357,7 @@ WOK,WORK Medical Technology Group LTD - Class A Ordinary Shares,NASDAQ
 WOLF,"Wolfspeed, Inc. Common Stock New",NYSE
 WOOF,"Petco Health and Wellness Company, Inc. - Class A Common Stock",NASDAQ
 WOR,"Worthington Enterprises, Inc. Common Shares",NYSE
+WORX,SCWorx Corp. - Common Stock,NASDAQ
 WPAC,White Pearl Acquisition Corp. Class A Ordinary Shares,NYSE
 WPC,W. P. Carey Inc. REIT,NYSE
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),NYSE

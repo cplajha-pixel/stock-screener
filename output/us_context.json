@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T21:34:14Z",
- "count": 19,
+ "generated_at": "2026-10-07T14:26:21Z",
+ "count": 20,
  "items": {
   "AEMD": {
    "ticker": "AEMD",
@@ -184,7 +184,179 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
+  },
+  "APUS": {
+   "ticker": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc",
+   "sector": "Healthcare",
+   "industry": "Drug Manufacturers - Specialty & Generic",
+   "market_cap": 13778096,
+   "description": "Apimeds Pharmaceuticals US, Inc. provides digital asset treasury solutions in bitcoin treasury infrastructure. The company was incorporated in 2020 and is based in Matawan, New Jersey. Apimeds Pharmaceuticals US, Inc. operates as a subsidiary of Inscobee., Inc.",
+   "price": 9.12,
+   "analyst": {
+    "recommendation": "의견 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": 1.3,
+    "days_to_cover": 0.07,
+    "level": "낮음",
+    "institutions_pct": 2.8,
+    "insiders_pct": 58.7
+   },
+   "health": {
+    "overall": "C",
+    "overall_word": "보통",
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "보통"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": 0.0,
+      "unit": "%",
+      "grade": "C",
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "보통"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": true,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": {
+     "z": 0.58,
+     "zone": "위험"
+    },
+    "summary": "재무건전성 종합 C (보통) · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 0.58 (위험)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 0.0,
+      "operating_income": -11912562.0,
+      "net_income": -6001137.0,
+      "eps": -5.5,
+      "operating_cash_flow": -8925777.0,
+      "free_cash_flow": -8983110.0,
+      "total_debt": 7760395.0,
+      "cash": 1636655.0,
+      "equity": 153347827.0
+     },
+     {
+      "year": "2024",
+      "revenue": 0.0,
+      "operating_income": -1275095.0,
+      "net_income": -1389990.0,
+      "eps": -1.20122,
+      "operating_cash_flow": -733526.0,
+      "free_cash_flow": -733526.0,
+      "total_debt": 596844.0,
+      "cash": 3455.0,
+      "equity": -1358121.0
+     },
+     {
+      "year": "2023",
+      "revenue": 0.0,
+      "operating_income": -747436.0,
+      "net_income": -777694.0,
+      "eps": -0.672078,
+      "operating_cash_flow": -627790.0,
+      "free_cash_flow": -627790.0,
+      "total_debt": 266891.0,
+      "cash": 410481.0,
+      "equity": 31869.0
+     },
+     {
+      "year": "2022",
+      "revenue": 0.0,
+      "operating_income": -639529.0,
+      "net_income": -668666.0,
+      "eps": -0.577856,
+      "operating_cash_flow": -448167.0,
+      "free_cash_flow": -448167.0,
+      "total_debt": 660000.0,
+      "cash": 6171.0,
+      "equity": -713606.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": 14.067643,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "ASST": {
    "ticker": "ASST",
@@ -341,7 +513,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "AYA": {
    "ticker": "AYA",
@@ -518,7 +690,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "BNC": {
    "ticker": "BNC",
@@ -682,7 +854,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -866,7 +1038,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -1050,7 +1222,7 @@
     "peg": 1.9161
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "FWDI": {
    "ticker": "FWDI",
@@ -1234,7 +1406,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "HPE": {
    "ticker": "HPE",
@@ -1418,7 +1590,7 @@
     "peg": 0.498
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "HTFL": {
    "ticker": "HTFL",
@@ -1590,7 +1762,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "LRCX": {
    "ticker": "LRCX",
@@ -1774,7 +1946,7 @@
     "peg": 1.4467
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -1958,7 +2130,7 @@
     "peg": 0.1598
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "NAKA": {
    "ticker": "NAKA",
@@ -2139,7 +2311,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "NEWP": {
    "ticker": "NEWP",
@@ -2310,7 +2482,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "SBC": {
    "ticker": "SBC",
@@ -2494,7 +2666,7 @@
     "peg": 1.8654
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "SEI": {
    "ticker": "SEI",
@@ -2678,7 +2850,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "SNDK": {
    "ticker": "SNDK",
@@ -2862,7 +3034,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "STLN": {
    "ticker": "STLN",
@@ -3046,7 +3218,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -3230,7 +3402,7 @@
     "peg": 0.7296
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   },
   "TOP": {
    "ticker": "TOP",
@@ -3399,7 +3571,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-06T21:34:14.915161+00:00"
+   "updated": "2026-10-07T14:26:21.771272+00:00"
   }
  },
  "market": "us"

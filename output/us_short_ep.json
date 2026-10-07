@@ -1,12 +1,41 @@
 {
- "date": "2026-10-06",
- "generated_at": "2026-10-06T15:15:57Z",
- "asof_et": "2026-10-06 11:15",
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T14:26:21Z",
+ "asof_et": "2026-10-07 10:26",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 0,
- "items": []
+ "count": 1,
+ "items": [
+  {
+   "date": "2026-10-07",
+   "ticker": "APUS",
+   "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+   "exchange": "NYSE American",
+   "setup": "ep",
+   "trigger_price": 8.16,
+   "stop_price": 7.344,
+   "stop_pct": 10.0,
+   "open": 8.0,
+   "high_so_far": 9.56,
+   "last": 9.1214,
+   "prev_close": 7.13,
+   "gap_pct": 12.2,
+   "vol_est": 83704969,
+   "vol20": 10351160,
+   "vol_mult": 8.1,
+   "minutes_elapsed": 56,
+   "triggered": true,
+   "adr20": 30.32,
+   "r1m": 194.6,
+   "r3m": -3.0,
+   "r6m": -62.1,
+   "dv20": 59144715,
+   "qty": 42,
+   "score": -3.0,
+   "asof_et": "2026-10-07 10:25"
+  }
+ ]
 }
