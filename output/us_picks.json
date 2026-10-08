@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.31,
+    "last_close": 12.24,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 76.1,
+    "last_close": 77.28,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 76.1,
+    "last_close": 77.28,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -164,10 +164,10 @@
     "entry_price": 9.45,
     "exit_date": "2026-10-07",
     "exit_reason": "SMA10 이탈",
-    "pnl_pct": 22.25,
-    "r_multiple": 3.26,
+    "pnl_pct": 22.28,
+    "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 12.915,
+    "last_close": 13.31,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 8.3,
+    "last_close": 8.17,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 8.3,
+    "last_close": 8.17,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,10 +271,10 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 10.62,
-    "r_multiple": 1.93,
+    "pnl_pct": 11.87,
+    "r_multiple": 2.16,
     "remaining_frac": 0.5,
-    "last_close": 13.05,
+    "last_close": 13.33,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 27.285,
+    "last_close": 26.81,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 27.285,
+    "last_close": 26.81,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 27.285,
+    "last_close": 26.81,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -572,20 +572,45 @@
     "ODD",
     "VICR"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 28.23
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "ticker": "LUXE",
+   "name": "LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",
+   "setup": "breakout",
+   "trigger_price": 10.485,
+   "stop_price": 9.8326,
+   "stop_pct": 6.22,
+   "reason": "3개월 +32.1% (후보 중 모멘텀 상위) · 급등 +43.7% 뒤 14일 횡보, 폭 18.2% · 거래량 급등기 대비 46% 로 감소 · 종가가 트리거가의 99.7% 위치",
+   "candidates": [
+    "PSIG",
+    "EFOR",
+    "SBC",
+    "HTFL",
+    "TOP",
+    "LUXE",
+    "XMTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 21,
+  "total": 22,
   "triggered": 10,
-  "not_triggered": 10,
+  "not_triggered": 11,
   "closed": 9,
   "open": 1,
   "win_rate": 90.0,
-  "avg_pnl_pct": 6.65,
-  "avg_r": 1.09,
-  "sum_pnl_pct": 66.49
+  "avg_pnl_pct": 6.78,
+  "avg_r": 1.11,
+  "sum_pnl_pct": 67.77
  },
- "generated_at": "2026-10-07T21:34:18Z"
+ "generated_at": "2026-10-08T21:33:37Z"
 }
