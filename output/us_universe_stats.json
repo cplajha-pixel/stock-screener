@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "generated_at": "2026-10-07T21:34:18Z",
+ "generated_at": "2026-10-08T14:27:00Z",
  "count": 3853,
  "items": {
   "A": {
@@ -43307,8 +43307,8 @@
    "sma20": 35.9765
   },
   "TCBI": {
-   "name": "Texas Capital Bancshares, Inc. - Common Stock",
-   "exchange": "NASDAQ",
+   "name": "Texas Capital Bancshares, Inc. Common Stock",
+   "exchange": "F",
    "prev_close": 90.58,
    "dv20": 56676622.0,
    "adr20": 1.82,
