@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.24,
+    "last_close": 12.25,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 77.28,
+    "last_close": 80.65,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 77.28,
+    "last_close": 80.65,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 13.31,
+    "last_close": 14.62,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 8.17,
+    "last_close": 8.42,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 8.17,
+    "last_close": 8.42,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,10 +271,10 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 11.87,
-    "r_multiple": 2.16,
+    "pnl_pct": 11.33,
+    "r_multiple": 2.06,
     "remaining_frac": 0.5,
-    "last_close": 13.33,
+    "last_close": 13.21,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 26.81,
+    "last_close": 25.83,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 26.81,
+    "last_close": 25.83,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 26.81,
+    "last_close": 25.83,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -597,20 +597,46 @@
     "LUXE",
     "XMTR"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 10.21
+   }
+  },
+  {
+   "date": "2026-10-09",
+   "ticker": "OKTA",
+   "name": "Okta, Inc. - Class A Common Stock",
+   "setup": "breakout",
+   "trigger_price": 232.98,
+   "stop_price": 221.2441,
+   "stop_pct": 5.04,
+   "reason": "3개월 +66.4% (후보 중 모멘텀 상위) · 급등 +66.5% 뒤 11일 횡보, 폭 22.3% · 거래량 급등기 대비 63% 로 감소 · 종가가 트리거가의 99.6% 위치",
+   "candidates": [
+    "EFOR",
+    "HTFL",
+    "AGPU",
+    "OKTA",
+    "TOP",
+    "HPE",
+    "SILC",
+    "XMTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 22,
+  "total": 23,
   "triggered": 10,
-  "not_triggered": 11,
+  "not_triggered": 12,
   "closed": 9,
   "open": 1,
   "win_rate": 90.0,
-  "avg_pnl_pct": 6.78,
-  "avg_r": 1.11,
-  "sum_pnl_pct": 67.77
+  "avg_pnl_pct": 6.72,
+  "avg_r": 1.1,
+  "sum_pnl_pct": 67.23
  },
- "generated_at": "2026-10-08T21:33:37Z"
+ "generated_at": "2026-10-09T21:31:50Z"
 }
