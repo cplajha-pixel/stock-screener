@@ -1,7 +1,7 @@
 {
  "date": "2026-10-08",
- "generated_at": "2026-10-08T21:33:37Z",
- "count": 3847,
+ "generated_at": "2026-10-09T14:27:07Z",
+ "count": 3846,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -21127,19 +21127,6 @@
    "r6m": 38.7,
    "sma10": 29.361,
    "sma20": 29.97
-  },
-  "HKIT": {
-   "name": "Hitek Global Inc. - Class A Ordinary Share",
-   "exchange": "NASDAQ",
-   "prev_close": 2.53,
-   "dv20": 1714122.0,
-   "adr20": 11.69,
-   "vol20": 676068.0,
-   "r1m": -3.8,
-   "r3m": -38.6,
-   "r6m": -97.0,
-   "sma10": 2.5579,
-   "sma20": 2.553
   },
   "HL": {
    "name": "Hecla Mining Company Common Stock",
