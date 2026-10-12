@@ -1,7 +1,7 @@
 {
  "date": "2026-10-09",
- "generated_at": "2026-10-09T21:31:50Z",
- "count": 3845,
+ "generated_at": "2026-10-12T14:29:38Z",
+ "count": 3844,
  "items": {
   "A": {
    "name": "Agilent Technologies, Inc. Common Stock",
@@ -36897,19 +36897,6 @@
    "sma10": 45.647,
    "sma20": 45.481
   },
-  "QNCX": {
-   "name": "Quince Therapeutics, Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "prev_close": 31.73,
-   "dv20": 921713.0,
-   "adr20": 9.33,
-   "vol20": 31069.0,
-   "r1m": 9.6,
-   "r3m": 83.9,
-   "r6m": 16.7,
-   "sma10": 29.378,
-   "sma20": 29.4187
-  },
   "QNST": {
    "name": "QuinStreet, Inc. - Common Stock",
    "exchange": "NASDAQ",
@@ -49378,7 +49365,7 @@
    "sma20": 35.1494
   },
   "XRPN": {
-   "name": "Armada Acquisition Corp. II - Class A Ordinary Shares",
+   "name": "Evernorth Holdings Inc. - Class A Ordinary Shares",
    "exchange": "NASDAQ",
    "prev_close": 17.09,
    "dv20": 45281715.0,
