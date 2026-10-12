@@ -1,41 +1,12 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12T14:30:20Z",
- "asof_et": "2026-10-12 10:30",
+ "generated_at": "2026-10-12T14:58:13Z",
+ "asof_et": "2026-10-12 10:58",
  "market": "us",
  "setup": "ep",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 1,
- "items": [
-  {
-   "date": "2026-10-12",
-   "ticker": "MEDS",
-   "name": "DataMeds AI, Inc. - Common Stock",
-   "exchange": "NASDAQ",
-   "setup": "ep",
-   "trigger_price": 3.3813,
-   "stop_price": 3.0432,
-   "stop_pct": 10.0,
-   "open": 3.315,
-   "high_so_far": 3.8,
-   "last": 3.5399,
-   "prev_close": 2.96,
-   "gap_pct": 12.0,
-   "vol_est": 111969240,
-   "vol20": 18521491,
-   "vol_mult": 6.0,
-   "minutes_elapsed": 60,
-   "triggered": true,
-   "adr20": 47.69,
-   "r1m": 231.8,
-   "r3m": 1.7,
-   "r6m": -50.7,
-   "dv20": 85138276,
-   "qty": 103,
-   "score": 1.7,
-   "asof_et": "2026-10-12 10:29"
-  }
- ]
+ "count": 0,
+ "items": []
 }

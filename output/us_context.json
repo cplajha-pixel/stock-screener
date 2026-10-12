@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T14:30:20Z",
- "count": 38,
+ "generated_at": "2026-10-12T14:58:13Z",
+ "count": 37,
  "items": {
   "ADPT": {
    "ticker": "ADPT",
@@ -184,7 +184,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "AGPU": {
    "ticker": "AGPU",
@@ -363,7 +363,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "AMRX": {
    "ticker": "AMRX",
@@ -547,7 +547,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "ATRC": {
    "ticker": "ATRC",
@@ -731,7 +731,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "AYA": {
    "ticker": "AYA",
@@ -908,7 +908,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "CDNA": {
    "ticker": "CDNA",
@@ -1092,7 +1092,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "CNC": {
    "ticker": "CNC",
@@ -1276,7 +1276,7 @@
     "peg": 0.7484
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "CRSR": {
    "ticker": "CRSR",
@@ -1460,7 +1460,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "DRTS": {
    "ticker": "DRTS",
@@ -1644,7 +1644,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "EFOR": {
    "ticker": "EFOR",
@@ -1828,7 +1828,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "FET": {
    "ticker": "FET",
@@ -2012,7 +2012,7 @@
     "peg": 1.8825
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "FIVN": {
    "ticker": "FIVN",
@@ -2196,7 +2196,7 @@
     "peg": 0.2842
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "FTNT": {
    "ticker": "FTNT",
@@ -2380,7 +2380,7 @@
     "peg": 1.9161
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "FTRE": {
    "ticker": "FTRE",
@@ -2564,7 +2564,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "HPE": {
    "ticker": "HPE",
@@ -2748,7 +2748,7 @@
     "peg": 0.498
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "HTFL": {
    "ticker": "HTFL",
@@ -2920,7 +2920,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "IOT": {
    "ticker": "IOT",
@@ -3104,7 +3104,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "LFST": {
    "ticker": "LFST",
@@ -3288,7 +3288,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "LRCX": {
    "ticker": "LRCX",
@@ -3472,179 +3472,7 @@
     "peg": 1.4467
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
-  },
-  "MEDS": {
-   "ticker": "MEDS",
-   "name": "DataMeds AI, Inc.",
-   "sector": "Healthcare",
-   "industry": "Medical Distribution",
-   "market_cap": 10073214,
-   "description": "DataMEDS AI, Inc. operates as a health IT company in the United States. The company focuses on the vertical integration of technology, pharmacy, pharmaceutical-adjacent, and telemedicine business units to deliver an enhanced healthcare experience for consumers. It offers tools, such as the EinsteinRx, a pharmacy dispensing AI platform; the PharmacyChain, a smart contracts platform; Patient Rx Adherence Tool; and HubRx AI. It also operates as a pharmacy distributor; and provides clinical concierge services. DataMEDS AI, Inc., through its subsidiary develops and delivers a portfolio of products ",
-   "price": 3.555,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": null,
-    "target_mean": null,
-    "target_low": null,
-    "target_high": null,
-    "upside_pct": null
-   },
-   "short": {
-    "pct_of_float": 29.4,
-    "days_to_cover": 0.04,
-    "level": "매우 높음",
-    "institutions_pct": 1.6,
-    "insiders_pct": 53.7
-   },
-   "health": {
-    "overall": "D",
-    "overall_word": "주의",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 0.143,
-      "unit": "x",
-      "grade": "F",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "위험"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": 29.5,
-      "unit": "%",
-      "grade": "A",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": -412.7,
-      "unit": "%",
-      "grade": "F",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": -77.2,
-      "unit": "%",
-      "grade": "F",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "위험"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 0.0,
-      "unit": "%",
-      "grade": "C",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
-     }
-    ],
-    "piotroski": {
-     "score": 2,
-     "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": false,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": false,
-      "유동비율 개선": false,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": true
-     }
-    },
-    "altman": {
-     "z": -15.73,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 2/9 (취약) · 알트만 Z -15.73 (위험)",
-    "cash": 2456373,
-    "debt": 32622248,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 23337860.0,
-      "operating_income": -81194831.0,
-      "net_income": -101274530.0,
-      "eps": -71.5,
-      "operating_cash_flow": -10855029.0,
-      "free_cash_flow": -11736555.0,
-      "total_debt": 24767836.0,
-      "cash": 42571.0,
-      "equity": -12447801.0
-     },
-     {
-      "year": "2024",
-      "revenue": 18128831.0,
-      "operating_income": -6145132.0,
-      "net_income": -6856226.0,
-      "eps": -7.5,
-      "operating_cash_flow": -1224993.0,
-      "free_cash_flow": -1602281.0,
-      "total_debt": 25108964.0,
-      "cash": 1028336.0,
-      "equity": 6734446.0
-     },
-     {
-      "year": "2023",
-      "revenue": 0.0,
-      "operating_income": -2880603.0,
-      "net_income": -2895684.0,
-      "eps": -3.0,
-      "operating_cash_flow": -349136.0,
-      "free_cash_flow": -349136.0,
-      "total_debt": 350000.0,
-      "cash": 1364.0,
-      "equity": -2900434.0
-     },
-     {
-      "year": "2022",
-      "revenue": 32777728.0,
-      "operating_income": -3422729.0,
-      "net_income": -2743800.0,
-      "eps": -2.903366,
-      "operating_cash_flow": 0.0,
-      "free_cash_flow": 0.0,
-      "total_debt": null,
-      "cash": 0.0,
-      "equity": -5250.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": null,
-    "forward_pe": null,
-    "price_to_book": -0.5170157,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "MRVI": {
    "ticker": "MRVI",
@@ -3828,7 +3656,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "MU": {
    "ticker": "MU",
@@ -4012,7 +3840,7 @@
     "peg": 0.1598
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "NEWP": {
    "ticker": "NEWP",
@@ -4183,7 +4011,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "NTRA": {
    "ticker": "NTRA",
@@ -4367,7 +4195,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "OKTA": {
    "ticker": "OKTA",
@@ -4551,7 +4379,7 @@
     "peg": 1.6978
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "PGEN": {
    "ticker": "PGEN",
@@ -4735,7 +4563,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "PLSE": {
    "ticker": "PLSE",
@@ -4906,7 +4734,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "PRLB": {
    "ticker": "PRLB",
@@ -5090,7 +4918,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "RVTY": {
    "ticker": "RVTY",
@@ -5274,7 +5102,7 @@
     "peg": 0.7337
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "SILC": {
    "ticker": "SILC",
@@ -5458,7 +5286,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "SNDK": {
    "ticker": "SNDK",
@@ -5642,7 +5470,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "SNX": {
    "ticker": "SNX",
@@ -5826,7 +5654,7 @@
     "peg": 0.7951
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "STLN": {
    "ticker": "STLN",
@@ -6010,7 +5838,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "TER": {
    "ticker": "TER",
@@ -6194,7 +6022,7 @@
     "peg": 0.7296
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "TGTX": {
    "ticker": "TGTX",
@@ -6375,7 +6203,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "TOP": {
    "ticker": "TOP",
@@ -6544,7 +6372,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "TWLO": {
    "ticker": "TWLO",
@@ -6728,7 +6556,7 @@
     "peg": 0.4502
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   },
   "XMTR": {
    "ticker": "XMTR",
@@ -6912,7 +6740,7 @@
     "peg": null
    },
    "news": [],
-   "updated": "2026-10-12T14:30:20.112361+00:00"
+   "updated": "2026-10-12T14:58:13.406104+00:00"
   }
  },
  "market": "us"
