@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.25,
+    "last_close": 12.21,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 80.65,
+    "last_close": 75.19,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 80.65,
+    "last_close": 75.19,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 14.62,
+    "last_close": 14.56,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 8.42,
+    "last_close": 8.25,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 8.42,
+    "last_close": 8.25,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,10 +271,10 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 11.33,
-    "r_multiple": 2.06,
+    "pnl_pct": 12.04,
+    "r_multiple": 2.19,
     "remaining_frac": 0.5,
-    "last_close": 13.21,
+    "last_close": 13.37,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 25.83,
+    "last_close": 25.425,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 25.83,
+    "last_close": 25.425,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 25.83,
+    "last_close": 25.425,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -597,11 +597,17 @@
     "LUXE",
     "XMTR"
    ],
-   "status": "미발동",
+   "status": "종료",
    "result": {
-    "entry_date": null,
-    "note": "다음 날 트리거가를 넘지 못함",
-    "next_close": 10.21
+    "entry_date": "2026-10-09",
+    "entry_price": 10.54,
+    "exit_date": "2026-10-12",
+    "exit_reason": "SMA10 이탈",
+    "pnl_pct": -5.6,
+    "r_multiple": -0.9,
+    "remaining_frac": 0.0,
+    "last_close": 9.95,
+    "notes": []
    }
   },
   {
@@ -623,20 +629,50 @@
     "SILC",
     "XMTR"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-10-12",
+    "entry_price": 235.0,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": -3.37,
+    "r_multiple": -0.67,
+    "remaining_frac": 1.0,
+    "last_close": 227.08,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-10-12",
+   "ticker": "HTFL",
+   "name": "Heartflow, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 54.32,
+   "stop_price": 51.4589,
+   "stop_pct": 5.27,
+   "reason": "3개월 +98.4% (후보 중 모멘텀 상위) · 급등 +118.6% 뒤 16일 횡보, 폭 16.8% · 거래량 급등기 대비 89% 로 감소 · 종가가 트리거가의 93.1% 위치",
+   "candidates": [
+    "EFOR",
+    "HTFL",
+    "SBC",
+    "PS",
+    "HPE",
+    "XMTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 23,
-  "triggered": 10,
-  "not_triggered": 12,
-  "closed": 9,
-  "open": 1,
-  "win_rate": 90.0,
-  "avg_pnl_pct": 6.72,
-  "avg_r": 1.1,
-  "sum_pnl_pct": 67.23
+  "total": 24,
+  "triggered": 12,
+  "not_triggered": 11,
+  "closed": 10,
+  "open": 2,
+  "win_rate": 75.0,
+  "avg_pnl_pct": 4.91,
+  "avg_r": 0.8,
+  "sum_pnl_pct": 58.97
  },
- "generated_at": "2026-10-09T21:31:50Z"
+ "generated_at": "2026-10-12T21:31:57Z"
 }
