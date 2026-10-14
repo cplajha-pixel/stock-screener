@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.21,
+    "last_close": 12.175,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 75.19,
+    "last_close": 71.78,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 75.19,
+    "last_close": 71.78,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 14.56,
+    "last_close": 14.5,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 8.25,
+    "last_close": 8.5,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 8.25,
+    "last_close": 8.5,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -271,10 +271,10 @@
     "entry_price": 11.25,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 12.04,
-    "r_multiple": 2.19,
+    "pnl_pct": 11.96,
+    "r_multiple": 2.18,
     "remaining_frac": 0.5,
-    "last_close": 13.37,
+    "last_close": 13.35,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 25.425,
+    "last_close": 24.54,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 25.425,
+    "last_close": 24.54,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 25.425,
+    "last_close": 24.54,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 9.95,
+    "last_close": 9.71,
     "notes": []
    }
   },
@@ -629,16 +629,16 @@
     "SILC",
     "XMTR"
    ],
-   "status": "진행 중",
+   "status": "종료",
    "result": {
     "entry_date": "2026-10-12",
     "entry_price": 235.0,
-    "exit_date": null,
-    "exit_reason": null,
-    "pnl_pct": -3.37,
-    "r_multiple": -0.67,
-    "remaining_frac": 1.0,
-    "last_close": 227.08,
+    "exit_date": "2026-10-13",
+    "exit_reason": "손절",
+    "pnl_pct": -5.04,
+    "r_multiple": -1.0,
+    "remaining_frac": 0.0,
+    "last_close": 226.59,
     "notes": []
    }
   },
@@ -659,20 +659,43 @@
     "HPE",
     "XMTR"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 50.32
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "ticker": "PSIX",
+   "name": "Power Solutions International, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 53.3509,
+   "stop_price": 50.4064,
+   "stop_pct": 5.52,
+   "reason": "3개월 +58.8% (후보 중 모멘텀 상위) · 급등 +86.6% 뒤 12일 횡보, 폭 21.6% · 거래량 급등기 대비 85% 로 감소 · 종가가 트리거가의 99.6% 위치",
+   "candidates": [
+    "IOVA",
+    "EFOR",
+    "HTFL",
+    "PSIX",
+    "XMTR"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 24,
+  "total": 25,
   "triggered": 12,
-  "not_triggered": 11,
-  "closed": 10,
-  "open": 2,
+  "not_triggered": 12,
+  "closed": 11,
+  "open": 1,
   "win_rate": 75.0,
-  "avg_pnl_pct": 4.91,
-  "avg_r": 0.8,
-  "sum_pnl_pct": 58.97
+  "avg_pnl_pct": 4.77,
+  "avg_r": 0.77,
+  "sum_pnl_pct": 57.22
  },
- "generated_at": "2026-10-12T21:31:57Z"
+ "generated_at": "2026-10-14T00:29:47Z"
 }
