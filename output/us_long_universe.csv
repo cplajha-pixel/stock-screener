@@ -126,7 +126,6 @@ CSGP,CoStar Group,Real Estate,True,False
 CSX,CSX Corporation,Industrials,True,True
 CTAS,Cintas,Industrials,True,True
 CTSH,Cognizant,Information Technology,True,False
-CTVA,Corteva,Materials,True,False
 CVNA,Carvana,Consumer Discretionary,True,False
 CVS,CVS Health,Health Care,True,False
 CVX,Chevron Corporation,Energy,True,False
@@ -305,7 +304,7 @@ MAR,Marriott International,Consumer Discretionary,True,True
 MAS,Masco,Industrials,True,False
 MCD,McDonald's,Consumer Discretionary,True,False
 MCHP,Microchip Technology,Information Technology,True,True
-MCK,McKesson Corporation,Health Care,True,False
+MCK,McKesson,Health Care,True,False
 MCO,Moody's Corporation,Financials,True,False
 MDLZ,Mondelez International,Consumer Staples,True,True
 MDT,Medtronic,Health Care,True,False
@@ -322,7 +321,7 @@ MOS,Mosaic Company (The),Materials,True,False
 MPC,Marathon Petroleum,Energy,True,False
 MPWR,Monolithic Power Systems,Information Technology,True,True
 MRK,Merck & Co.,Health Care,True,False
-MRNA,Moderna,Health Care,True,False
+MRNA,Moderna,Health Care,True,True
 MRSH,Marsh McLennan,Financials,True,False
 MRVL,Marvell Technology,Information Technology,True,True
 MS,Morgan Stanley,Financials,True,False
@@ -389,7 +388,6 @@ PPG,PPG Industries,Materials,True,False
 PPL,PPL Corporation,Utilities,True,False
 PRU,Prudential Financial,Financials,True,False
 PSA,Public Storage,Real Estate,True,False
-PSKY,Paramount Skydance Corporation,Communication Services,True,False
 PSX,Phillips 66,Energy,True,False
 PTC,PTC Inc.,Information Technology,True,False
 PWR,Quanta Services,Industrials,True,False
@@ -418,6 +416,7 @@ SCHW,Charles Schwab Corporation,Financials,True,False
 SHOP,Shopify,Technology,False,True
 SHW,Sherwin-Williams,Materials,True,False
 SJM,J.M. Smucker Company (The),Consumer Staples,True,False
+SKYD,Skydance Corporation,Communication Services,True,False
 SLB,Schlumberger,Energy,True,False
 SMCI,Supermicro,Information Technology,True,False
 SNA,Snap-on,Industrials,True,False
@@ -464,6 +463,7 @@ TSLA,"Tesla, Inc.",Consumer Discretionary,True,True
 TSN,Tyson Foods,Consumer Staples,True,False
 TT,Trane Technologies,Industrials,True,False
 TTWO,Take-Two Interactive,Communication Services,True,True
+TWLO,Twilio,Information Technology,True,False
 TXN,Texas Instruments,Information Technology,True,True
 TXT,Textron,Industrials,True,False
 TYL,Tyler Technologies,Information Technology,True,False
@@ -491,10 +491,10 @@ VRTX,Vertex Pharmaceuticals,Health Care,True,True
 VST,Vistra Corp.,Utilities,True,False
 VTR,Ventas,Real Estate,True,False
 VTRS,Viatris,Health Care,True,False
+VYLR,Vylor,Consumer Staples,True,False
 VZ,Verizon,Communication Services,True,False
 WAB,Wabtec,Industrials,True,False
 WAT,Waters Corporation,Health Care,True,False
-WBD,Warner Bros. Discovery,Communication Services,True,True
 WDAY,"Workday, Inc.",Information Technology,True,True
 WDC,Western Digital,Information Technology,True,True
 WEC,WEC Energy Group,Utilities,True,False
