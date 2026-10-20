@@ -76,7 +76,6 @@ ACT,"Enact Holdings, Inc. - Common Stock",NASDAQ
 ACTG,Acacia Research Corporation - Common Stock,NASDAQ
 ACTU,"Actuate Therapeutics, Inc. - Common stock",NASDAQ
 ACU,Acme United Corporation. Common Stock,NYSE American
-ACVA,ACV Auctions Inc. Class A Common Stock,NYSE
 ACXP,"Acurx Pharmaceuticals, Inc. - Common Stock",NASDAQ
 AD,"Array Digital Infrastructure, Inc. Common Shares",NYSE
 ADAC,American Drive Acquisition Company - Class A Ordinary Shares,NASDAQ
@@ -302,7 +301,7 @@ AMSS,AMASS Brands Inc. - Common Stock,NASDAQ
 AMST,Amesite Inc. - Common Stock,NASDAQ
 AMT,American Tower Corporation (REIT) Common Stock,NYSE
 AMTB,Amerant Bancorp Inc. Class A Common Stock,NYSE
-AMTD,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",NYSE
+AMTD,"AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares",NYSE
 AMTM,"Amentum Holdings, Inc. Common Stock",NYSE
 AMTX,"Aemetis, Inc - Common Stock",NASDAQ
 AMWL,American Well Corporation Class A Common Stock,NYSE
@@ -454,7 +453,6 @@ ATHE,Alterity Therapeutics Limited - American Depositary Shares,NASDAQ
 ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",NYSE
 ATHR,"Aether Holdings, Inc. - Common Stock",NASDAQ
 ATI,ATI Inc. Common Stock,NYSE
-ATKR,Atkore Inc. Common Stock,NYSE
 ATLC,Atlanticus Holdings Corporation - Common Stock,NASDAQ
 ATLO,Ames National Corporation - Common Stock,NASDAQ
 ATLQ,JAB Acquisition Corp I - Class A Ordinary Shares,NASDAQ
@@ -994,7 +992,7 @@ CDXS,"Codexis, Inc. - Common Stock",NASDAQ
 CDZI,"Cadiz, Inc. - Common Stock",NASDAQ
 CDZIP,"Cadiz, Inc. - Depositary Shares",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
-CECO,CECO Environmental Corp. - Common Stock,NASDAQ
+CECO,CECO Environmental Corp. Common Stock,F
 CELC,Celcuity Inc. - Common Stock,NASDAQ
 CELH,"Celsius Holdings, Inc. - Common Stock",NASDAQ
 CELU,Celularity Inc. - Class A Common Stock,NASDAQ
@@ -1403,6 +1401,7 @@ DCBO,Docebo Inc. - Common Shares,NASDAQ
 DCGO,DocGo Inc. - Common Stock,NASDAQ
 DCH,Dauch Corporation Common Stock,NYSE
 DCI,"Donaldson Company, Inc. Common Stock",NYSE
+DCM,"DeFi Capital Markets, Inc. Common Stock",NYSE American
 DCO,Ducommun Incorporated Common Stock,NYSE
 DCOM,"Dime Commercial Bancshares, Inc. Common Stock",NYSE
 DCOY,Decoy Therapeutics Inc. - Common Stock,NASDAQ
@@ -1594,7 +1593,7 @@ EFOI,"Energy Focus, Inc. - Common Stock",NASDAQ
 EFOR,"Everforth, Inc. Common Stock",NYSE
 EFSC,Enterprise Financial Services Corporation - Common Stock,NASDAQ
 EFSI,Eagle Financial Services Inc - Common Stock,NASDAQ
-EFTY,"Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",NASDAQ
+EFTY,"Etoiles Capital Group Co., Ltd. - Common Stock",NASDAQ
 EFX,"Equifax, Inc. Common Stock",NYSE
 EFXT,Enerflex Ltd Common Shares,NYSE
 EG,"Everest Group, Ltd. Common Stock",NYSE
@@ -2449,7 +2448,7 @@ IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ
 IBM,International Business Machines Corporation Common Stock,NYSE
 IBN,ICICI Bank Limited Common Stock,NYSE
 IBO,"Impact BioMedical, Inc. Common Stock",NYSE American
-IBOC,International Bancshares Corporation - Common Stock,NASDAQ
+IBOC,International Bancshares Corporation Common Stock,F
 IBP,"Installed Building Products, Inc. Common Stock",NYSE
 IBRX,"ImmunityBio, Inc. - Common Stock",NASDAQ
 IBTA,"Ibotta, Inc. Class A Common Stock",NYSE
@@ -2878,6 +2877,7 @@ LCII,LCI Industries,NYSE
 LCLN,"Lincoln International, Inc. Class A Common Stock",NYSE
 LCNB,LCNB Corporation - Common Stock,NASDAQ
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock",NYSE American
+LCU,Lion Copper Corp. - Common Shares,NASDAQ
 LCUT,"Lifetime Brands, Inc. - Common Stock",NASDAQ
 LDI,"loanDepot, Inc. Class A Common Stock",NYSE
 LDOS,"Leidos Holdings, Inc. Common Stock",NYSE
@@ -2994,7 +2994,6 @@ LQDA,Liquidia Corporation - Common Stock,NASDAQ
 LQDT,"Liquidity Services, Inc. - Common Stock",NASDAQ
 LRCX,Lam Research Corporation - Common Stock,NASDAQ
 LRE,"Lead Real Estate Co., Ltd - American Depositary Shares",NASDAQ
-LRHC,La Rosa Holdings Corp. - Common Stock,NASDAQ
 LRMR,"Larimar Therapeutics, Inc. - Common Stock",NASDAQ
 LRN,"Stride, Inc. Common Stock",NYSE
 LSAK,"Lesaka Technologies, Inc. - Common Stock",NASDAQ
@@ -3438,7 +3437,7 @@ NGVT,Ingevity Corporation Common Stock,NYSE
 NHC,National HealthCare Corporation Common Stock,NYSE American
 NHI,"National Health Investors, Inc. Common Stock",NYSE
 NHIV,NewHold Investment Corp IV - Class A Ordinary Shares,NASDAQ
-NHP,"National Healthcare Properties, Inc. - Class A Common Stock",NASDAQ
+NHP,"National Healthcare Properties, Inc. - Common Stock",NASDAQ
 NHTC,Natural Health Trends Corp. - Common Stock,NASDAQ
 NI,NiSource Inc Common Stock,NYSE
 NIC,Nicolet Bankshares Inc. Common Stock,NYSE
@@ -4648,6 +4647,7 @@ SRL,Scully Royalty Ltd.,NYSE
 SRPT,"Sarepta Therapeutics, Inc. - Common Stock",NASDAQ
 SRRK,Scholar Rock Holding Corporation - Common Stock,NASDAQ
 SRTA,"Strata Critical Medical, Inc. - Class A Common Stock",NASDAQ
+SRTM,Stratum Holdings Corp. - Common Stock,NASDAQ
 SRTS,"Sensus Healthcare, Inc. - Common Stock",NASDAQ
 SRXH,SRX Global Inc. Common Stock,NYSE American
 SRZN,"Surrozen, Inc. - Common Stock",NASDAQ
@@ -5129,7 +5129,6 @@ UTL,UNITIL Corporation Common Stock,NYSE
 UTMD,"Utah Medical Products, Inc. - Common Stock",NASDAQ
 UTSI,UTStarcom Holdings Corp - Ordinary Shares,NASDAQ
 UTZ,Utz Brands Inc Class A Common Stock,NYSE
-UUU,"Universal Safety Products, Inc. Common Stock",NYSE American
 UUUU,Energy Fuels Inc Ordinary Shares (Canada),NYSE American
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,NYSE
 UVSP,Univest Financial Corporation - Common Stock,NASDAQ
