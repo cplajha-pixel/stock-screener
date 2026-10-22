@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 12.75,
+    "last_close": 12.98,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 71.46,
+    "last_close": 75.55,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 71.46,
+    "last_close": 75.55,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 14.86,
+    "last_close": 14.62,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 7.41,
+    "last_close": 7.85,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 7.41,
+    "last_close": 7.85,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 13.8,
+    "last_close": 15.285,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 21.49,
+    "last_close": 20.72,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 21.49,
+    "last_close": 20.72,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 21.49,
+    "last_close": 20.72,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 9.63,
+    "last_close": 9.55,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 194.02,
+    "last_close": 208.62,
     "notes": []
    }
   },
@@ -792,14 +792,38 @@
     "EDHL",
     "NTWK"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 10.15
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "ticker": "EMBC",
+   "name": "Embecta Corp. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 6.735,
+   "stop_price": 6.3923,
+   "stop_pct": 5.09,
+   "reason": "3개월 +105.8% (후보 중 모멘텀 상위) · 급등 +33.3% 뒤 10일 횡보, 폭 18.8% · 거래량 급등기 대비 81% 로 감소 · 종가가 트리거가의 99.1% 위치",
+   "candidates": [
+    "IOVA",
+    "HTFL",
+    "EMBC",
+    "CDNA",
+    "PAYS",
+    "NTWK"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 30,
+  "total": 31,
   "triggered": 12,
-  "not_triggered": 17,
+  "not_triggered": 18,
   "closed": 12,
   "open": 0,
   "win_rate": 75.0,
@@ -807,5 +831,5 @@
   "avg_r": 0.75,
   "sum_pnl_pct": 55.84
  },
- "generated_at": "2026-10-20T23:56:06Z"
+ "generated_at": "2026-10-22T00:09:34Z"
 }
