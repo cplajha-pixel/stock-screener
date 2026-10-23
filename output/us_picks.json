@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 13.31,
+    "last_close": 13.38,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 69.7,
+    "last_close": 71.55,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 69.7,
+    "last_close": 71.55,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 14.16,
+    "last_close": 14.09,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 7.48,
+    "last_close": 7.27,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 7.48,
+    "last_close": 7.27,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 15.48,
+    "last_close": 15.51,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 20.13,
+    "last_close": 19.69,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 20.13,
+    "last_close": 19.69,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 20.13,
+    "last_close": 19.69,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 9.58,
+    "last_close": 9.36,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 201.34,
+    "last_close": 213.05,
     "notes": []
    }
   },
@@ -822,10 +822,10 @@
     "entry_price": 6.735,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 2.0,
-    "r_multiple": 0.39,
+    "pnl_pct": -0.37,
+    "r_multiple": -0.07,
     "remaining_frac": 1.0,
-    "last_close": 6.87,
+    "last_close": 6.71,
     "notes": []
    }
   },
@@ -846,20 +846,42 @@
     "SGHT",
     "ZETA"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 6.71
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "ticker": "CDNA",
+   "name": "CareDx, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 72.71,
+   "stop_price": 68.0438,
+   "stop_pct": 6.42,
+   "reason": "3개월 +90.3% (후보 중 모멘텀 상위) · 급등 +61.9% 뒤 13일 횡보, 폭 18.8% · 거래량 급등기 대비 70% 로 감소 · 종가가 트리거가의 95.2% 위치",
+   "candidates": [
+    "IOVA",
+    "CDNA",
+    "SGHT",
+    "FIVN"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 32,
+  "total": 33,
   "triggered": 13,
-  "not_triggered": 18,
+  "not_triggered": 19,
   "closed": 12,
   "open": 1,
-  "win_rate": 76.9,
-  "avg_pnl_pct": 4.45,
-  "avg_r": 0.72,
-  "sum_pnl_pct": 57.84
+  "win_rate": 69.2,
+  "avg_pnl_pct": 4.27,
+  "avg_r": 0.69,
+  "sum_pnl_pct": 55.47
  },
- "generated_at": "2026-10-23T00:08:53Z"
+ "generated_at": "2026-10-23T23:58:44Z"
 }
