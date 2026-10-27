@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 13.38,
+    "last_close": 13.18,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 71.55,
+    "last_close": 72.98,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 71.55,
+    "last_close": 72.98,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 14.09,
+    "last_close": 13.785,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 7.27,
+    "last_close": 7.48,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 7.27,
+    "last_close": 7.48,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 15.51,
+    "last_close": 15.1875,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 19.69,
+    "last_close": 19.51,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 19.69,
+    "last_close": 19.51,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 19.69,
+    "last_close": 19.51,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 9.36,
+    "last_close": 9.11,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 213.05,
+    "last_close": 219.98,
     "notes": []
    }
   },
@@ -822,10 +822,10 @@
     "entry_price": 6.735,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": -0.37,
-    "r_multiple": -0.07,
+    "pnl_pct": 1.11,
+    "r_multiple": 0.22,
     "remaining_frac": 1.0,
-    "last_close": 6.71,
+    "last_close": 6.81,
     "notes": []
    }
   },
@@ -868,20 +868,43 @@
     "SGHT",
     "FIVN"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 69.1
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "ticker": "FIVN",
+   "name": "Five9, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 38.56,
+   "stop_price": 36.237,
+   "stop_pct": 6.02,
+   "reason": "3개월 +39.2% (후보 중 모멘텀 상위) · 급등 +53.8% 뒤 23일 횡보, 폭 20.8% · 거래량 급등기 대비 56% 로 감소 · 종가가 트리거가의 97.9% 위치",
+   "candidates": [
+    "IOVA",
+    "HTFL",
+    "CDNA",
+    "FIVN",
+    "JDZG"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 33,
+  "total": 34,
   "triggered": 13,
-  "not_triggered": 19,
+  "not_triggered": 20,
   "closed": 12,
   "open": 1,
-  "win_rate": 69.2,
-  "avg_pnl_pct": 4.27,
-  "avg_r": 0.69,
-  "sum_pnl_pct": 55.47
+  "win_rate": 76.9,
+  "avg_pnl_pct": 4.38,
+  "avg_r": 0.71,
+  "sum_pnl_pct": 56.95
  },
- "generated_at": "2026-10-23T23:58:44Z"
+ "generated_at": "2026-10-27T00:32:41Z"
 }
