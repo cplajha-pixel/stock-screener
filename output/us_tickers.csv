@@ -88,7 +88,6 @@ ADEA,Adeia Inc.  - Common Stock,NASDAQ
 ADGM,"Adagio Medical Holdings, Inc - Common Stock",NASDAQ
 ADI,"Analog Devices, Inc. - Common Stock",NASDAQ
 ADIG,ADI Global Distribution Inc. Common Stock,NYSE
-ADIL,"Adial Pharmaceuticals, Inc - Common Stock",NASDAQ
 ADM,Archer-Daniels-Midland Company Common Stock,NYSE
 ADMA,ADMA Biologics Inc - Common Stock,NASDAQ
 ADNT,Adient plc Ordinary Shares,NYSE
@@ -539,6 +538,7 @@ AZI,Autozi Internet Technology (Global) Ltd. - Class A Ordinary Shares,NASDAQ
 AZIO,"Azio AI Holdings, Inc. - Common stock",NASDAQ
 AZN,AstraZeneca PLC Ordinary Shares,NYSE
 AZO,"AutoZone, Inc. Common Stock",NYSE
+AZR,"Azora Therapeutics, Inc. - Common Stock",NASDAQ
 AZTA,"Azenta, Inc. - Common Stock",NASDAQ
 AZTR,Azitra Inc Common Stock,NYSE American
 AZUL,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares",NYSE
@@ -992,7 +992,7 @@ CDXS,"Codexis, Inc. - Common Stock",NASDAQ
 CDZI,"Cadiz, Inc. - Common Stock",NASDAQ
 CDZIP,"Cadiz, Inc. - Depositary Shares",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
-CECO,CECO Environmental Corp. Common Stock,F
+CECO,CECO Environmental Corp. Common Stock,TXSE
 CELC,Celcuity Inc. - Common Stock,NASDAQ
 CELH,"Celsius Holdings, Inc. - Common Stock",NASDAQ
 CELU,Celularity Inc. - Class A Common Stock,NASDAQ
@@ -1414,8 +1414,8 @@ DDD,3D Systems Corporation Common Stock,NYSE
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE
 DDOG,"Datadog, Inc. - Class A Common Stock",NASDAQ
-DDS,"Dillard's, Inc. Common Stock",F
-DDT,Dillard's Capital Trust I,F
+DDS,"Dillard's, Inc. Common Stock",TXSE
+DDT,Dillard's Capital Trust I,TXSE
 DE,Deere & Company Common Stock,NYSE
 DEA,"Easterly Government Properties, Inc. Common Stock",NYSE
 DEC,Diversified Energy Company Common Stock,NYSE
@@ -2026,6 +2026,7 @@ GASS,"StealthGas, Inc. - common stock",NASDAQ
 GATX,GATX Corporation Common Stock,NYSE
 GAU,Galiano Gold Inc.,NYSE American
 GAUZ,Gauzy Ltd. - Ordinary Shares,NASDAQ
+GBC,"Georgia Banking Company, Inc. - Common Stock",NASDAQ
 GBCI,"Glacier Bancorp, Inc. Common Stock",NYSE
 GBFH,GBank Financial Holdings Inc. - Common Stock,NASDAQ
 GBLI,"Global Indemnity Group, LLC - Class A Common Shares",NASDAQ
@@ -2451,7 +2452,7 @@ IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ
 IBM,International Business Machines Corporation Common Stock,NYSE
 IBN,ICICI Bank Limited Common Stock,NYSE
 IBO,"Impact BioMedical, Inc. Common Stock",NYSE American
-IBOC,International Bancshares Corporation Common Stock,F
+IBOC,International Bancshares Corporation Common Stock,TXSE
 IBP,"Installed Building Products, Inc. Common Stock",NYSE
 IBRX,"ImmunityBio, Inc. - Common Stock",NASDAQ
 IBTA,"Ibotta, Inc. Class A Common Stock",NYSE
@@ -3374,7 +3375,7 @@ NAT,Nordic American Tankers Limited Common Stock,NYSE
 NATL,NCR Atleos Corporation Common Stock,NYSE
 NATR,"Nature's Sunshine Products, Inc. - Common Stock",NASDAQ
 NAUT,"Nautilus Biotechnology, Inc. - Common Stock",NASDAQ
-NAVI,Navient Corporation - Common Stock,NASDAQ
+NAVI,"Navient Holdings, Inc. - Common Stock",NASDAQ
 NAVN,"Navan, Inc. - Class A Common Stock",NASDAQ
 NB,NioCorp Developments Ltd. - Common Stock,NASDAQ
 NBBK,"NB Bancorp, Inc. - Common Stock",NASDAQ
@@ -3614,7 +3615,7 @@ OBA,Oxley Bridge Acquisition Limited - Class A Ordinary Shares,NASDAQ
 OBDC,Blue Owl Capital Corporation Common Stock,NYSE
 OBE,Obsidian Energy Ltd. Common Shares,NYSE American
 OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",NASDAQ
-OBK,"Origin Bancorp, Inc. Common Stock",F
+OBK,"Origin Bancorp, Inc. Common Stock",TXSE
 OBT,"Orange County Bancorp, Inc. - Common Stock",NASDAQ
 OBX,"Obsidian Therapeutics, Inc. - Common Stock",NASDAQ
 OC,Owens Corning Inc Common Stock New,NYSE
@@ -4525,7 +4526,7 @@ SLGL,Sol-Gel Technologies Ltd. - Ordinary Shares,NASDAQ
 SLGN,Silgan Holdings Inc. Common Stock,NYSE
 SLI,Standard Lithium Ltd. Common Shares,NYSE American
 SLM,SLM Corporation - Common Stock,NASDAQ
-SLMT,Brera Holdings PLC - Class B Ordinary Shares,NASDAQ
+SLMT,Solmate Infrastructure Public Limited Company - Class B Ordinary Shares,NASDAQ
 SLN,Silence Therapeutics Plc - American Depository Share,NASDAQ
 SLND,"Southland Holdings, Inc. Common Stock",NYSE American
 SLNG,"Stabilis Solutions, Inc. - Common Stock",NASDAQ
@@ -4792,7 +4793,7 @@ TBI,"TrueBlue, Inc. Common Stock",NYSE
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ
 TBN,Tamboran Resources Corporation Common stock,NYSE
 TC,Token Cat Limited - American Depositary Shares,NASDAQ
-TCBI,"Texas Capital Bancshares, Inc. Common Stock",F
+TCBI,"Texas Capital Bancshares, Inc. Common Stock",TXSE
 TCBK,TriCo Bancshares - Common Stock,NASDAQ
 TCBS,"Texas Community Bancshares, Inc. - Common Stock",NASDAQ
 TCBX,"Third Coast Bancshares, Inc. Common Stock",NYSE

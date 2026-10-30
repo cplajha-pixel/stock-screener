@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-29T01:07:18Z",
- "last_trading_day": "2026-10-28",
- "tickers": 5552,
+ "generated_at": "2026-10-30T01:09:28Z",
+ "last_trading_day": "2026-10-29",
+ "tickers": 5553,
  "rc": 0,
  "ran": {
   "short": true,
   "ep": false,
   "mid": true,
-  "long": true,
+  "long": false,
   "insight": false,
   "context": true,
   "daily": true
