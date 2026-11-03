@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 13.16,
+    "last_close": 13.12,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 70.1,
+    "last_close": 61.63,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 70.1,
+    "last_close": 61.63,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 8.47,
+    "last_close": 8.02,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 8.59,
+    "last_close": 8.39,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 8.59,
+    "last_close": 8.39,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 15.66,
+    "last_close": 15.41,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 20.62,
+    "last_close": 19.93,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 20.62,
+    "last_close": 19.93,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 20.62,
+    "last_close": 19.93,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 9.69,
+    "last_close": 9.96,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 208.07,
+    "last_close": 184.87,
     "notes": []
    }
   },
@@ -825,7 +825,7 @@
     "pnl_pct": -2.82,
     "r_multiple": -0.55,
     "remaining_frac": 0.0,
-    "last_close": 6.25,
+    "last_close": 6.19,
     "notes": [
      "3일째 절반 매도 -2.7%"
     ]
@@ -923,10 +923,10 @@
     "entry_price": 286.4,
     "exit_date": "2026-10-30",
     "exit_reason": "갭하락 손절(시가)",
-    "pnl_pct": -11.37,
-    "r_multiple": -2.05,
+    "pnl_pct": -10.69,
+    "r_multiple": -1.93,
     "remaining_frac": 0.0,
-    "last_close": 236.21,
+    "last_close": 226.58,
     "notes": []
    }
   },
@@ -977,10 +977,10 @@
     "entry_price": 2.975,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 0.17,
-    "r_multiple": 0.02,
+    "pnl_pct": -1.51,
+    "r_multiple": -0.22,
     "remaining_frac": 1.0,
-    "last_close": 2.98,
+    "last_close": 2.93,
     "notes": []
    }
   },
@@ -1001,20 +1001,51 @@
     "GTLB",
     "AMC"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-11-02",
+    "entry_price": 22.305,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": -4.55,
+    "r_multiple": -0.78,
+    "remaining_frac": 1.0,
+    "last_close": 21.29,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "ticker": "FIGS",
+   "name": "FIGS, Inc. Class A Common Stock",
+   "setup": "breakout",
+   "trigger_price": 22.458,
+   "stop_price": 21.1292,
+   "stop_pct": 5.92,
+   "reason": "3개월 +96.2% (후보 중 모멘텀 상위) · 급등 +72.0% 뒤 11일 횡보, 폭 18.6% · 거래량 급등기 대비 60% 로 감소 · 종가가 트리거가의 94.8% 위치",
+   "candidates": [
+    "FIGS",
+    "VRA",
+    "SBC",
+    "VSTM",
+    "SGHT",
+    "GTLB",
+    "AMC"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 38,
-  "triggered": 15,
+  "total": 39,
+  "triggered": 16,
   "not_triggered": 22,
   "closed": 14,
-  "open": 1,
-  "win_rate": 66.7,
-  "avg_pnl_pct": 2.79,
-  "avg_r": 0.43,
-  "sum_pnl_pct": 41.82
+  "open": 2,
+  "win_rate": 56.2,
+  "avg_pnl_pct": 2.27,
+  "avg_r": 0.34,
+  "sum_pnl_pct": 36.27
  },
- "generated_at": "2026-10-31T00:55:24Z"
+ "generated_at": "2026-11-03T03:00:43Z"
 }

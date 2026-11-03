@@ -920,6 +920,7 @@ CARR,Carrier Global Corporation Common Stock,NYSE
 CARS,Cars.com Inc. Common Stock,NYSE
 CART,Maplebear Inc. - Common Stock,NASDAQ
 CASH,"Pathward Financial, Inc. - Common Stock",NASDAQ
+CASK,"Sempreon, Inc. - Common Stock",NASDAQ
 CASS,"Cass Information Systems, Inc - Common Stock",NASDAQ
 CAST,"FreeCast, Inc. - Class A common stock",NASDAQ
 CASY,"Caseys General Stores, Inc. - Common Stock",NASDAQ
@@ -947,7 +948,6 @@ CBSH,"Commerce Bancshares, Inc. - Common Stock",NASDAQ
 CBT,Cabot Corporation Common Stock,NYSE
 CBU,"Community Financial System, Inc. Common Stock",NYSE
 CBUS,"Cibus, Inc. - Class A Common Stock",NASDAQ
-CBZ,"CBIZ, Inc. Common Stock",NYSE
 CC,Chemours Company (The) Common Stock,NYSE
 CCAP,"Crescent Capital BDC, Inc. - Common Stock",NASDAQ
 CCAQ,Collective Acquisition Corp. - Class A ordinary shares,NASDAQ
@@ -994,7 +994,7 @@ CDXS,"Codexis, Inc. - Common Stock",NASDAQ
 CDZI,"Cadiz, Inc. - Common Stock",NASDAQ
 CDZIP,"Cadiz, Inc. - Depositary Shares",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
-CECO,CECO Environmental Corp. Common Stock,TXSE
+CECO,CECO Environmental Corp. Common Stock,F
 CELC,Celcuity Inc. - Common Stock,NASDAQ
 CELH,"Celsius Holdings, Inc. - Common Stock",NASDAQ
 CELU,Celularity Inc. - Class A Common Stock,NASDAQ
@@ -1416,8 +1416,8 @@ DDD,3D Systems Corporation Common Stock,NYSE
 DDI,"DoubleDown Interactive Co., Ltd. - American Depository Shares",NASDAQ
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE
 DDOG,"Datadog, Inc. - Class A Common Stock",NASDAQ
-DDS,"Dillard's, Inc. Common Stock",TXSE
-DDT,Dillard's Capital Trust I,TXSE
+DDS,"Dillard's, Inc. Common Stock",F
+DDT,Dillard's Capital Trust I,F
 DE,Deere & Company Common Stock,NYSE
 DEA,"Easterly Government Properties, Inc. Common Stock",NYSE
 DEC,Diversified Energy Company Common Stock,NYSE
@@ -2452,7 +2452,7 @@ IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ
 IBM,International Business Machines Corporation Common Stock,NYSE
 IBN,ICICI Bank Limited Common Stock,NYSE
 IBO,"Impact BioMedical, Inc. Common Stock",NYSE American
-IBOC,International Bancshares Corporation Common Stock,TXSE
+IBOC,International Bancshares Corporation Common Stock,F
 IBP,"Installed Building Products, Inc. Common Stock",NYSE
 IBRX,"ImmunityBio, Inc. - Common Stock",NASDAQ
 IBTA,"Ibotta, Inc. Class A Common Stock",NYSE
@@ -2664,7 +2664,7 @@ JAN,"Janus Living, Inc. Class A-1 Common Stock",NYSE
 JANX,"Janux Therapeutics, Inc. - Common Stock",NASDAQ
 JATT,JATT II Acquisition Corp - Ordinary Shares,NASDAQ
 JAZZ,Jazz Pharmaceuticals plc - Ordinary Shares,NASDAQ
-JBDI,JBDI Holdings Limited - Ordinary Shares,NASDAQ
+JBDI,JBDI Holdings Limited - Class A Ordinary Shares,NASDAQ
 JBGS,JBG SMITH Properties Common Shares,NYSE
 JBHT,"J.B. Hunt Transport Services, Inc. - Common Stock",NASDAQ
 JBI,"Janus International Group, Inc. Common Stock",NYSE
@@ -2836,7 +2836,6 @@ KULR,"KULR Technology Group, Inc. Common Stock",NYSE American
 KURA,"Kura Oncology, Inc. - Common Stock",NASDAQ
 KUST,"Kustom Entertainment, Inc. - Common Stock",NASDAQ
 KVHI,"KVH Industries, Inc. - Common Stock",NASDAQ
-KVUE,Kenvue Inc. Common Stock,NYSE
 KVYO,"Klaviyo, Inc. Series A Common Stock",NYSE
 KWR,Quaker Houghton Common Stock,NYSE
 KWY,Kingsway Corporation Common Stock,NYSE
@@ -3038,7 +3037,6 @@ LX,LexinFintech Holdings Ltd. - American Depositary Shares,NASDAQ
 LXEH,"Lixiang Education Holding Co., Ltd. - American Depositary Shares",NASDAQ
 LXEO,"Lexeo Therapeutics, Inc. - Common Stock",NASDAQ
 LXFR,Luxfer Holdings PLC Ordinary Shares,NYSE
-LXP,LXP Industrial Trust Common Stock (Maryland REIT),NYSE
 LXRX,"Lexicon Pharmaceuticals, Inc. - Common Stock",NASDAQ
 LXU,"LSB Industries, Inc. Common Stock",NYSE
 LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),NYSE
@@ -3167,7 +3165,6 @@ MGM,MGM Resorts International Common Stock,NYSE
 MGN,Megan Holdings Limited - Class A Ordinary Shares,NASDAQ
 MGNI,"Magnite, Inc. - Common Stock",NASDAQ
 MGNX,"MacroGenics, Inc. - Common Stock",NASDAQ
-MGPI,"MGP Ingredients, Inc. - Common Stock",NASDAQ
 MGRC,McGrath RentCorp - Common Stock,NASDAQ
 MGRT,Mega Fortune Company Limited - Ordinary Shares,NASDAQ
 MGRX,"Mangoceuticals, Inc. - Common Stock",NASDAQ
@@ -3370,6 +3367,7 @@ NAMI,Jinxin Technology Holding Company - American Depositary Shares,NASDAQ
 NAMM,Namib Minerals - Ordinary Shares,NASDAQ
 NAMS,NewAmsterdam Pharma Company N.V. - Ordinary Shares,NASDAQ
 NANO,Forge Nano Holdings Inc. - Common stock,NASDAQ
+NARA,"Narragansett Bancorp, Inc. - Common Stock",NASDAQ
 NAT,Nordic American Tankers Limited Common Stock,NYSE
 NATL,NCR Atleos Corporation Common Stock,NYSE
 NATR,"Nature's Sunshine Products, Inc. - Common Stock",NASDAQ
@@ -3615,7 +3613,7 @@ OBA,Oxley Bridge Acquisition Limited - Class A Ordinary Shares,NASDAQ
 OBDC,Blue Owl Capital Corporation Common Stock,NYSE
 OBE,Obsidian Energy Ltd. Common Shares,NYSE American
 OBIO,"Orchestra BioMed Holdings, Inc. - Ordinary Shares",NASDAQ
-OBK,"Origin Bancorp, Inc. Common Stock",TXSE
+OBK,"Origin Bancorp, Inc. Common Stock",F
 OBT,"Orange County Bancorp, Inc. - Common Stock",NASDAQ
 OBX,"Obsidian Therapeutics, Inc. - Common Stock",NASDAQ
 OC,Owens Corning Inc Common Stock New,NYSE
@@ -3697,6 +3695,7 @@ ONTO,Onto Innovation Inc. Common Stock,NYSE
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OPAD,Offerpad Solutions Inc.  - Class A Common Stock,NASDAQ
 OPAL,OPAL Fuels Inc. - Class A Common Stock,NASDAQ
+OPAY,"OPay Limited American Depositary Shares, each representing ten Ordinary Shares",NYSE
 OPBK,OP Bancorp - Common Stock,NASDAQ
 OPCH,"Option Care Health, Inc. - Common Stock",NASDAQ
 OPEN,Opendoor Technologies Inc  - Common Stock,NASDAQ
@@ -4118,7 +4117,6 @@ RADX,Radiopharm Theranostics Limited - American Depositary Shares,NASDAQ
 RAIL,"Freightcar America, Inc. - Common Stock",NASDAQ
 RAIN,"Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock",NASDAQ
 RAL,Ralliant Corporation Common Stock,NYSE
-RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE
 RANG,Range Capital Acquisition Corp. - Ordinary Shares,NASDAQ
 RANI,"Rani Therapeutics Holdings, Inc. - Class A Common Stock",NASDAQ
 RAPP,"Rapport Therapeutics, Inc. - Common Stock",NASDAQ
@@ -4793,7 +4791,7 @@ TBI,"TrueBlue, Inc. Common Stock",NYSE
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ
 TBN,Tamboran Resources Corporation Common stock,NYSE
 TC,Token Cat Limited - American Depositary Shares,NASDAQ
-TCBI,"Texas Capital Bancshares, Inc. Common Stock",TXSE
+TCBI,"Texas Capital Bancshares, Inc. Common Stock",F
 TCBK,TriCo Bancshares - Common Stock,NASDAQ
 TCBS,"Texas Community Bancshares, Inc. - Common Stock",NASDAQ
 TCBX,"Third Coast Bancshares, Inc. Common Stock",NYSE

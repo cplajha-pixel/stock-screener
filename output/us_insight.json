@@ -1,152 +1,178 @@
 {
- "date": "2026-10-23",
- "generated_at": "2026-10-27T00:32:42Z",
+ "date": "2026-11-02",
+ "generated_at": "2026-11-03T03:00:45Z",
  "temperature": {
   "index": "SPY",
-  "close": 759.97,
-  "sma200": 725.23,
+  "close": 752.1,
+  "sma200": 727.49,
   "above_sma200": true,
-  "pct_vs_sma200": 4.8,
-  "breadth_pct": 60.4,
-  "breadth_n": 500,
+  "pct_vs_sma200": 3.4,
+  "breadth_pct": 65.7,
+  "breadth_n": 499,
   "signal": "지금 투입"
  },
  "sectors": [
   {
    "etf": "XLE",
    "name": "에너지",
-   "r1m": 10.8,
-   "r3m": 18.8,
-   "r6m": 22.8,
-   "close": 69.33,
+   "r1m": 7.1,
+   "r3m": 14.9,
+   "r6m": 14.1,
+   "close": 67.25,
    "rank": 1
   },
   {
    "etf": "XLV",
    "name": "헬스케어",
-   "r1m": 5.5,
-   "r3m": 9.7,
-   "r6m": 24.9,
-   "close": 179.28,
+   "r1m": 11.1,
+   "r3m": 13.9,
+   "r6m": 28.1,
+   "close": 184.6,
    "rank": 2
-  },
-  {
-   "etf": "XLK",
-   "name": "기술",
-   "r1m": -5.9,
-   "r3m": 5.1,
-   "r6m": 14.5,
-   "close": 183.23,
-   "rank": 3
   },
   {
    "etf": "XLP",
    "name": "필수소비재",
-   "r1m": 8.0,
-   "r3m": 3.4,
-   "r6m": 6.8,
-   "close": 88.26,
+   "r1m": 12.8,
+   "r3m": 6.4,
+   "r6m": 9.5,
+   "close": 90.83,
+   "rank": 3
+  },
+  {
+   "etf": "XLB",
+   "name": "소재",
+   "r1m": 9.8,
+   "r3m": 3.2,
+   "r6m": 6.4,
+   "close": 53.67,
    "rank": 4
   },
   {
    "etf": "XLY",
    "name": "임의소비재",
-   "r1m": 2.5,
-   "r3m": 2.0,
-   "r6m": -4.5,
-   "close": 113.1,
+   "r1m": 7.4,
+   "r3m": -0.1,
+   "r6m": 0.6,
+   "close": 118.16,
    "rank": 5
-  },
-  {
-   "etf": "XLB",
-   "name": "소재",
-   "r1m": 3.3,
-   "r3m": -0.2,
-   "r6m": -0.8,
-   "close": 51.31,
-   "rank": 6
   },
   {
    "etf": "XLF",
    "name": "금융",
-   "r1m": 2.5,
-   "r3m": -1.7,
-   "r6m": 9.1,
-   "close": 55.9,
-   "rank": 7
-  },
-  {
-   "etf": "XLC",
-   "name": "커뮤니케이션",
-   "r1m": -7.4,
-   "r3m": -2.0,
-   "r6m": -8.4,
-   "close": 105.51,
-   "rank": 8
+   "r1m": 7.6,
+   "r3m": -0.6,
+   "r6m": 12.0,
+   "close": 57.56,
+   "rank": 6
   },
   {
    "etf": "XLU",
    "name": "유틸리티",
-   "r1m": 8.1,
-   "r3m": -6.8,
-   "r6m": -7.3,
-   "close": 42.56,
-   "rank": 9
+   "r1m": 9.6,
+   "r3m": -1.0,
+   "r6m": -5.2,
+   "close": 43.67,
+   "rank": 7
   },
   {
    "etf": "XLRE",
    "name": "부동산",
-   "r1m": 2.2,
-   "r3m": -7.0,
-   "r6m": -2.0,
-   "close": 42.57,
-   "rank": 10
+   "r1m": 6.9,
+   "r3m": -3.4,
+   "r6m": -0.1,
+   "close": 43.64,
+   "rank": 8
+  },
+  {
+   "etf": "XLK",
+   "name": "기술",
+   "r1m": -12.8,
+   "r3m": -6.8,
+   "r6m": 7.6,
+   "close": 174.22,
+   "rank": 9
   },
   {
    "etf": "XLI",
    "name": "산업재",
-   "r1m": -2.5,
-   "r3m": -10.1,
-   "r6m": -4.3,
-   "close": 164.62,
+   "r1m": -0.1,
+   "r3m": -9.0,
+   "r6m": -0.5,
+   "close": 169.71,
+   "rank": 10
+  },
+  {
+   "etf": "XLC",
+   "name": "커뮤니케이션",
+   "r1m": -9.1,
+   "r3m": -10.5,
+   "r6m": -13.4,
+   "close": 100.26,
    "rank": 11
   }
  ],
  "changes": {
   "entered": [
-   "SNDK",
-   "LRCX",
-   "EOG",
-   "MRVL",
-   "MPWR"
+   "CF",
+   "MNST",
+   "ROST",
+   "GRMN",
+   "ZBRA",
+   "ABNB",
+   "OKE"
   ],
   "exited": [
-   "NEM",
-   "CF",
-   "STLD",
-   "VRTX",
-   "PH"
+   "MU",
+   "ASML",
+   "FTNT",
+   "CSCO",
+   "MRVL",
+   "FCX",
+   "VRTX"
   ],
   "upcoming_earnings": [
    {
-    "ticker": "SNDK",
-    "date": "2026-11-06"
+    "ticker": "APA",
+    "date": "2026-11-04"
    },
    {
-    "ticker": "FTNT",
+    "ticker": "CF",
     "date": "2026-11-04"
+   },
+   {
+    "ticker": "MPC",
+    "date": "2026-11-03"
+   },
+   {
+    "ticker": "EOG",
+    "date": "2026-11-05"
    }
   ],
   "replace": [
    {
-    "ticker": "APH",
-    "rank": 15,
+    "ticker": "MU",
+    "rank": null,
     "days_below_sma200": 0,
     "replace": true,
-    "reason": "순위 15위"
+    "reason": "순위 10위 밖"
+   },
+   {
+    "ticker": "ASML",
+    "rank": null,
+    "days_below_sma200": 2,
+    "replace": true,
+    "reason": "순위 10위 밖"
+   },
+   {
+    "ticker": "FTNT",
+    "rank": null,
+    "days_below_sma200": 1,
+    "replace": true,
+    "reason": "순위 10위 밖"
    }
   ],
-  "long_date": "2026-10-01"
+  "long_date": "2026-11-02"
  },
  "summary_ko": null,
  "previous_signal": "지금 투입",
