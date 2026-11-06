@@ -144,6 +144,7 @@ AGI,Alamos Gold Inc. Class A Common Shares,NYSE
 AGIG,Abundia Global Impact Group Inc. Common stock,NYSE American
 AGIO,"Agios Pharmaceuticals, Inc. - Common Stock",NASDAQ
 AGL,"agilon health, inc. Common Stock",NYSE
+AGLT,"Agility Robotics, Inc. - Ordinary Shares",NASDAQ
 AGM,Federal Agricultural Mortgage Corporation Common Stock,NYSE
 AGM-A,Federal Agricultural Mortgage Corporation Common Stock,NYSE
 AGMB,AgomAb Therapeutics NV - ADRs representing one common share.,NASDAQ
@@ -974,12 +975,11 @@ CCS,"Century Communities, Inc. Common Stock",NYSE
 CCSI,"Consensus Cloud Solutions, Inc. - Common Stock",NASDAQ
 CCTG,CCSC Technology International Holdings Limited - Class A Ordinary Shares,NASDAQ
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock",NYSE
-CCXI,Churchill Capital Corp XI - Class A Ordinary Shares,NASDAQ
 CCZ,Comcast Holdings ZONES,NYSE
 CD,Chaince Digital Holdings Inc. - American Ordinary Shares,NASDAQ
 CDE,"Coeur Mining, Inc. Common Stock",NYSE
 CDIO,Cardio Diagnostics Holdings Inc. - Common stock,NASDAQ
-CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),NYSE
+CDLR,Cadeler plc Ordinary Shares,NYSE
 CDLX,"Cardlytics, Inc. - Common Stock",NASDAQ
 CDNA,"CareDx, Inc. - Common Stock",NASDAQ
 CDNL,Cardinal Infrastructure Group Inc. - Class A Common Stock,NASDAQ
@@ -1732,7 +1732,7 @@ ETS,Elite Express Holding Inc. - Class A Common Stock,NASDAQ
 ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,NYSE
 ETSY,"Etsy, Inc. Common Stock",NYSE
 EU,enCore Energy Corp. - Common Stock,NASDAQ
-EUDA,Euda Health Holdings Limited - Ordinary Shares,NASDAQ
+EUDA,Euda Health Holdings Limited - Class A Ordinary Shares,NASDAQ
 EURK,Eureka Acquisition Corp - Class A Ordinary Share,NASDAQ
 EVAC,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,NYSE
 EVAX,Evaxion A/S - American Depositary Share,NASDAQ
@@ -2329,7 +2329,7 @@ HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares
 HLNE,Hamilton Lane Incorporated - Class A Common Stock,NASDAQ
 HLP,Hongli Group Inc. - Class A Ordinary Shares,NASDAQ
 HLSQ,Tessera Defense and Homeland Security Inc. Common Stock,NYSE American
-HLT,Hilton Worldwide Holdings Inc. Common Stock,NYSE
+HLT,Hilton Worldwide Holdings Inc. - Common Stock,NASDAQ
 HLXC,Helix Acquisition Corp. III - Class A Ordinary Shares,NASDAQ
 HMC,"Honda Motor Company, Ltd. Common Stock",NYSE
 HMH,HMH Holding Inc. - Common Stock,NASDAQ
@@ -5450,7 +5450,7 @@ XRN,Chiron Real Estate Inc. Common Stock,NYSE
 XRPN,Evernorth Holdings Inc. - Class A Ordinary Shares,NASDAQ
 XRTX,XORTX Therapeutics Inc. - Common Shares,NASDAQ
 XRX,Xerox Holdings Corporation - Common Stock,NASDAQ
-XTER,Karman Line Acquisition Corp. - Class A Ordinary Shares,NASDAQ
+XTER,Xterax Corporation II - Class A Ordinary Shares,NASDAQ
 XTIA,"XTI Aerospace, Inc. Common Stock  - Common Stock",NASDAQ
 XTLB,XTL Biopharmaceuticals Ltd. - American Depositary Shares,NASDAQ
 XTND,"Xtend AI Robotics, Inc. Common Stock",NYSE
