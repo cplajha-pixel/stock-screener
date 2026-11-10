@@ -384,7 +384,6 @@ AREC,American Resources Corporation - Class A Common Stock,NASDAQ
 ARES,Ares Management Corporation Class A Common Stock,NYSE
 ARGX,argenx SE - American Depositary Shares,NASDAQ
 ARHS,"Arhaus, Inc. - Class A Common Stock",NASDAQ
-ARI,"Apollo Commercial Real Estate Finance, Inc",NYSE
 ARIS,Aris Mining Corporation Common Shares,NYSE
 ARKO,ARKO Corp. - Common Stock,NASDAQ
 ARKR,Ark Restaurants Corp. - Common Stock,NASDAQ
@@ -861,7 +860,6 @@ BWFG,"Bankwell Financial Group, Inc. - Common Stock",NASDAQ
 BWIN,"The Baldwin Insurance Group, Inc. - Class A Common Stock",NASDAQ
 BWIV,Blue Water Acquisition Corp. IV Class A Ordinary Shares,NYSE
 BWLP,BW LPG Limited Common Shares,NYSE
-BWMN,Bowman Consulting Group Ltd. - Common Stock,NASDAQ
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",NYSE
 BWXT,"BWX Technologies, Inc. Common Stock",NYSE
 BX,Blackstone Inc. Common Stock,NYSE
@@ -2424,6 +2422,7 @@ HWM,Howmet Aerospace Inc. Common Stock,NYSE
 HXHX,Haoxin Holdings Limited - Class A Ordinary Shares,NASDAQ
 HXL,Hexcel Corporation Common Stock,NYSE
 HY,"Hyster-Yale, Inc. Class A common stock",NYSE
+HYAC,Haymaker Acquisition Corp V Class A Ordinary Shares,NYSE
 HYFM,"Hydrofarm Holdings Group, Inc. - Common Stock",NASDAQ
 HYFT,MindWalk Holdings Corp. - Common Stock,NASDAQ
 HYLN,Hyliion Holdings Corp. Class A Common Stock,NYSE American
@@ -2545,7 +2544,6 @@ INIO,INNIO N.V. - Ordinary Shares,NASDAQ
 INKT,"MiNK Therapeutics, Inc. - Common Stock",NASDAQ
 INLF,INLIF LIMITED - Class A Ordinary shares,NASDAQ
 INLX,"Intellinetics, Inc. Common Stock",NYSE American
-INM,InMed Pharmaceuticals Inc. - Common Shares,NASDAQ
 INMB,INmune Bio Inc. - Common stock,NASDAQ
 INMD,InMode Ltd.  - Ordinary Shares,NASDAQ
 INN,"Summit Hotel Properties, Inc. Common Stock",NYSE
@@ -3110,7 +3108,6 @@ MCRB,"Seres Therapeutics, Inc. - Common Stock",NASDAQ
 MCRI,"Monarch Casino & Resort, Inc. - Common Stock",NASDAQ
 MCRP,Micropolis AI Robotics Ordinary Shares,NYSE American
 MCS,Marcus Corporation (The) Common Stock,NYSE
-MCTA,Charming Medical Limited - Class A Ordinary Shares,NASDAQ
 MCY,Mercury General Corporation Common Stock,NYSE
 MD,"Pediatrix Medical Group, Inc. Common Stock",NYSE
 MDA,MDA Space Ltd. Common Shares,NYSE
@@ -3314,6 +3311,7 @@ MTLS,Materialise NV - American Depositary Shares,NASDAQ
 MTN,"Vail Resorts, Inc. Common Stock",NYSE
 MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",NYSE American
 MTNE,CH4 Natural Solutions Corporation Class A Ordinary Shares,NYSE
+MTRI,"Mentari Therapeutics, Inc. - Common Stock",NASDAQ
 MTRN,Materion Corporation,NYSE
 MTRX,Matrix Service Company - Common Stock,NASDAQ
 MTSI,"MACOM Technology Solutions Holdings, Inc. - Common Stock",NASDAQ
@@ -4259,7 +4257,6 @@ ROCK,"Gibraltar Industries, Inc. - Common Stock",NASDAQ
 ROG,Rogers Corporation Common Stock,NYSE
 ROIV,Roivant Sciences Ltd. - Common Shares,NASDAQ
 ROK,"Rockwell Automation, Inc. Common Stock",NYSE
-ROKU,"Roku, Inc. - Class A Common Stock",NASDAQ
 ROL,"Rollins, Inc. Common Stock",NYSE
 ROLR,"High Roller Technologies, Inc. Common Stock",NYSE American
 ROMA,Roma Green Finance Limited - Class A Ordinary Shares,NASDAQ
@@ -4787,7 +4784,6 @@ TBI,"TrueBlue, Inc. Common Stock",NYSE
 TBLA,Taboola.com Ltd. - Ordinary Shares,NASDAQ
 TBN,Tamboran Resources Corporation Common stock,NYSE
 TC,Token Cat Limited - American Depositary Shares,NASDAQ
-TCBI,"Texas Capital Bancshares, Inc. Common Stock",F
 TCBK,TriCo Bancshares - Common Stock,NASDAQ
 TCBS,"Texas Community Bancshares, Inc. - Common Stock",NASDAQ
 TCBX,"Third Coast Bancshares, Inc. Common Stock",NYSE
@@ -5026,6 +5022,7 @@ TWLO,Twilio Inc. Class A Common Stock,NYSE
 TWLV,Twelve Seas Investment Company III - Class A Ordinary Shares,NASDAQ
 TWST,Twist Bioscience Corporation - Common Stock,NASDAQ
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",NYSE
+TXCP,"Texas Capital Bancshares, Inc. Common Stock",F
 TXG,"10x Genomics, Inc. - Common Stock",NASDAQ
 TXMD,"TherapeuticsMD, Inc. - Common Stock",NASDAQ
 TXN,Texas Instruments Incorporated - Common Stock,NASDAQ

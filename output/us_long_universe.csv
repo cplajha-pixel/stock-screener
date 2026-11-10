@@ -279,7 +279,6 @@ KMB,Kimberly-Clark,Consumer Staples,True,False
 KMI,Kinder Morgan,Energy,True,False
 KO,Coca-Cola Company (The),Consumer Staples,True,False
 KR,Kroger,Consumer Staples,True,False
-KVUE,Kenvue,Consumer Staples,True,False
 L,Loews Corporation,Financials,True,False
 LDOS,Leidos,Industrials,True,False
 LEN,Lennar,Consumer Discretionary,True,False
@@ -356,6 +355,7 @@ NXPI,NXP Semiconductors,Information Technology,True,True
 O,Realty Income,Real Estate,True,False
 ODFL,Old Dominion,Industrials,True,True
 OKE,Oneok,Energy,True,False
+OKTA,"Okta, Inc.",Information Technology,True,False
 OMC,Omnicom Group,Communication Services,True,False
 ON,ON Semiconductor,Information Technology,True,False
 ORCL,Oracle Corporation,Information Technology,True,False
