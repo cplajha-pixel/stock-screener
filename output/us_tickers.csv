@@ -1015,7 +1015,7 @@ CFBK,CF Bankshares Inc. - Common Stock,NASDAQ
 CFFI,C&F Financial Corporation - Common Stock,NASDAQ
 CFFN,"Capitol Federal Financial, Inc. - Common Stock",NASDAQ
 CFG,"Citizens Financial Group, Inc. Common Stock",NYSE
-CFR,"Cullen/Frost Bankers, Inc. Common Stock",NYSE
+CFR,"Cullen/Frost Bankers, Inc. Common Stock",F
 CG,The Carlyle Group Inc. - Common Stock,NASDAQ
 CGAU,Centerra Gold Inc. Common Shares,NYSE
 CGC,Canopy Growth Corporation - Common Shares,NASDAQ
@@ -1256,6 +1256,7 @@ CRL,"Charles River Laboratories International, Inc. Common Stock",NYSE
 CRM,"Salesforce, Inc. Common Stock",NYSE
 CRMD,CorMedix Inc. - Common Stock,NASDAQ
 CRML,Critical Metals Corp. - Ordinary Shares,NASDAQ
+CRMN,Skyline Builders Group Holding Limited - Class A Ordinary Shares,NASDAQ
 CRMT,"America's Car-Mart, Inc. - Common Stock",NASDAQ
 CRNC,Cerence Inc. - Common Stock,NASDAQ
 CRNT,Ceragon Networks Ltd. - Ordinary Shares,NASDAQ
@@ -2719,7 +2720,6 @@ KALU,Kaiser Aluminum Corporation - Common Stock,NASDAQ
 KAPA,"Kairos Pharma, Ltd. Common Stock",NYSE American
 KARD,"Kardigan, Inc. - Common Stock",NASDAQ
 KARO,Karooooo Ltd. - Ordinary shares,NASDAQ
-KAZR,Skyline Builders Group Holding Limited - Class A Ordinary Shares,NASDAQ
 KB,KB Financial Group Inc,NYSE
 KBDC,"Kayne Anderson BDC, Inc. Common Stock",NYSE
 KBH,KB Home Common Stock,NYSE
@@ -2776,7 +2776,6 @@ KMX,CarMax Inc,NYSE
 KN,Knowles Corporation Common Stock,NYSE
 KNDI,"Kandi Technologies Group, Inc. - Ordinary Shares",NASDAQ
 KNF,Knife Riv Holding Co. Common Stock,NYSE
-KNRX,KNOREX LTD. Class A Ordinary Shares,NYSE American
 KNSA,"Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",NASDAQ
 KNSL,"Kinsale Capital Group, Inc. Common Stock",NYSE
 KNTK,Kinetik Holdings Inc. Class A Common Stock,NYSE
@@ -3589,7 +3588,6 @@ NXT,Nextpower Inc. - Common Stock,NASDAQ
 NXTC,"NextCure, Inc. - Common Stock",NASDAQ
 NXTS,Nexentis Technologies Inc. - Common Stock,NASDAQ
 NXTT,Next Technology Holding Inc. - Ordinary Shares,NASDAQ
-NXXT,"NextNRG, Inc. - Common Stock",NASDAQ
 NYAX,Nayax Ltd. - Ordinary Shares,NASDAQ
 NYC,American Strategic Investment Co. Class A Common Stock,NYSE
 NYT,New York Times Company (The) Common Stock,NYSE
