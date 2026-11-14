@@ -1092,7 +1092,6 @@ CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,NYSE
 CLDX,"Celldex Therapeutics, Inc. - Common Stock",NASDAQ
 CLF,Cleveland-Cliffs Inc. Common Stock,NYSE
 CLFD,"Clearfield, Inc. - Common Stock",NASDAQ
-CLGN,CollPlant Biotechnologies Ltd. - Ordinary Shares,NASDAQ
 CLH,"Clean Harbors, Inc. Common Stock",NYSE
 CLIK,Click Holdings Limited - Ordinary Share,NASDAQ
 CLIR,ClearSign Technologies Corporation - Common Stock,NASDAQ
@@ -2969,6 +2968,7 @@ LOOP,"Loop Industries, Inc. - Common Stock",NASDAQ
 LOPE,"Grand Canyon Education, Inc. - Common Stock",NASDAQ
 LOT,Lotus Technology Inc. - American Depositary Shares,NASDAQ
 LOVE,The Lovesac Company - Common Stock,NASDAQ
+LOVI,Live Oak Acquisition Corp. VI - Class A Ordinary Shares,NASDAQ
 LOW,"Lowe's Companies, Inc. Common Stock",NYSE
 LPA,Logistic Properties of the Americas Ordinary Shares,NYSE American
 LPAA,Launch One Acquisition Corp. - Class A Ordinary Shares,NASDAQ
@@ -3113,6 +3113,7 @@ MDGL,"Madrigal Pharmaceuticals, Inc. - Common Stock",NASDAQ
 MDIA,Mediaco Holding Inc. - Class A Common Stock,NASDAQ
 MDLN,Medline Inc. - Class A common stock,NASDAQ
 MDLZ,"Mondelez International, Inc. - Class A Common Stock",NASDAQ
+MDRN,Modern Mining Technology Corp. Common Shares,NYSE American
 MDRR,"Medalist Diversified, Inc. - Common Stock",NASDAQ
 MDT,Medtronic plc. Ordinary Shares,NYSE
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",NYSE
@@ -3647,7 +3648,7 @@ OKYO,OKYO Pharma Limited - Ordinary Shares,NASDAQ
 OLB,"The OLB Group, Inc. - Common Stock",NASDAQ
 OLED,Universal Display Corporation - Common Stock,NASDAQ
 OLLI,"Ollie's Bargain Outlet Holdings, Inc. - Common Stock",NASDAQ
-OLMA,"Olema Pharmaceuticals, Inc. - Common Stock",NASDAQ
+OLMA,"Olema Oncology, Inc. - Common Stock",NASDAQ
 OLN,Olin Corporation Common Stock,NYSE
 OLOX,Olenox Industries Inc. - Common Stock,NASDAQ
 OLP,"One Liberty Properties, Inc. Common Stock",NYSE
@@ -3687,6 +3688,7 @@ OPCH,"Option Care Health, Inc. - Common Stock",NASDAQ
 OPEN,Opendoor Technologies Inc  - Common Stock,NASDAQ
 OPFI,OppFi Inc. Class A Common Stock,NYSE
 OPHC,"OptimumBank Holdings, Inc. Common Stock",NYSE American
+OPHI,CollPlant Biotechnologies Ltd. - Ordinary Shares,NASDAQ
 OPK,"Opko Health, Inc. - Common Stock",NASDAQ
 OPLN,"OPENLANE, Inc. Common Stock",NYSE
 OPNW,"OpenWorld, Inc. - Common Stock",NASDAQ
@@ -4024,7 +4026,6 @@ PTEN,"Patterson-UTI Energy, Inc. - Common Stock",NASDAQ
 PTGX,"Protagonist Therapeutics, Inc. - Common Stock",NASDAQ
 PTHS,Pelthos Therapeutics Inc. Common Stock,NYSE American
 PTIV,Pineapple Financial Inc. Common Stock,NYSE American
-PTLE,PTL LTD - Class A Ordinary Shares,NASDAQ
 PTLO,Portillo's Inc. - Class A Common Stock,NASDAQ
 PTN,"Palatin Technologies, Inc. - Common Stock",NASDAQ
 PTON,"Peloton Interactive, Inc. - Common Stock",NASDAQ
@@ -5258,6 +5259,7 @@ VTVT,vTv Therapeutics Inc. - Class A Common Stock,NASDAQ
 VUZI,Vuzix Corporation  - Common Stock,NASDAQ
 VVOS,"Vivos Therapeutics, Inc. - Common Stock",NASDAQ
 VVV,Valvoline Inc. Common Stock,NYSE
+VVVV,vVARDIS Holding AG Class A Ordinary Shares,NYSE
 VVX,"V2X, Inc. Common Stock",NYSE
 VWAV,"VisionWave Holdings, Inc. - Common Stock",NASDAQ
 VYGR,"Voyager Therapeutics, Inc. - Common Stock",NASDAQ
@@ -5308,7 +5310,7 @@ WFC,Wells Fargo & Company Common Stock,NYSE
 WFCF,"Where Food Comes From, Inc. - Common Stock",NASDAQ
 WFF,WF Holding Limited - Ordinary Shares,NASDAQ
 WFG,West Fraser Timber Co. Ltd Common stock,NYSE
-WFRD,Weatherford International plc - Ordinary shares,NASDAQ
+WFRD,Weatherford International Corp - Common Stock,NASDAQ
 WGO,"Winnebago Industries, Inc. Common Stock",NYSE
 WGS,GeneDx Holdings Corp. - Class A Common Stock,NASDAQ
 WH,"Wyndham Hotels & Resorts, Inc. Common Stock",NYSE
@@ -5390,6 +5392,7 @@ WULF,TeraWulf Inc. - Common Stock,NASDAQ
 WVE,"Wave Life Sciences, Inc. - Common Stock",NASDAQ
 WVVI,"Willamette Valley Vineyards, Inc. - Common Stock",NASDAQ
 WW,"WW International, Inc.  - Common Stock",NASDAQ
+WWB,Windward Bio Group AG - Common shares,NASDAQ
 WWD,"Woodward, Inc. - Common Stock",NASDAQ
 WWR,"Westwater Resources, Inc. Common Stock",NYSE American
 WWW,"Wolverine World Wide, Inc. Common Stock",NYSE
@@ -5534,3 +5537,4 @@ ZVRA,"Zevra Therapeutics, Inc.  - Common Stock",NASDAQ
 ZWS,Zurn Elkay Water Solutions Corporation Common Stock,NYSE
 ZYBT,Zhengye Biotechnology Holding Limited - Class A Ordinary Shares,NASDAQ
 ZYME,Zymeworks Inc. - Common Stock,NASDAQ
+ZYN,PTL LTD - Class A Ordinary Shares,NASDAQ
