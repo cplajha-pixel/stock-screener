@@ -1,108 +1,96 @@
 {
- "generated_at": "2026-11-14T01:31:17Z",
- "count": 19,
+ "generated_at": "2026-11-17T03:52:43Z",
+ "count": 30,
  "items": {
   "AEYE": {
    "ticker": "AEYE",
-   "name": "AudioEye, Inc.",
-   "sector": "Technology",
-   "industry": "Software - Application",
-   "market_cap": 170861248,
-   "description": "AudioEye, Inc. provides patented, Internet content publication and distribution software and related services to Internet and other media to people regardless of their device, location, or disabilities in the United States. Its software and services enable conversion of digital content into accessible formats and allow for real time distribution to end users on any Internet connected device. The company's offering provides ongoing testing, automated fixes, and 24/7 monitoring that enhances conformance with web content accessibility guidelines; identifies and fixes the accessibility errors and ",
-   "price": 13.47,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "의견 없음",
-    "count": 3,
-    "target_mean": 17.33333,
-    "target_low": 12.0,
-    "target_high": 25.0,
-    "upside_pct": 28.7,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 2,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-10-26",
-   "earnings_est": {
-    "eps_avg": 0.32667,
-    "revenue_avg": 11475000
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 4.1,
-    "days_to_cover": 1.45,
-    "level": "낮음",
-    "institutions_pct": 32.8,
-    "insiders_pct": 30.4
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "D",
-    "overall_word": "주의",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 325.867,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.229,
+      "value": null,
       "unit": "x",
-      "grade": "C",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 16.0,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": -4.8,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 7.2,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -56.7,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -7.1,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "주의"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -119,13 +107,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 0.1,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 0.1 (위험)",
-    "cash": 9327000,
-    "debt": 16541000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 4/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -179,114 +164,271 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 10.776,
-    "price_to_book": 33.675,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "APA": {
-   "ticker": "APA",
-   "name": "APA Corporation",
-   "sector": "Energy",
-   "industry": "Oil & Gas E&P",
-   "market_cap": 16264019968,
-   "description": "APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally. APA Corporation was incorporated in 1954 and is headquartered in Houston, Texas.",
-   "price": 48.44,
+  "AMPL": {
+   "ticker": "AMPL",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "중립",
-    "count": 26,
-    "target_mean": 50.30769,
-    "target_low": 41.0,
-    "target_high": 62.0,
-    "upside_pct": 3.9,
-    "breakdown": {
-     "strong_buy": 2,
-     "buy": 8,
-     "hold": 15,
-     "sell": 3,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-04",
-   "earnings_est": {
-    "eps_avg": 2.06803,
-    "revenue_avg": 2578269300
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 9.1,
-    "days_to_cover": 4.53,
-    "level": "보통",
-    "institutions_pct": 112.7,
-    "insiders_pct": 0.5
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "A",
-    "overall_word": "매우 좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 42.234,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 0.845,
+      "value": null,
       "unit": "x",
-      "grade": "D",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 22.8,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 43.3,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 31.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 33.3,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 23.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 4/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 343214000.0,
+      "operating_income": -96005000.0,
+      "net_income": -88541000.0,
+      "eps": -0.67,
+      "operating_cash_flow": 29824000.0,
+      "free_cash_flow": 23478000.0,
+      "total_debt": 9568000.0,
+      "cash": 81119000.0,
+      "equity": 245346000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 299272000.0,
+      "operating_income": -107383000.0,
+      "net_income": -94319000.0,
+      "eps": -0.76,
+      "operating_cash_flow": 18506000.0,
+      "free_cash_flow": 11728000.0,
+      "total_debt": 5584000.0,
+      "cash": 171678000.0,
+      "equity": 296556000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 276284000.0,
+      "operating_income": -94378000.0,
+      "net_income": -90363000.0,
+      "eps": -0.77,
+      "operating_cash_flow": 25630000.0,
+      "free_cash_flow": 22447000.0,
+      "total_debt": 8175000.0,
+      "cash": 248491000.0,
+      "equity": 294753000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 238067000.0,
+      "operating_income": -96562000.0,
+      "net_income": -93377000.0,
+      "eps": -0.84,
+      "operating_cash_flow": -5384000.0,
+      "free_cash_flow": -11193000.0,
+      "total_debt": 11090000.0,
+      "cash": 218494000.0,
+      "equity": 294969000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "APA": {
+   "ticker": "APA",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -303,13 +445,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 1.89,
-     "zone": "회색지대"
-    },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 1.89 (회색지대)",
-    "cash": 75000000,
-    "debt": 3425999872,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -362,121 +501,109 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 7.8764224,
-    "forward_pe": 8.553514,
-    "price_to_book": 2.293126,
-    "peg": 1.1781
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 1.1972
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "AVPT": {
-   "ticker": "AVPT",
-   "name": "AvePoint, Inc.",
-   "sector": "Technology",
-   "industry": "Software - Infrastructure",
-   "market_cap": 3476769024,
-   "description": "AvePoint, Inc. provides cloud-native data management software platform in North America, Europe, the Middle East, Africa, and the Asia Pacific. It also provides platform-as-a-service architecture to address critical operational challenges and the management of data to organizations that leverage third-party cloud vendors, including Microsoft, Salesforce, Google, AWS, Box, DropBox, and others; license and support; and maintenance services. Further, it provides AvePoint confidence platform including control suite, automates data governance, enforces policies, and optimizes SaaS investments, enab",
-   "price": 16.55,
+  "ASUR": {
+   "ticker": "ASUR",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 14,
-    "target_mean": 19.24857,
-    "target_low": 15.0,
-    "target_high": 26.0,
-    "upside_pct": 16.3,
-    "breakdown": {
-     "strong_buy": 3,
-     "buy": 9,
-     "hold": 5,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-05",
-   "earnings_est": {
-    "eps_avg": 0.11224,
-    "revenue_avg": 139500780
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 6.6,
-    "days_to_cover": 3.1,
-    "level": "보통",
-    "institutions_pct": 70.4,
-    "insiders_pct": 19.2
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "B",
-    "overall_word": "좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 6.857,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.941,
+      "value": null,
       "unit": "x",
-      "grade": "B",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 15.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 9.5,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 19.5,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 16.9,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 15.7,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
-     "score": 5,
+     "score": 4,
      "points": {
-      "순이익 흑자": true,
+      "순이익 흑자": false,
       "영업현금흐름 흑자": true,
       "ROA 개선": true,
       "현금흐름 > 순이익": true,
@@ -487,174 +614,666 @@
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 7.02,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 7.02 (안전)",
-    "cash": 418318016,
-    "debt": 29921000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 4/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
-      "revenue": 419497000.0,
-      "operating_income": 33035000.0,
-      "net_income": 34799000.0,
-      "eps": 0.15,
-      "operating_cash_flow": 85257000.0,
-      "free_cash_flow": 79950000.0,
-      "total_debt": 9949000.0,
-      "cash": 481060000.0,
-      "equity": 478699000.0
+      "revenue": 140541000.0,
+      "operating_income": -8408000.0,
+      "net_income": -13126000.0,
+      "eps": -0.48,
+      "operating_cash_flow": 22218000.0,
+      "free_cash_flow": -7968000.0,
+      "total_debt": 74803000.0,
+      "cash": 25244000.0,
+      "equity": 197796000.0
      },
      {
       "year": "2024",
-      "revenue": 330482000.0,
-      "operating_income": 7166000.0,
-      "net_income": -29090000.0,
-      "eps": -0.16,
-      "operating_cash_flow": 88894000.0,
-      "free_cash_flow": 84639000.0,
-      "total_debt": 9909000.0,
-      "cash": 290735000.0,
-      "equity": 269154000.0
+      "revenue": 119792000.0,
+      "operating_income": -10737000.0,
+      "net_income": -11773000.0,
+      "eps": -0.45,
+      "operating_cash_flow": 9388000.0,
+      "free_cash_flow": -6847000.0,
+      "total_debt": 17733000.0,
+      "cash": 21425000.0,
+      "equity": 197315000.0
      },
      {
       "year": "2023",
-      "revenue": 271825000.0,
-      "operating_income": -15351000.0,
-      "net_income": -21725000.0,
-      "eps": -0.12,
-      "operating_cash_flow": 34694000.0,
-      "free_cash_flow": 31173000.0,
-      "total_debt": 14720000.0,
-      "cash": 223162000.0,
-      "equity": 210599000.0
+      "revenue": 119082000.0,
+      "operating_income": -2999000.0,
+      "net_income": -9214000.0,
+      "eps": -0.42,
+      "operating_cash_flow": 18900000.0,
+      "free_cash_flow": 2637000.0,
+      "total_debt": 10437000.0,
+      "cash": 30317000.0,
+      "equity": 191655000.0
      },
      {
       "year": "2022",
-      "revenue": 232339000.0,
-      "operating_income": -41066000.0,
-      "net_income": -41630000.0,
-      "eps": -0.23,
-      "operating_cash_flow": -774000.0,
-      "free_cash_flow": -6239000.0,
-      "total_debt": 16740000.0,
-      "cash": 227188000.0,
-      "equity": 229147000.0
+      "revenue": 95828000.0,
+      "operating_income": -11307000.0,
+      "net_income": -14466000.0,
+      "eps": -0.72,
+      "operating_cash_flow": 13674000.0,
+      "free_cash_flow": 4839000.0,
+      "total_debt": 43220000.0,
+      "cash": 17010000.0,
+      "equity": 145066000.0
      }
     ]
    },
    "valuation": {
-    "trailing_pe": 48.676468,
-    "forward_pe": 32.115967,
-    "price_to_book": 7.9643884,
-    "peg": null
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 0.554
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "BRKR": {
-   "ticker": "BRKR",
-   "name": "Bruker Corporation",
-   "sector": "Healthcare",
-   "industry": "Medical Devices",
-   "market_cap": 9406172160,
-   "description": "Bruker Corporation, together with its subsidiaries, develops, manufactures, and distributes scientific instruments, and analytical and diagnostic solutions. It operates through four segments: Bruker Scientific Instruments (BSI) BioSpin, BSI CALID, BSI Nano, and Bruker Energy & Supercon Technologies. The company offers magnetic resonance spectroscop, preclinical imaging, biopharma and applied, services and lifecycle support, integrated data solution, and automation; life science tools; innovative nuclear magnetic resonance (NMR) and electron paramagnetic resonance (EPR) products; solutions for ",
-   "price": 61.59,
+  "BLMN": {
+   "ticker": "BLMN",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 12,
-    "target_mean": 68.0,
-    "target_low": 55.0,
-    "target_high": 85.0,
-    "upside_pct": 10.4,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 5,
-     "hold": 6,
-     "sell": 1,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-04",
-   "earnings_est": {
-    "eps_avg": 0.78218,
-    "revenue_avg": 1002578070
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 14.2,
-    "days_to_cover": 5.12,
-    "level": "보통",
-    "institutions_pct": 94.0,
-    "insiders_pct": 26.9
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "C",
-    "overall_word": "보통",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 74.144,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.84,
+      "value": null,
       "unit": "x",
-      "grade": "B",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 5.8,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 9.2,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 1.6,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -4.8,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -3.5,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "주의"
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 7,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 3955996000.0,
+      "operating_income": 110488000.0,
+      "net_income": 8237000.0,
+      "eps": 0.1,
+      "operating_cash_flow": 276694000.0,
+      "free_cash_flow": 96770000.0,
+      "total_debt": 2010073000.0,
+      "cash": 59461000.0,
+      "equity": 333602000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 3950475000.0,
+      "operating_income": 204099000.0,
+      "net_income": -128018000.0,
+      "eps": -1.49,
+      "operating_cash_flow": 228132000.0,
+      "free_cash_flow": 7395000.0,
+      "total_debt": 2274722000.0,
+      "cash": 70056000.0,
+      "equity": 135510000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 4168160000.0,
+      "operating_income": 316343000.0,
+      "net_income": 247386000.0,
+      "eps": 2.56,
+      "operating_cash_flow": 532421000.0,
+      "free_cash_flow": 250192000.0,
+      "total_debt": 2031796000.0,
+      "cash": 111519000.0,
+      "equity": 409122000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 4009250000.0,
+      "operating_income": 312046000.0,
+      "net_income": 101907000.0,
+      "eps": 1.03,
+      "operating_cash_flow": 390922000.0,
+      "free_cash_flow": 198131000.0,
+      "total_debt": 2160624000.0,
+      "cash": 84735000.0,
+      "equity": 271369000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "CBLL": {
+   "ticker": "CBLL",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 3,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 3/9 (취약)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 89063000.0,
+      "operating_income": -58402000.0,
+      "net_income": -53412000.0,
+      "eps": -1.46,
+      "operating_cash_flow": -40808000.0,
+      "free_cash_flow": -41575000.0,
+      "total_debt": 22276000.0,
+      "cash": 40476000.0,
+      "equity": 155336000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 65444000.0,
+      "operating_income": -39709000.0,
+      "net_income": -40455000.0,
+      "eps": -3.39,
+      "operating_cash_flow": -35043000.0,
+      "free_cash_flow": -36383000.0,
+      "total_debt": 21960000.0,
+      "cash": 194370000.0,
+      "equity": 191165000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 45225000.0,
+      "operating_income": -30041000.0,
+      "net_income": -29464000.0,
+      "eps": -1.263235,
+      "operating_cash_flow": -29159000.0,
+      "free_cash_flow": -30142000.0,
+      "total_debt": 14204000.0,
+      "cash": 34495000.0,
+      "equity": -112252000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 25922000.0,
+      "operating_income": -36021000.0,
+      "net_income": -37164000.0,
+      "eps": -1.593364,
+      "operating_cash_flow": -32002000.0,
+      "free_cash_flow": -32518000.0,
+      "total_debt": 18220000.0,
+      "cash": 68235000.0,
+      "equity": -86398000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "CBRL": {
+   "ticker": "CBRL",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2026",
+      "revenue": 3318714000.0,
+      "operating_income": -1618000.0,
+      "net_income": 31675000.0,
+      "eps": 1.4,
+      "operating_cash_flow": 206204000.0,
+      "free_cash_flow": 88422000.0,
+      "total_debt": 1036057000.0,
+      "cash": 36535000.0,
+      "equity": 478206000.0
+     },
+     {
+      "year": "2025",
+      "revenue": 3483684000.0,
+      "operating_income": 75088000.0,
+      "net_income": 46379000.0,
+      "eps": 2.06,
+      "operating_cash_flow": 218899000.0,
+      "free_cash_flow": 59755000.0,
+      "total_debt": 1179609000.0,
+      "cash": 39643000.0,
+      "equity": 461689000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 3470762000.0,
+      "operating_income": 72751000.0,
+      "net_income": 40930000.0,
+      "eps": 1.83,
+      "operating_cash_flow": 168980000.0,
+      "free_cash_flow": 40685000.0,
+      "total_debt": 1202486000.0,
+      "cash": 12035000.0,
+      "equity": 440149000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 3442808000.0,
+      "operating_income": 134616000.0,
+      "net_income": 99050000.0,
+      "eps": 4.45,
+      "operating_cash_flow": 250457000.0,
+      "free_cash_flow": 123470000.0,
+      "total_debt": 1163728000.0,
+      "cash": 25147000.0,
+      "equity": 483825000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "CDNA": {
+   "ticker": "CDNA",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -664,362 +1283,166 @@
       "영업현금흐름 흑자": true,
       "ROA 개선": false,
       "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
       "신주 발행 없음": true,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": false
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 2.82,
-     "zone": "회색지대"
-    },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 2.82 (회색지대)",
-    "cash": 119700000,
-    "debt": 1737200000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
-      "revenue": 3436500000.0,
-      "operating_income": 236000000.0,
-      "net_income": -8600000.0,
-      "eps": -0.15,
-      "operating_cash_flow": 134100000.0,
-      "free_cash_flow": 13900000.0,
-      "total_debt": 2042900000.0,
-      "cash": 298800000.0,
-      "equity": null
+      "revenue": 379805000.0,
+      "operating_income": -25071000.0,
+      "net_income": -21354000.0,
+      "eps": -0.4,
+      "operating_cash_flow": 42032000.0,
+      "free_cash_flow": 35444000.0,
+      "total_debt": 26194000.0,
+      "cash": 65429000.0,
+      "equity": 303101000.0
      },
      {
       "year": "2024",
-      "revenue": 3366400000.0,
-      "operating_income": 379200000.0,
-      "net_income": 113100000.0,
-      "eps": 0.76,
-      "operating_cash_flow": 251300000.0,
-      "free_cash_flow": 136000000.0,
-      "total_debt": 2245300000.0,
-      "cash": 183400000.0,
-      "equity": null
+      "revenue": 333785000.0,
+      "operating_income": -55535000.0,
+      "net_income": 52549000.0,
+      "eps": 0.93,
+      "operating_cash_flow": 38048000.0,
+      "free_cash_flow": 31564000.0,
+      "total_debt": 28366000.0,
+      "cash": 114689000.0,
+      "equity": 378433000.0
      },
      {
       "year": "2023",
-      "revenue": 2964500000.0,
-      "operating_income": 489100000.0,
-      "net_income": 427200000.0,
-      "eps": 2.9,
-      "operating_cash_flow": 350100000.0,
-      "free_cash_flow": 243200000.0,
-      "total_debt": 1379600000.0,
-      "cash": 488300000.0,
-      "equity": null
+      "revenue": 280324000.0,
+      "operating_income": -107063000.0,
+      "net_income": -190284000.0,
+      "eps": -3.54,
+      "operating_cash_flow": -18388000.0,
+      "free_cash_flow": -27628000.0,
+      "total_debt": 34221000.0,
+      "cash": 82197000.0,
+      "equity": 261328000.0
      },
      {
       "year": "2022",
-      "revenue": 2530700000.0,
-      "operating_income": 462400000.0,
-      "net_income": 296600000.0,
-      "eps": 1.99,
-      "operating_cash_flow": 274400000.0,
-      "free_cash_flow": 145200000.0,
-      "total_debt": 1270400000.0,
-      "cash": 645500000.0,
-      "equity": null
+      "revenue": 321793000.0,
+      "operating_income": -77231000.0,
+      "net_income": -76613000.0,
+      "eps": -1.44,
+      "operating_cash_flow": -25239000.0,
+      "free_cash_flow": -49573000.0,
+      "total_debt": 38997000.0,
+      "cash": 89921000.0,
+      "equity": 430911000.0
      }
     ]
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 25.128622,
-    "price_to_book": 4.1153283,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
-  },
-  "CBNK": {
-   "ticker": "CBNK",
-   "name": "Capital Bancorp, Inc.",
-   "sector": "Financial Services",
-   "industry": "Banks - Regional",
-   "market_cap": 688543744,
-   "description": "Capital Bancorp, Inc. operates as the bank holding company for Capital Bank, N.A., provides various banking products and services to businesses, not-for-profit associations, and entrepreneurs in the United States. It operates through four divisions: Commercial Banking, Capital Bank Home Loans, OpenSky, Windsor Advantage. The company offers a range of deposit products, including checking and savings, time, interest bearing and noninterest-bearing demand, and money market accounts, as well as certificates of deposit; and secured, partially secured, and unsecured credit cards. It also originates ",
-   "price": 42.12,
-   "analyst": {
-    "recommendation": "중립",
-    "count": 3,
-    "target_mean": 44.08333,
-    "target_low": 42.0,
-    "target_high": 46.5,
-    "upside_pct": 4.7,
-    "breakdown": {
-     "strong_buy": 0,
-     "buy": 0,
-     "hold": 5,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2027-01-25",
-   "earnings_est": {
-    "eps_avg": 0.9525,
-    "revenue_avg": 70633330
-   },
-   "short": {
-    "pct_of_float": 4.9,
-    "days_to_cover": 2.51,
-    "level": "낮음",
-    "institutions_pct": 48.8,
-    "insiders_pct": 32.6
-   },
-   "health": {
-    "overall": "B",
-    "overall_word": "좋음",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "정보 없음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": null,
-      "unit": "x",
-      "grade": null,
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "정보 없음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": null,
-      "unit": "%",
-      "grade": null,
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "정보 없음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": 30.1,
-      "unit": "%",
-      "grade": "A",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 8.7,
-      "unit": "%",
-      "grade": "C",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "보통"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": 13.2,
-      "unit": "%",
-      "grade": "C",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 22.4,
-      "unit": "%",
-      "grade": "A",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
-     }
-    ],
-    "piotroski": {
-     "score": 5,
-     "points": {
-      "순이익 흑자": true,
-      "영업현금흐름 흑자": true,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": false,
-      "유동비율 개선": false,
-      "신주 발행 없음": false,
-      "매출총이익률 개선": false,
-      "자산회전율 개선": true
-     }
-    },
-    "altman": null,
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 피오트로스키 F점수 5/9 (보통)",
-    "cash": 269478016,
-    "debt": 9764000,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 241191000.0,
-      "operating_income": null,
-      "net_income": 57170000.0,
-      "eps": 3.41,
-      "operating_cash_flow": 69721000.0,
-      "free_cash_flow": 67347000.0,
-      "total_debt": 52062000.0,
-      "cash": 255505000.0,
-      "equity": 401757000.0
-     },
-     {
-      "year": "2024",
-      "revenue": 183725000.0,
-      "operating_income": null,
-      "net_income": 30972000.0,
-      "eps": 2.11,
-      "operating_cash_flow": 34926000.0,
-      "free_cash_flow": 32769000.0,
-      "total_debt": 34062000.0,
-      "cash": 205274000.0,
-      "equity": 355139000.0
-     },
-     {
-      "year": "2023",
-      "revenue": 164868000.0,
-      "operating_income": null,
-      "net_income": 35871000.0,
-      "eps": 2.55,
-      "operating_cash_flow": 47418000.0,
-      "free_cash_flow": 45262000.0,
-      "total_debt": 49062000.0,
-      "cash": 53557000.0,
-      "equity": 254860000.0
-     },
-     {
-      "year": "2022",
-      "revenue": 168277000.0,
-      "operating_income": null,
-      "net_income": 41804000.0,
-      "eps": 2.91,
-      "operating_cash_flow": 51390000.0,
-      "free_cash_flow": 49840000.0,
-      "total_debt": 119062000.0,
-      "cash": 59727000.0,
-      "equity": 224015000.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": 12.725076,
-    "forward_pe": 11.004572,
-    "price_to_book": 1.5940657,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
   "CF": {
    "ticker": "CF",
-   "name": "CF Industries Holdings, Inc.",
-   "sector": "Basic Materials",
-   "industry": "Agricultural Inputs",
-   "market_cap": 18298779648,
-   "description": "CF Industries Holdings, Inc., together with its subsidiaries, engages in the production of ammonia in North America, Europe, and internationally. It operates through Ammonia, Granular Urea, UAN, AN, and Other segments. The company offers ammonia products; nitrogen products, such as granular urea, urea ammonium nitrate solution, and ammonium nitrate; diesel exhaust fluid, urea liquor, and nitric acid products. It serves cooperatives, retailers, independent fertilizer distributors, traders, wholesalers, and industrial users. The company was founded in 1946 and is headquartered in Northbrook, Ill",
-   "price": 125.09,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "중립",
-    "count": 20,
-    "target_mean": 129.836,
-    "target_low": 105.0,
-    "target_high": 195.72,
-    "upside_pct": 3.8,
-    "breakdown": {
-     "strong_buy": 2,
-     "buy": 3,
-     "hold": 14,
-     "sell": 2,
-     "strong_sell": 1
-    }
-   },
-   "next_earnings": "2026-11-05",
-   "earnings_est": {
-    "eps_avg": 3.50418,
-    "revenue_avg": 1963402990
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 7.2,
-    "days_to_cover": 4.01,
-    "level": "보통",
-    "institutions_pct": 110.8,
-    "insiders_pct": 0.5
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "A",
-    "overall_word": "매우 좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 41.083,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 2.984,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 20.0,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 38.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 12.1,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 30.9,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 27.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -1036,13 +1459,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 3.36,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 3.36 (안전)",
-    "cash": 2820000000,
-    "debt": 3656000000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 8/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -1095,115 +1515,259 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 8.821579,
-    "forward_pe": 10.691152,
-    "price_to_book": 3.245466,
-    "peg": 0.5302
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 0.5105
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "CMRC": {
-   "ticker": "CMRC",
-   "name": "Commerce.com, Inc. - Series 1",
-   "sector": "Technology",
-   "industry": "Software - Application",
-   "market_cap": 295901984,
-   "description": "Commerce.com, Inc. provides artificial intelligence-driven commerce ecosystem in the United States, Europe, the Middle East, Africa, the Asia Pacific, and internationally. The company's software-as-a-service platform enables merchants to orchestrate sophisticated digital commerce experiences across both owned and third-party channels, supporting various business-to-business (B2B), business-to-consumer (B2C), and small business (SB) use cases. It also offers BigCommerce, a flexible and open commerce engine; Feedonomics, an AI-powered product data optimization and syndication platform; and Makes",
-   "price": 3.55,
+  "CFFI": {
+   "ticker": "CFFI",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "중립",
-    "count": 4,
-    "target_mean": 4.5,
-    "target_low": 2.0,
-    "target_high": 7.5,
-    "upside_pct": 26.8,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 0,
-     "hold": 4,
-     "sell": 0,
-     "strong_sell": 1
-    }
-   },
-   "next_earnings": "2026-11-05",
-   "earnings_est": {
-    "eps_avg": 0.0899,
-    "revenue_avg": 85088560
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 8.6,
-    "days_to_cover": 10.44,
-    "level": "보통",
-    "institutions_pct": 80.0,
-    "insiders_pct": 9.2
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "D",
-    "overall_word": "주의",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 313.51,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 2.018,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 8.1,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 3.6,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": -2.1,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -14.2,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -2.0,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "주의"
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": null,
+    "altman": null,
+    "summary": "",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": 26835000.0,
+      "eps": 8.29,
+      "operating_cash_flow": 24490000.0,
+      "free_cash_flow": 22161000.0,
+      "total_debt": 113335000.0,
+      "cash": 79132000.0,
+      "equity": 261753000.0
+     },
+     {
+      "year": "2024",
+      "revenue": null,
+      "operating_income": null,
+      "net_income": 19834000.0,
+      "eps": 6.01,
+      "operating_cash_flow": 36766000.0,
+      "free_cash_flow": 33280000.0,
+      "total_debt": 122609000.0,
+      "cash": 65586000.0,
+      "equity": 226360000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 123328000.0,
+      "operating_income": null,
+      "net_income": 23604000.0,
+      "eps": 6.92,
+      "operating_cash_flow": 38811000.0,
+      "free_cash_flow": 37352000.0,
+      "total_debt": 109539000.0,
+      "cash": 75159000.0,
+      "equity": 216878000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 115560000.0,
+      "operating_income": null,
+      "net_income": 29159000.0,
+      "eps": 8.29,
+      "operating_cash_flow": 90559000.0,
+      "free_cash_flow": 87165000.0,
+      "total_debt": 92084000.0,
+      "cash": 26661000.0,
+      "equity": 195634000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "CMRC": {
+   "ticker": "CMRC",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -1220,13 +1784,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": -0.8,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 6/9 (보통) · 알트만 Z -0.8 (위험)",
-    "cash": 161638000,
-    "debt": 164047008,
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -1280,114 +1841,102 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 5.2468224,
-    "price_to_book": 5.652866,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
   "CNNE": {
    "ticker": "CNNE",
-   "name": "Cannae Holdings, Inc.",
-   "sector": "Consumer Cyclical",
-   "industry": "Restaurants",
-   "market_cap": 749940416,
-   "description": "Cannae Holdings, Inc. is a principal investment firm. The firm primarily invests in restaurants, technology enabled healthcare services, financial services and more. It takes both minority and majority stakes. Cannae Holdings, Inc. was founded in 2014 and is based in Las Vegas, Nevada.",
-   "price": 17.29,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "적극 매수",
-    "count": 2,
-    "target_mean": 17.25,
-    "target_low": 17.0,
-    "target_high": 17.5,
-    "upside_pct": -0.2,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 1,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-09",
-   "earnings_est": {
-    "eps_avg": -0.19,
-    "revenue_avg": 67800000
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 9.7,
-    "days_to_cover": 7.14,
-    "level": "보통",
-    "institutions_pct": 99.3,
-    "insiders_pct": 17.6
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "D",
-    "overall_word": "주의",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 17.023,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.928,
+      "value": null,
       "unit": "x",
-      "grade": "B",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": -18.3,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": -14.9,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": -16.2,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -10.6,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -26.4,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "위험"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -1404,13 +1953,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 1.39,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 D (주의) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 1.39 (위험)",
-    "cash": 111700000,
-    "debt": 150300000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -1464,482 +2010,271 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -9.052357,
-    "price_to_book": 0.78805834,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "CTKB": {
-   "ticker": "CTKB",
-   "name": "Cytek Biosciences, Inc.",
-   "sector": "Healthcare",
-   "industry": "Medical Devices",
-   "market_cap": 763778368,
-   "description": "Cytek Biosciences, Inc., a cell analysis solutions company, provides cell analysis tools that facilitate scientific advances in biomedical research and clinical applications. The company offers Cytek aurora, northern lights systems, and Cytek aurora evo systems delivers cell analysis; Cytek Aurora CS System, a cellular complexity to perform additional downstream genomic and proteomic studies using phenotyping approaches; enhanced small particle detection; Cytek amnis imagestream imaging flow cytometers; Cytek guava muse cell analyzers; Cytek muse micro cell analyzers; Cytek guava easyCyte flow",
-   "price": 5.84,
+  "EMBC": {
+   "ticker": "EMBC",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 3,
-    "target_mean": 6.5,
-    "target_low": 5.0,
-    "target_high": 7.5,
-    "upside_pct": 11.3,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 1,
-     "hold": 1,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-04",
-   "earnings_est": {
-    "eps_avg": null,
-    "revenue_avg": 63381470
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 4.0,
-    "days_to_cover": 2.9,
-    "level": "낮음",
-    "institutions_pct": 61.7,
-    "insiders_pct": 8.4
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "C",
-    "overall_word": "보통",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 7.682,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 4.46,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 4.1,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": -22.5,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 1.8,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -23.2,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -39.1,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "위험"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
-     "score": 4,
+     "score": 7,
      "points": {
-      "순이익 흑자": false,
-      "영업현금흐름 흑자": false,
-      "ROA 개선": false,
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
       "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
       "신주 발행 없음": true,
       "매출총이익률 개선": false,
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 4.56,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 C (보통) · 현금이 부채보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 4.56 (안전)",
-    "cash": 255899008,
-    "debt": 24687000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
-      "revenue": 201493000.0,
-      "operating_income": -40384000.0,
-      "net_income": -66539000.0,
-      "eps": -0.52,
-      "operating_cash_flow": -4686000.0,
-      "free_cash_flow": -8876000.0,
-      "total_debt": 23743000.0,
-      "cash": 90853000.0,
-      "equity": 341739000.0
+      "revenue": 1080400000.0,
+      "operating_income": 296400000.0,
+      "net_income": 95400000.0,
+      "eps": 1.62,
+      "operating_cash_flow": 191700000.0,
+      "free_cash_flow": 182400000.0,
+      "total_debt": 1430300000.0,
+      "cash": 225500000.0,
+      "equity": -651200000.0
      },
      {
       "year": "2024",
-      "revenue": 200453000.0,
-      "operating_income": -20523000.0,
-      "net_income": -6020000.0,
-      "eps": -0.05,
-      "operating_cash_flow": 25379000.0,
-      "free_cash_flow": 21650000.0,
-      "total_debt": 17016000.0,
-      "cash": 98716000.0,
-      "equity": 395737000.0
+      "revenue": 1123100000.0,
+      "operating_income": 285000000.0,
+      "net_income": 78300000.0,
+      "eps": 1.34,
+      "operating_cash_flow": 35700000.0,
+      "free_cash_flow": 19900000.0,
+      "total_debt": 1608400000.0,
+      "cash": 267500000.0,
+      "equity": -738900000.0
      },
      {
       "year": "2023",
-      "revenue": 193015000.0,
-      "operating_income": -27845000.0,
-      "net_income": -12148000.0,
-      "eps": -0.08667,
-      "operating_cash_flow": 5281000.0,
-      "free_cash_flow": 454000.0,
-      "total_debt": 14136000.0,
-      "cash": 167299000.0,
-      "equity": 393064000.0
+      "revenue": 1120800000.0,
+      "operating_income": 224000000.0,
+      "net_income": 70400000.0,
+      "eps": 1.22,
+      "operating_cash_flow": 67700000.0,
+      "free_cash_flow": 41200000.0,
+      "total_debt": 1638500000.0,
+      "cash": 326300000.0,
+      "equity": -821700000.0
      },
      {
       "year": "2022",
-      "revenue": 164036000.0,
-      "operating_income": -1804000.0,
-      "net_income": 2576000.0,
-      "eps": 0.02,
-      "operating_cash_flow": -12231000.0,
-      "free_cash_flow": -22099000.0,
-      "total_debt": 18094000.0,
-      "cash": 296601000.0,
-      "equity": 425295000.0
+      "revenue": 1129500000.0,
+      "operating_income": 368500000.0,
+      "net_income": 223600000.0,
+      "eps": 3.89,
+      "operating_cash_flow": 412200000.0,
+      "free_cash_flow": 388200000.0,
+      "total_debt": 1643800000.0,
+      "cash": 330900000.0,
+      "equity": -891400000.0
      }
     ]
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": 83.42857,
-    "price_to_book": 2.3768823,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
-  },
-  "ECO": {
-   "ticker": "ECO",
-   "name": "Okeanis Eco Tankers Corp.",
-   "sector": "Industrials",
-   "industry": "Marine Shipping",
-   "market_cap": 3467946240,
-   "description": "Okeanis Eco Tankers Corp., a shipping company, owns and operates tanker vessels worldwide. It operates a fleet of 16 tanker vessels comprising eight modern Suezmax tankers and eight modern VLCC tankers focusing on the transportation of crude oil. The company was incorporated in 2018 and is based in Neo Faliro, Greece.",
-   "price": 88.82,
-   "analyst": {
-    "recommendation": "적극 매수",
-    "count": 1,
-    "target_mean": 120.0,
-    "target_low": 120.0,
-    "target_high": 120.0,
-    "upside_pct": 35.1,
-    "breakdown": {
-     "strong_buy": 0,
-     "buy": 1,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-11",
-   "earnings_est": {
-    "eps_avg": 12.26,
-    "revenue_avg": 544414780
-   },
-   "short": {
-    "pct_of_float": 6.3,
-    "days_to_cover": 1.54,
-    "level": "보통",
-    "institutions_pct": 30.6,
-    "insiders_pct": 46.2
-   },
-   "health": {
-    "overall": "B",
-    "overall_word": "좋음",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 82.334,
-      "unit": "%",
-      "grade": "B",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 4.434,
-      "unit": "x",
-      "grade": "A",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": -17.5,
-      "unit": "%",
-      "grade": "D",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "주의"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": 62.3,
-      "unit": "%",
-      "grade": "A",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 239.4,
-      "unit": "%",
-      "grade": "A",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": 61.6,
-      "unit": "%",
-      "grade": "A",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 56.9,
-      "unit": "%",
-      "grade": "A",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
-     }
-    ],
-    "piotroski": {
-     "score": 6,
-     "points": {
-      "순이익 흑자": true,
-      "영업현금흐름 흑자": true,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": false,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
-      "신주 발행 없음": true,
-      "매출총이익률 개선": true,
-      "자산회전율 개선": false
-     }
-    },
-    "altman": {
-     "z": 4.7,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 태우는 중(적자 현금흐름) · 피오트로스키 F점수 6/9 (보통) · 알트만 Z 4.7 (안전)",
-    "cash": 222591472,
-    "debt": 722493760,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 391548819.0,
-      "operating_income": 162530692.0,
-      "net_income": 122951543.0,
-      "eps": 3.77,
-      "operating_cash_flow": 111301518.0,
-      "free_cash_flow": 71107867.0,
-      "total_debt": 605099897.0,
-      "cash": 116636741.0,
-      "equity": 573091238.0
-     },
-     {
-      "year": "2024",
-      "revenue": 393229831.0,
-      "operating_income": 162944973.0,
-      "net_income": 108863270.0,
-      "eps": 3.38,
-      "operating_cash_flow": 162818391.0,
-      "free_cash_flow": 162818391.0,
-      "total_debt": 645647047.0,
-      "cash": 49343664.0,
-      "equity": 410426916.0
-     },
-     {
-      "year": "2023",
-      "revenue": 413096606.0,
-      "operating_income": 201122922.0,
-      "net_income": 145251024.0,
-      "eps": 4.51,
-      "operating_cash_flow": 174032110.0,
-      "free_cash_flow": 174032110.0,
-      "total_debt": 693282686.0,
-      "cash": 49992391.0,
-      "equity": 408132148.0
-     },
-     {
-      "year": "2022",
-      "revenue": 270972421.0,
-      "operating_income": 110122673.0,
-      "net_income": 84559995.0,
-      "eps": 2.63,
-      "operating_cash_flow": 82519926.0,
-      "free_cash_flow": -96081397.0,
-      "total_debt": 739035681.0,
-      "cash": 81345877.0,
-      "equity": 422243261.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": 5.0039434,
-    "forward_pe": 7.0829344,
-    "price_to_book": 5.4915295,
-    "peg": null
-   },
-   "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
   "EOG": {
    "ticker": "EOG",
-   "name": "EOG Resources, Inc.",
-   "sector": "Energy",
-   "industry": "Oil & Gas E&P",
-   "market_cap": 82086428672,
-   "description": "EOG Resources, Inc., together with its subsidiaries, explores for, develops, produces, and markets crude oil, natural gas liquids, and natural gas in producing basins in the United States, the Republic of Trinidad and Tobago, and internationally. The company also offers crude oil and condensate, and gathering, processing and marketing. The company was formerly known as Enron Oil & Gas Company. EOG Resources, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.",
-   "price": 158.32,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 29,
-    "target_mean": 168.0,
-    "target_low": 141.0,
-    "target_high": 213.0,
-    "upside_pct": 6.1,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 10,
-     "hold": 22,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-05",
-   "earnings_est": {
-    "eps_avg": 5.71028,
-    "revenue_avg": 8255205930
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 3.6,
-    "days_to_cover": 6.2,
-    "level": "낮음",
-    "institutions_pct": 98.3,
-    "insiders_pct": 0.3
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "A",
-    "overall_word": "매우 좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 24.96,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.899,
+      "value": null,
       "unit": "x",
-      "grade": "B",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 19.1,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 35.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 42.7,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 25.8,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 28.1,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -1956,13 +2291,10 @@
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 3.97,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 4/9 (보통) · 알트만 Z 3.97 (안전)",
-    "cash": 5746999808,
-    "debt": 8262000128,
+    "altman": null,
+    "summary": "피오트로스키 F점수 4/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -2015,241 +2347,58 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 10.220788,
-    "forward_pe": 9.421219,
-    "price_to_book": 2.4868057,
-    "peg": 1.1768
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 1.1961
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "GMAB": {
-   "ticker": "GMAB",
-   "name": "Genmab A/S",
-   "sector": "Healthcare",
-   "industry": "Biotechnology",
-   "market_cap": 31674415104,
-   "description": "Genmab A/S, a biotechnology company, develops antibody-based products and product candidates for the treatment of cancer and other diseases in Denmark. The company markets EPKINLY and TEPKINLY for adult patients with relapsed or refractory (R/R) diffuse large b-cell lymphoma (DLBCL), large B-cell lymphoma, and follicular lymphoma (FL); and Tivdak for adult patients with recurrent/metastatic cervical cancer with disease progression on or after chemotherapy. It is also developing Epcoritamab for R/R DLBCL and FL, first line DLBCL and FL, B-cell non-Hodgkin lymphoma, R/R chronic lymphocytic leuke",
-   "price": 51.37,
+  "EVTC": {
+   "ticker": "EVTC",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "적극 매수",
-    "count": 11,
-    "target_mean": 65.1,
-    "target_low": 48.0,
-    "target_high": 80.0,
-    "upside_pct": 26.7,
-    "breakdown": {
-     "strong_buy": 1,
-     "buy": 9,
-     "hold": 2,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-05",
-   "earnings_est": {
-    "eps_avg": null,
-    "revenue_avg": 8382363670
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 1.6,
-    "days_to_cover": 1.49,
-    "level": "낮음",
-    "institutions_pct": 20.5,
-    "insiders_pct": 0
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "B",
-    "overall_word": "좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 82.078,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 2.454,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": 19.9,
-      "unit": "%",
-      "grade": "A",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": 30.6,
-      "unit": "%",
-      "grade": "A",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 16.1,
-      "unit": "%",
-      "grade": "B",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": 12.1,
-      "unit": "%",
-      "grade": "C",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 17.0,
-      "unit": "%",
-      "grade": "A",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
-     }
-    ],
-    "piotroski": null,
-    "altman": {
-     "z": 3.9,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 알트만 Z 3.9 (안전)",
-    "cash": 1871000064,
-    "debt": 5198000128,
-    "years": [
-     {
-      "year": "2025",
-      "revenue": 3720000000.0,
-      "operating_income": 1250000000.0,
-      "net_income": null,
-      "eps": 1.537,
-      "operating_cash_flow": 1186000000.0,
-      "free_cash_flow": 1131000000.0,
-      "total_debt": 5426000000.0,
-      "cash": 1715000000.0,
-      "equity": 5847000000.0
-     },
-     {
-      "year": "2024",
-      "revenue": 3121000000.0,
-      "operating_income": 1015000000.0,
-      "net_income": 1133000000.0,
-      "eps": 1.693175,
-      "operating_cash_flow": 1126000000.0,
-      "free_cash_flow": 1082000000.0,
-      "total_debt": 144000000.0,
-      "cash": 1380000000.0,
-      "equity": 5137000000.0
-     },
-     {
-      "year": "2023",
-      "revenue": 2390000000.0,
-      "operating_income": 772000000.0,
-      "net_income": 631000000.0,
-      "eps": 0.958,
-      "operating_cash_flow": 1071000000.0,
-      "free_cash_flow": 1017000000.0,
-      "total_debt": 114000000.0,
-      "cash": 2204000000.0,
-      "equity": 4687000000.0
-     },
-     {
-      "year": "2022",
-      "revenue": 2087681169.849883,
-      "operating_income": 901999165.215389,
-      "net_income": 784697534.506829,
-      "eps": 1.203961,
-      "operating_cash_flow": 563047827.401085,
-      "free_cash_flow": 517422530.548799,
-      "total_debt": 85925243.598785,
-      "cash": 1423883475.58255,
-      "equity": 3926654096.921372
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": 43.905983,
-    "forward_pe": 32.512657,
-    "price_to_book": 5.1341763,
-    "peg": 4.6176
-   },
-   "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
-  },
-  "JOYY": {
-   "ticker": "JOYY",
-   "name": "JOYY Inc.",
-   "sector": "Communication Services",
-   "industry": "Internet Content & Information",
-   "market_cap": 3949713152,
-   "description": "JOYY Inc., together with its subsidiaries, engages in the provision of social product matrix and communication technology. It operates through two segments, BIGO and All Other. The company operates Bigo Live, a social live streaming platform that provides an interactive online stage for users to host and watch live streaming sessions, share their life moments, showcase their talents, and interact with people; imo, an instant messenger platform that provides audio and video communication services; and Likee, a short video social platform, which enables users to discover, create, and share short",
-   "price": 80.65,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": 14,
-    "target_mean": 93.57143,
-    "target_low": 74.0,
-    "target_high": 125.0,
-    "upside_pct": 16.0,
-    "breakdown": {
-     "strong_buy": 3,
-     "buy": 10,
-     "hold": 1,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-18",
-   "earnings_est": {
-    "eps_avg": 1.33154,
-    "revenue_avg": 613422470
-   },
-   "short": {
-    "pct_of_float": 6.6,
-    "days_to_cover": 4.06,
-    "level": "보통",
-    "institutions_pct": 65.4,
-    "insiders_pct": 3.3
-   },
-   "health": {
-    "overall": "B",
-    "overall_word": "좋음",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 1.075,
-      "unit": "%",
-      "grade": "A",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 2.005,
-      "unit": "x",
-      "grade": "A",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
@@ -2263,222 +2412,545 @@
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 3.0,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 16.3,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -25.5,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 9.6,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
-     "score": 5,
+     "score": 7,
      "points": {
       "순이익 흑자": true,
       "영업현금흐름 흑자": true,
       "ROA 개선": true,
-      "현금흐름 > 순이익": false,
-      "장기부채 감소": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
       "유동비율 개선": true,
       "신주 발행 없음": true,
       "매출총이익률 개선": false,
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 3.79,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 현금이 부채보다 많음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 3.79 (안전)",
-    "cash": 1380996992,
-    "debt": 69658000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
-      "revenue": 2124248000.0,
-      "operating_income": 55820000.0,
-      "net_income": 2098435000.0,
-      "eps": 39.37,
-      "operating_cash_flow": 302325000.0,
-      "free_cash_flow": 158930000.0,
-      "total_debt": 31640000.0,
-      "cash": 374248000.0,
-      "equity": 6541847000.0
+      "revenue": 931818000.0,
+      "operating_income": 186440000.0,
+      "net_income": 141590000.0,
+      "eps": 2.2,
+      "operating_cash_flow": 227007000.0,
+      "free_cash_flow": 135506000.0,
+      "total_debt": 1130380000.0,
+      "cash": 305993000.0,
+      "equity": 621606000.0
      },
      {
       "year": "2024",
-      "revenue": 2237788000.0,
-      "operating_income": 47667000.0,
-      "net_income": -146236000.0,
-      "eps": -2.54,
-      "operating_cash_flow": 308657000.0,
-      "free_cash_flow": 224160000.0,
-      "total_debt": 55576000.0,
-      "cash": 444761000.0,
-      "equity": 4711990000.0
+      "revenue": 845486000.0,
+      "operating_income": 165666000.0,
+      "net_income": 112620000.0,
+      "eps": 1.73,
+      "operating_cash_flow": 260059000.0,
+      "free_cash_flow": 171636000.0,
+      "total_debt": 966582000.0,
+      "cash": 273645000.0,
+      "equity": 472524000.0
      },
      {
       "year": "2023",
-      "revenue": 2267870000.0,
-      "operating_income": 34992000.0,
-      "net_income": 301816000.0,
-      "eps": 4.9,
-      "operating_cash_flow": 295579000.0,
-      "free_cash_flow": 213567000.0,
-      "total_debt": 488532000.0,
-      "cash": 1063956000.0,
-      "equity": 5156686000.0
+      "revenue": 694709000.0,
+      "operating_income": 136160000.0,
+      "net_income": 79722000.0,
+      "eps": 1.21,
+      "operating_cash_flow": 211194000.0,
+      "free_cash_flow": 126242000.0,
+      "total_debt": 986409000.0,
+      "cash": 295600000.0,
+      "equity": 594293000.0
      },
      {
       "year": "2022",
-      "revenue": 2411516000.0,
-      "operating_income": 65565000.0,
-      "net_income": 128891000.0,
-      "eps": 1.59,
-      "operating_cash_flow": 316494000.0,
-      "free_cash_flow": 247275000.0,
-      "total_debt": 907582000.0,
-      "cash": 1214449000.0,
-      "equity": 5178217000.0
+      "revenue": 618409000.0,
+      "operating_income": 157400000.0,
+      "net_income": 239009000.0,
+      "eps": 3.45,
+      "operating_cash_flow": 219901000.0,
+      "free_cash_flow": 137371000.0,
+      "total_debt": 446972000.0,
+      "cash": 185274000.0,
+      "equity": 471511000.0
      }
     ]
    },
    "valuation": {
-    "trailing_pe": 19.29426,
-    "forward_pe": 12.512373,
-    "price_to_book": 0.6122279,
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "KIDS": {
-   "ticker": "KIDS",
-   "name": "OrthoPediatrics Corp.",
-   "sector": "Healthcare",
-   "industry": "Medical Devices",
-   "market_cap": 844673856,
-   "description": "OrthoPediatrics Corp., a medical device company, engages in designing, developing, and marketing anatomically appropriate implants, instruments, and specialized braces for children with orthopedic conditions in the United States and internationally. The company offers pediatric trauma and deformity correction products; scoliosis procedures for the treatment of spinal deformity in children; and sports medicine and other products. Its products comprise PediLoc, PediPlates, cannulated screws, PediFlex nail, PediNail, PediLoc Tibia, ACL Reconstruction System, Locking Cannulated Blade, Locking Prox",
-   "price": 32.35,
+  "GDYN": {
+   "ticker": "GDYN",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "의견 없음",
-    "count": 8,
-    "target_mean": 30.75,
-    "target_low": 27.0,
-    "target_high": 38.0,
-    "upside_pct": -4.9,
-    "breakdown": {
-     "strong_buy": 2,
-     "buy": 4,
-     "hold": 1,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-10-27",
-   "earnings_est": {
-    "eps_avg": -0.202,
-    "revenue_avg": 69053000
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 4.2,
-    "days_to_cover": 2.13,
-    "level": "낮음",
-    "institutions_pct": 69.6,
-    "insiders_pct": 29.7
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "C",
-    "overall_word": "보통",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 32.665,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 4.552,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 3.7,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": -8.1,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 18.6,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": -9.8,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": -12.8,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "주의"
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 411827000.0,
+      "operating_income": -1595000.0,
+      "net_income": 9668000.0,
+      "eps": 0.11,
+      "operating_cash_flow": 40600000.0,
+      "free_cash_flow": 25266000.0,
+      "total_debt": 17036000.0,
+      "cash": 342058000.0,
+      "equity": 542073000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 350571000.0,
+      "operating_income": 295000.0,
+      "net_income": 4041000.0,
+      "eps": 0.05,
+      "operating_cash_flow": 30198000.0,
+      "free_cash_flow": 18432000.0,
+      "total_debt": 12625000.0,
+      "cash": 334655000.0,
+      "equity": 517829000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 312910000.0,
+      "operating_income": -4580000.0,
+      "net_income": -1765000.0,
+      "eps": -0.02,
+      "operating_cash_flow": 41093000.0,
+      "free_cash_flow": 33223000.0,
+      "total_debt": 10996000.0,
+      "cash": 257227000.0,
+      "equity": 382907000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 310482000.0,
+      "operating_income": -21008000.0,
+      "net_income": -29214000.0,
+      "eps": -0.42,
+      "operating_cash_flow": 31652000.0,
+      "free_cash_flow": 25583000.0,
+      "total_debt": 8141000.0,
+      "cash": 256729000.0,
+      "equity": 363044000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "KFRC": {
+   "ticker": "KFRC",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 4,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 4/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 1329007000.0,
+      "operating_income": 50077000.0,
+      "net_income": 34825000.0,
+      "eps": 1.89751,
+      "operating_cash_flow": 61645000.0,
+      "free_cash_flow": 46805000.0,
+      "total_debt": 82946000.0,
+      "cash": 2142000.0,
+      "equity": 124603000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 1405308000.0,
+      "operating_income": 69721000.0,
+      "net_income": 50414000.0,
+      "eps": 2.623543,
+      "operating_cash_flow": 86874000.0,
+      "free_cash_flow": 79301000.0,
+      "total_debt": 47596000.0,
+      "cash": 349000.0,
+      "equity": 154618000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 1531756000.0,
+      "operating_income": 87121000.0,
+      "net_income": 61075000.0,
+      "eps": 3.128682,
+      "operating_cash_flow": 91465000.0,
+      "free_cash_flow": 83702000.0,
+      "total_debt": 57464000.0,
+      "cash": 119000.0,
+      "equity": 159080000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 1710765000.0,
+      "operating_income": 116865000.0,
+      "net_income": 75431000.0,
+      "eps": 3.67992,
+      "operating_cash_flow": 90805000.0,
+      "free_cash_flow": 82696000.0,
+      "total_debt": 46556000.0,
+      "cash": 121000.0,
+      "equity": 182198000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "KIDS": {
+   "ticker": "KIDS",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -2495,13 +2967,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 3.14,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 5/9 (보통) · 알트만 Z 3.14 (안전)",
-    "cash": 44229000,
-    "debt": 110850000,
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -2555,114 +3024,102 @@
    },
    "valuation": {
     "trailing_pe": null,
-    "forward_pe": -42.904507,
-    "price_to_book": 2.4896104,
+    "forward_pe": null,
+    "price_to_book": null,
     "peg": null
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
   "KSS": {
    "ticker": "KSS",
-   "name": "Kohl's Corporation",
-   "sector": "Consumer Cyclical",
-   "industry": "Department Stores",
-   "market_cap": 2721034752,
-   "description": "Kohl's Corporation operates as an omnichannel retailer in the United States. It offers apparel, footwear, accessories, beauty products, and home products through its stores and website. The company provides its products primarily under the brand names of Apt. 9, Croft & Barrow, FLX, Jumping Beans, SO, Sonoma Goods for Life, and Tek Gear, as well as LC Lauren Conrad, Nine West, and Simply Vera Vera Wang. Kohl's Corporation was founded in 1988 and is headquartered in Menomonee Falls, Wisconsin.",
-   "price": 24.0,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "중립",
-    "count": 12,
-    "target_mean": 19.79167,
-    "target_low": 9.0,
-    "target_high": 41.5,
-    "upside_pct": -17.5,
-    "breakdown": {
-     "strong_buy": 0,
-     "buy": 2,
-     "hold": 6,
-     "sell": 3,
-     "strong_sell": 2
-    }
-   },
-   "next_earnings": "2026-11-24",
-   "earnings_est": {
-    "eps_avg": 0.00063,
-    "revenue_avg": 3436440520
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 35.1,
-    "days_to_cover": 7.64,
-    "level": "매우 높음",
-    "institutions_pct": 109.4,
-    "insiders_pct": 4.2
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "C",
-    "overall_word": "보통",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 154.055,
+      "value": null,
       "unit": "%",
-      "grade": "D",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.491,
+      "value": null,
       "unit": "x",
-      "grade": "C",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 5.7,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 3.2,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": -0.9,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 6.7,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 1.8,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "보통"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -2679,13 +3136,10 @@
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 1.72,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 C (보통) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 1.72 (위험)",
-    "cash": 821000000,
-    "debt": 6421000192,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2026",
@@ -2738,115 +3192,103 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 10.300429,
-    "forward_pe": 15.330859,
-    "price_to_book": 0.650671,
-    "peg": 2.3026
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 2.3516
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
   "MPC": {
    "ticker": "MPC",
-   "name": "Marathon Petroleum Corporation",
-   "sector": "Energy",
-   "industry": "Oil & Gas Refining & Marketing",
-   "market_cap": 112901840896,
-   "description": "Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States. The company operates through three segments: Refining & Marketing; Midstream; and Renewable Diesel. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products through transportation, storage, distribution, and marketing services. Its refined products include transp",
-   "price": 414.65,
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 17,
-    "target_mean": 461.9412,
-    "target_low": 236.0,
-    "target_high": 564.0,
-    "upside_pct": 11.4,
-    "breakdown": {
-     "strong_buy": 3,
-     "buy": 5,
-     "hold": 9,
-     "sell": 0,
-     "strong_sell": 1
-    }
-   },
-   "next_earnings": "2027-02-02",
-   "earnings_est": {
-    "eps_avg": 23.43188,
-    "revenue_avg": 39765188040
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 2.7,
-    "days_to_cover": 3.15,
-    "level": "낮음",
-    "institutions_pct": 79.8,
-    "insiders_pct": 0.3
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "B",
-    "overall_word": "좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 115.416,
+      "value": null,
       "unit": "%",
-      "grade": "C",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 1.446,
+      "value": null,
       "unit": "x",
-      "grade": "C",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "보통"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 9.3,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 11.7,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 60.9,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 60.5,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 8.3,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -2863,13 +3305,10 @@
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 3.78,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 3.78 (안전)",
-    "cash": 13608999936,
-    "debt": 34453999616,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -2922,115 +3361,1455 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 8.215772,
-    "forward_pe": 6.751149,
-    "price_to_book": 4.9131474,
-    "peg": 0.952
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 0.9562
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "TXN": {
-   "ticker": "TXN",
-   "name": "Texas Instruments Incorporated",
-   "sector": "Technology",
-   "industry": "Semiconductors",
-   "market_cap": 277420670976,
-   "description": "Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers in the United States, China, the rest of Asia, Europe, the Middle East, Africa, Japan, and internationally. It operates through Analog and Embedded Processing segments. The Analog segment offers power products to manage power requirements across various voltage levels, including battery-management solutions, DC/DC switching regulators, AC/DC and isolated controllers and converters, power switches, linear regulators, voltage references, multiphase controllers and power stage",
-   "price": 303.6,
+  "MTN": {
+   "ticker": "MTN",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "매수",
-    "count": 29,
-    "target_mean": 338.7931,
-    "target_low": 250.0,
-    "target_high": 422.0,
-    "upside_pct": 11.6,
-    "breakdown": {
-     "strong_buy": 2,
-     "buy": 18,
-     "hold": 13,
-     "sell": 2,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2027-01-26",
-   "earnings_est": {
-    "eps_avg": 2.66458,
-    "revenue_avg": 6067507350
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 2.2,
-    "days_to_cover": 2.7,
-    "level": "낮음",
-    "institutions_pct": 90.9,
-    "insiders_pct": 0.3
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "A",
-    "overall_word": "매우 좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 70.654,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 5.595,
+      "value": null,
       "unit": "x",
-      "grade": "A",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 23.0,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 41.1,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 27.7,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 39.7,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 34.3,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "매우 좋음"
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2026",
+      "revenue": 2838204000.0,
+      "operating_income": 433440000.0,
+      "net_income": 147535000.0,
+      "eps": 4.12,
+      "operating_cash_flow": 479626000.0,
+      "free_cash_flow": 248001000.0,
+      "total_debt": 3412306000.0,
+      "cash": 231349000.0,
+      "equity": 240527000.0
+     },
+     {
+      "year": "2025",
+      "revenue": 2964347000.0,
+      "operating_income": 538002000.0,
+      "net_income": 280004000.0,
+      "eps": 7.53,
+      "operating_cash_flow": 554870000.0,
+      "free_cash_flow": 319679000.0,
+      "total_debt": 3444242000.0,
+      "cash": 440290000.0,
+      "equity": 424499000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2885191000.0,
+      "operating_income": 540154000.0,
+      "net_income": 231105000.0,
+      "eps": 6.07,
+      "operating_cash_flow": 589022000.0,
+      "free_cash_flow": 377825000.0,
+      "total_debt": 3058523000.0,
+      "cash": 322827000.0,
+      "equity": 709932000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 2889364000.0,
+      "operating_income": 562484000.0,
+      "net_income": 265825000.0,
+      "eps": 6.69,
+      "operating_cash_flow": 637855000.0,
+      "free_cash_flow": 322943000.0,
+      "total_debt": 3025065000.0,
+      "cash": 562975000.0,
+      "equity": 1003947000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "NSP": {
+   "ticker": "NSP",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 2,
+     "points": {
+      "순이익 흑자": false,
+      "영업현금흐름 흑자": false,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 2/9 (취약)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 6812000000.0,
+      "operating_income": -10000000.0,
+      "net_income": -7000000.0,
+      "eps": -0.19,
+      "operating_cash_flow": -278000000.0,
+      "free_cash_flow": -309000000.0,
+      "total_debt": 435000000.0,
+      "cash": 642000000.0,
+      "equity": 46000000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 6581000000.0,
+      "operating_income": 117000000.0,
+      "net_income": 91000000.0,
+      "eps": 2.42,
+      "operating_cash_flow": 520000000.0,
+      "free_cash_flow": 482000000.0,
+      "total_debt": 435000000.0,
+      "cash": 1039000000.0,
+      "equity": 97000000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 6486000000.0,
+      "operating_income": 219000000.0,
+      "net_income": 171000000.0,
+      "eps": 4.47,
+      "operating_cash_flow": 198000000.0,
+      "free_cash_flow": 158000000.0,
+      "total_debt": 427000000.0,
+      "cash": 693000000.0,
+      "equity": 94000000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 5939000000.0,
+      "operating_income": 250000000.0,
+      "net_income": 179000000.0,
+      "eps": 4.64,
+      "operating_cash_flow": 347000000.0,
+      "free_cash_flow": 317000000.0,
+      "total_debt": 424987000.0,
+      "cash": 732828000.0,
+      "equity": 81275000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "OSPN": {
+   "ticker": "OSPN",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 5,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": false,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 243180000.0,
+      "operating_income": 50074000.0,
+      "net_income": 72904000.0,
+      "eps": 1.88,
+      "operating_cash_flow": 59454000.0,
+      "free_cash_flow": 50409000.0,
+      "total_debt": 6139000.0,
+      "cash": 70499000.0,
+      "equity": 271843000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 243179000.0,
+      "operating_income": 49249000.0,
+      "net_income": 57082000.0,
+      "eps": 1.46,
+      "operating_cash_flow": 55667000.0,
+      "free_cash_flow": 46362000.0,
+      "total_debt": 6932000.0,
+      "cash": 83160000.0,
+      "equity": 212530000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 235106000.0,
+      "operating_income": -11560000.0,
+      "net_income": -29799000.0,
+      "eps": -0.74,
+      "operating_cash_flow": -10735000.0,
+      "free_cash_flow": -23278000.0,
+      "total_debt": 6824000.0,
+      "cash": 43001000.0,
+      "equity": 159141000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 219006000.0,
+      "operating_income": -13805000.0,
+      "net_income": -14434000.0,
+      "eps": -0.36,
+      "operating_cash_flow": -5759000.0,
+      "free_cash_flow": -10784000.0,
+      "total_debt": 8442000.0,
+      "cash": 96167000.0,
+      "equity": 203311000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 1.4591
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "PACS": {
+   "ticker": "PACS",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 7,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": false,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 5288932000.0,
+      "operating_income": 309595000.0,
+      "net_income": 191543000.0,
+      "eps": 1.22,
+      "operating_cash_flow": 404224000.0,
+      "free_cash_flow": 155068000.0,
+      "total_debt": 3471121000.0,
+      "cash": 197016000.0,
+      "equity": 946771000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 4089734000.0,
+      "operating_income": 123073000.0,
+      "net_income": 55760000.0,
+      "eps": 0.38,
+      "operating_cash_flow": 367341000.0,
+      "free_cash_flow": 17532000.0,
+      "total_debt": 3501018000.0,
+      "cash": 157674000.0,
+      "equity": 709554000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 3111492000.0,
+      "operating_income": 207772000.0,
+      "net_income": 112874000.0,
+      "eps": 0.763832,
+      "operating_cash_flow": 63697000.0,
+      "free_cash_flow": -109109000.0,
+      "total_debt": 2804907000.0,
+      "cash": 73416000.0,
+      "equity": 96126000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 2421994000.0,
+      "operating_income": 229360000.0,
+      "net_income": 150496000.0,
+      "eps": 1.002291,
+      "operating_cash_flow": 92615000.0,
+      "free_cash_flow": 14379000.0,
+      "total_debt": 1925550000.0,
+      "cash": 58269000.0,
+      "equity": 63646000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 1.2179
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "PAYC": {
+   "ticker": "PAYC",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 5,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": false
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 2051700000.0,
+      "operating_income": 567200000.0,
+      "net_income": 453400000.0,
+      "eps": 8.08,
+      "operating_cash_flow": 678900000.0,
+      "free_cash_flow": 403500000.0,
+      "total_debt": 90300000.0,
+      "cash": 370000000.0,
+      "equity": 1731500000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 1883200000.0,
+      "operating_income": 634300000.0,
+      "net_income": 502000000.0,
+      "eps": 8.92,
+      "operating_cash_flow": 533900000.0,
+      "free_cash_flow": 336600000.0,
+      "total_debt": 83400000.0,
+      "cash": 402000000.0,
+      "equity": 1575900000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 1693700000.0,
+      "operating_income": 451300000.0,
+      "net_income": 340800000.0,
+      "eps": 5.88,
+      "operating_cash_flow": 485000000.0,
+      "free_cash_flow": 288200000.0,
+      "total_debt": 75900000.0,
+      "cash": 294000000.0,
+      "equity": 1303000000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 1375200000.0,
+      "operating_income": 378700000.0,
+      "net_income": 281400000.0,
+      "eps": 4.84,
+      "operating_cash_flow": 365100000.0,
+      "free_cash_flow": 228300000.0,
+      "total_debt": 29000000.0,
+      "cash": 400730000.0,
+      "equity": 1182607000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 1.0475
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "SCL": {
+   "ticker": "SCL",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 2332114000.0,
+      "operating_income": 69382000.0,
+      "net_income": 46895000.0,
+      "eps": 2.05,
+      "operating_cash_flow": 147882000.0,
+      "free_cash_flow": 25368000.0,
+      "total_debt": 676050000.0,
+      "cash": 132688000.0,
+      "equity": 1244010000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 2180274000.0,
+      "operating_income": 70832000.0,
+      "net_income": 50370000.0,
+      "eps": 2.2,
+      "operating_cash_flow": 162053000.0,
+      "free_cash_flow": 39277000.0,
+      "total_debt": 682831000.0,
+      "cash": 99665000.0,
+      "equity": 1169934000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 2325768000.0,
+      "operating_income": 73002000.0,
+      "net_income": 40204000.0,
+      "eps": 1.75,
+      "operating_cash_flow": 174876000.0,
+      "free_cash_flow": -85459000.0,
+      "total_debt": 712172000.0,
+      "cash": 129823000.0,
+      "equity": 1216490000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 2773270000.0,
+      "operating_income": 208410000.0,
+      "net_income": 147153000.0,
+      "eps": 6.38,
+      "operating_cash_flow": 160763000.0,
+      "free_cash_flow": -140790000.0,
+      "total_debt": 637699000.0,
+      "cash": 173750000.0,
+      "equity": 1166065000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "TNET": {
+   "ticker": "TNET",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 6,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": false,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": false,
+      "유동비율 개선": true,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": false,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 6/9 (보통)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 5010000000.0,
+      "operating_income": 273000000.0,
+      "net_income": 155000000.0,
+      "eps": 3.2,
+      "operating_cash_flow": 303000000.0,
+      "free_cash_flow": 234000000.0,
+      "total_debt": 942000000.0,
+      "cash": 287000000.0,
+      "equity": 54000000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 5053000000.0,
+      "operating_income": 288000000.0,
+      "net_income": 173000000.0,
+      "eps": 3.43,
+      "operating_cash_flow": 279000000.0,
+      "free_cash_flow": 201000000.0,
+      "total_debt": 1022000000.0,
+      "cash": 360000000.0,
+      "equity": 69000000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 4994000000.0,
+      "operating_income": 541000000.0,
+      "net_income": 375000000.0,
+      "eps": 6.56,
+      "operating_cash_flow": 539000000.0,
+      "free_cash_flow": 464000000.0,
+      "total_debt": 1137000000.0,
+      "cash": 287000000.0,
+      "equity": 78000000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 4907000000.0,
+      "operating_income": 521000000.0,
+      "net_income": 355000000.0,
+      "eps": 5.61,
+      "operating_cash_flow": 497000000.0,
+      "free_cash_flow": 441000000.0,
+      "total_debt": 552000000.0,
+      "cash": 354000000.0,
+      "equity": 775000000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "TWFG": {
+   "ticker": "TWFG",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
+     }
+    ],
+    "piotroski": {
+     "score": 8,
+     "points": {
+      "순이익 흑자": true,
+      "영업현금흐름 흑자": true,
+      "ROA 개선": true,
+      "현금흐름 > 순이익": true,
+      "장기부채 감소": true,
+      "유동비율 개선": false,
+      "신주 발행 없음": true,
+      "매출총이익률 개선": true,
+      "자산회전율 개선": true
+     }
+    },
+    "altman": null,
+    "summary": "피오트로스키 F점수 8/9 (우량)",
+    "cash": null,
+    "debt": null,
+    "years": [
+     {
+      "year": "2025",
+      "revenue": 233960000.0,
+      "operating_income": 23874000.0,
+      "net_income": 7963000.0,
+      "eps": 0.53,
+      "operating_cash_flow": 53501000.0,
+      "free_cash_flow": -8767000.0,
+      "total_debt": 8224000.0,
+      "cash": 155926000.0,
+      "equity": 83382000.0
+     },
+     {
+      "year": "2024",
+      "revenue": 193720000.0,
+      "operating_income": 19203000.0,
+      "net_income": 2745000.0,
+      "eps": 0.19,
+      "operating_cash_flow": 40479000.0,
+      "free_cash_flow": 15424000.0,
+      "total_debt": 10304000.0,
+      "cash": 195772000.0,
+      "equity": 73884000.0
+     },
+     {
+      "year": "2023",
+      "revenue": 166990000.0,
+      "operating_income": 21306000.0,
+      "net_income": 0.0,
+      "eps": 0.0,
+      "operating_cash_flow": 30154000.0,
+      "free_cash_flow": 14507000.0,
+      "total_debt": 51756000.0,
+      "cash": 39297000.0,
+      "equity": 31051000.0
+     },
+     {
+      "year": "2022",
+      "revenue": 147784000.0,
+      "operating_income": 19097000.0,
+      "net_income": 0.0,
+      "eps": 0.0,
+      "operating_cash_flow": 25755000.0,
+      "free_cash_flow": 13476000.0,
+      "total_debt": 13308000.0,
+      "cash": 22330000.0,
+      "equity": 57786000.0
+     }
+    ]
+   },
+   "valuation": {
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": null
+   },
+   "news": [],
+   "updated": "2026-11-17T03:52:43.675213+00:00"
+  },
+  "TXN": {
+   "ticker": "TXN",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
+   "analyst": {
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
+   },
+   "short": {
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
+   },
+   "health": {
+    "overall": null,
+    "overall_word": null,
+    "items": [
+     {
+      "key": "debt",
+      "name": "부채비율",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "liquidity",
+      "name": "유동비율",
+      "value": null,
+      "unit": "x",
+      "grade": null,
+      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
+      "word": "정보 없음"
+     },
+     {
+      "key": "fcf",
+      "name": "잉여현금흐름/매출",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
+      "word": "정보 없음"
+     },
+     {
+      "key": "op_margin",
+      "name": "영업이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "growth",
+      "name": "매출 성장(yoy)",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "최근 분기 매출의 전년 대비 성장",
+      "word": "정보 없음"
+     },
+     {
+      "key": "roe",
+      "name": "ROE",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
+      "word": "정보 없음"
+     },
+     {
+      "key": "net_margin",
+      "name": "순이익률",
+      "value": null,
+      "unit": "%",
+      "grade": null,
+      "note": "매출에서 최종적으로 남는 비율",
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
@@ -3047,13 +4826,10 @@
       "자산회전율 개선": true
      }
     },
-    "altman": {
-     "z": 12.68,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 A (매우 좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 12.68 (안전)",
-    "cash": 8142000128,
-    "debt": 13555000320,
+    "altman": null,
+    "summary": "피오트로스키 F점수 7/9 (우량)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
@@ -3106,381 +4882,182 @@
     ]
    },
    "valuation": {
-    "trailing_pe": 39.377434,
-    "forward_pe": 26.099201,
-    "price_to_book": 14.464031,
-    "peg": 0.9473
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 0.9203
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   },
-  "VEON": {
-   "ticker": "VEON",
-   "name": "VEON Ltd.",
-   "sector": "Communication Services",
-   "industry": "Telecom Services",
-   "market_cap": 5451740672,
-   "description": "VEON Ltd. provides telecommunications and digital services in Pakistan, Ukraine, Kazakhstan, Bangladesh, and Uzbekistan. The company offers mobile telecommunications services under prepaid and postpaid subscriptions, including value-added and call completion services, national and international roaming services, wireless Internet access, mobile financial services, and mobile bundles; fixed-line telecommunications using fiber optic networks; cross-border transmission services; prepaid scratch cards and electronic recharge options; mobile services on 2G, 3G, and 4G/LTE networks; cloud solutions,",
-   "price": 79.17,
+  "WEX": {
+   "ticker": "WEX",
+   "name": "",
+   "sector": "",
+   "industry": "",
+   "market_cap": null,
+   "description": "",
+   "price": null,
    "analyst": {
-    "recommendation": "적극 매수",
-    "count": 8,
-    "target_mean": 94.5,
-    "target_low": 85.0,
-    "target_high": 112.0,
-    "upside_pct": 19.4,
-    "breakdown": {
-     "strong_buy": 0,
-     "buy": 5,
-     "hold": 0,
-     "sell": 0,
-     "strong_sell": 0
-    }
-   },
-   "next_earnings": "2026-11-06",
-   "earnings_est": {
-    "eps_avg": 1.64,
-    "revenue_avg": 1356866670
+    "recommendation": "정보 없음",
+    "count": null,
+    "target_mean": null,
+    "target_low": null,
+    "target_high": null,
+    "upside_pct": null
    },
    "short": {
-    "pct_of_float": 0.8,
-    "days_to_cover": 1.28,
-    "level": "낮음",
-    "institutions_pct": 23.8,
-    "insiders_pct": 2.3
+    "pct_of_float": null,
+    "days_to_cover": null,
+    "level": null,
+    "institutions_pct": null,
+    "insiders_pct": null
    },
    "health": {
-    "overall": "B",
-    "overall_word": "좋음",
+    "overall": null,
+    "overall_word": null,
     "items": [
      {
       "key": "debt",
       "name": "부채비율",
-      "value": 273.841,
+      "value": null,
       "unit": "%",
-      "grade": "F",
+      "grade": null,
       "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "위험"
+      "word": "정보 없음"
      },
      {
       "key": "liquidity",
       "name": "유동비율",
-      "value": 0.952,
+      "value": null,
       "unit": "x",
-      "grade": "D",
+      "grade": null,
       "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "주의"
+      "word": "정보 없음"
      },
      {
       "key": "fcf",
       "name": "잉여현금흐름/매출",
-      "value": 12.0,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "op_margin",
       "name": "영업이익률",
-      "value": 26.4,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "growth",
       "name": "매출 성장(yoy)",
-      "value": 17.2,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "좋음"
+      "word": "정보 없음"
      },
      {
       "key": "roe",
       "name": "ROE",
-      "value": 26.0,
+      "value": null,
       "unit": "%",
-      "grade": "A",
+      "grade": null,
       "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "매우 좋음"
+      "word": "정보 없음"
      },
      {
       "key": "net_margin",
       "name": "순이익률",
-      "value": 7.6,
+      "value": null,
       "unit": "%",
-      "grade": "B",
+      "grade": null,
       "note": "매출에서 최종적으로 남는 비율",
-      "word": "좋음"
+      "word": "정보 없음"
      }
     ],
     "piotroski": {
-     "score": 7,
+     "score": 5,
      "points": {
       "순이익 흑자": true,
       "영업현금흐름 흑자": true,
-      "ROA 개선": true,
+      "ROA 개선": false,
       "현금흐름 > 순이익": true,
       "장기부채 감소": false,
       "유동비율 개선": true,
       "신주 발행 없음": true,
-      "매출총이익률 개선": true,
+      "매출총이익률 개선": false,
       "자산회전율 개선": false
      }
     },
-    "altman": {
-     "z": 0.88,
-     "zone": "위험"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 7/9 (우량) · 알트만 Z 0.88 (위험)",
-    "cash": 2464999936,
-    "debt": 5610999808,
+    "altman": null,
+    "summary": "피오트로스키 F점수 5/9 (보통)",
+    "cash": null,
+    "debt": null,
     "years": [
      {
       "year": "2025",
-      "revenue": 4399000000.0,
-      "operating_income": 1072000000.0,
-      "net_income": 532000000.0,
-      "eps": 7.5,
-      "operating_cash_flow": 1353000000.0,
-      "free_cash_flow": 404000000.0,
-      "total_debt": 5145000000.0,
-      "cash": 1732000000.0,
-      "equity": 1340000000.0
+      "revenue": 2660800000.0,
+      "operating_income": 664000000.0,
+      "net_income": 304100000.0,
+      "eps": 8.47,
+      "operating_cash_flow": 454300000.0,
+      "free_cash_flow": 240600000.0,
+      "total_debt": 4858300000.0,
+      "cash": 905800000.0,
+      "equity": 1234500000.0
      },
      {
       "year": "2024",
-      "revenue": 4004000000.0,
-      "operating_income": 983000000.0,
-      "net_income": 415000000.0,
-      "eps": 5.73,
-      "operating_cash_flow": 1150000000.0,
-      "free_cash_flow": 243000000.0,
-      "total_debt": 4694000000.0,
-      "cash": 1689000000.0,
-      "equity": 1099000000.0
+      "revenue": 2628200000.0,
+      "operating_income": 686400000.0,
+      "net_income": 309600000.0,
+      "eps": 7.5,
+      "operating_cash_flow": 481400000.0,
+      "free_cash_flow": 329000000.0,
+      "total_debt": 4375200000.0,
+      "cash": 595800000.0,
+      "equity": 1488800000.0
      },
      {
       "year": "2023",
-      "revenue": 3698000000.0,
-      "operating_income": 891000000.0,
-      "net_income": -2528000000.0,
-      "eps": -35.934662,
-      "operating_cash_flow": 2111000000.0,
-      "free_cash_flow": 1345000000.0,
-      "total_debt": 5156000000.0,
-      "cash": 1902000000.0,
-      "equity": 858000000.0
+      "revenue": 2548000000.0,
+      "operating_income": 647100000.0,
+      "net_income": 266600000.0,
+      "eps": 6.16,
+      "operating_cash_flow": 907900000.0,
+      "free_cash_flow": 759800000.0,
+      "total_debt": 3868600000.0,
+      "cash": 975800000.0,
+      "equity": 1820600000.0
      },
      {
       "year": "2022",
-      "revenue": 3755000000.0,
-      "operating_income": 997000000.0,
-      "net_income": -162000000.0,
-      "eps": -4.519902,
-      "operating_cash_flow": 2557000000.0,
-      "free_cash_flow": 1547000000.0,
-      "total_debt": 8180000000.0,
-      "cash": 3107000000.0,
-      "equity": 569000000.0
+      "revenue": 2350600000.0,
+      "operating_income": 606400000.0,
+      "net_income": 201400000.0,
+      "eps": 4.5,
+      "operating_cash_flow": 679400000.0,
+      "free_cash_flow": 563200000.0,
+      "total_debt": 2724800000.0,
+      "cash": 922000000.0,
+      "equity": 1649500000.0
      }
     ]
    },
    "valuation": {
-    "trailing_pe": 14.5533085,
-    "forward_pe": 9.260591,
-    "price_to_book": 3.2603054,
-    "peg": null
+    "trailing_pe": null,
+    "forward_pe": null,
+    "price_to_book": null,
+    "peg": 0.6321
    },
    "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
-  },
-  "WDAY": {
-   "ticker": "WDAY",
-   "name": "Workday, Inc.",
-   "sector": "Technology",
-   "industry": "Software - Application",
-   "market_cap": 47344447488,
-   "description": "Workday, Inc. provides enterprise cloud applications in the United States and internationally. The company offers a suite of financial management applications to maintain accounting information; manage financial processes, such as payables and receivables; identify real-time financial, operational, and management insights; perform financial consolidation; reduce time-to-close; promote internal control and auditability; and achieve consistency across finance operations. It also provides spend management solutions that help organizations to streamline supplier selection and contract management, ",
-   "price": 196.45,
-   "analyst": {
-    "recommendation": "의견 없음",
-    "count": 37,
-    "target_mean": 209.25323,
-    "target_low": 92.0,
-    "target_high": 275.0,
-    "upside_pct": 6.5,
-    "breakdown": {
-     "strong_buy": 5,
-     "buy": 14,
-     "hold": 20,
-     "sell": 1,
-     "strong_sell": 2
-    }
-   },
-   "next_earnings": "2026-11-24",
-   "earnings_est": {
-    "eps_avg": 2.74495,
-    "revenue_avg": 2691535090
-   },
-   "short": {
-    "pct_of_float": 6.9,
-    "days_to_cover": 5.32,
-    "level": "보통",
-    "institutions_pct": 109.4,
-    "insiders_pct": 2.1
-   },
-   "health": {
-    "overall": "B",
-    "overall_word": "좋음",
-    "items": [
-     {
-      "key": "debt",
-      "name": "부채비율",
-      "value": 58.39,
-      "unit": "%",
-      "grade": "B",
-      "note": "자본 대비 부채. 150% 이하면 스크리너 장기 기준 통과",
-      "word": "좋음"
-     },
-     {
-      "key": "liquidity",
-      "name": "유동비율",
-      "value": 0.908,
-      "unit": "x",
-      "grade": "D",
-      "note": "1년 안에 갚을 돈 대비 현금화 가능 자산. 1 미만이면 단기 자금 압박",
-      "word": "주의"
-     },
-     {
-      "key": "fcf",
-      "name": "잉여현금흐름/매출",
-      "value": 30.0,
-      "unit": "%",
-      "grade": "A",
-      "note": "영업으로 실제 남는 현금. 마이너스면 외부 자금(증자·차입)에 의존",
-      "word": "매우 좋음"
-     },
-     {
-      "key": "op_margin",
-      "name": "영업이익률",
-      "value": 12.0,
-      "unit": "%",
-      "grade": "B",
-      "note": "본업 수익성. 10% 이상이면 스크리너 장기 기준 통과",
-      "word": "좋음"
-     },
-     {
-      "key": "growth",
-      "name": "매출 성장(yoy)",
-      "value": 12.8,
-      "unit": "%",
-      "grade": "C",
-      "note": "최근 분기 매출의 전년 대비 성장",
-      "word": "보통"
-     },
-     {
-      "key": "roe",
-      "name": "ROE",
-      "value": 16.0,
-      "unit": "%",
-      "grade": "B",
-      "note": "자본 대비 이익. 15% 이상이면 스크리너 장기 기준 통과",
-      "word": "좋음"
-     },
-     {
-      "key": "net_margin",
-      "name": "순이익률",
-      "value": 12.3,
-      "unit": "%",
-      "grade": "B",
-      "note": "매출에서 최종적으로 남는 비율",
-      "word": "좋음"
-     }
-    ],
-    "piotroski": {
-     "score": 8,
-     "points": {
-      "순이익 흑자": true,
-      "영업현금흐름 흑자": true,
-      "ROA 개선": true,
-      "현금흐름 > 순이익": true,
-      "장기부채 감소": true,
-      "유동비율 개선": false,
-      "신주 발행 없음": true,
-      "매출총이익률 개선": true,
-      "자산회전율 개선": true
-     }
-    },
-    "altman": {
-     "z": 3.6,
-     "zone": "안전"
-    },
-    "summary": "재무건전성 종합 B (좋음) · 부채가 현금보다 많음 · 현금을 벌고 있음 · 피오트로스키 F점수 8/9 (우량) · 알트만 Z 3.6 (안전)",
-    "cash": 3403000064,
-    "debt": 3772000000,
-    "years": [
-     {
-      "year": "2026",
-      "revenue": 9552000000.0,
-      "operating_income": 1024000000.0,
-      "net_income": 693000000.0,
-      "eps": 2.59,
-      "operating_cash_flow": 2939000000.0,
-      "free_cash_flow": 2777000000.0,
-      "total_debt": 3821000000.0,
-      "cash": 1501000000.0,
-      "equity": 7805000000.0
-     },
-     {
-      "year": "2025",
-      "revenue": 8446000000.0,
-      "operating_income": 499000000.0,
-      "net_income": 526000000.0,
-      "eps": 1.95,
-      "operating_cash_flow": 2461000000.0,
-      "free_cash_flow": 2189000000.0,
-      "total_debt": 3362000000.0,
-      "cash": 1543000000.0,
-      "equity": 9034000000.0
-     },
-     {
-      "year": "2024",
-      "revenue": 7259000000.0,
-      "operating_income": 183000000.0,
-      "net_income": 1381000000.0,
-      "eps": 5.21,
-      "operating_cash_flow": 2149000000.0,
-      "free_cash_flow": 1907000000.0,
-      "total_debt": 3296000000.0,
-      "cash": 2012000000.0,
-      "equity": 8082000000.0
-     },
-     {
-      "year": "2023",
-      "revenue": 6216000000.0,
-      "operating_income": -182000000.0,
-      "net_income": -367000000.0,
-      "eps": -1.44,
-      "operating_cash_flow": 1657000000.0,
-      "free_cash_flow": 1292000000.0,
-      "total_debt": 3249000000.0,
-      "cash": 1886000000.0,
-      "equity": 5585000000.0
-     }
-    ]
-   },
-   "valuation": {
-    "trailing_pe": 40.010185,
-    "forward_pe": 14.834296,
-    "price_to_book": 7.3288565,
-    "peg": 0.5738
-   },
-   "news": [],
-   "updated": "2026-11-14T01:31:17.558084+00:00"
+   "updated": "2026-11-17T03:52:43.675213+00:00"
   }
  },
  "market": "us"
