@@ -51,7 +51,6 @@ ACET,"Adicet Bio, Inc. - Common Stock",NASDAQ
 ACFN,"Acorn Energy, Inc. - Common Stock",NASDAQ
 ACGC,ACP Holdings Acquisition Corp. - Class A Ordinary Shares,NASDAQ
 ACGL,Arch Capital Group Ltd. - Common Stock,NASDAQ
-ACH,"Accendra Health, Inc. Common Stock",NYSE
 ACHC,"Acadia Healthcare Company, Inc. - Common Stock",NASDAQ
 ACHR,Archer Aviation Inc. Class A Common Stock,NYSE
 ACI,"Albertsons Companies, Inc. Class A Common Stock",NYSE
@@ -1534,7 +1533,6 @@ DUOL,"Duolingo, Inc. - Class A Common Stock",NASDAQ
 DUOT,"Duos Technologies Group, Inc. - Common Stock",NASDAQ
 DV,"DoubleVerify Holdings, Inc. Common Stock",NYSE
 DVA,DaVita Inc. Common Stock,NYSE
-DVLT,Datavault AI Inc. - Common Stock,NASDAQ
 DVN,Devon Energy Corporation Common Stock,NYSE
 DWSN,Dawson Geophysical Company - Common Stock,NASDAQ
 DWTX,"Dogwood Therapeutics, Inc.  - Common Stock",NASDAQ
@@ -2121,7 +2119,7 @@ GLUE,"Monte Rosa Therapeutics, Inc. - Common Stock",NASDAQ
 GLW,Corning Incorporated Common Stock,NYSE
 GLXG,Galaxy Payroll Group Limited - Class A Ordinary Shares,NASDAQ
 GLXY,Galaxy Digital Inc. - Class A common stock,NASDAQ
-GM,General Motors Company Common Stock,NYSE
+GM,General Motors Company - Common Stock,NASDAQ
 GMAB,Genmab A/S - American Depositary Shares,NASDAQ
 GME,GameStop Corporation Common Stock,NYSE
 GMED,"Globus Medical, Inc. Class A Common Stock",NYSE
@@ -3227,7 +3225,7 @@ MO,"Altria Group, Inc.",NYSE
 MOB,Mobilicom Limited - Ordinary Shares,NASDAQ
 MOBI,"Mobia Medical, Inc. - Common Stock",NASDAQ
 MOBX,"Mobix Labs, Inc. - Class A Common Stock",NASDAQ
-MOD,Modine Manufacturing Company Common Stock,NYSE
+MOD,"Modexus Solutions, Inc. Common Stock",NYSE
 MODD,"Modular Medical, Inc. - common stock",NASDAQ
 MOG-A,Moog Inc. Class A Common Stock,NYSE
 MOG-B,Moog Inc. Class B Common Stock,NYSE
@@ -5021,6 +5019,7 @@ TXG,"10x Genomics, Inc. - Common Stock",NASDAQ
 TXMD,"TherapeuticsMD, Inc. - Common Stock",NASDAQ
 TXN,Texas Instruments Incorporated - Common Stock,NASDAQ
 TXNM,"TXNM Energy, Inc. Common Stock",NYSE
+TXR,Torex Resources Inc. Common Shares,NYSE
 TXRH,"Texas Roadhouse, Inc. - Common Stock",NASDAQ
 TXT,Textron Inc. Common Stock,NYSE
 TY,Tri Continental Corporation Common Stock,NYSE
@@ -5137,7 +5136,6 @@ VALU,"Value Line, Inc. - Common Stock",NASDAQ
 VANI,"Vivani Medical, Inc.  - Common Stock",NASDAQ
 VATE,INNOVATE Corp. Common Stock,NYSE
 VBIO,"Valion Bio, Inc. - Common stock",NASDAQ
-VBNK,VersaBank - Common Shares,NASDAQ
 VC,Visteon Corporation - Common Stock,NASDAQ
 VCEL,Vericel Corporation - Common Stock,NASDAQ
 VCIG,VCI Global Limited - Ordinary Share,NASDAQ
@@ -5229,6 +5227,7 @@ VREX,Varex Imaging Corporation - Common Stock,NASDAQ
 VRM,"Vroom, Inc. - Common Stock",NASDAQ
 VRNS,"Varonis Systems, Inc. - Common Stock",NASDAQ
 VRRM,Verra Mobility Corporation - Class A Common Stock,NASDAQ
+VRSA,Versa Bancorp - Common Stock,NASDAQ
 VRSK,"Verisk Analytics, Inc. - Common Stock",NASDAQ
 VRSN,"VeriSign, Inc. - Common Stock",NASDAQ
 VRT,"Vertiv Holdings, LLC Class A Common Stock",NYSE
