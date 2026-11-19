@@ -2222,6 +2222,7 @@ GTN-A,"Gray Media, Inc. Class A Common Stock",NYSE
 GTX,Garrett Motion Inc. - Common Stock,NASDAQ
 GTY,Getty Realty Corporation Common Stock,NYSE
 GUAC,Berto Acquisition Corp. II - Ordinary Shares,NASDAQ
+GUER,"Guerrilla RF, Inc. - Common Stock",NASDAQ
 GUNN,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),NYSE American
 GURE,"Gulf Resources, Inc. - Common Stock",NASDAQ
 GUT,Gabelli Utility Trust (The) Common Stock,NYSE
@@ -2441,7 +2442,6 @@ IBIO,"iBio, Inc. - Common Stock",NASDAQ
 IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",NASDAQ
 IBM,International Business Machines Corporation Common Stock,NYSE
 IBN,ICICI Bank Limited Common Stock,NYSE
-IBO,"Impact BioMedical, Inc. Common Stock",NYSE American
 IBOC,International Bancshares Corporation Common Stock,F
 IBP,"Installed Building Products, Inc. Common Stock",NYSE
 IBRX,"ImmunityBio, Inc. - Common Stock",NASDAQ
@@ -3807,7 +3807,6 @@ PCB,PCB Bancorp - Common Stock,NASDAQ
 PCG,Pacific Gas & Electric Co. Common Stock,NYSE
 PCLA,PicoCELA Inc. - American Depositary Shares,NASDAQ
 PCOR,"Procore Technologies, Inc. Common Stock",NYSE
-PCRX,"Pacira BioSciences, Inc. - Common Stock",NASDAQ
 PCSA,"Processa Pharmaceuticals, Inc. - Common Stock",NASDAQ
 PCT,"PureCycle Technologies, Inc. - Common stock",NASDAQ
 PCTY,Paylocity Holding Corporation - Common Stock,NASDAQ
@@ -4442,7 +4441,6 @@ SHBI,"Shore Bancshares, Inc. - Common Stock",NASDAQ
 SHC,Sotera Health Company - Common Stock,NASDAQ
 SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares),NYSE
 SHEN,Shenandoah Telecommunications Co - Common Stock,NASDAQ
-SHFS,"SHF Holdings, Inc. - Class A Common Stock",NASDAQ
 SHG,Shinhan Financial Group Co Ltd American Depositary Shares,NYSE
 SHIM,Shimmick Corporation - Common Stock,NASDAQ
 SHIP,Seanergy Maritime Holdings Corp. - Common Stock,NASDAQ
@@ -5520,6 +5518,7 @@ ZLAB,Zai Lab Limited - American Depositary Shares,NASDAQ
 ZM,"Zoom Communications, Inc. - Class A Common Stock",NASDAQ
 ZNB,Zeta Network Group - Class A Ordinary Shares,NASDAQ
 ZNTL,"Zentalis Pharmaceuticals, Inc. - common stock",NASDAQ
+ZOAR,Zoar Limited Ordinary Shares,NYSE American
 ZONE,Zone Frontier Inc. Class B Common Stock,NYSE American
 ZOOZ,ZOOZ Strategy Ltd. - Ordinary Shares,NASDAQ
 ZS,"Zscaler, Inc. - Common Stock",NASDAQ
