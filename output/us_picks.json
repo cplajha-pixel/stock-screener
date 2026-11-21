@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 10.72,
+    "last_close": 11.0,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 57.43,
+    "last_close": 51.78,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 57.43,
+    "last_close": 51.78,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 7.3,
+    "last_close": 6.89,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 3.81,
+    "last_close": 3.62,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 3.81,
+    "last_close": 3.62,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 15.99,
+    "last_close": 15.6,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 11.05,
+    "last_close": 10.645,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 11.05,
+    "last_close": 10.645,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 11.05,
+    "last_close": 10.645,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 10.585,
+    "last_close": 10.375,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 206.92,
+    "last_close": 191.475,
     "notes": []
    }
   },
@@ -825,7 +825,7 @@
     "pnl_pct": -2.82,
     "r_multiple": -0.55,
     "remaining_frac": 0.0,
-    "last_close": 6.18,
+    "last_close": 6.01,
     "notes": [
      "3일째 절반 매도 -2.7%"
     ]
@@ -926,7 +926,7 @@
     "pnl_pct": -10.69,
     "r_multiple": -1.93,
     "remaining_frac": 0.0,
-    "last_close": 200.56,
+    "last_close": 193.0,
     "notes": []
    }
   },
@@ -980,7 +980,7 @@
     "pnl_pct": -0.67,
     "r_multiple": -0.1,
     "remaining_frac": 0.0,
-    "last_close": 4.03,
+    "last_close": 2.1791,
     "notes": [
      "3일째 절반 매도 -0.8%"
     ]
@@ -1012,7 +1012,7 @@
     "pnl_pct": -5.85,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 20.37,
+    "last_close": 20.06,
     "notes": []
    }
   },
@@ -1295,7 +1295,7 @@
    "result": {
     "entry_date": null,
     "note": "다음 날 트리거가를 넘지 못함",
-    "next_close": 41.93
+    "next_close": 41.89
    }
   },
   {
@@ -1314,14 +1314,38 @@
     "APPN",
     "ASUR"
    ],
+   "status": "미발동",
+   "result": {
+    "entry_date": null,
+    "note": "다음 날 트리거가를 넘지 못함",
+    "next_close": 25.45
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "ticker": "UPBD",
+   "name": "Upbound Group, Inc. - Common Stock",
+   "setup": "breakout",
+   "trigger_price": 26.39,
+   "stop_price": 24.9514,
+   "stop_pct": 5.45,
+   "reason": "3개월 +36.1% (후보 중 모멘텀 상위) · 급등 +71.4% 뒤 11일 횡보, 폭 11.8% · 거래량 급등기 대비 83% 로 감소 · 종가가 트리거가의 96.4% 위치",
+   "candidates": [
+    "CRCT",
+    "CLMB",
+    "ADMA",
+    "UPBD",
+    "APPN",
+    "GKOS"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 52,
+  "total": 53,
   "triggered": 16,
-  "not_triggered": 35,
+  "not_triggered": 36,
   "closed": 16,
   "open": 0,
   "win_rate": 56.2,
@@ -1329,5 +1353,5 @@
   "avg_r": 0.34,
   "sum_pnl_pct": 35.81
  },
- "generated_at": "2026-11-20T02:22:43Z"
+ "generated_at": "2026-11-21T02:17:12Z"
 }
