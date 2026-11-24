@@ -510,6 +510,7 @@ AVTX,"Avalo Therapeutics, Inc. - Common Stock",NASDAQ
 AVX,Avax One Technology Ltd. - Common Shares,NASDAQ
 AVXL,Anavex Life Sciences Corp. - Common Stock,NASDAQ
 AVY,Avery Dennison Corporation Common Stock,NYSE
+AVZO,"Avenzo Therapeutics, Inc. - Common Stock",NASDAQ
 AWI,Armstrong World Industries Inc Common Stock,NYSE
 AWK,"American Water Works Company, Inc. Common Stock",NYSE
 AWR,American States Water Company Common Stock,NYSE
@@ -682,7 +683,7 @@ BIO-B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",NYSE
 BIOA,"BioAge Labs, Inc. - Common Stock",NASDAQ
 BIOT,Instinct Bio Technical Company Holdings Inc. - Common stock,NASDAQ
 BIOX,Bioceres Crop Solutions Corp. - Ordinary Shares,NASDAQ
-BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,NYSE
+BIP,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares,NYSE
 BIRD,"Smartbird, Inc. - Class A Common Stock",NASDAQ
 BIRK,Birkenstock Holding plc Ordinary Shares,NYSE
 BIVI,BioVie Inc. - Common stock,NASDAQ
@@ -693,7 +694,6 @@ BJDX,"Bluejay Diagnostics, Inc. - Common Stock",NASDAQ
 BJRI,"BJ's Restaurants, Inc. - Common Stock",NASDAQ
 BKD,Brookdale Senior Living Inc. Common Stock,NYSE
 BKE,"Buckle, Inc. (The) Common Stock",NYSE
-BKHA,Black Hawk Acquisition Corporation - Class A Ordinary Shares,NASDAQ
 BKKT,"Bakkt, Inc. Class A Common Stock",NYSE
 BKNG,Booking Holdings Inc. - Common Stock,NASDAQ
 BKR,Baker Hughes Company - Common Stock,NASDAQ
@@ -1113,6 +1113,7 @@ CLVT,Clarivate Plc Ordinary Shares,NYSE
 CLW,Clearwater Paper Corporation Common Stock,NYSE
 CLWT,Euro Tech Holdings Company Limited - Ordinary Shares,NASDAQ
 CLX,Clorox Company (The) Common Stock,NYSE
+CLYD,"Clywedog Therapeutics Holdings, Inc. - Common Stock",NASDAQ
 CLYM,"Climb Bio, Inc. - Common Stock",NASDAQ
 CM,Canadian Imperial Bank of Commerce Common Stock,NYSE
 CMBT,CMB.TECH NV Ordinary Shares,NYSE
@@ -1745,6 +1746,7 @@ EVO,Evotec SE - American Depositary Shares each representing 1/2 of one ordinary
 EVOX,Evolution Global Acquisition Corp - Class A Ordinary Shares,NASDAQ
 EVR,Evercore Inc. Class A Common Stock,NYSE
 EVRG,"Evergy, Inc. - Common Stock",NASDAQ
+EVRL,Everli Global Holdings - Class A Ordinary Shares,NASDAQ
 EVTC,"Evertec, Inc. Common Stock",NYSE
 EVTL,Vertical Aerospace Ltd. Ordinary Shares,NYSE
 EW,Edwards Lifesciences Corporation Common Stock,NYSE
@@ -2063,7 +2065,7 @@ GEOS,Geospace Technologies Corporation - Common Stock,NASDAQ
 GERN,Geron Corporation - Common Stock,NASDAQ
 GEV,GE Vernova Inc. Common Stock,NYSE
 GEVO,"Gevo, Inc. - Common Stock",NASDAQ
-GFAI,"Guardforce AI Co., Limited - Ordinary Shares",NASDAQ
+GFAI,"Guardforce AI Co., Limited - Class A Ordinary Shares",NASDAQ
 GFF,Griffon Corporation Common Stock,NYSE
 GFI,Gold Fields Limited American Depositary Shares,NYSE
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value",NYSE
@@ -3044,7 +3046,6 @@ MA,Mastercard Incorporated Common Stock,NYSE
 MAA,"Mid-America Apartment Communities, Inc. Common Stock",NYSE
 MAAS,Maase Inc. - Class A Ordinary Shares,NASDAQ
 MAC,Macerich Company (The) Common Stock,NYSE
-MACI,Melar Acquisition Corp. I - Class A Ordinary Shares,NASDAQ
 MAGH,Magnitude International Ltd - Ordinary Shares,NASDAQ
 MAGN,Magnera Corporation Common Stock,NYSE
 MAIA,"MAIA Biotechnology, Inc. Common Stock",NYSE American
@@ -4214,7 +4215,6 @@ RLGT,"Radiant Logistics, Inc. Common Stock",NYSE American
 RLI,RLI Corp. Common Stock (DE),NYSE
 RLJ,RLJ Lodging Trust Common Shares of Beneficial Interest $0.01 par value,NYSE
 RLMD,"Relmada Therapeutics, Inc. - Common Stock",NASDAQ
-RLYB,Rallybio Corporation - Common Stock,NASDAQ
 RM,Regional Management Corp. Common Stock,NYSE
 RMBI,"Richmond Mutual Bancorporation, Inc. - Common Stock",NASDAQ
 RMBS,"Rambus, Inc. - Common Stock",NASDAQ
@@ -5150,6 +5150,7 @@ VERA,"Vera Therapeutics, Inc. - Class A Common Stock",NASDAQ
 VERI,"Veritone, Inc. - Common Stock",NASDAQ
 VERU,Veru Inc. - Common Stock,NASDAQ
 VERX,"Vertex, Inc. - Class A Common Stock",NASDAQ
+VESI,"Vesicor Therapeutics Holdings, Inc. - Class A Ordinary Shares",NASDAQ
 VET,Vermilion Energy Inc. Common (Canada),NYSE
 VFC,V.F. Corporation Common Stock,NYSE
 VFF,"Village Farms International, Inc. - Common Shares",NASDAQ
