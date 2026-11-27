@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-26T03:35:12Z",
+ "generated_at": "2026-11-27T03:42:00Z",
  "market": "us",
  "capital": 3500,
  "risk_pct": 2,
@@ -535,7 +535,7 @@
    "dist_sma20": 3.46,
    "dist_sma50": 8.48,
    "pct_from_20d_high": -5.32,
-   "dv20": 421551323,
+   "dv20": 421569198,
    "qty": 30,
    "score": 25.5
   },

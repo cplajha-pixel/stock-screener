@@ -1,12 +1,12 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-26T03:35:11Z",
+ "generated_at": "2026-11-27T03:42:00Z",
  "market": "us",
  "setup": "breakout",
  "capital": 700,
  "risk_pct": 5,
  "max_positions": 3,
- "count": 14,
+ "count": 15,
  "items": [
   {
    "date": "2026-11-25",
@@ -35,8 +35,8 @@
    "peak": 112.31,
    "qty": 3,
    "score": 182.2,
-   "pick_score": 9.25,
-   "pick_rank": 11
+   "pick_score": 9.75,
+   "pick_rank": 12
   },
   {
    "date": "2026-11-25",
@@ -95,7 +95,7 @@
    "peak": 55.77,
    "qty": 6,
    "score": 55.1,
-   "pick_score": 4.0,
+   "pick_score": 4.25,
    "pick_rank": 1,
    "is_pick": true
   },
@@ -157,7 +157,7 @@
    "qty": 7,
    "score": 47.3,
    "pick_score": 6.0,
-   "pick_rank": 5
+   "pick_rank": 4
   },
   {
    "date": "2026-11-25",
@@ -187,7 +187,37 @@
    "qty": 1,
    "score": 42.9,
    "pick_score": 6.0,
-   "pick_rank": 6
+   "pick_rank": 5
+  },
+  {
+   "date": "2026-11-25",
+   "ticker": "OSPN",
+   "name": "OneSpan Inc. - Common Stock",
+   "exchange": "NASDAQ",
+   "setup": "breakout",
+   "trigger_price": 25.73,
+   "max_entry_price": 27.0165,
+   "stop_price": 24.3158,
+   "stop_pct": 5.5,
+   "close": 23.39,
+   "adr20": 5.5,
+   "r1m": 15.6,
+   "r3m": 42.1,
+   "r6m": 69.5,
+   "dv20": 21303514,
+   "box_low": 21.1666,
+   "box_days": 18,
+   "box_range_pct": 21.6,
+   "runup_pct": 70.9,
+   "vol_recent": 646170,
+   "vol_before_peak": 802190,
+   "sma10": 22.636,
+   "sma20": 22.7339,
+   "peak": 27.2909,
+   "qty": 13,
+   "score": 42.1,
+   "pick_score": 11.25,
+   "pick_rank": 14
   },
   {
    "date": "2026-11-25",
@@ -216,7 +246,7 @@
    "peak": 24.15,
    "qty": 14,
    "score": 37.0,
-   "pick_score": 7.25,
+   "pick_score": 7.5,
    "pick_rank": 7
   },
   {
@@ -246,7 +276,7 @@
    "peak": 8.53,
    "qty": 40,
    "score": 33.3,
-   "pick_score": 10.0,
+   "pick_score": 10.5,
    "pick_rank": 13
   },
   {
@@ -276,7 +306,7 @@
    "peak": 56.38,
    "qty": 6,
    "score": 33.0,
-   "pick_score": 9.0,
+   "pick_score": 9.5,
    "pick_rank": 9
   },
   {
@@ -306,7 +336,7 @@
    "peak": 3.13,
    "qty": 108,
    "score": 28.6,
-   "pick_score": 9.0,
+   "pick_score": 9.5,
    "pick_rank": 10
   },
   {
@@ -336,8 +366,8 @@
    "peak": 16.62,
    "qty": 22,
    "score": 22.5,
-   "pick_score": 9.25,
-   "pick_rank": 12
+   "pick_score": 9.5,
+   "pick_rank": 11
   },
   {
    "date": "2026-11-25",
@@ -366,8 +396,8 @@
    "peak": 59.72,
    "qty": 5,
    "score": 14.7,
-   "pick_score": 5.75,
-   "pick_rank": 4
+   "pick_score": 6.0,
+   "pick_rank": 6
   },
   {
    "date": "2026-11-25",
@@ -396,7 +426,7 @@
    "peak": 40.875,
    "qty": 8,
    "score": 5.0,
-   "pick_score": 5.25,
+   "pick_score": 5.5,
    "pick_rank": 3
   },
   {
@@ -426,8 +456,8 @@
    "peak": 70.64,
    "qty": 5,
    "score": 4.1,
-   "pick_score": 11.75,
-   "pick_rank": 14
+   "pick_score": 12.25,
+   "pick_rank": 15
   }
  ]
 }
