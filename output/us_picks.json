@@ -33,7 +33,7 @@
     "pnl_pct": 0.94,
     "r_multiple": 0.17,
     "remaining_frac": 0.0,
-    "last_close": 11.82,
+    "last_close": 12.12,
     "notes": [
      "3일째 절반 매도 1.9%"
     ]
@@ -98,7 +98,7 @@
     "pnl_pct": 13.13,
     "r_multiple": 2.26,
     "remaining_frac": 0.0,
-    "last_close": 55.68,
+    "last_close": 56.53,
     "notes": [
      "3일째 절반 매도 10.5%"
     ]
@@ -134,7 +134,7 @@
     "pnl_pct": 11.6,
     "r_multiple": 1.91,
     "remaining_frac": 0.0,
-    "last_close": 55.68,
+    "last_close": 56.53,
     "notes": [
      "3일째 절반 매도 8.7%"
     ]
@@ -167,7 +167,7 @@
     "pnl_pct": 22.28,
     "r_multiple": 3.27,
     "remaining_frac": 0.0,
-    "last_close": 7.13,
+    "last_close": 7.12,
     "notes": [
      "3일째 절반 매도 7.8%"
     ]
@@ -216,7 +216,7 @@
     "pnl_pct": 5.71,
     "r_multiple": 1.04,
     "remaining_frac": 0.0,
-    "last_close": 3.97,
+    "last_close": 4.33,
     "notes": [
      "3일째 절반 매도 7.3%"
     ]
@@ -246,7 +246,7 @@
     "pnl_pct": 0.87,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 3.97,
+    "last_close": 4.33,
     "notes": [
      "3일째 절반 매도 1.7%"
     ]
@@ -274,7 +274,7 @@
     "pnl_pct": 10.58,
     "r_multiple": 1.93,
     "remaining_frac": 0.0,
-    "last_close": 15.84,
+    "last_close": 16.12,
     "notes": [
      "3일째 절반 매도 5.2%"
     ]
@@ -327,7 +327,7 @@
     "pnl_pct": 1.49,
     "r_multiple": 0.16,
     "remaining_frac": 0.0,
-    "last_close": 11.13,
+    "last_close": 10.9,
     "notes": [
      "3일째 절반 매도 3.0%"
     ]
@@ -358,7 +358,7 @@
     "pnl_pct": -0.33,
     "r_multiple": -0.03,
     "remaining_frac": 0.0,
-    "last_close": 11.13,
+    "last_close": 10.9,
     "notes": [
      "3일째 절반 매도 -0.3%"
     ]
@@ -388,7 +388,7 @@
     "pnl_pct": 0.21,
     "r_multiple": 0.02,
     "remaining_frac": 0.0,
-    "last_close": 11.13,
+    "last_close": 10.9,
     "notes": [
      "3일째 절반 매도 0.4%"
     ]
@@ -606,7 +606,7 @@
     "pnl_pct": -5.6,
     "r_multiple": -0.9,
     "remaining_frac": 0.0,
-    "last_close": 11.11,
+    "last_close": 11.17,
     "notes": []
    }
   },
@@ -638,7 +638,7 @@
     "pnl_pct": -5.04,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 201.77,
+    "last_close": 207.46,
     "notes": []
    }
   },
@@ -825,7 +825,7 @@
     "pnl_pct": -2.82,
     "r_multiple": -0.55,
     "remaining_frac": 0.0,
-    "last_close": 7.92,
+    "last_close": 8.145,
     "notes": [
      "3일째 절반 매도 -2.7%"
     ]
@@ -926,7 +926,7 @@
     "pnl_pct": -10.69,
     "r_multiple": -1.93,
     "remaining_frac": 0.0,
-    "last_close": 200.39,
+    "last_close": 205.74,
     "notes": []
    }
   },
@@ -980,7 +980,7 @@
     "pnl_pct": -0.67,
     "r_multiple": -0.1,
     "remaining_frac": 0.0,
-    "last_close": 1.68,
+    "last_close": 1.72,
     "notes": [
      "3일째 절반 매도 -0.8%"
     ]
@@ -1012,7 +1012,7 @@
     "pnl_pct": -5.85,
     "r_multiple": -1.0,
     "remaining_frac": 0.0,
-    "last_close": 20.88,
+    "last_close": 22.59,
     "notes": []
    }
   },
@@ -1344,11 +1344,13 @@
     "entry_price": 26.39,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 3.79,
-    "r_multiple": 0.7,
-    "remaining_frac": 1.0,
-    "last_close": 27.39,
-    "notes": []
+    "pnl_pct": 9.28,
+    "r_multiple": 1.7,
+    "remaining_frac": 0.5,
+    "last_close": 28.84,
+    "notes": [
+     "3일째 절반 매도 9.3%"
+    ]
    }
   },
   {
@@ -1382,10 +1384,10 @@
     "entry_price": 100.0,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 0.99,
-    "r_multiple": 0.19,
+    "pnl_pct": 3.22,
+    "r_multiple": 0.64,
     "remaining_frac": 1.0,
-    "last_close": 100.985,
+    "last_close": 103.225,
     "notes": []
    }
   },
@@ -1416,10 +1418,10 @@
     "entry_price": 14.2,
     "exit_date": null,
     "exit_reason": null,
-    "pnl_pct": 0.21,
-    "r_multiple": 0.04,
+    "pnl_pct": 0.07,
+    "r_multiple": 0.01,
     "remaining_frac": 1.0,
-    "last_close": 14.23,
+    "last_close": 14.21,
     "notes": []
    }
   },
@@ -1449,20 +1451,59 @@
     "PRG",
     "ETON"
    ],
+   "status": "진행 중",
+   "result": {
+    "entry_date": "2026-11-27",
+    "entry_price": 57.968,
+    "exit_date": null,
+    "exit_reason": null,
+    "pnl_pct": 1.14,
+    "r_multiple": 0.22,
+    "remaining_frac": 1.0,
+    "last_close": 58.63,
+    "notes": []
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "ticker": "GDYN",
+   "name": "Grid Dynamics Holdings, Inc. - Class A Common Stock",
+   "setup": "breakout",
+   "trigger_price": 14.5,
+   "stop_price": 13.5708,
+   "stop_pct": 6.41,
+   "reason": "3개월 +80.9% (후보 중 모멘텀 상위) · 급등 +89.8% 뒤 11일 횡보, 폭 16.4% · 거래량 급등기 대비 51% 로 감소 · 종가가 트리거가의 99.4% 위치",
+   "candidates": [
+    "GDYN",
+    "CLMB",
+    "UPBD",
+    "COTY",
+    "TREE",
+    "SGHT",
+    "APPN",
+    "GTN",
+    "LMRI",
+    "IRWD",
+    "PRCH",
+    "ASUR",
+    "BGS",
+    "ETON",
+    "TMDX"
+   ],
    "status": "대기",
    "result": null
   }
  ],
  "summary": {
-  "total": 56,
-  "triggered": 19,
+  "total": 57,
+  "triggered": 20,
   "not_triggered": 36,
   "closed": 16,
-  "open": 3,
-  "win_rate": 63.2,
-  "avg_pnl_pct": 2.15,
-  "avg_r": 0.33,
-  "sum_pnl_pct": 40.8
+  "open": 4,
+  "win_rate": 65.0,
+  "avg_pnl_pct": 2.48,
+  "avg_r": 0.4,
+  "sum_pnl_pct": 49.52
  },
- "generated_at": "2026-11-27T03:42:00Z"
+ "generated_at": "2026-11-28T03:21:12Z"
 }
